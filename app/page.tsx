@@ -1,224 +1,517 @@
-const stories = [
+const latestStories = [
   {
-    category: "Manufacturing & Trade",
-    headline: "Tariff uncertainty continues to cloud Ontario factory planning",
+    category: "Local News",
+    headline: "Lincoln continues infrastructure review after major flooding",
     summary:
-      "Exporters remain cautious about hiring, equipment purchases, and long-term pricing.",
-    image: "from-slate-800 to-amber-700",
+      "Municipal crews are assessing drainage, roads, wastewater systems and longer-term flood mitigation needs across the community.",
+    relevance:
+      "Local drainage decisions could eventually affect your property, municipal spending and future flood-prevention options.",
+    image:
+      "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=800&q=80",
   },
   {
-    category: "Local",
-    headline: "Quiet morning across Lincoln, Niagara, and Hamilton",
+    category: "Manufacturing & Trade",
+    headline: "Canada–U.S. tariff talks enter a critical stretch",
     summary:
-      "No major property-tax, utility, road, or municipal announcements require action today.",
-    image: "from-sky-900 to-sky-400",
+      "Canadian and American officials continue negotiating around steel, aluminum and other cross-border trade measures.",
+    relevance:
+      "Changes to U.S. tariffs could directly influence customer confidence, material costs and cylinder demand.",
+    image:
+      "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80",
   },
   {
     category: "Engineering",
-    headline:
-      "Robotic welding and machine vision move onto smaller shop floors",
+    headline: "Automation investment continues across North American factories",
     summary:
-      "Lower-cost automation is making repeatable weld quality and advanced inspection more accessible.",
-    image: "from-zinc-900 to-zinc-500",
+      "Robotic welding, machine vision and automated inspection continue moving into smaller and mid-sized manufacturing operations.",
+    relevance:
+      "These are technologies that can directly increase your value in manufacturing engineering.",
+    image:
+      "https://images.unsplash.com/photo-1565043666747-69f6646db940?auto=format&fit=crop&w=800&q=80",
   },
 ];
 
+const marketItems = [
+  { name: "TSX", value: "▲ 0.4%", positive: true },
+  { name: "S&P 500", value: "▲ 0.2%", positive: true },
+  { name: "Oil", value: "▼ 0.7%", positive: false },
+  { name: "CAD / USD", value: "0.73", positive: null },
+];
+
+const categories = [
+  { name: "Top Stories", id: "top-stories" },
+  { name: "Local", id: "local" },
+  { name: "Your Money", id: "your-money" },
+  { name: "Manufacturing", id: "manufacturing" },
+  { name: "Engineering", id: "engineering" },
+  { name: "World", id: "world" },
+  { name: "Markets", id: "markets" },
+  { name: "Looking Ahead", id: "looking-ahead" },
+];
+
 export default function Home() {
+  const today = new Date();
+
+  const formattedDate = today.toLocaleDateString("en-CA", {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "America/Toronto",
+  });
+
   return (
-    <main className="min-h-screen bg-[#f3f2ef] text-[#111111]">
-      <header className="sticky top-0 z-20 border-b border-black/10 bg-[#f3f2ef]/95 px-4 py-3 backdrop-blur">
-        <div className="mx-auto flex max-w-2xl items-center justify-between">
-          <button className="flex h-11 w-11 items-center justify-center rounded-2xl bg-white text-xl shadow-sm">
-            ☰
-          </button>
+    <main className="min-h-screen bg-[#f4f3ef] text-[#111111]">
+      {/* HEADER */}
+      <header className="sticky top-0 z-50 border-b border-black/10 bg-[#f4f3ef]/95 backdrop-blur">
+        <div className="mx-auto flex max-w-3xl items-center justify-between px-4 py-3">
+          <details className="relative">
+            <summary className="flex h-10 w-10 cursor-pointer list-none items-center justify-center rounded-full bg-white text-xl shadow-sm">
+              ☰
+            </summary>
+
+            <div className="absolute left-0 top-12 w-64 overflow-hidden rounded-2xl border border-black/10 bg-white shadow-xl">
+              <div className="border-b border-black/10 p-4">
+                <p className="font-serif text-xl font-bold">The Ryan Report</p>
+                <p className="mt-1 text-xs text-zinc-500">
+                  Your personal morning newspaper
+                </p>
+              </div>
+
+              <nav className="p-2">
+                {categories.map((category) => (
+                  <a
+                    key={category.id}
+                    href={`#${category.id}`}
+                    className="block rounded-xl px-3 py-3 text-sm font-semibold hover:bg-zinc-100"
+                  >
+                    {category.name}
+                  </a>
+                ))}
+              </nav>
+            </div>
+          </details>
 
           <div className="text-center">
-            <h1 className="font-serif text-2xl font-bold tracking-wide">
+            <h1 className="font-serif text-[22px] font-bold tracking-[0.06em]">
               THE RYAN REPORT
             </h1>
-            <p className="mt-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-zinc-500">
-              Thursday · July 16 · Beamsville
+
+            <p className="mt-1 text-[9px] font-semibold uppercase tracking-[0.16em] text-zinc-500">
+              {formattedDate} · Beamsville
             </p>
           </div>
 
-          <button className="flex h-11 w-11 items-center justify-center rounded-2xl bg-white text-xl shadow-sm">
-            ☆
-          </button>
+          <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white shadow-sm">
+            ☀
+          </div>
+        </div>
+
+        {/* CATEGORY STRIP */}
+        <div className="overflow-x-auto border-t border-black/5 bg-white/60">
+          <div className="mx-auto flex w-max max-w-3xl gap-6 px-4 py-2 text-xs font-bold uppercase tracking-wider text-zinc-600">
+            <a href="#top-stories">Canada</a>
+            <a href="#local">Local</a>
+            <a href="#your-money">Money</a>
+            <a href="#manufacturing">Manufacturing</a>
+            <a href="#world">World</a>
+            <a href="#markets">Markets</a>
+          </div>
         </div>
       </header>
 
-      <div className="mx-auto max-w-2xl px-4 pb-16 pt-4">
-        <section className="rounded-[24px] bg-gradient-to-br from-zinc-950 to-zinc-700 p-5 text-white shadow-lg">
-          <p className="text-xs font-semibold uppercase tracking-[0.16em] text-white/60">
-            Morning Snapshot · 5 minute read
-          </p>
+      <div className="mx-auto max-w-3xl px-4 pb-20">
+        {/* MORNING SNAPSHOT */}
+        <section className="border-b border-black/15 py-5">
+          <div className="flex items-center justify-between">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-red-700">
+              Morning Snapshot
+            </p>
 
-          <h2 className="mt-2 font-serif text-3xl font-bold leading-tight">
-            Only three stories deserve your attention this morning.
+            <span className="text-xs text-zinc-500">5 minute read</span>
+          </div>
+
+          <h2 className="mt-3 font-serif text-2xl font-bold leading-tight">
+            What matters this morning — without the noise.
           </h2>
 
-          <p className="mt-3 leading-6 text-white/80">
-            Your mortgage is unchanged, trade uncertainty remains the main risk
-            to Ontario manufacturing, and there are no urgent local homeowner
-            developments.
+          <p className="mt-3 text-[15px] leading-6 text-zinc-600">
+            Interest rates remain stable, Canada–U.S. trade is the largest
+            external risk to Ontario manufacturing, and there are no urgent
+            developments requiring action at home this morning.
           </p>
 
-          <div className="mt-5 grid grid-cols-2 gap-3 text-sm">
-            <div className="rounded-2xl bg-white/10 p-3">
-              <strong className="block">Your money</strong>
-              🟢 Stable
+          <div className="mt-4 grid grid-cols-4 gap-2 text-center text-xs">
+            <div className="rounded-xl bg-white p-2 shadow-sm">
+              <span className="block">💰</span>
+              <strong>Money</strong>
+              <span className="mt-1 block text-green-700">Stable</span>
             </div>
 
-            <div className="rounded-2xl bg-white/10 p-3">
-              <strong className="block">Your career</strong>
-              🟡 Watch tariffs
+            <div className="rounded-xl bg-white p-2 shadow-sm">
+              <span className="block">🏭</span>
+              <strong>Career</strong>
+              <span className="mt-1 block text-amber-700">Watch</span>
             </div>
 
-            <div className="rounded-2xl bg-white/10 p-3">
-              <strong className="block">Your home</strong>
-              🟢 No action
+            <div className="rounded-xl bg-white p-2 shadow-sm">
+              <span className="block">🏠</span>
+              <strong>Home</strong>
+              <span className="mt-1 block text-green-700">Quiet</span>
             </div>
 
-            <div className="rounded-2xl bg-white/10 p-3">
-              <strong className="block">Investments</strong>
-              🟢 Stay the course
+            <div className="rounded-xl bg-white p-2 shadow-sm">
+              <span className="block">📈</span>
+              <strong>Markets</strong>
+              <span className="mt-1 block text-green-700">Normal</span>
             </div>
           </div>
         </section>
 
-        <div className="mb-3 mt-8 flex items-end justify-between">
-          <h2 className="text-2xl font-extrabold">Top Story</h2>
-          <span className="text-xs font-semibold uppercase tracking-widest text-zinc-500">
-            Most important
-          </span>
-        </div>
+        {/* TOP STORY */}
+        <section id="top-stories" className="scroll-mt-28 py-6">
+          <div className="mb-3 flex items-end justify-between">
+            <h2 className="text-xs font-black uppercase tracking-[0.18em] text-red-700">
+              Top Story
+            </h2>
 
-        <article className="overflow-hidden rounded-[24px] bg-white shadow-lg">
-          <div className="relative h-60 bg-gradient-to-br from-blue-950 via-blue-700 to-sky-300">
-            <div className="absolute -right-10 -top-10 h-48 w-48 rounded-full bg-white/20" />
-            <div className="absolute -bottom-16 left-8 h-40 w-40 rounded-full bg-red-600/60" />
-
-            <p className="absolute bottom-4 left-5 text-lg font-bold text-white drop-shadow">
-              Bank of Canada · Ottawa
-            </p>
+            <span className="text-[11px] uppercase tracking-wider text-zinc-500">
+              Most important today
+            </span>
           </div>
 
-          <div className="p-5">
-            <p className="text-xs font-extrabold uppercase tracking-widest text-red-700">
+          <article className="overflow-hidden border-b border-black/20 pb-6">
+            <div className="relative h-64 overflow-hidden rounded-2xl bg-zinc-200">
+              <img
+                src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85"
+                alt="Ottawa Parliament buildings"
+                className="h-full w-full object-cover"
+              />
+
+              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-4 pb-4 pt-14">
+                <p className="text-sm font-bold text-white">
+                  Ottawa · Bank of Canada
+                </p>
+              </div>
+            </div>
+
+            <p className="mt-4 text-xs font-black uppercase tracking-[0.15em] text-blue-700">
               Your Money
             </p>
 
-            <h2 className="mt-2 font-serif text-4xl font-bold leading-[1.02]">
-              Bank holds rates, leaving variable borrowers waiting for relief
+            <h2 className="mt-2 font-serif text-[35px] font-bold leading-[1.02]">
+              Bank holds rates as borrowers wait for the next move
             </h2>
 
-            <p className="mt-4 text-lg leading-7 text-zinc-600">
-              The central bank kept its policy rate unchanged as officials
-              balanced easing inflation against trade and economic uncertainty.
+            <p className="mt-3 text-[17px] leading-7 text-zinc-600">
+              Policymakers are balancing improving inflation against economic
+              uncertainty, energy prices and international trade risks.
             </p>
 
-            <p className="mt-4 text-xs font-semibold uppercase tracking-widest text-zinc-400">
+            <p className="mt-3 text-[11px] font-semibold uppercase tracking-wider text-zinc-400">
               3 minute read · Updated this morning
             </p>
 
-            <div className="mt-5 rounded-2xl border-l-4 border-blue-700 bg-[#eeece7] p-4">
-              <strong className="block">Why this matters to Ryan</strong>
-              <p className="mt-1 leading-6 text-zinc-700">
-                Your five-year variable mortgage remains unchanged. The next
-                rate decision is the next realistic chance for a lower payment.
+            <div className="mt-4 border-l-4 border-blue-700 bg-[#eae8e2] px-4 py-3">
+              <p className="text-xs font-black uppercase tracking-wider text-blue-900">
+                Why this matters to you
+              </p>
+
+              <p className="mt-1 text-sm leading-6 text-zinc-700">
+                A variable mortgage means Bank of Canada decisions can affect
+                your borrowing cost directly, making future rate decisions more
+                relevant than ordinary daily market movements.
+              </p>
+            </div>
+          </article>
+        </section>
+
+        {/* TODAY'S EDITION */}
+        <section id="local" className="scroll-mt-28 pb-6">
+          <div className="mb-4 flex items-end justify-between border-b-2 border-black pb-2">
+            <h2 className="font-serif text-2xl font-bold">
+              Today&apos;s Edition
+            </h2>
+
+            <span className="text-[11px] uppercase tracking-wider text-zinc-500">
+              Selected for you
+            </span>
+          </div>
+
+          <div>
+            {latestStories.map((story) => (
+              <article
+                key={story.headline}
+                className="grid grid-cols-[1fr_120px] gap-4 border-b border-black/15 py-5"
+              >
+                <div>
+                  <p className="text-[11px] font-black uppercase tracking-[0.14em] text-blue-700">
+                    {story.category}
+                  </p>
+
+                  <h3 className="mt-1 font-serif text-[22px] font-bold leading-tight">
+                    {story.headline}
+                  </h3>
+
+                  <p className="mt-2 text-sm leading-5 text-zinc-600">
+                    {story.summary}
+                  </p>
+
+                  <p className="mt-3 text-xs leading-5 text-zinc-500">
+                    <strong className="text-zinc-700">
+                      Why this matters to you:
+                    </strong>{" "}
+                    {story.relevance}
+                  </p>
+                </div>
+
+                <div className="h-28 overflow-hidden rounded-xl bg-zinc-200">
+                  <img
+                    src={story.image}
+                    alt=""
+                    className="h-full w-full object-cover"
+                  />
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+
+        {/* YOUR MONEY */}
+        <section id="your-money" className="scroll-mt-28 py-6">
+          <div className="mb-4 border-b-2 border-black pb-2">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-green-800">
+              Personal Finance
+            </p>
+
+            <h2 className="mt-1 font-serif text-3xl font-bold">Your Money</h2>
+          </div>
+
+          <article>
+            <h3 className="font-serif text-2xl font-bold">
+              Mortgage outlook remains stable
+            </h3>
+
+            <p className="mt-2 leading-6 text-zinc-600">
+              The Bank of Canada remains cautious, balancing inflation,
+              economic growth and international trade risks before making its
+              next move.
+            </p>
+
+            <div className="mt-4 grid grid-cols-2 gap-3">
+              <div className="border border-black/10 bg-white p-4">
+                <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
+                  Bank of Canada
+                </p>
+
+                <p className="mt-1 font-serif text-2xl font-bold">2.25%</p>
+              </div>
+
+              <div className="border border-black/10 bg-white p-4">
+                <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
+                  Outlook
+                </p>
+
+                <p className="mt-1 font-serif text-2xl font-bold">Hold</p>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        {/* MARKETS */}
+        <section id="markets" className="scroll-mt-28 py-6">
+          <div className="mb-4 border-b-2 border-black pb-2">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-blue-700">
+              One-Minute Market Insight
+            </p>
+
+            <h2 className="mt-1 font-serif text-3xl font-bold">Markets</h2>
+          </div>
+
+          <div className="grid grid-cols-4 border-y border-black bg-zinc-950 text-white">
+            {marketItems.map((item) => (
+              <div
+                key={item.name}
+                className="border-r border-white/15 p-3 last:border-r-0"
+              >
+                <p className="text-[10px] uppercase tracking-wider text-zinc-400">
+                  {item.name}
+                </p>
+
+                <p
+                  className={`mt-1 text-sm font-bold ${
+                    item.positive === true
+                      ? "text-green-400"
+                      : item.positive === false
+                        ? "text-red-400"
+                        : "text-white"
+                  }`}
+                >
+                  {item.value}
+                </p>
+              </div>
+            ))}
+          </div>
+
+          <p className="mt-4 leading-6 text-zinc-600">
+            Markets move every day. The useful question is whether the
+            underlying economy, corporate earnings or inflation outlook has
+            actually changed.
+          </p>
+
+          <div className="mt-3 bg-white p-4 shadow-sm">
+            <p className="text-xs font-black uppercase tracking-wider">
+              Should a long-term investor care?
+            </p>
+
+            <p className="mt-1 text-sm leading-6 text-zinc-600">
+              Usually not. Daily market movement is mostly noise unless it
+              reflects a meaningful change in long-term earnings, inflation or
+              economic growth.
+            </p>
+          </div>
+        </section>
+
+        {/* MANUFACTURING */}
+        <section id="manufacturing" className="scroll-mt-28 py-6">
+          <div className="mb-4 border-b-2 border-black pb-2">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-amber-800">
+              Industry Desk
+            </p>
+
+            <h2 className="mt-1 font-serif text-3xl font-bold">
+              Manufacturing & Trade
+            </h2>
+          </div>
+
+          <article className="border-b border-black/15 pb-5">
+            <p className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+              Canada–U.S. Trade
+            </p>
+
+            <h3 className="mt-1 font-serif text-2xl font-bold">
+              Tariff negotiations remain the industry&apos;s biggest external
+              risk
+            </h3>
+
+            <p className="mt-2 leading-6 text-zinc-600">
+              Changes involving steel, aluminum, industrial goods and rules of
+              origin could influence customer demand and North American
+              manufacturing investment.
+            </p>
+
+            <div className="mt-3 border-l-4 border-amber-700 bg-amber-50 px-4 py-3">
+              <strong className="text-xs uppercase tracking-wider">
+                Why this matters to you
+              </strong>
+
+              <p className="mt-1 text-sm leading-6 text-zinc-700">
+                Hydraulic-cylinder manufacturers can be affected both through
+                material costs and through changes in demand from U.S.-exposed
+                equipment customers.
+              </p>
+            </div>
+          </article>
+
+          <article id="engineering" className="scroll-mt-28 pt-5">
+            <p className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+              Engineering Watch
+            </p>
+
+            <h3 className="mt-1 font-serif text-2xl font-bold">
+              Automation remains a competitive advantage
+            </h3>
+
+            <p className="mt-2 leading-6 text-zinc-600">
+              Robotic welding, machine vision, automated inspection and
+              manufacturing data systems continue becoming more accessible to
+              mid-sized manufacturers.
+            </p>
+          </article>
+        </section>
+
+        {/* WORLD */}
+        <section id="world" className="scroll-mt-28 py-6">
+          <div className="mb-4 border-b-2 border-black pb-2">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-indigo-800">
+              Global Desk
+            </p>
+
+            <h2 className="mt-1 font-serif text-3xl font-bold">
+              Around the World
+            </h2>
+          </div>
+
+          <h3 className="font-serif text-2xl font-bold">
+            Energy and trade remain the major global economic risks
+          </h3>
+
+          <p className="mt-2 leading-6 text-zinc-600">
+            Geopolitical tensions, shipping disruptions and trade policy remain
+            important because of their ability to influence energy prices,
+            inflation and global manufacturing demand.
+          </p>
+
+          <p className="mt-3 text-sm leading-6 text-zinc-500">
+            <strong className="text-zinc-700">
+              Why this matters to you:
+            </strong>{" "}
+            Global stories become relevant when they affect your borrowing
+            costs, investments, gasoline prices or industrial demand.
+          </p>
+        </section>
+
+        {/* LOOKING AHEAD */}
+        <section id="looking-ahead" className="scroll-mt-28 py-6">
+          <div className="mb-4 border-b-2 border-black pb-2">
+            <p className="text-[11px] font-black uppercase tracking-[0.18em] text-red-700">
+              Calendar
+            </p>
+
+            <h2 className="mt-1 font-serif text-3xl font-bold">
+              Looking Ahead
+            </h2>
+          </div>
+
+          <div className="divide-y divide-black/15 border-y border-black/15">
+            <div className="grid grid-cols-[80px_1fr] py-4">
+              <strong className="text-sm">Today</strong>
+              <p className="text-sm text-zinc-600">
+                Markets monitor Canada–U.S. trade negotiations.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-[80px_1fr] py-4">
+              <strong className="text-sm">This Week</strong>
+              <p className="text-sm text-zinc-600">
+                Inflation, employment and manufacturing indicators remain in
+                focus.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-[80px_1fr] py-4">
+              <strong className="text-sm">Next BoC</strong>
+              <p className="text-sm text-zinc-600">
+                September 2 interest-rate decision.
               </p>
             </div>
           </div>
-        </article>
-
-        <div className="mb-3 mt-8 flex items-end justify-between">
-          <h2 className="text-2xl font-extrabold">Latest</h2>
-          <span className="text-xs font-semibold uppercase tracking-widest text-zinc-500">
-            Selected for you
-          </span>
-        </div>
-
-        <section className="grid gap-4 sm:grid-cols-2">
-          {stories.map((story) => (
-            <article
-              key={story.headline}
-              className="overflow-hidden rounded-[22px] bg-white shadow-lg"
-            >
-              <div
-                className={`flex h-40 items-end bg-gradient-to-br ${story.image} p-4`}
-              >
-                <span className="font-bold text-white drop-shadow">
-                  {story.category}
-                </span>
-              </div>
-
-              <div className="p-4">
-                <p className="text-xs font-extrabold uppercase tracking-widest text-blue-700">
-                  {story.category}
-                </p>
-
-                <h3 className="mt-2 text-2xl font-extrabold leading-tight">
-                  {story.headline}
-                </h3>
-
-                <p className="mt-3 leading-6 text-zinc-600">
-                  {story.summary}
-                </p>
-              </div>
-            </article>
-          ))}
         </section>
 
-        <div className="mb-3 mt-8 flex items-end justify-between">
-          <h2 className="text-2xl font-extrabold">Markets</h2>
-          <span className="text-xs font-semibold uppercase tracking-widest text-zinc-500">
-            At a glance
-          </span>
-        </div>
+        {/* FOOTER */}
+        <footer className="border-t border-black/20 py-10 text-center">
+          <p className="font-serif text-xl font-bold">
+            You&apos;re caught up.
+          </p>
 
-        <section className="grid grid-cols-2 gap-3 rounded-[22px] bg-zinc-950 p-4 text-white shadow-lg sm:grid-cols-4">
-          <div>
-            <p className="text-xs text-zinc-400">TSX</p>
-            <strong className="text-lg text-green-400">▲ 0.4%</strong>
-          </div>
+          <p className="mt-1 text-sm text-zinc-500">
+            See you tomorrow morning.
+          </p>
 
-          <div>
-            <p className="text-xs text-zinc-400">S&amp;P 500</p>
-            <strong className="text-lg text-green-400">▲ 0.2%</strong>
-          </div>
-
-          <div>
-            <p className="text-xs text-zinc-400">Oil</p>
-            <strong className="text-lg text-red-400">▼ 0.7%</strong>
-          </div>
-
-          <div>
-            <p className="text-xs text-zinc-400">CAD/USD</p>
-            <strong className="text-lg">0.73</strong>
-          </div>
-        </section>
-
-        <div className="mb-3 mt-8 flex items-end justify-between">
-          <h2 className="text-2xl font-extrabold">Looking Ahead</h2>
-          <span className="text-xs font-semibold uppercase tracking-widest text-zinc-500">
-            This week
-          </span>
-        </div>
-
-        <section className="rounded-[22px] bg-white p-5 shadow-lg">
-          <strong className="text-lg">What to watch next</strong>
-
-          <ul className="mt-3 list-disc space-y-2 pl-5 leading-6 text-zinc-700">
-            <li>Canada–U.S. tariff announcements</li>
-            <li>Inflation and employment data</li>
-            <li>The next Bank of Canada rate decision</li>
-            <li>Niagara and Hamilton municipal updates</li>
-          </ul>
-        </section>
-
-        <p className="py-10 text-center text-sm text-zinc-500">
-          You&apos;re caught up. See you tomorrow morning.
-        </p>
+          <p className="mt-6 text-[10px] uppercase tracking-[0.18em] text-zinc-400">
+            The Ryan Report · Personalized for you
+          </p>
+        </footer>
       </div>
     </main>
   );
