@@ -1,0 +1,55 @@
+{
+  "name": "Ryan",
+  "location": {
+    "home": "Beamsville, Ontario",
+    "localAreas": [
+      "Beamsville",
+      "Lincoln",
+      "Grimsby",
+      "Stoney Creek",
+      "Hamilton",
+      "Niagara Region"
+    ]
+  },
+  "readingPreferences": {
+    "readingTimeMinutes": 5,
+    "style": "concise newspaper",
+    "sports": false,
+    "signalOverNoise": true
+  },
+  "priorityTopics": [
+    "Bank of Canada",
+    "inflation",
+    "mortgages",
+    "housing",
+    "taxes",
+    "utilities",
+    "insurance",
+    "investing",
+    "markets",
+    "Canada-US tariffs",
+    "steel",
+    "aluminum",
+    "Ontario manufacturing",
+    "hydraulics",
+    "engineering",
+    "CAD/CAM",
+    "welding",
+    "robotics",
+    "automation",
+    "industrial technology",
+    "major geopolitical events"
+  ],
+  "personalContext": {
+    "mortgageType": "5-year variable",
+    "industry": "Ontario hydraulic cylinder manufacturing",
+    "careerFocus": [
+      "mechanical engineering",
+      "manufacturing engineering",
+      "automation",
+      "robotic welding"
+    ],
+    "investmentStyle": "long-term",
+    "homeowner": true
+  }
+}

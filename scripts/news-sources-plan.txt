@@ -1,0 +1,100 @@
+Ryan Report - News Sources Plan (v1, free/public-only)
+
+Scope and constraints
+- This is the first implementation pass.
+- Prioritize clearly documented, freely accessible RSS/Atom feeds or public government feeds.
+- Prefer official/primary sources over broad but less reliable coverage.
+- Do not scrape web pages.
+- Do not assume an RSS feed exists for a publisher.
+- Do not use authenticated, paid, unofficial, or third-party mirror feeds.
+- Exclude any source with unclear licensing or feed availability rather than guessing.
+- Keep the project at $0 ongoing cost.
+- No sports coverage.
+
+Confirmed sources to use in v1
+
+1) Bank of Canada - News
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/utility/news/feed/
+Category: Bank of Canada, policy, inflation, rates, macroeconomics
+Why included: Official Bank of Canada RSS feed; authoritative for policy, inflation, rates and central-bank context directly relevant to Ryan's profile.
+
+2) Bank of Canada - Press releases
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/content_type/press-releases/feed/
+Category: Press releases, announcements, macroeconomic policy updates
+Why included: Official, public feed; useful for rate decisions, policy announcements and institutional updates.
+
+3) Bank of Canada - Market notices
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/content_type/notices/feed/
+Category: Market notices, debt management, financial market operations
+Why included: Official public feed; relevant to markets and interest-rate-related developments.
+
+4) Bank of Canada - Publications
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/content_type/publications/feed/
+Category: Publications, Monetary Policy Report, inflation reports, surveys, economic analysis
+Why included: Official source for economic analysis and data-related context.
+
+5) Bank of Canada - Speeches
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/content_type/speeches/feed/
+Category: Speeches, appearances, policy signal content
+Why included: Official source for interpretation of policy and economic conditions.
+
+6) Bank of Canada - CAD/USD exchange-rate feed
+Source name: Bank of Canada
+Feed URL: https://www.bankofcanada.ca/valet/fx_rss/FXUSDCAD
+Category: Financial markets, Canadian dollar / U.S. dollar market monitoring
+Why included: Official exchange-rate feed from the central bank; useful for market context with a low-risk source.
+
+7) Government of Canada official newsroom (review pending exact public feed path)
+Source name: Government of Canada / Canada.ca News
+Feed URL: Not locked in for v1; official government pages exist, but exact public RSS/Atom endpoints were not clearly verified during this review.
+Category: Federal policy, trade, infrastructure, housing, industry, public-sector economic information
+Why included in review: Official government sources are appropriate and authoritative, but I am not using assumed or undocumented endpoints without verification.
+
+8) Ontario government official newsroom (review pending exact public feed path)
+Source name: Ontario government / Ontario.ca news
+Feed URL: Not locked in for v1; the obvious public newsroom URLs I checked did not clearly resolve to confirmed public RSS/Atom feeds.
+Category: Ontario policy, provincial economic updates, public programs, infrastructure, government affairs
+Why included in review: Potentially relevant to Ontario-specific news, but only if a confirmed public feed is available; no assumptions are being made.
+
+Sources excluded from v1
+
+1) Reuters
+Reason for exclusion: I did not verify a suitable official public RSS/Atom feed for this project. I am not assuming feed availability or using third-party mirror feeds.
+
+2) CBC
+Reason for exclusion: No verified official public RSS/Atom feed confirmed for automated personal use; uncertain licensing/feed access and no assumptions. 
+
+3) The Globe and Mail
+Reason for exclusion: No verified official public RSS feed confirmed; excluded to avoid access ambiguity and unofficial syndication.
+
+4) Financial Post
+Reason for exclusion: No verified official public RSS feed confirmed; not included without clear public access.
+
+5) Global News
+Reason for exclusion: No verified official public RSS/Atom feed confirmed for this use case.
+
+6) CP24
+Reason for exclusion: No verified official public RSS/Atom feed confirmed.
+
+7) Local newspapers and local outlets (Hamilton, Niagara, etc.)
+Reason for exclusion: The obvious municipal and local URLs checked did not clearly resolve to stable, verified public RSS/Atom feeds. I am not scraping pages or using unofficial mirrors.
+
+8) Statistics Canada "The Daily"
+Reason for exclusion: I did not find a clearly verified public RSS/Atom endpoint during this review, so it is excluded from the first implementation rather than guessed or assumed.
+
+9) Government of Canada / Prime Minister feeds without verified public endpoints
+Reason for exclusion: Some official pages exist, but if an exact public feed URL is not documented and verified, it is excluded in this version.
+
+Implementation principle for v1
+- Reliability and source legitimacy matter more than quantity.
+- The first release should use a smaller, official list rather than a broad but questionable set of feeds.
+- For this first version, only verified public feed URLs will be used.
+- The project should stay at $0 and avoid paid APIs or subscriptions.
+
+Summary
+The first-pass source set is intentionally conservative: Bank of Canada official feeds are the strongest foundation for a free, relevant, trustworthy Ryan Report feed layer. I am not broadening the source list until each additional feed is independently verified as a public and appropriate feed.

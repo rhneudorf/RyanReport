@@ -1,43 +1,6 @@
-const latestStories = [
-  {
-    category: "Local News",
-    headline: "Lincoln continues infrastructure review after major flooding",
-    summary:
-      "Municipal crews are assessing drainage, roads, wastewater systems and longer-term flood mitigation needs across the community.",
-    relevance:
-      "Local drainage decisions could eventually affect your property, municipal spending and future flood-prevention options.",
-    image:
-      "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=800&q=80",
-  },
-  {
-    category: "Manufacturing & Trade",
-    headline: "Canada–U.S. tariff talks enter a critical stretch",
-    summary:
-      "Canadian and American officials continue negotiating around steel, aluminum and other cross-border trade measures.",
-    relevance:
-      "Changes to U.S. tariffs could directly influence customer confidence, material costs and cylinder demand.",
-    image:
-      "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80",
-  },
-  {
-    category: "Engineering",
-    headline: "Automation investment continues across North American factories",
-    summary:
-      "Robotic welding, machine vision and automated inspection continue moving into smaller and mid-sized manufacturing operations.",
-    relevance:
-      "These are technologies that can directly increase your value in manufacturing engineering.",
-    image:
-      "https://images.unsplash.com/photo-1565043666747-69f6646db940?auto=format&fit=crop&w=800&q=80",
-  },
-];
-
-const marketItems = [
-  { name: "TSX", value: "▲ 0.4%", positive: true },
-  { name: "S&P 500", value: "▲ 0.2%", positive: true },
-  { name: "Oil", value: "▼ 0.7%", positive: false },
-  { name: "CAD / USD", value: "0.73", positive: null },
-];
-
+import report from "../data/report.json";
+const latestStories = report.stories;
+const marketItems = report.markets.items;
 const categories = [
   { name: "Top Stories", id: "top-stories" },
   { name: "Local", id: "local" },
@@ -132,14 +95,12 @@ export default function Home() {
           </div>
 
           <h2 className="mt-3 font-serif text-2xl font-bold leading-tight">
-            What matters this morning — without the noise.
-          </h2>
+  {report.morningSnapshot.headline}
+</h2>
 
           <p className="mt-3 text-[15px] leading-6 text-zinc-600">
-            Interest rates remain stable, Canada–U.S. trade is the largest
-            external risk to Ontario manufacturing, and there are no urgent
-            developments requiring action at home this morning.
-          </p>
+  {report.morningSnapshot.summary}
+</p>
 
           <div className="mt-4 grid grid-cols-4 gap-2 text-center text-xs">
             <div className="rounded-xl bg-white p-2 shadow-sm">
@@ -183,29 +144,28 @@ export default function Home() {
           <article className="overflow-hidden border-b border-black/20 pb-6">
             <div className="relative h-64 overflow-hidden rounded-2xl bg-zinc-200">
               <img
-                src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85"
+                src={report.topStory.image}
                 alt="Ottawa Parliament buildings"
                 className="h-full w-full object-cover"
               />
 
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent px-4 pb-4 pt-14">
                 <p className="text-sm font-bold text-white">
-                  Ottawa · Bank of Canada
+                  {report.topStory.location}
                 </p>
               </div>
             </div>
 
             <p className="mt-4 text-xs font-black uppercase tracking-[0.15em] text-blue-700">
-              Your Money
+              {report.topStory.category}
             </p>
 
             <h2 className="mt-2 font-serif text-[35px] font-bold leading-[1.02]">
-              Bank holds rates as borrowers wait for the next move
+              {report.topStory.headline}
             </h2>
 
             <p className="mt-3 text-[17px] leading-7 text-zinc-600">
-              Policymakers are balancing improving inflation against economic
-              uncertainty, energy prices and international trade risks.
+              {report.topStory.summary}
             </p>
 
             <p className="mt-3 text-[11px] font-semibold uppercase tracking-wider text-zinc-400">
@@ -218,9 +178,7 @@ export default function Home() {
               </p>
 
               <p className="mt-1 text-sm leading-6 text-zinc-700">
-                A variable mortgage means Bank of Canada decisions can affect
-                your borrowing cost directly, making future rate decisions more
-                relevant than ordinary daily market movements.
+                {report.topStory.whyItMatters}
               </p>
             </div>
           </article>
@@ -261,7 +219,7 @@ export default function Home() {
                     <strong className="text-zinc-700">
                       Why this matters to you:
                     </strong>{" "}
-                    {story.relevance}
+                    {story.whyItMatters}
                   </p>
                 </div>
 
@@ -354,9 +312,7 @@ export default function Home() {
           </div>
 
           <p className="mt-4 leading-6 text-zinc-600">
-            Markets move every day. The useful question is whether the
-            underlying economy, corporate earnings or inflation outlook has
-            actually changed.
+           {report.markets.insight}
           </p>
 
           <div className="mt-3 bg-white p-4 shadow-sm">
