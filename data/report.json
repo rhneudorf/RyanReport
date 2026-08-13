@@ -1,71 +1,75 @@
 {
   "date": "2026-08-11",
   "morningSnapshot": {
-    "headline": "Trade Talks Focus on U.S. Alcohol Tariffs as Equifax Warns on Consumer Debt",
-    "summary": "Good morning, Ryan. Here is your Beamsville briefing for Monday, August 11, 2026. Key updates span upcoming U.S. tariff and trade negotiations, domestic consumer debt pressures, and regional manufacturing labour talks."
+    "headline": "Strategic Oil Reserves Hit 40-Year Low Amid Iran War; Mortgage Renewals Push Housing Budgets to 50%",
+    "summary": "Good morning, Ryan. Oil prices jump as U.S. strategic stockpiles drop to a 40-year low amid the ongoing Iran war. Meanwhile, Canadian homeowners face severe budget pressures as mortgage renewal waves peak, and local manufacturing sees continued union pattern bargaining with Unifor moving to talks with General Motors following a Ford deal."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Washington / Ottawa",
-    "headline": "U.S. alcohol is a bargaining chip in trade talks, but how much is it worth?",
-    "summary": "The future of U.S. booze in Canada is being seen by many as a key bargaining chip ahead of critical trade negotiations in Washington focused on U.S. tariffs.",
-    "whyItMatters": "As someone working in Ontario manufacturing, tracking cross-border trade negotiations and potential tariff disputes is vital for gauging regional supply chain pressures and export stability.",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12015583/us-alcohol-canada-tariffs/"
+    "category": "Your Money",
+    "location": "Canada",
+    "headline": "Mortgage renewals mean housing takes up 50% of many Canadians’ budgets",
+    "summary": "Canada is in the middle of its largest wave of mortgage renewals, with a new survey revealing that housing now consumes 50% of many Canadians' budgets.",
+    "whyItMatters": "As a homeowner with a 50-year variable mortgage, soaring household allocation towards housing means tighter cash flows while managing rate volatility.",
+    "explainMore": "Canada is currently navigating its largest wave of mortgage renewals, forcing many households to dedicate up to half of their total budgets strictly to housing costs.\n\nFor homeowners, this shift underscores the compounding financial pressure of maintaining a variable-rate mortgage in a volatile interest rate environment. Managing cash flow becomes critical as renewal rates catch up to prior monetary tightening cycles.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Mortgage-renewal-budget.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12016803/mortgage-renewal-budget/"
   },
   "stories": [
     {
-      "category": "Your Money",
-      "headline": "Consumers using savings to pay for essentials and piling up debt: Equifax",
-      "summary": "Canadians continue to face financial strain amid the heightened cost of living, according to the latest report from Equifax, which shows younger people generally struggle the most.",
-      "whyItMatters": "With a 5-year variable mortgage and long-term investing goals, keeping an eye on broader consumer debt trends helps contextualize household financial health against shifting borrowing costs.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-      "source": "Global News - Money",
-      "sourceUrl": "https://globalnews.ca/news/12011352/consumers-affordability-savings-debt-equifax/"
+      "category": "Canada",
+      "headline": "Strategic oil stockpiles have hit a 40-year low amid the Iran war",
+      "summary": "Oil prices spiked Tuesday as the Iran war continues to jeopardize global supplies, pushing U.S. strategic stockpiles to their lowest level in over four decades.",
+      "whyItMatters": "Crude surges directly impact manufacturing, logistics, and energy overhead for industrial operations across Ontario.",
+      "explainMore": "The ongoing war involving Iran has placed severe strain on international energy markets, resulting in U.S. strategic oil reserves plummeting to a 40-year low.\n\nOil prices spiked in response to these persistent supply vulnerabilities. For heavy industrial sectors and transportation networks, soaring energy inputs cascade into elevated operating and shipping costs.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/oil-reserves-iran.jpg.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - National",
+      "sourceUrl": "https://globalnews.ca/news/12017164/strategic-oil-reserves-iran/"
     },
     {
-      "category": "Local News",
+      "category": "Local",
       "headline": "Unifor to begin talks with General Motors after deal with Ford",
-      "summary": "In pattern bargaining, a union negotiates with one company to set terms that it hopes to replicate with other companies in the same sector.",
-      "whyItMatters": "Pattern bargaining and wage settlements in the broader Ontario automotive and manufacturing sectors often set a benchmark for industrial compensation and labour dynamics across the province.",
-      "image": "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=1000&q=80",
+      "summary": "Unifor is moving forward with pattern bargaining in the automotive sector, setting terms with Ford before initiating upcoming contract talks with General Motors.",
+      "whyItMatters": "Automotive pattern bargaining heavily influences regional industrial labor standards, manufacturing supply chains, and supplier expectations across Southern Ontario.",
+      "explainMore": "Unifor utilizes pattern bargaining to negotiate an agreement with a primary automaker—recently Ford—to establish benchmark terms that it intends to replicate across other major sector employers.\n\nWith talks now shifting to General Motors, the negotiations serve as a key bellwether for labor stability, wage expectations, and operational costs throughout Ontario's automotive and broader industrial manufacturing ecosystem.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/00252e2eb62971e486d1b116f18b88e1fad22d7f4bf0a7f17ea0c0a6ee015c7a.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
       "sourceUrl": "https://globalnews.ca/news/12015199/unifor-general-motors-contract/"
     },
     {
-      "category": "Your Money",
-      "headline": "1 in 3 Canadians say they’d cut insurance to save money, TD survey says",
-      "summary": "One-third of Canadians (33 per cent) say they would consider reducing their insurance coverage to save money, a TD Insurance survey says.",
-      "whyItMatters": "Escalating household overhead expenses, including property and auto insurance, directly impact your personal budgeting and cost-of-living calculations as a homeowner.",
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-      "source": "Global News - Money",
-      "sourceUrl": "https://globalnews.ca/news/12009963/1-in-3-canadians-say-theyd-cut-insurance-to-save-money-td-survey-says/"
+      "category": "Local",
+      "headline": "McMaster researchers identify cause of Hamilton’s mystery soot",
+      "summary": "Researchers at McMaster University have successfully identified the source of the mysterious black grime that has blanketed homes and yards near Hamilton's industrial area for decades.",
+      "whyItMatters": "Directly impacts regional environmental health and industrial community relations right next door in Hamilton.",
+      "explainMore": "For decades, residents living near Hamilton's industrial core dealt with an unexplained black grime settling on their properties. Researchers with McMaster University have now pinpointed the exact cause of this mystery soot.\n\nThe findings shed light on long-standing local environmental concerns regarding industrial emissions and neighborhood air quality.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/SOOT-PICS-3.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12017191/researchers-identify-cause-hamilton-mystery-soot/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.24%",
-        "positive": true
+        "value": "N/A",
+        "positive": null
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.03%",
+        "value": "▼ 0.32%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 6.73%",
+        "value": "▲ 1.34%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7177",
+        "value": "0.7184",
         "positive": null
       }
     ],
-    "insight": "The TSX edges up 0.24% to 54.27, while the S&P 500 edges down slightly by 0.03% to 773.03. Energy markets see a sharp upward move with Oil surging 6.73% to 125.92, and the Canadian dollar is holding at 0.7177 against the greenback. For a long-term investor, the notable spike in oil prices underscores ongoing energy sector volatility that can ripple through manufacturing and transportation input costs."
+    "insight": "Oil climbed 1.34% to $127.61 as geopolitical conflicts tighten global supplies, while the S&P 500 dipped 0.32% to 770.56. The Canadian dollar sits at 0.7184 against the U.S. greenback."
   }
 }

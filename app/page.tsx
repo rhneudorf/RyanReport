@@ -1,6 +1,8 @@
 import report from "../data/report.json";
+
 const latestStories = report.stories;
 const marketItems = report.markets.items;
+
 const categories = [
   { name: "Top Stories", id: "top-stories" },
   { name: "Local", id: "local" },
@@ -35,7 +37,9 @@ export default function Home() {
 
             <div className="absolute left-0 top-12 w-64 overflow-hidden rounded-2xl border border-black/10 bg-white shadow-xl">
               <div className="border-b border-black/10 p-4">
-                <p className="font-serif text-xl font-bold">The Ryan Report</p>
+                <p className="font-serif text-xl font-bold">
+                  The Ryan Report
+                </p>
                 <p className="mt-1 text-xs text-zinc-500">
                   Your personal morning newspaper
                 </p>
@@ -70,7 +74,6 @@ export default function Home() {
           </div>
         </div>
 
-        {/* CATEGORY STRIP */}
         <div className="overflow-x-auto border-t border-black/5 bg-white/60">
           <div className="mx-auto flex w-max max-w-3xl gap-6 px-4 py-2 text-xs font-bold uppercase tracking-wider text-zinc-600">
             <a href="#top-stories">Canada</a>
@@ -91,16 +94,18 @@ export default function Home() {
               Morning Snapshot
             </p>
 
-            <span className="text-xs text-zinc-500">5 minute read</span>
+            <span className="text-xs text-zinc-500">
+              5 minute read
+            </span>
           </div>
 
           <h2 className="mt-3 font-serif text-2xl font-bold leading-tight">
-  {report.morningSnapshot.headline}
-</h2>
+            {report.morningSnapshot.headline}
+          </h2>
 
           <p className="mt-3 text-[15px] leading-6 text-zinc-600">
-  {report.morningSnapshot.summary}
-</p>
+            {report.morningSnapshot.summary}
+          </p>
 
           <div className="mt-4 grid grid-cols-4 gap-2 text-center text-xs">
             <div className="rounded-xl bg-white p-2 shadow-sm">
@@ -145,7 +150,7 @@ export default function Home() {
             <div className="relative h-64 overflow-hidden rounded-2xl bg-zinc-200">
               <img
                 src={report.topStory.image}
-                alt="Ottawa Parliament buildings"
+                alt={report.topStory.headline}
                 className="h-full w-full object-cover"
               />
 
@@ -181,6 +186,31 @@ export default function Home() {
                 {report.topStory.whyItMatters}
               </p>
             </div>
+
+            {report.topStory.explainMore && (
+              <details className="mt-4">
+                <summary className="cursor-pointer text-sm font-semibold text-zinc-700 hover:text-blue-700">
+                  In Depth
+                </summary>
+
+                <div className="mt-3 rounded-xl border border-black/10 bg-white p-4 shadow-sm">
+                  <p className="whitespace-pre-line text-sm leading-6 text-zinc-600">
+                    {report.topStory.explainMore}
+                  </p>
+
+                  {report.topStory.sourceUrl && (
+                    <a
+                      href={report.topStory.sourceUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="mt-4 inline-block text-sm font-bold text-blue-700 hover:underline"
+                    >
+                      Read full story →
+                    </a>
+                  )}
+                </div>
+              </details>
+            )}
           </article>
         </section>
 
@@ -221,12 +251,37 @@ export default function Home() {
                     </strong>{" "}
                     {story.whyItMatters}
                   </p>
+
+                  {story.explainMore && (
+                    <details className="mt-3">
+                      <summary className="cursor-pointer text-xs font-semibold text-zinc-700 hover:text-blue-700">
+                        In Depth
+                      </summary>
+
+                      <div className="mt-3 rounded-xl border border-black/10 bg-white p-3 shadow-sm">
+                        <p className="whitespace-pre-line text-xs leading-5 text-zinc-600">
+                          {story.explainMore}
+                        </p>
+
+                        {story.sourceUrl && (
+                          <a
+                            href={story.sourceUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="mt-3 inline-block text-xs font-bold text-blue-700 hover:underline"
+                          >
+                            Read full story →
+                          </a>
+                        )}
+                      </div>
+                    </details>
+                  )}
                 </div>
 
                 <div className="h-28 overflow-hidden rounded-xl bg-zinc-200">
                   <img
                     src={story.image}
-                    alt=""
+                    alt={story.headline}
                     className="h-full w-full object-cover"
                   />
                 </div>
@@ -242,7 +297,9 @@ export default function Home() {
               Personal Finance
             </p>
 
-            <h2 className="mt-1 font-serif text-3xl font-bold">Your Money</h2>
+            <h2 className="mt-1 font-serif text-3xl font-bold">
+              Your Money
+            </h2>
           </div>
 
           <article>
@@ -261,16 +318,18 @@ export default function Home() {
                 <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
                   Bank of Canada
                 </p>
-
-                <p className="mt-1 font-serif text-2xl font-bold">2.25%</p>
+                <p className="mt-1 font-serif text-2xl font-bold">
+                  2.25%
+                </p>
               </div>
 
               <div className="border border-black/10 bg-white p-4">
                 <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
                   Outlook
                 </p>
-
-                <p className="mt-1 font-serif text-2xl font-bold">Hold</p>
+                <p className="mt-1 font-serif text-2xl font-bold">
+                  Hold
+                </p>
               </div>
             </div>
           </article>
@@ -283,7 +342,9 @@ export default function Home() {
               One-Minute Market Insight
             </p>
 
-            <h2 className="mt-1 font-serif text-3xl font-bold">Markets</h2>
+            <h2 className="mt-1 font-serif text-3xl font-bold">
+              Markets
+            </h2>
           </div>
 
           <div className="grid grid-cols-4 border-y border-black bg-zinc-950 text-white">
@@ -312,7 +373,7 @@ export default function Home() {
           </div>
 
           <p className="mt-4 leading-6 text-zinc-600">
-           {report.markets.insight}
+            {report.markets.insight}
           </p>
 
           <div className="mt-3 bg-white p-4 shadow-sm">

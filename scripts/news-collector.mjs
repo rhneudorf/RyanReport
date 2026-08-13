@@ -1,81 +1,113 @@
 import Parser from "rss-parser";
-import path from "path";
-import { fileURLToPath } from "url";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
-const parser = new Parser();
+const parser = new Parser({
+  timeout: 10000,
+  customFields: {
+    item: [
+      ["media:content", "mediaContent", { keepArray: true }],
+      ["media:thumbnail", "mediaThumbnail", { keepArray: true }],
+    ],
+  },
+});
 
 const feeds = [
-  // -----------------------------
-  // OFFICIAL ECONOMIC SOURCES
-  // -----------------------------
   {
     name: "Bank of Canada",
     url: "https://www.bankofcanada.ca/utility/news/feed/",
     category: "Your Money",
+    maxStories: 8,
   },
   {
     name: "Statistics Canada - Economic Accounts",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/36-eng.atom",
     category: "Your Money",
+    maxStories: 5,
   },
   {
     name: "Statistics Canada - Labour",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/14-eng.atom",
     category: "Your Money",
+    maxStories: 5,
   },
   {
     name: "Statistics Canada - Prices",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/18-eng.atom",
     category: "Your Money",
+    maxStories: 5,
   },
   {
     name: "Statistics Canada - International Trade",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/12-eng.atom",
     category: "Manufacturing & Trade",
+    maxStories: 6,
   },
   {
     name: "Statistics Canada - Manufacturing",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/16-eng.atom",
     category: "Manufacturing & Trade",
+    maxStories: 6,
   },
   {
     name: "Statistics Canada - Housing",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/46-eng.atom",
     category: "Your Money",
+    maxStories: 4,
   },
   {
     name: "Statistics Canada - Science & Technology",
     url: "https://www150.statcan.gc.ca/n1/rss/dai-quo/27-eng.atom",
     category: "Engineering",
+    maxStories: 6,
   },
-
-  // -----------------------------
-  // GLOBAL NEWS — DAILY NEWS
-  // -----------------------------
   {
     name: "Global News - Hamilton",
     url: "https://globalnews.ca/hamilton/feed/",
-    category: "Local News",
+    category: "Local",
+    maxStories: 10,
   },
   {
     name: "Global News - Canada",
     url: "https://globalnews.ca/canada/feed/",
     category: "Canada",
+    maxStories: 8,
   },
   {
     name: "Global News - National",
     url: "https://globalnews.ca/national/feed/",
-    category: "Top Stories",
+    category: "Canada",
+    maxStories: 6,
   },
   {
     name: "Global News - World",
     url: "https://globalnews.ca/world/feed/",
-    category: "Around the World",
+    category: "World",
+    maxStories: 8,
   },
   {
     name: "Global News - Money",
     url: "https://globalnews.ca/money/feed/",
     category: "Your Money",
+    maxStories: 6,
+  },
+  {
+    name: "Canada.ca - Business & Industry",
+    url: "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Business+and+industry&format=atom&orderBy=desc&pick=100&publishedDate%3E=2021-10-25&sort=publishedDate&topic=businessandindustry",
+    category: "Manufacturing & Trade",
+    maxStories: 10,
+  },
+  {
+    name: "Canada.ca - Science & Innovation",
+    url: "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Science+and+innovation&format=atom&orderBy=desc&pick=100&publishedDate%3E=2021-10-25&sort=publishedDate&topic=scienceandinnovation",
+    category: "Engineering",
+    maxStories: 10,
+  },
+  {
+    name: "Canada.ca - ISED",
+    url: "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Innovation%2C+Science+and+Economic+Development+Canada&dept=departmentofindustry&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+    category: "Manufacturing & Trade",
+    maxStories: 10,
   },
 ];
 
@@ -95,7 +127,6 @@ function getText(value) {
   }
 
   if (typeof value === "object") {
-    // Common XML/Atom text properties
     for (const key of ["_", "#text", "text", "value"]) {
       if (value[key] != null) {
         const result = getText(value[key]);
@@ -103,7 +134,6 @@ function getText(value) {
       }
     }
 
-    // Last-resort: search the object's values for usable text
     for (const child of Object.values(value)) {
       const result = getText(child);
       if (result) return result;
@@ -111,6 +141,35 @@ function getText(value) {
   }
 
   return "";
+}
+
+function getImageUrl(item) {
+  if (item.enclosure?.url) return item.enclosure.url;
+
+  const mediaContent = item.mediaContent;
+  if (Array.isArray(mediaContent)) {
+    for (const media of mediaContent) {
+      if (media?.$?.url) return media.$.url;
+      if (media?.url) return media.url;
+    }
+  }
+
+  const mediaThumbnail = item.mediaThumbnail;
+  if (Array.isArray(mediaThumbnail)) {
+    for (const media of mediaThumbnail) {
+      if (media?.$?.url) return media.$.url;
+      if (media?.url) return media.url;
+    }
+  }
+
+  const html =
+    getText(item.content) ||
+    getText(item.description) ||
+    getText(item.summary);
+
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+
+  return match?.[1] || "";
 }
 
 function normalizeTitle(title) {
@@ -124,8 +183,40 @@ function normalizeTitle(title) {
 function cleanSummary(value) {
   return getText(value)
     .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function isSportsStory(story) {
+  const text =
+    `${story.headline} ${story.summary}`.toLowerCase();
+
+  const sportsTerms = [
+    "nhl",
+    "nba",
+    "nfl",
+    "mlb",
+    "cfl",
+    "stanley cup",
+    "super bowl",
+    "blue jays",
+    "maple leafs",
+    "raptors",
+    "argonauts",
+    "tiger-cats",
+    "ticats",
+    "soccer",
+    "hockey",
+    "baseball",
+    "basketball",
+    "football",
+  ];
+
+  return sportsTerms.some((term) => text.includes(term));
 }
 
 export async function collectNews() {
@@ -136,15 +227,14 @@ export async function collectNews() {
       console.log(`Fetching ${feed.name}...`);
 
       const result = await parser.parseURL(feed.url);
+      const feedStories = [];
 
       for (const item of result.items || []) {
         const headline = getText(item.title).trim();
 
-        if (!headline) {
-          continue;
-        }
+        if (!headline) continue;
 
-        stories.push({
+        const story = {
           headline,
           source: feed.name,
           category: feed.category,
@@ -161,47 +251,65 @@ export async function collectNews() {
               item.description ||
               ""
           ),
-        });
+          image: getImageUrl(item),
+        };
+
+        if (isSportsStory(story)) continue;
+
+        feedStories.push(story);
       }
+
+      feedStories.sort((a, b) => {
+        const dateA = a.publishedAt
+          ? new Date(a.publishedAt).getTime()
+          : 0;
+
+        const dateB = b.publishedAt
+          ? new Date(b.publishedAt).getTime()
+          : 0;
+
+        return dateB - dateA;
+      });
+
+      stories.push(...feedStories.slice(0, feed.maxStories));
     } catch (error) {
       console.error(
-        `Failed to fetch ${feed.name}: ${error.message}`
+        `⚠️ Failed to fetch ${feed.name}: ${error.message}`
       );
     }
   }
 
-  // Remove duplicate headlines
   const seen = new Set();
 
   const deduped = stories.filter((story) => {
     const key = normalizeTitle(story.headline);
 
-    if (!key || seen.has(key)) {
-      return false;
-    }
+    if (!key || seen.has(key)) return false;
 
     seen.add(key);
     return true;
   });
 
-  // Keep stories from the last 72 hours.
   const recentStories = deduped.filter((story) => {
-    if (!story.publishedAt) {
-      return true;
-    }
+    if (!story.publishedAt) return true;
 
-    const publishedTime = new Date(story.publishedAt).getTime();
+    const published = new Date(story.publishedAt).getTime();
 
-    if (Number.isNaN(publishedTime)) {
-      return true;
-    }
+    if (Number.isNaN(published)) return true;
 
-    const age = Date.now() - publishedTime;
+    const age = Date.now() - published;
 
-    return age <= 1000 * 60 * 60 * 24 * 14;
+    const isPrimarySource =
+      story.source.includes("Bank of Canada") ||
+      story.source.includes("Statistics Canada");
+
+    const maxAge = isPrimarySource
+      ? 1000 * 60 * 60 * 24 * 14
+      : 1000 * 60 * 60 * 24 * 3;
+
+    return age <= maxAge;
   });
 
-  // Newest first
   recentStories.sort((a, b) => {
     const dateA = a.publishedAt
       ? new Date(a.publishedAt).getTime()
@@ -217,32 +325,33 @@ export async function collectNews() {
   return recentStories.slice(0, 60);
 }
 
-// TEST MODE
-const currentFile = fileURLToPath(import.meta.url);
-const executedFile = path.resolve(process.argv[1]);
+const __filename = fileURLToPath(import.meta.url);
 
-if (path.resolve(currentFile) === executedFile) {
+if (
+  process.argv[1] &&
+  path.resolve(process.argv[1]) === path.resolve(__filename)
+) {
   console.log("\nStarting Ryan Report news collector...\n");
 
   const stories = await collectNews();
 
-  console.log(`\nCollected ${stories.length} recent stories.`);
+  console.log(`\n✅ Collected ${stories.length} recent stories.\n`);
 
-  if (stories.length === 0) {
-    console.log(
-      "\nNo stories were collected. Check the feed errors above."
-    );
+  const categoryCounts = {};
+  let imagesFound = 0;
+
+  for (const story of stories) {
+    categoryCounts[story.category] =
+      (categoryCounts[story.category] || 0) + 1;
+
+    if (story.image) imagesFound++;
   }
 
-  for (const story of stories.slice(0, 15)) {
-    console.log("\n----------------------------------------");
-    console.log(`[${story.category}]`);
-    console.log(story.headline);
-    console.log(`Source: ${story.source}`);
-    console.log(`Published: ${story.publishedAt || "No date"}`);
-    console.log(`URL: ${story.url}`);
+  console.log("SOURCE MIX:");
+
+  for (const [category, count] of Object.entries(categoryCounts)) {
+    console.log(`  ${category}: ${count}`);
   }
 
-  console.log("\n----------------------------------------");
-  console.log("Collector test complete.\n");
+  console.log(`\nImages found: ${imagesFound}/${stories.length}`);
 }
