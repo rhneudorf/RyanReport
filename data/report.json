@@ -1,75 +1,75 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-13",
   "morningSnapshot": {
-    "headline": "Strategic Oil Reserves Hit 40-Year Low Amid Iran War; Mortgage Renewals Push Housing Budgets to 50%",
-    "summary": "Good morning, Ryan. Oil prices jump as U.S. strategic stockpiles drop to a 40-year low amid the ongoing Iran war. Meanwhile, Canadian homeowners face severe budget pressures as mortgage renewal waves peak, and local manufacturing sees continued union pattern bargaining with Unifor moving to talks with General Motors following a Ford deal."
+    "headline": "Trade Pressures Mount as Mortgage Realities Hit Budgets",
+    "summary": "Good morning, Ryan. Today's report highlights brewing trade tensions with the U.S. over tariffs and Chinese exports, ongoing mortgage renewal pressures consuming household budgets, and federal funding initiatives aimed at Canadian manufacturing and small business productivity."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Canada",
-    "headline": "Mortgage renewals mean housing takes up 50% of many Canadians’ budgets",
-    "summary": "Canada is in the middle of its largest wave of mortgage renewals, with a new survey revealing that housing now consumes 50% of many Canadians' budgets.",
-    "whyItMatters": "As a homeowner with a 50-year variable mortgage, soaring household allocation towards housing means tighter cash flows while managing rate volatility.",
-    "explainMore": "Canada is currently navigating its largest wave of mortgage renewals, forcing many households to dedicate up to half of their total budgets strictly to housing costs.\n\nFor homeowners, this shift underscores the compounding financial pressure of maintaining a variable-rate mortgage in a volatile interest rate environment. Managing cash flow becomes critical as renewal rates catch up to prior monetary tightening cycles.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Mortgage-renewal-budget.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12016803/mortgage-renewal-budget/"
+    "category": "Economy & Trade",
+    "location": "Ottawa / Washington",
+    "headline": "U.S. says Canada among China’s ‘biggest enablers’ in avoiding Trump tariffs",
+    "summary": "A new White House report released Thursday accuses China of routing their exports through third countries with more favourable U.S. tariff rates or avoiding them altogether, explicitly naming Canada.",
+    "whyItMatters": "As an engineer in Ontario's manufacturing sector, cross-border trade friction and tariff disputes directly threaten supply chain stability, component pricing, and overall industrial demand.",
+    "explainMore": "The White House report highlights ongoing friction surrounding international trade routes and tariff enforcement. By alleging that third countries are being used to circumvent U.S. duties on Chinese goods, Washington is signaling potential downstream trade scrutiny.\n\nFor Canadian manufacturers, heightened border and trade tensions create uncertainty around raw material costs and export conditions. Industry stakeholders are watching closely to see how Ottawa responds to these pressure points while navigating North American trade agreements.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/China-trade-file-e1786646798745.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Strategic oil stockpiles have hit a 40-year low amid the Iran war",
-      "summary": "Oil prices spiked Tuesday as the Iran war continues to jeopardize global supplies, pushing U.S. strategic stockpiles to their lowest level in over four decades.",
-      "whyItMatters": "Crude surges directly impact manufacturing, logistics, and energy overhead for industrial operations across Ontario.",
-      "explainMore": "The ongoing war involving Iran has placed severe strain on international energy markets, resulting in U.S. strategic oil reserves plummeting to a 40-year low.\n\nOil prices spiked in response to these persistent supply vulnerabilities. For heavy industrial sectors and transportation networks, soaring energy inputs cascade into elevated operating and shipping costs.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/oil-reserves-iran.jpg.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - National",
-      "sourceUrl": "https://globalnews.ca/news/12017164/strategic-oil-reserves-iran/"
+      "category": "Housing & Mortgages",
+      "headline": "Mortgage renewals mean housing takes up 50% of many Canadians’ budgets",
+      "summary": "Canada is in the middle of its largest wave of mortgage renewals, with a new survey finding that housing costs are eating up half of many household budgets.",
+      "whyItMatters": "As a homeowner managing a 5-year variable mortgage during a heavy renewal wave, monitoring household debt servicing costs is essential for personal financial planning.",
+      "explainMore": "The current wave of mortgage renewals is forcing many Canadian households to dedicate a significantly larger portion of their monthly income to housing.\n\nWith borrowing costs elevated compared to previous years, families are finding that renewed mortgage terms are drastically squeezing discretionary spending. This shift is reflected in broader consumer sentiment data, with major retailers reporting softer consumer spending as households adjust to tightened financial realities.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Mortgage-renewal-budget.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12016803/mortgage-renewal-budget/"
     },
     {
-      "category": "Local",
-      "headline": "Unifor to begin talks with General Motors after deal with Ford",
-      "summary": "Unifor is moving forward with pattern bargaining in the automotive sector, setting terms with Ford before initiating upcoming contract talks with General Motors.",
-      "whyItMatters": "Automotive pattern bargaining heavily influences regional industrial labor standards, manufacturing supply chains, and supplier expectations across Southern Ontario.",
-      "explainMore": "Unifor utilizes pattern bargaining to negotiate an agreement with a primary automaker—recently Ford—to establish benchmark terms that it intends to replicate across other major sector employers.\n\nWith talks now shifting to General Motors, the negotiations serve as a key bellwether for labor stability, wage expectations, and operational costs throughout Ontario's automotive and broader industrial manufacturing ecosystem.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/00252e2eb62971e486d1b116f18b88e1fad22d7f4bf0a7f17ea0c0a6ee015c7a.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12015199/unifor-general-motors-contract/"
+      "category": "Manufacturing",
+      "headline": "Government of Canada invests in OSM Atlantic’s growth",
+      "summary": "An industrial machining business has received a total of $700,000 in financial assistance from Canada Economic Development for Quebec Regions (CED) to boost its operations.",
+      "whyItMatters": "Federal investments in industrial machining and plant productivity signal ongoing support for the domestic supply chain and machining capacity that feeds into advanced manufacturing.",
+      "explainMore": "The funding announced by CED is directed toward enhancing the capabilities of specialized industrial machining operations. Investments of this nature are designed to upgrade equipment, improve shop-floor efficiency, and support growth within Canada's industrial sector.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Business & Industry",
+      "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-invests-in-osm-atlantics-growth.html"
     },
     {
-      "category": "Local",
-      "headline": "McMaster researchers identify cause of Hamilton’s mystery soot",
-      "summary": "Researchers at McMaster University have successfully identified the source of the mysterious black grime that has blanketed homes and yards near Hamilton's industrial area for decades.",
-      "whyItMatters": "Directly impacts regional environmental health and industrial community relations right next door in Hamilton.",
-      "explainMore": "For decades, residents living near Hamilton's industrial core dealt with an unexplained black grime settling on their properties. Researchers with McMaster University have now pinpointed the exact cause of this mystery soot.\n\nThe findings shed light on long-standing local environmental concerns regarding industrial emissions and neighborhood air quality.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/SOOT-PICS-3.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12017191/researchers-identify-cause-hamilton-mystery-soot/"
+      "category": "Engineering & Innovation",
+      "headline": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
+      "summary": "From August 15 to 23, five weather balloons carrying Canadian payloads and high school science experiments will be launched from Timmins, Ontario, to test new technologies in the stratosphere.",
+      "whyItMatters": "Advanced technological testing and high-altitude payload deployments highlight Canada's ongoing commitment to aerospace and engineering research.",
+      "explainMore": "The STRATOS Campaign utilizes high-altitude weather balloons launched from the Timmins Balloon Base in Ontario to lift scientific instruments and technology prototypes into near-space conditions. The initiatives allow researchers to gather stratospheric data and test experimental hardware in a demanding environment.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Science & Innovation",
+      "sourceUrl": "https://www.canada.ca/en/space-agency/news/2026/08/stratos-2026-campaign-canadian-experiments-to-be-tested-in-space-like-environment.html"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "N/A",
-        "positive": null
-      },
-      {
-        "name": "S&P 500",
-        "value": "▼ 0.32%",
-        "positive": false
-      },
-      {
-        "name": "Oil",
-        "value": "▲ 1.34%",
+        "value": "▲ 0.55%",
         "positive": true
       },
       {
+        "name": "S&P 500",
+        "value": "▲ 0.69%",
+        "positive": true
+      },
+      {
+        "name": "Oil",
+        "value": "▼ 1.77%",
+        "positive": false
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7184",
+        "value": "0.7186",
         "positive": null
       }
     ],
-    "insight": "Oil climbed 1.34% to $127.61 as geopolitical conflicts tighten global supplies, while the S&P 500 dipped 0.32% to 770.56. The Canadian dollar sits at 0.7184 against the U.S. greenback."
+    "insight": "Equities showed positive momentum with the TSX up 0.55% to 54.58 and the S&P 500 rising 0.69% to 777.82. Meanwhile, oil pulled back 1.77% to $125.05 amid shifting global energy demand forecasts, and the Canadian dollar held at 0.7186 against the greenback."
   }
 }
