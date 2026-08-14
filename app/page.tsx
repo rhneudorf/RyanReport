@@ -40,6 +40,7 @@ export default function Home() {
                 <p className="font-serif text-xl font-bold">
                   The Ryan Report
                 </p>
+
                 <p className="mt-1 text-xs text-zinc-500">
                   Your personal morning newspaper
                 </p>
@@ -111,25 +112,33 @@ export default function Home() {
             <div className="rounded-xl bg-white p-2 shadow-sm">
               <span className="block">💰</span>
               <strong>Money</strong>
-              <span className="mt-1 block text-green-700">Stable</span>
+              <span className="mt-1 block text-green-700">
+                Stable
+              </span>
             </div>
 
             <div className="rounded-xl bg-white p-2 shadow-sm">
               <span className="block">🏭</span>
               <strong>Career</strong>
-              <span className="mt-1 block text-amber-700">Watch</span>
+              <span className="mt-1 block text-amber-700">
+                Watch
+              </span>
             </div>
 
             <div className="rounded-xl bg-white p-2 shadow-sm">
               <span className="block">🏠</span>
               <strong>Home</strong>
-              <span className="mt-1 block text-green-700">Quiet</span>
+              <span className="mt-1 block text-green-700">
+                Quiet
+              </span>
             </div>
 
             <div className="rounded-xl bg-white p-2 shadow-sm">
               <span className="block">📈</span>
               <strong>Markets</strong>
-              <span className="mt-1 block text-green-700">Normal</span>
+              <span className="mt-1 block text-green-700">
+                Normal
+              </span>
             </div>
           </div>
         </section>
@@ -290,7 +299,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* YOUR MONEY */}
+        {/* YOUR MONEY — LIVE */}
         <section id="your-money" className="scroll-mt-28 py-6">
           <div className="mb-4 border-b-2 border-black pb-2">
             <p className="text-[11px] font-black uppercase tracking-[0.18em] text-green-800">
@@ -304,34 +313,33 @@ export default function Home() {
 
           <article>
             <h3 className="font-serif text-2xl font-bold">
-              Mortgage outlook remains stable
+              {report.yourMoney.headline}
             </h3>
 
             <p className="mt-2 leading-6 text-zinc-600">
-              The Bank of Canada remains cautious, balancing inflation,
-              economic growth and international trade risks before making its
-              next move.
+              {report.yourMoney.summary}
             </p>
 
-            <div className="mt-4 grid grid-cols-2 gap-3">
-              <div className="border border-black/10 bg-white p-4">
-                <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
-                  Bank of Canada
-                </p>
-                <p className="mt-1 font-serif text-2xl font-bold">
-                  2.25%
-                </p>
-              </div>
+            <div className="mt-4 border-l-4 border-green-700 bg-green-50 px-4 py-3">
+              <strong className="text-xs uppercase tracking-wider text-green-900">
+                Why this matters to you
+              </strong>
 
-              <div className="border border-black/10 bg-white p-4">
-                <p className="text-[10px] font-bold uppercase tracking-wider text-zinc-500">
-                  Outlook
-                </p>
-                <p className="mt-1 font-serif text-2xl font-bold">
-                  Hold
-                </p>
-              </div>
+              <p className="mt-1 text-sm leading-6 text-zinc-700">
+                {report.yourMoney.whyItMatters}
+              </p>
             </div>
+
+            {report.yourMoney.sourceUrl && (
+              <a
+                href={report.yourMoney.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-block text-sm font-bold text-blue-700 hover:underline"
+              >
+                Read source →
+              </a>
+            )}
           </article>
         </section>
 
@@ -389,7 +397,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* MANUFACTURING */}
+        {/* MANUFACTURING — LIVE */}
         <section id="manufacturing" className="scroll-mt-28 py-6">
           <div className="mb-4 border-b-2 border-black pb-2">
             <p className="text-[11px] font-black uppercase tracking-[0.18em] text-amber-800">
@@ -402,19 +410,12 @@ export default function Home() {
           </div>
 
           <article className="border-b border-black/15 pb-5">
-            <p className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
-              Canada–U.S. Trade
-            </p>
-
-            <h3 className="mt-1 font-serif text-2xl font-bold">
-              Tariff negotiations remain the industry&apos;s biggest external
-              risk
+            <h3 className="font-serif text-2xl font-bold">
+              {report.manufacturing.headline}
             </h3>
 
             <p className="mt-2 leading-6 text-zinc-600">
-              Changes involving steel, aluminum, industrial goods and rules of
-              origin could influence customer demand and North American
-              manufacturing investment.
+              {report.manufacturing.summary}
             </p>
 
             <div className="mt-3 border-l-4 border-amber-700 bg-amber-50 px-4 py-3">
@@ -423,31 +424,39 @@ export default function Home() {
               </strong>
 
               <p className="mt-1 text-sm leading-6 text-zinc-700">
-                Hydraulic-cylinder manufacturers can be affected both through
-                material costs and through changes in demand from U.S.-exposed
-                equipment customers.
+                {report.manufacturing.whyItMatters}
               </p>
             </div>
+
+            {report.manufacturing.sourceUrl && (
+              <a
+                href={report.manufacturing.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-3 inline-block text-sm font-bold text-blue-700 hover:underline"
+              >
+                Read source →
+              </a>
+            )}
           </article>
 
+          {/* ENGINEERING — LIVE */}
           <article id="engineering" className="scroll-mt-28 pt-5">
             <p className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
               Engineering Watch
             </p>
 
             <h3 className="mt-1 font-serif text-2xl font-bold">
-              Automation remains a competitive advantage
+              {report.manufacturing.engineeringHeadline}
             </h3>
 
             <p className="mt-2 leading-6 text-zinc-600">
-              Robotic welding, machine vision, automated inspection and
-              manufacturing data systems continue becoming more accessible to
-              mid-sized manufacturers.
+              {report.manufacturing.engineeringSummary}
             </p>
           </article>
         </section>
 
-        {/* WORLD */}
+        {/* WORLD — LIVE */}
         <section id="world" className="scroll-mt-28 py-6">
           <div className="mb-4 border-b-2 border-black pb-2">
             <p className="text-[11px] font-black uppercase tracking-[0.18em] text-indigo-800">
@@ -460,25 +469,33 @@ export default function Home() {
           </div>
 
           <h3 className="font-serif text-2xl font-bold">
-            Energy and trade remain the major global economic risks
+            {report.world.headline}
           </h3>
 
           <p className="mt-2 leading-6 text-zinc-600">
-            Geopolitical tensions, shipping disruptions and trade policy remain
-            important because of their ability to influence energy prices,
-            inflation and global manufacturing demand.
+            {report.world.summary}
           </p>
 
           <p className="mt-3 text-sm leading-6 text-zinc-500">
             <strong className="text-zinc-700">
               Why this matters to you:
             </strong>{" "}
-            Global stories become relevant when they affect your borrowing
-            costs, investments, gasoline prices or industrial demand.
+            {report.world.whyItMatters}
           </p>
+
+          {report.world.sourceUrl && (
+            <a
+              href={report.world.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-sm font-bold text-blue-700 hover:underline"
+            >
+              Read source →
+            </a>
+          )}
         </section>
 
-        {/* LOOKING AHEAD */}
+        {/* LOOKING AHEAD — LIVE */}
         <section id="looking-ahead" className="scroll-mt-28 py-6">
           <div className="mb-4 border-b-2 border-black pb-2">
             <p className="text-[11px] font-black uppercase tracking-[0.18em] text-red-700">
@@ -491,27 +508,20 @@ export default function Home() {
           </div>
 
           <div className="divide-y divide-black/15 border-y border-black/15">
-            <div className="grid grid-cols-[80px_1fr] py-4">
-              <strong className="text-sm">Today</strong>
-              <p className="text-sm text-zinc-600">
-                Markets monitor Canada–U.S. trade negotiations.
-              </p>
-            </div>
+            {report.lookingAhead.map((item, index) => (
+              <div
+                key={`${item.label}-${index}`}
+                className="grid grid-cols-[90px_1fr] gap-3 py-4"
+              >
+                <strong className="text-sm">
+                  {item.label}
+                </strong>
 
-            <div className="grid grid-cols-[80px_1fr] py-4">
-              <strong className="text-sm">This Week</strong>
-              <p className="text-sm text-zinc-600">
-                Inflation, employment and manufacturing indicators remain in
-                focus.
-              </p>
-            </div>
-
-            <div className="grid grid-cols-[80px_1fr] py-4">
-              <strong className="text-sm">Next BoC</strong>
-              <p className="text-sm text-zinc-600">
-                September 2 interest-rate decision.
-              </p>
-            </div>
+                <p className="text-sm leading-6 text-zinc-600">
+                  {item.text}
+                </p>
+              </div>
+            ))}
           </div>
         </section>
 

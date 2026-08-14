@@ -26,6 +26,10 @@ function validateReportShape(report) {
     "topStory",
     "stories",
     "markets",
+    "yourMoney",
+    "manufacturing",
+    "world",
+    "lookingAhead",
   ];
 
   for (const key of requiredTopLevel) {
@@ -35,23 +39,17 @@ function validateReportShape(report) {
   }
 
   if (
-    !report.morningSnapshot ||
-    typeof report.morningSnapshot.headline !== "string" ||
-    typeof report.morningSnapshot.summary !== "string"
+    typeof report.morningSnapshot?.headline !== "string" ||
+    typeof report.morningSnapshot?.summary !== "string"
   ) {
     throw new Error("Generated morningSnapshot is invalid.");
   }
 
   if (
-    !report.topStory ||
-    typeof report.topStory.category !== "string" ||
-    typeof report.topStory.location !== "string" ||
-    typeof report.topStory.headline !== "string" ||
-    typeof report.topStory.summary !== "string" ||
-    typeof report.topStory.whyItMatters !== "string" ||
-    typeof report.topStory.explainMore !== "string" ||
-    typeof report.topStory.source !== "string" ||
-    typeof report.topStory.sourceUrl !== "string"
+    typeof report.topStory?.headline !== "string" ||
+    typeof report.topStory?.summary !== "string" ||
+    typeof report.topStory?.whyItMatters !== "string" ||
+    typeof report.topStory?.explainMore !== "string"
   ) {
     throw new Error("Generated topStory is invalid.");
   }
@@ -60,27 +58,42 @@ function validateReportShape(report) {
     throw new Error("Generated stories array is invalid.");
   }
 
-  for (const story of report.stories) {
-    if (
-      !story ||
-      typeof story.category !== "string" ||
-      typeof story.headline !== "string" ||
-      typeof story.summary !== "string" ||
-      typeof story.whyItMatters !== "string" ||
-      typeof story.explainMore !== "string" ||
-      typeof story.source !== "string" ||
-      typeof story.sourceUrl !== "string"
-    ) {
-      throw new Error("A generated story is missing required fields.");
-    }
-  }
-
   if (
     !report.markets ||
     !Array.isArray(report.markets.items) ||
     typeof report.markets.insight !== "string"
   ) {
     throw new Error("Generated markets block is invalid.");
+  }
+
+  if (
+    typeof report.yourMoney?.headline !== "string" ||
+    typeof report.yourMoney?.summary !== "string" ||
+    typeof report.yourMoney?.whyItMatters !== "string"
+  ) {
+    throw new Error("Generated yourMoney block is invalid.");
+  }
+
+  if (
+    typeof report.manufacturing?.headline !== "string" ||
+    typeof report.manufacturing?.summary !== "string" ||
+    typeof report.manufacturing?.whyItMatters !== "string" ||
+    typeof report.manufacturing?.engineeringHeadline !== "string" ||
+    typeof report.manufacturing?.engineeringSummary !== "string"
+  ) {
+    throw new Error("Generated manufacturing block is invalid.");
+  }
+
+  if (
+    typeof report.world?.headline !== "string" ||
+    typeof report.world?.summary !== "string" ||
+    typeof report.world?.whyItMatters !== "string"
+  ) {
+    throw new Error("Generated world block is invalid.");
+  }
+
+  if (!Array.isArray(report.lookingAhead) || report.lookingAhead.length === 0) {
+    throw new Error("Generated lookingAhead block is invalid.");
   }
 
   return true;
@@ -123,47 +136,34 @@ function normalizeUrl(url = "") {
 }
 
 function findOriginalStory(generatedStory, sourceMaterial) {
-  const generatedUrl = normalizeUrl(
-    generatedStory.sourceUrl || ""
-  );
+  const generatedUrl = normalizeUrl(generatedStory.sourceUrl || "");
 
   if (generatedUrl) {
     const exactUrlMatch = sourceMaterial.find(
-      (story) =>
-        normalizeUrl(story.url) === generatedUrl
+      (story) => normalizeUrl(story.url) === generatedUrl
     );
 
-    if (exactUrlMatch) {
-      return exactUrlMatch;
-    }
+    if (exactUrlMatch) return exactUrlMatch;
   }
 
   const generatedHeadline = String(
     generatedStory.headline || ""
-  )
-    .toLowerCase()
-    .trim();
+  ).toLowerCase().trim();
 
   if (generatedHeadline) {
     const exactHeadlineMatch = sourceMaterial.find(
       (story) =>
-        String(story.headline || "")
-          .toLowerCase()
-          .trim() === generatedHeadline
+        String(story.headline || "").toLowerCase().trim() ===
+        generatedHeadline
     );
 
-    if (exactHeadlineMatch) {
-      return exactHeadlineMatch;
-    }
+    if (exactHeadlineMatch) return exactHeadlineMatch;
   }
 
   return null;
 }
 
-function applyArticleImage(
-  generatedStory,
-  sourceMaterial
-) {
+function applyArticleImage(generatedStory, sourceMaterial) {
   const originalStory = findOriginalStory(
     generatedStory,
     sourceMaterial
@@ -194,7 +194,6 @@ async function generateLiveReport() {
   }
 
   console.log("Collecting live news...");
-
   const collectedStories = await collectNews();
 
   if (!collectedStories.length) {
@@ -208,7 +207,6 @@ async function generateLiveReport() {
   );
 
   console.log("Collecting live market data...");
-
   const marketData = await collectMarketData();
 
   const ai = new GoogleGenAI({ apiKey });
@@ -233,7 +231,7 @@ async function generateLiveReport() {
   const prompt = `
 You are the editor of The Ryan Report.
 
-Create a concise, personalized morning newspaper using ONLY the supplied news and verified market data.
+Create a concise personalized morning newspaper using ONLY the supplied news and verified market data.
 
 Reader profile:
 ${JSON.stringify(profile, null, 2)}
@@ -244,37 +242,64 @@ ${JSON.stringify(sourceMaterial, null, 2)}
 Verified market data:
 ${JSON.stringify(marketData.items, null, 2)}
 
-Editorial rules:
-- Do not invent current events.
-- Do not invent statistics.
-- Do not invent market values.
+EDITORIAL RULES
+
+- Do not invent current events, statistics or market values.
 - Prefer recent, high-signal stories.
 - Omit sports.
 - Avoid redundant stories.
-- Personalize "whyItMatters" using the reader profile only when genuinely relevant.
-- Use the verified market data when writing the market insight.
-- Every selected story must correspond to one supplied source story.
-- Preserve the supplied source name and source URL.
-- Do not invent image URLs.
-- If the supplied source story has an image, return that exact image URL.
-- If no image was supplied, leave image as an empty string.
-- "explainMore" should provide a deeper explanation for a reader who wants more context.
-- "explainMore" should normally be 2 to 4 short paragraphs.
-- Explain useful background, implications, and relevant connections to the reader profile.
-- Keep "explainMore" grounded ONLY in the supplied source material.
-- Do not invent extra facts merely to make the explanation longer.
-- If the supplied material does not support a detailed explanation, keep it shorter rather than speculate.
-- Return valid JSON only.
-- Do not wrap the response in markdown fences.
+- Personalize relevance when genuinely useful.
+- Every factual current-news claim must come from supplied source material.
+- Every selected article must preserve its supplied source name and URL.
+- If an article has a supplied image, use that image URL exactly.
+- Otherwise leave image blank.
+- The Top Story and Today's Edition contain the most important stories.
+- The lower sections should add useful context and should NOT simply repeat the same wording from Today's Edition.
+- If there is insufficient source material for a lower section, acknowledge that briefly instead of inventing developments.
 
-Required JSON shape:
+IN DEPTH
+
+For topStory and every item in stories:
+- explainMore should provide 2-4 short paragraphs of deeper context.
+- Remain grounded in the supplied source material.
+- Do not add unsupported facts.
+
+YOUR MONEY
+
+Create one concise personal-finance/economic item based on the strongest available relevant source.
+Focus on rates, inflation, mortgages, housing, taxes, utilities, insurance or investing when supported.
+
+MANUFACTURING
+
+Create:
+1. one Manufacturing & Trade item
+2. one Engineering Watch item
+
+Prioritize Canada-U.S. trade, tariffs, steel, aluminum, Ontario manufacturing, automation, robotics, engineering and industrial technology.
+
+WORLD
+
+Choose one global story/theme with meaningful economic, investment, energy, manufacturing or geopolitical relevance.
+
+LOOKING AHEAD
+
+Provide 2-4 items representing events, releases or developments genuinely worth monitoring today or this week.
+Do not invent scheduled dates.
+Only use dates/events clearly supported by the supplied information.
+If an exact future date is not supported, use a general label like "Today" or "This Week".
+
+Return valid JSON only.
+
+Required JSON:
 
 {
   "date": "${today}",
+
   "morningSnapshot": {
     "headline": "string",
     "summary": "string"
   },
+
   "topStory": {
     "category": "string",
     "location": "string",
@@ -286,6 +311,7 @@ Required JSON shape:
     "source": "string",
     "sourceUrl": "string"
   },
+
   "stories": [
     {
       "category": "string",
@@ -298,10 +324,44 @@ Required JSON shape:
       "sourceUrl": "string"
     }
   ],
+
   "markets": {
     "items": [],
     "insight": "string"
-  }
+  },
+
+  "yourMoney": {
+    "headline": "string",
+    "summary": "string",
+    "whyItMatters": "string",
+    "source": "string",
+    "sourceUrl": "string"
+  },
+
+  "manufacturing": {
+    "headline": "string",
+    "summary": "string",
+    "whyItMatters": "string",
+    "source": "string",
+    "sourceUrl": "string",
+    "engineeringHeadline": "string",
+    "engineeringSummary": "string"
+  },
+
+  "world": {
+    "headline": "string",
+    "summary": "string",
+    "whyItMatters": "string",
+    "source": "string",
+    "sourceUrl": "string"
+  },
+
+  "lookingAhead": [
+    {
+      "label": "string",
+      "text": "string"
+    }
+  ]
 }
 `;
 
@@ -355,8 +415,6 @@ Required JSON shape:
       )
     );
 
-  // Force verified market values into the final report.
-  // Gemini may write the commentary, but it cannot alter the numbers.
   generated.markets.items =
     marketData.items.map((item) => ({
       name: item.name,
@@ -377,32 +435,11 @@ Required JSON shape:
 
   fs.writeFileSync(
     reportPath,
-    `${JSON.stringify(
-      generated,
-      null,
-      2
-    )}\n`
+    `${JSON.stringify(generated, null, 2)}\n`
   );
-
-  const realImageCount = [
-    generated.topStory,
-    ...generated.stories,
-  ].filter(
-    (story) =>
-      findOriginalStory(
-        story,
-        sourceMaterial
-      )?.image
-  ).length;
 
   console.log(
     `✅ LIVE Ryan Report generated successfully for ${generated.date}.`
-  );
-
-  console.log(
-    `Stories using real article images: ${realImageCount}/${
-      generated.stories.length + 1
-    }`
   );
 }
 
