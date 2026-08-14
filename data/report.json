@@ -1,38 +1,38 @@
 {
   "date": "2026-08-14",
   "morningSnapshot": {
-    "headline": "Trade Pressures Mount as Mortgage Renewals Pinch Canadian Budgets",
-    "summary": "Good morning, Ryan. Today's briefing covers escalating U.S. tariff scrutiny on Canadian supply chains, surging mortgage renewal pressures affecting household budgets, and key shifts in Ontario's industrial and automation landscape."
+    "headline": "Tariff Staredown, Manufacturing Pressures, and Mortgage Reality Checks",
+    "summary": "Good morning, Ryan. As Canadian businesses wait out the U.S. tariff deadline, housing and mortgage pressures continue to weigh heavily on budgets, and global oil markets react to shifting demand."
   },
   "topStory": {
-    "category": "World",
-    "location": "Washington / Ottawa",
-    "headline": "U.S. says Canada among China’s ‘biggest enablers’ in avoiding Trump tariffs",
-    "summary": "A new White House report accuses China of routing exports through third countries like Canada with more favourable tariff rates to bypass U.S. levies.",
-    "whyItMatters": "As an Ontario manufacturer operating in the cross-border supply chain, intensifying U.S. scrutiny on third-country transshipment directly heightens trade friction and regulatory pressure on Canadian industrial exports.",
-    "explainMore": "The White House report released Thursday highlights growing friction in North American trade mechanics, pointing specifically to transshipment vulnerabilities.\n\nFor Canadian manufacturers and trade partners, heightened U.S. focus on enforcement risks creating administrative bottlenecks and complicating material sourcing across borders.\n\nIndustrial stakeholders will need to monitor how federal policymakers respond to these allegations as tariff policies continue to evolve under the current U.S. administration.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/China-trade-file-e1786646798745.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
+    "category": "Canada-US Tariffs",
+    "location": "Ottawa / Washington",
+    "headline": "Canadian companies betting Trump will buckle ahead of 50% tariff deadline",
+    "summary": "Industry insiders say companies are opting to wait and see as the clock ticks down on U.S. President Donald Trump's latest tariff deadline.",
+    "whyItMatters": "For Ontario manufacturing, cross-border trade friction, potential steel/aluminum impacts, and shifting supply chains directly threaten industrial stability and input costs.",
+    "explainMore": "As the deadline approaches, Canadian firms are locked in a high-stakes waiting game, betting that political and economic pressure will force the U.S. administration to back down from steep proposed levies.\n\nSimultaneously, U.S. officials have pointed fingers at Canada, alleging it serves as a transit route for third-party goods seeking to evade American tariffs. This dynamic intensifies regulatory scrutiny on Canadian supply chains.\n\nFor regional manufacturers, particularly those operating in cross-border industrial ecosystems, maintaining flexibility while monitoring trade policy shifts is vital to mitigating sudden cost shocks.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Trump-tariffs-Canada.jpg-e1786710246984.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12021434/trump-tariffs-deadline-buckle/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Canadian Tire says consumer sentiment ‘soft’ amid trade war, tariffs",
-      "summary": "Canadian Tire executives report that ongoing trade friction and tariffs are continuing to depress consumer sentiment.",
-      "whyItMatters": "Softening domestic retail sentiment offers a broader economic barometer reflecting how trade tensions and inflation weigh on discretionary spending across the country.",
-      "explainMore": "Speaking on a call with analysts, Canadian Tire CEO Greg Hicks noted that consumer sentiment remained soft during the previous quarter.\n\nThe broader retail slowdown reflects mounting pressures from cross-border trade disputes and higher cost-of-living burdens felt by households nationwide.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Canadian-Tire-Earnings.jpg-e1786637565694.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12019942/canadian-tire-earnings/"
+      "category": "World Trade & Policy",
+      "headline": "U.S. says Canada among China’s ‘biggest enablers’ in avoiding Trump tariffs",
+      "summary": "A new White House report accuses China of routing exports through third countries with more favourable tariff rates.",
+      "whyItMatters": "Increased U.S. scrutiny on Canadian transshipment channels risks triggering tighter border enforcement and secondary trade penalties affecting Canadian exporters.",
+      "explainMore": "The White House report explicitly names Canada as a primary enabler in helping Chinese goods bypass strict U.S. tariffs through transshipment.\n\nThis accusation adds fuel to ongoing trade tensions, raising the prospect that Washington could demand stricter rules of origin or unilateral enforcement measures at the border.\n\nFor industrial producers relying on seamless North American logistics, increased friction at the border threatens to disrupt component flows and escalate administrative overhead.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/China-trade-file-e1786646798745.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - World",
+      "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "N/A",
-        "positive": null
+        "value": "▲ 0.55%",
+        "positive": true
       },
       {
         "name": "S&P 500",
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7202",
+        "value": "0.7211",
         "positive": null
       }
     ],
-    "insight": "Oil prices eased 1.78% to $125.03 amid projections of slowing global crude demand, while the Canadian dollar held near 0.7202 USD."
+    "insight": "North American equities ticked upward with the TSX up 0.55% to 54.88 and the S&P 500 gaining 0.70% to 777.88. Crude oil retreated 1.78% to $125.03 amid projections of softening global demand, while the Canadian dollar held at 0.7211 against the USD."
   },
   "yourMoney": {
-    "headline": "Mortgage renewals push housing costs to consume half of Canadian budgets",
-    "summary": "A new survey reveals that Canada's ongoing wave of mortgage renewals is forcing many households to allocate up to 50% of their budgets to housing costs.",
-    "whyItMatters": "With a 5-year variable mortgage, monitoring rate trajectories remains critical as renewal cycles place unprecedented pressure on household cash flow.",
+    "headline": "Mortgage renewals push housing costs to consume half of household budgets",
+    "summary": "Canada is navigating its largest wave of mortgage renewals, with a new survey revealing that housing expenses consume up to 50% of many household budgets.",
+    "whyItMatters": "For homeowners on variable or fixed-rate renewals, elevated borrowing costs require strict cash flow management, particularly in the face of broader consumer sentiment softness noted by major retailers like Canadian Tire.",
     "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12016803/mortgage-renewal-budget/"
   },
   "manufacturing": {
-    "headline": "Ontario releases AI data centre playbook as provincial infrastructure evolves",
-    "summary": "The Ontario government has launched a new 'data centre playbook' outlining clear requirements for technology and infrastructure companies looking to establish operations in the province.",
-    "whyItMatters": "As Ontario pushes forward with industrial technology and digital infrastructure expansion, framework updates directly impact local engineering and automation ecosystems.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12020000/ontario-releases-ai-data-centre-playbook/",
-    "engineeringHeadline": "STRATOS 2026 Campaign launches weather balloons for advanced Canadian tech testing",
-    "engineeringSummary": "From August 15 to 23, the STRATOS 2026 Campaign will launch weather balloons from Timmins, Ontario, carrying Canadian payloads and high school science experiments to test new technologies in a space-like stratospheric environment."
+    "headline": "Federal Support Targets Regional SMEs and Supply Chain Productivity",
+    "summary": "Recent federal funding announcements highlight ongoing investments in manufacturing and industrial machining capacity across Canada, including support for Quebec-based industrial machining firms like OSM Atlantic.",
+    "whyItMatters": "Targeted investments in regional processing and machining infrastructure help bolster domestic industrial capacity, reinforcing the broader supply chain network that feeds into Ontario's heavy equipment and hydraulic manufacturing sectors.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-invests-in-osm-atlantics-growth.html",
+    "engineeringHeadline": "Stratospheric Campaign to Test Canadian Space-Grade Technologies",
+    "engineeringSummary": "The Canadian Space Agency is launching the STRATOS 2026 Campaign from Timmins, Ontario, deploying five weather balloons carrying scientific payloads and high school experiments to test cutting-edge technologies in a near-space environment."
   },
   "world": {
-    "headline": "IEA expects global oil demand to fall as surging energy prices bite",
-    "summary": "The International Energy Agency projects that worldwide crude demand will contract as higher gas prices compel consumers and businesses to curtail energy consumption.",
-    "whyItMatters": "Shifts in global energy demand directly influence industrial operational costs and broader macroeconomic stability across manufacturing sectors.",
+    "headline": "IEA projects global oil demand contraction amid soaring energy prices",
+    "summary": "According to the International Energy Agency, worldwide crude demand is expected to decline as elevated fuel prices force businesses and consumers to curb consumption.",
+    "whyItMatters": "Shifting energy demand and high fuel prices directly influence industrial operating overhead, logistics costs, and broader macroeconomic sentiment.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12018757/oil-prices-demand-iea/"
   },
   "lookingAhead": [
     {
       "label": "August 15 - 23, 2026",
-      "text": "The STRATOS 2026 Campaign begins operations at the Timmins Balloon Base, testing new Canadian payloads and experimental technologies in the stratosphere."
+      "text": "STRATOS 2026 Campaign: Canadian aerospace and technology experiments launch from the Timmins Balloon Base in Ontario."
     },
     {
       "label": "This Week",
-      "text": "Monitor ongoing developments regarding U.S. tariff enforcement, cross-border supply chain policies, and domestic mortgage renewal trends."
+      "text": "Monitor ongoing developments regarding U.S. tariff deadlines and potential retaliation or trade enforcement updates affecting Canadian manufacturers."
     }
   ]
 }
