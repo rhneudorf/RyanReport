@@ -1,88 +1,88 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "morningSnapshot": {
-    "headline": "Tariff Staredown, Manufacturing Pressures, and Mortgage Reality Checks",
-    "summary": "Good morning, Ryan. As Canadian businesses wait out the U.S. tariff deadline, housing and mortgage pressures continue to weigh heavily on budgets, and global oil markets react to shifting demand."
+    "headline": "Canada-U.S. Trade Talks Face Obstacles; Stellantis Weighs Brampton Closure",
+    "summary": "Good morning, Ryan. Trade negotiations in Washington reveal a significant gap between Canadian and U.S. officials, while Unifor warns that Stellantis is seriously considering closing its Ontario assembly plant in Brampton. Meanwhile, markets see slight downward pressure with oil trading up at $126.60."
   },
   "topStory": {
-    "category": "Canada-US Tariffs",
-    "location": "Ottawa / Washington",
-    "headline": "Canadian companies betting Trump will buckle ahead of 50% tariff deadline",
-    "summary": "Industry insiders say companies are opting to wait and see as the clock ticks down on U.S. President Donald Trump's latest tariff deadline.",
-    "whyItMatters": "For Ontario manufacturing, cross-border trade friction, potential steel/aluminum impacts, and shifting supply chains directly threaten industrial stability and input costs.",
-    "explainMore": "As the deadline approaches, Canadian firms are locked in a high-stakes waiting game, betting that political and economic pressure will force the U.S. administration to back down from steep proposed levies.\n\nSimultaneously, U.S. officials have pointed fingers at Canada, alleging it serves as a transit route for third-party goods seeking to evade American tariffs. This dynamic intensifies regulatory scrutiny on Canadian supply chains.\n\nFor regional manufacturers, particularly those operating in cross-border industrial ecosystems, maintaining flexibility while monitoring trade policy shifts is vital to mitigating sudden cost shocks.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Trump-tariffs-Canada.jpg-e1786710246984.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12021434/trump-tariffs-deadline-buckle/"
+    "category": "Manufacturing & Trade",
+    "location": "Washington / Ontario",
+    "headline": "Big gap remains between Canada and U.S. in ongoing trade talks: sources",
+    "summary": "Following a week of negotiations in Washington, sources indicate a substantial distance remains between Canadian and U.S. officials regarding potential trade deals and tariff policies.",
+    "whyItMatters": "As an engineer in Ontario's hydraulic cylinder manufacturing sector, cross-border trade friction, tariffs, and potential supply chain disruptions directly impact industrial demand, material sourcing, and operational planning.",
+    "explainMore": "Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette recently updated provincial and territorial trade ministers on the latest developments in these ongoing Canada-U.S. negotiations. While discussions have been characterized by multiple sources as constructive, the persistent gap highlights the fragility of bilateral trade frameworks.\n\nSimultaneously, domestic manufacturing faces severe headwinds; Unifor president Lana Payne announced that Stellantis is 'seriously considering' closing an assembly plant in Brampton, Ontario. Together, these developments underscore a tense climate for Canadian industry, where policy shifts and regional manufacturing contractions demand close monitoring from engineering and production leadership.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/LeBlanc-Greer-e1786737176923.jpeg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12022041/canada-us-trade-talks-tariffs-gap-source/"
   },
   "stories": [
     {
-      "category": "World Trade & Policy",
-      "headline": "U.S. says Canada among China’s ‘biggest enablers’ in avoiding Trump tariffs",
-      "summary": "A new White House report accuses China of routing exports through third countries with more favourable tariff rates.",
-      "whyItMatters": "Increased U.S. scrutiny on Canadian transshipment channels risks triggering tighter border enforcement and secondary trade penalties affecting Canadian exporters.",
-      "explainMore": "The White House report explicitly names Canada as a primary enabler in helping Chinese goods bypass strict U.S. tariffs through transshipment.\n\nThis accusation adds fuel to ongoing trade tensions, raising the prospect that Washington could demand stricter rules of origin or unilateral enforcement measures at the border.\n\nFor industrial producers relying on seamless North American logistics, increased friction at the border threatens to disrupt component flows and escalate administrative overhead.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/China-trade-file-e1786646798745.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - World",
-      "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
+      "category": "Manufacturing & Trade",
+      "headline": "Stellantis ‘seriously considering’ closing Ontario assembly plant: Unifor",
+      "summary": "Unifor president Lana Payne stated on Friday that automaker Stellantis is strongly considering shutting down its assembly plant in Brampton, Ontario.",
+      "whyItMatters": "A major automotive plant closure in Southern Ontario ripples across the broader regional manufacturing, tooling, and supply chain ecosystem.",
+      "explainMore": "The potential closure of the Brampton facility signals intensifying pressures within Ontario's automotive and heavy manufacturing corridors. For professionals tied to industrial supply chains across the Greater Toronto and Golden Horseshoe regions, such contractions warrant keeping a close eye on regional industrial health and automotive restructuring.\n\nUnifor's public warning highlights the ongoing vulnerability of assembly operations amid shifting North American production mandates and trade dynamics.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Stellantis-Brampton-Closure.jpg-e1786733147128.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12021873/stellantis-unifor-brampton-plant-closure/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.55%",
-        "positive": true
-      },
-      {
-        "name": "S&P 500",
-        "value": "▲ 0.70%",
-        "positive": true
-      },
-      {
-        "name": "Oil",
-        "value": "▼ 1.78%",
+        "value": "▼ 0.11%",
         "positive": false
       },
       {
+        "name": "S&P 500",
+        "value": "▼ 0.20%",
+        "positive": false
+      },
+      {
+        "name": "Oil",
+        "value": "▲ 1.26%",
+        "positive": true
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7211",
+        "value": "0.7209",
         "positive": null
       }
     ],
-    "insight": "North American equities ticked upward with the TSX up 0.55% to 54.88 and the S&P 500 gaining 0.70% to 777.88. Crude oil retreated 1.78% to $125.03 amid projections of softening global demand, while the Canadian dollar held at 0.7211 against the USD."
+    "insight": "Oil climbed over 1.2% to $126.60, while North American equities experienced mild downward adjustments. The Canadian dollar holds at approximately 0.7209 against the greenback."
   },
   "yourMoney": {
-    "headline": "Mortgage renewals push housing costs to consume half of household budgets",
-    "summary": "Canada is navigating its largest wave of mortgage renewals, with a new survey revealing that housing expenses consume up to 50% of many household budgets.",
-    "whyItMatters": "For homeowners on variable or fixed-rate renewals, elevated borrowing costs require strict cash flow management, particularly in the face of broader consumer sentiment softness noted by major retailers like Canadian Tire.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12016803/mortgage-renewal-budget/"
+    "headline": "Gas Prices Face Upward Pressure as Fuel Excise Tax Pause Expiration Nears",
+    "summary": "Canadian consumers are bracing for changes at the pump as the temporary fuel excise tax pause is scheduled to expire next month, ending a period of relief.",
+    "whyItMatters": "Utility and transportation cost increases feed into broader household expenses, reinforcing the importance of keeping an eye on inflation metrics that influence variable mortgage rates.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12021613/gas-prices-excise-tax-pause/"
   },
   "manufacturing": {
-    "headline": "Federal Support Targets Regional SMEs and Supply Chain Productivity",
-    "summary": "Recent federal funding announcements highlight ongoing investments in manufacturing and industrial machining capacity across Canada, including support for Quebec-based industrial machining firms like OSM Atlantic.",
-    "whyItMatters": "Targeted investments in regional processing and machining infrastructure help bolster domestic industrial capacity, reinforcing the broader supply chain network that feeds into Ontario's heavy equipment and hydraulic manufacturing sectors.",
+    "headline": "Federal Officials Engage Provinces on Trade Strategy Amid U.S. Tensions",
+    "summary": "Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette met virtually with provincial and territorial trade ministers to review evolving Canada-U.S. trade negotiations.",
+    "whyItMatters": "Coordinated federal-provincial trade strategy directly affects import-export conditions, regulatory frameworks, and raw material costs for Ontario manufacturers.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-invests-in-osm-atlantics-growth.html",
-    "engineeringHeadline": "Stratospheric Campaign to Test Canadian Space-Grade Technologies",
-    "engineeringSummary": "The Canadian Space Agency is launching the STRATOS 2026 Campaign from Timmins, Ontario, deploying five weather balloons carrying scientific payloads and high school experiments to test cutting-edge technologies in a near-space environment."
+    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-and-chief-trade-negotiator-update-provincial-and-territorial-trade-ministers-and-advisory-committee-on-canada-us-economic-relation.html",
+    "engineeringHeadline": "STRATOS 2026 Campaign Launches Weather Balloons from Timmins Base",
+    "engineeringSummary": "Running from August 15 to 23, the STRATOS (ICARUS) 2026 Campaign is utilizing the Timmins Balloon Base in Ontario to launch weather balloons carrying five Canadian payloads and student-designed experiments into the stratosphere to test new technologies and collect scientific measurements."
   },
   "world": {
-    "headline": "IEA projects global oil demand contraction amid soaring energy prices",
-    "summary": "According to the International Energy Agency, worldwide crude demand is expected to decline as elevated fuel prices force businesses and consumers to curb consumption.",
-    "whyItMatters": "Shifting energy demand and high fuel prices directly influence industrial operating overhead, logistics costs, and broader macroeconomic sentiment.",
+    "headline": "U.S. Report Accuses Canada and Third Countries of Aiding Tariff Evasion",
+    "summary": "A newly released White House report alleges that China is routing exports through third countries like Canada to bypass U.S. tariffs, friction that complicates ongoing bilateral trade talks.",
+    "whyItMatters": "Transshipment allegations and U.S. scrutiny of Canadian trade channels heighten the risk of stricter border enforcement and secondary trade restrictions affecting cross-border manufacturers.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12018757/oil-prices-demand-iea/"
+    "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
   },
   "lookingAhead": [
     {
-      "label": "August 15 - 23, 2026",
-      "text": "STRATOS 2026 Campaign: Canadian aerospace and technology experiments launch from the Timmins Balloon Base in Ontario."
+      "label": "August 15 – 23, 2026",
+      "text": "STRATOS 2026 Campaign active, launching scientific payloads and technology tests from the Timmins Balloon Base in Ontario."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing developments regarding U.S. tariff deadlines and potential retaliation or trade enforcement updates affecting Canadian manufacturers."
+      "label": "This Month",
+      "text": "Monitor upcoming policy updates regarding the expiration of the federal fuel excise tax pause and its impact on consumer transport costs."
     }
   ]
 }
