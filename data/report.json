@@ -1,38 +1,38 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "morningSnapshot": {
-    "headline": "Canada-U.S. Trade Pressures Mount as Stellantis Weighs Ontario Plant Future",
-    "summary": "As trade negotiations continue between Ottawa and Washington, domestic manufacturing faces intense pressures amid potential plant closures and rising U.S. tariff scrutiny."
+    "headline": "Trade Deadlines Loom as Washington Talks Continue; Markets Edge Lower",
+    "summary": "As the August 19 deadline for Canada-U.S. trade negotiations nears, discussions in Washington take center stage alongside local manufacturing pressures and shifting fuel tax deadlines."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Brampton, Ontario",
-    "headline": "Stellantis ‘seriously considering’ closing Ontario assembly plant: Unifor",
-    "summary": "Stellantis is strongly considering closing an assembly plant in Brampton, according to Unifor president Lana Payne, as high-stakes cross-border trade talks continue.",
-    "whyItMatters": "As an Ontario manufacturing professional, stability in the regional automotive and industrial supply chain directly underscores broader industrial health across the province.",
-    "explainMore": "Unifor's warning regarding the potential closure of the Brampton assembly facility highlights deep structural anxieties within Ontario's manufacturing corridor. The development unfolds alongside ongoing bilateral trade negotiations between Canadian officials and the United States.\n\nSimultaneously, federal and provincial trade ministers, including Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette, have been actively meeting with provincial counterparts and advisory committees to navigate complex economic relations and proposed U.S. tariffs. With the U.S. administration asserting that proposed tariffs respond to retaliatory measures and warning that automotive and trade policies remain major friction points, regional manufacturers face heightened uncertainty.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Stellantis-Brampton-Closure.jpg-e1786733147128.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12021873/stellantis-unifor-brampton-plant-closure/"
+    "category": "Canada",
+    "location": "Washington / Ottawa",
+    "headline": "Canada, U.S. officials to meet again as 50% tariffs to take effect in 3 days",
+    "summary": "Canada and U.S. officials are holding ongoing talks in Washington with the crucial August 19 deadline fast approaching for an agreement to avert proposed 50% tariffs.",
+    "whyItMatters": "For Ontario manufacturing, supply chains, and the wider industrial sector, avoiding steep tariffs is critical to maintaining cross-border operational viability.",
+    "explainMore": "Negotiations in Washington are reaching a head as officials race against the August 19 deadline for a trade agreement. Conservative leader Pierre Poilievre has emphasized that any new U.S. trade deal must explicitly remove softwood lumber tariffs.\n\nSimultaneously, federal and provincial trade ministers—including Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette—have been coordinating updates with provincial trade ministers and advisory committees to evaluate the state of bilateral economic relations.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/canada-us-flags.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12023361/canada-us-talks-weekend-tariffs-softwood-lumber/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Canada’s tax reform could start with small business changes: official",
-      "summary": "Over a year into Prime Minister Mark Carney's mandate, the Liberal government has initiated minor adjustments to the country's tax code, with broader business reforms on the horizon.",
-      "whyItMatters": "Corporate and small business tax shifts directly impact capital investment pacing, overhead planning, and the broader operating environment for engineering and manufacturing firms.",
-      "explainMore": "More than a year after taking office, Prime Minister Mark Carney's administration is examining structural shifts to Canada's tax framework. Government officials indicate that upcoming reforms are likely to concentrate first on small businesses.\n\nFor industrial operators, contractors, and specialized manufacturing firms across Ontario, any shifts in the tax code require careful monitoring of capital allocation strategies and compliance adjustments.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/a8bb6c5e0b0490e3f7ca00a4773d020afda4b18756da227b01af03a91adf5b68.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12022863/canada-tax-code-reforms/"
+      "category": "Local",
+      "headline": "Stellantis ‘seriously considering’ closing Ontario assembly plant: Unifor",
+      "summary": "Unifor president Lana Payne warns that Stellantis is strongly considering closing its assembly plant in Brampton, Ontario.",
+      "whyItMatters": "Signals mounting structural pressures within Ontario's automotive and industrial manufacturing footprint, impacting tier-one suppliers and regional engineering networks.",
+      "explainMore": "The potential closure highlights the deep structural challenges facing southern Ontario's manufacturing core. Local municipal leaders, such as the Mayor of Brampton, have stressed that any Canada-U.S. trade deal must fiercely protect the domestic auto sector.\n\nAs supply chains face cross-border trade uncertainties and looming tariff deadlines, stability in regional assembly and manufacturing operations remains a top concern for industry professionals.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Stellantis-Brampton-Closure.jpg-e1786733147128.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12021873/stellantis-unifor-brampton-plant-closure/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "N/A",
-        "positive": null
+        "value": "▼ 0.11%",
+        "positive": false
       },
       {
         "name": "S&P 500",
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7209",
+        "value": "0.7216",
         "positive": null
       }
     ],
-    "insight": "Oil prices climbed to 126.6, up 1.26%, while the Canadian dollar traded at 0.7209 against the U.S. dollar, keeping energy and import costs elevated for domestic manufacturers."
+    "insight": "Oil climbed above $126 per barrel, adding upward pressure on energy and operational costs, while North American equities ticked slightly lower and the Canadian dollar held near 0.72 USD."
   },
   "yourMoney": {
-    "headline": "Gas prices set to change when excise tax pause expires",
-    "summary": "Canadian consumers face impending changes at the fuel pump as the temporary federal excise tax pause on fuel is scheduled to expire next month.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage navigating fluctuating household expenses, managing fuel and utility costs remains critical as broader fiscal relief measures phase out.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12021613/gas-prices-excise-tax-pause/"
+    "headline": "Poilievre urges extension of fuel excise tax suspension as expiration looms",
+    "summary": "With the temporary federal suspension of the fuel excise tax set to expire on Labour Day (Sept. 7), political pressure is mounting on Prime Minister Mark Carney's government to extend the pause.",
+    "whyItMatters": "As a homeowner managing a 5-year variable mortgage against shifting consumer expenses, the expiration of the fuel tax pause signals upcoming cost-of-living adjustments at the pump next month.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12023323/poilievre-gas-tax-pause-extension-call/"
   },
   "manufacturing": {
-    "headline": "Ottawa updates provincial trade ministers on ongoing U.S. negotiations",
-    "summary": "Federal Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette updated provincial trade ministers and the advisory committee on the status of Canada-U.S. economic relations.",
-    "whyItMatters": "Ontario's hydraulic cylinder and industrial manufacturing sectors rely heavily on stable, frictionless cross-border supply chains and predictable tariff frameworks.",
+    "headline": "Federal officials and trade ministers coordinate on bilateral economic strategy",
+    "summary": "Federal Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette held virtual meetings from Washington with provincial trade ministers and the Advisory Committee on Canada-U.S. Economic Relations.",
+    "whyItMatters": "Direct bilateral trade discussions dictate raw material access, component pricing, and cross-border logistics essential for Ontario hydraulic cylinder manufacturing and industrial engineering.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-and-chief-trade-negotiator-update-provincial-and-territorial-trade-ministers-and-advisory-committee-on-canada-us-economic-relation.html",
-    "engineeringHeadline": "Canadian experiments launch from Timmins for stratospheric technology testing",
-    "engineeringSummary": "The STRATOS 2026 Campaign kicked off weather balloon launches from the Timmins Balloon Base in Ontario, carrying Canadian research payloads and student experiments to test new engineering technologies in a space-like environment."
+    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-and-chief-trade-negotiator-update-provincial-and-territorial-trade-ministers-and-committee-on-canada-us-economic-relations.html",
+    "engineeringHeadline": "Federal support bolsters southern Ontario business technology",
+    "engineeringSummary": "Minister Evan Solomon, leading the Federal Economic Development Agency for Southern Ontario, is rolling out targeted business technology and innovation investments across the region to strengthen industrial capability."
   },
   "world": {
-    "headline": "U.S. report accuses Canada of facilitating Chinese tariff evasion",
-    "summary": "A White House report released Thursday alleges that China utilizes third countries, including Canada, to route exports and avoid strict U.S. tariff rates.",
-    "whyItMatters": "Increased U.S. scrutiny regarding third-country transshipment heightens the risk of secondary trade restrictions, adding regulatory friction for Canadian industrial exporters.",
+    "headline": "Magnitude 7.7 earthquake strikes Indonesia, leaving dozens dead",
+    "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia's Flores coast with a shallow depth of 10 kilometers, toppling buildings and killing at least 38 people.",
+    "whyItMatters": "A major international natural disaster causing significant regional infrastructure damage and humanitarian crisis in Southeast Asia.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12020367/donald-trump-tariffs-china-canada-transshipment/"
+    "sourceUrl": "https://globalnews.ca/news/12022594/earthquake-indonesia-tsunami-warning/"
   },
   "lookingAhead": [
     {
-      "label": "August 15 - 23, 2026",
-      "text": "The STRATOS 2026 Campaign continues weather balloon payload testing from the Timmins Balloon Base in Ontario."
+      "label": "August 19, 2026",
+      "text": "Deadline for Canada-U.S. trade negotiations in Washington regarding proposed 50% tariffs."
     },
     {
-      "label": "Next Month",
-      "text": "The temporary federal fuel excise tax pause is scheduled to expire, bringing adjustments to gas prices across Canada."
+      "label": "Labour Day (Sept. 7, 2026)",
+      "text": "Scheduled expiration date for the temporary federal fuel excise tax suspension."
     }
   ]
 }
