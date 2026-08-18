@@ -1,88 +1,88 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "morningSnapshot": {
-    "headline": "Trade Deadlines Loom as Washington Talks Continue; Markets Edge Lower",
-    "summary": "As the August 19 deadline for Canada-U.S. trade negotiations nears, discussions in Washington take center stage alongside local manufacturing pressures and shifting fuel tax deadlines."
+    "headline": "Tariff Pressures Mount for Canadian Manufacturers as Carney and Trump Talk",
+    "summary": "Prime Minister Mark Carney and U.S. President Donald Trump discuss ongoing trade negotiations as looming tariff deadlines put pressure on domestic industries, while markets edge lower."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Washington / Ottawa",
-    "headline": "Canada, U.S. officials to meet again as 50% tariffs to take effect in 3 days",
-    "summary": "Canada and U.S. officials are holding ongoing talks in Washington with the crucial August 19 deadline fast approaching for an agreement to avert proposed 50% tariffs.",
-    "whyItMatters": "For Ontario manufacturing, supply chains, and the wider industrial sector, avoiding steep tariffs is critical to maintaining cross-border operational viability.",
-    "explainMore": "Negotiations in Washington are reaching a head as officials race against the August 19 deadline for a trade agreement. Conservative leader Pierre Poilievre has emphasized that any new U.S. trade deal must explicitly remove softwood lumber tariffs.\n\nSimultaneously, federal and provincial trade ministers—including Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette—have been coordinating updates with provincial trade ministers and advisory committees to evaluate the state of bilateral economic relations.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/canada-us-flags.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12023361/canada-us-talks-weekend-tariffs-softwood-lumber/"
+    "category": "Manufacturing & Trade",
+    "location": "Canada / United States",
+    "headline": "Carney, Trump speak as tariff deadline nears",
+    "summary": "Prime Minister Mark Carney and U.S. President Donald Trump spoke by phone about ongoing trade negotiations as a crucial tariff deadline approaches.",
+    "whyItMatters": "For Canadian manufacturing, especially cross-border supply chains and heavy industries, tariff decisions directly threaten operational costs and competitiveness.",
+    "explainMore": "The Prime Minister's Office confirmed that Prime Minister Mark Carney and U.S. President Donald Trump held a phone conversation regarding ongoing trade negotiations. The dialogue comes as a critical deadline nears for threatened U.S. tariffs on Canadian goods.\n\nAcross the country, industrial sectors are sounding the alarm over their inability to absorb punishing tariff costs. In B.C., a major plywood manufacturer stated it cannot absorb a 50 per cent tariff cost as deadlines loom, illustrating the immense pressure facing export-driven producers.\n\nWith North American supply chains tightly integrated, these high-stakes diplomatic talks will dictate input costs, pricing stability, and margin pressures for manufacturers across Ontario and the rest of the country.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Greer-Lutnick.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12024045/leblanc-trump-officials-tariffs/"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Stellantis ‘seriously considering’ closing Ontario assembly plant: Unifor",
-      "summary": "Unifor president Lana Payne warns that Stellantis is strongly considering closing its assembly plant in Brampton, Ontario.",
-      "whyItMatters": "Signals mounting structural pressures within Ontario's automotive and industrial manufacturing footprint, impacting tier-one suppliers and regional engineering networks.",
-      "explainMore": "The potential closure highlights the deep structural challenges facing southern Ontario's manufacturing core. Local municipal leaders, such as the Mayor of Brampton, have stressed that any Canada-U.S. trade deal must fiercely protect the domestic auto sector.\n\nAs supply chains face cross-border trade uncertainties and looming tariff deadlines, stability in regional assembly and manufacturing operations remains a top concern for industry professionals.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Stellantis-Brampton-Closure.jpg-e1786733147128.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Premier Ford met with Loblaw CEO 1 day after dismissing grocery pricing legislation",
+      "summary": "Premier Doug Ford held a private meeting with the executive head of one of Canada's largest grocery chains as the government rejected efforts to further regulate the industry.",
+      "whyItMatters": "Reflects ongoing provincial policy directions regarding consumer pricing, cost-of-living pressures, and industry regulation in Ontario.",
+      "explainMore": "Premier Doug Ford engaged in a private meeting with the CEO of one of Canada's largest grocery chains just one day after his government dismissed legislative efforts aimed at further regulating grocery pricing.\n\nThe timing of the meeting has drawn public and political scrutiny regarding how the province handles corporate lobbying and consumer cost pressures. As Ontario households continue to navigate tight household budgets, critics argue the administration is sidelining regulatory interventions in favor of private consultations.\n\nFor residents across the region, including Lincoln and the broader Niagara area, grocery costs remain a vital component of household expenses against a backdrop of broader inflationary challenges.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/bbc727824f2249c9710b210fa646c838755da58c26a37ee5b0fc1063c2cc3e94.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12021873/stellantis-unifor-brampton-plant-closure/"
+      "sourceUrl": "https://globalnews.ca/news/12023959/premier-ford-met-loblaw-ceo-dismissing-grocery-pricing-legislation/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.11%",
+        "value": "▼ 0.26%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.20%",
+        "value": "▼ 0.47%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.26%",
+        "value": "▲ 2.91%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7216",
+        "value": "0.7210",
         "positive": null
       }
     ],
-    "insight": "Oil climbed above $126 per barrel, adding upward pressure on energy and operational costs, while North American equities ticked slightly lower and the Canadian dollar held near 0.72 USD."
+    "insight": "Oil climbed nearly 3% to $130.29, keeping energy input costs elevated, while the TSX and S&P 500 both pulled back slightly in early trading. The Canadian dollar sits at 0.7210 against the greenback."
   },
   "yourMoney": {
-    "headline": "Poilievre urges extension of fuel excise tax suspension as expiration looms",
-    "summary": "With the temporary federal suspension of the fuel excise tax set to expire on Labour Day (Sept. 7), political pressure is mounting on Prime Minister Mark Carney's government to extend the pause.",
-    "whyItMatters": "As a homeowner managing a 5-year variable mortgage against shifting consumer expenses, the expiration of the fuel tax pause signals upcoming cost-of-living adjustments at the pump next month.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12023323/poilievre-gas-tax-pause-extension-call/"
+    "headline": "Foreign Investors Add $40.8 Billion in Canadian Securities",
+    "summary": "Statistics Canada reports strong foreign acquisitions of federal debt and private corporate bonds, while domestic investors picked up $35.4 billion in foreign securities.",
+    "whyItMatters": "Cross-border capital flows and foreign demand for Canadian debt securities influence broader domestic liquidity, bond yields, and borrowing costs.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260817/dq260817b-eng.htm"
   },
   "manufacturing": {
-    "headline": "Federal officials and trade ministers coordinate on bilateral economic strategy",
-    "summary": "Federal Minister Dominic LeBlanc and Chief Trade Negotiator Janice Charette held virtual meetings from Washington with provincial trade ministers and the Advisory Committee on Canada-U.S. Economic Relations.",
-    "whyItMatters": "Direct bilateral trade discussions dictate raw material access, component pricing, and cross-border logistics essential for Ontario hydraulic cylinder manufacturing and industrial engineering.",
+    "headline": "FedDev Ontario Invests Over $7 Million to Support Manufacturing Growth in Lindsay",
+    "summary": "The federal government has announced financial investments to help two local businesses expand their operations and enhance industrial resilience.",
+    "whyItMatters": "Targeted investments in regional manufacturing capacity bolster supply chain robustness and operational modernization across Ontario industrial hubs.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-leblanc-and-chief-trade-negotiator-update-provincial-and-territorial-trade-ministers-and-committee-on-canada-us-economic-relations.html",
-    "engineeringHeadline": "Federal support bolsters southern Ontario business technology",
-    "engineeringSummary": "Minister Evan Solomon, leading the Federal Economic Development Agency for Southern Ontario, is rolling out targeted business technology and innovation investments across the region to strengthen industrial capability."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-investment-supports-growth-and-innovation-for-two-businesses-in-lindsay.html",
+    "engineeringHeadline": "B.C. Plywood Sector Warns Tariffs Threaten Viability",
+    "engineeringSummary": "As trade deadlines loom, wood product manufacturers stress that a 50 per cent tariff rate is impossible to absorb without devastating operational impacts, highlighting the vulnerability of Canadian industrial exporters to sudden cross-border levies."
   },
   "world": {
-    "headline": "Magnitude 7.7 earthquake strikes Indonesia, leaving dozens dead",
-    "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia's Flores coast with a shallow depth of 10 kilometers, toppling buildings and killing at least 38 people.",
-    "whyItMatters": "A major international natural disaster causing significant regional infrastructure damage and humanitarian crisis in Southeast Asia.",
+    "headline": "Colombia Asks U.S. to Suspend Tariffs Amid Earthquake Recovery",
+    "summary": "Following a devastating earthquake, Colombia's presidential administration has formally requested that U.S. President Donald Trump suspend tariffs to aid recovery efforts.",
+    "whyItMatters": "Demonstrates how natural disasters and humanitarian crises intersect directly with international trade policy and tariff diplomacy.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12022594/earthquake-indonesia-tsunami-warning/"
+    "sourceUrl": "https://globalnews.ca/news/12023394/colombias-president-trump-tariffs-earthquake-recovery/"
   },
   "lookingAhead": [
     {
-      "label": "August 19, 2026",
-      "text": "Deadline for Canada-U.S. trade negotiations in Washington regarding proposed 50% tariffs."
+      "label": "This Week",
+      "text": "Monitor ongoing Canada-U.S. bilateral talks between Prime Minister Mark Carney and President Donald Trump regarding impending tariff deadlines."
     },
     {
-      "label": "Labour Day (Sept. 7, 2026)",
-      "text": "Scheduled expiration date for the temporary federal fuel excise tax suspension."
+      "label": "Ongoing",
+      "text": "Track regional developments as municipal civil servants continue voicing concerns over provincial consultation processes and regulatory legislation."
     }
   ]
 }
