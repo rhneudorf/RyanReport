@@ -1,88 +1,88 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "morningSnapshot": {
-    "headline": "Tariff Pressures Mount for Canadian Manufacturers as Carney and Trump Talk",
-    "summary": "Prime Minister Mark Carney and U.S. President Donald Trump discuss ongoing trade negotiations as looming tariff deadlines put pressure on domestic industries, while markets edge lower."
+    "headline": "Trump Pauses Tariffs on Canada Citing Trade Deal; Markets Slip",
+    "summary": "Good morning, Ryan. U.S. President Donald Trump has announced a pause on tariffs against Canada, citing a pending trade deal. Meanwhile, equity markets dipped slightly and Statistics Canada reports foreign investors added $40.8 billion in Canadian securities in June."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Canada / United States",
-    "headline": "Carney, Trump speak as tariff deadline nears",
-    "summary": "Prime Minister Mark Carney and U.S. President Donald Trump spoke by phone about ongoing trade negotiations as a crucial tariff deadline approaches.",
-    "whyItMatters": "For Canadian manufacturing, especially cross-border supply chains and heavy industries, tariff decisions directly threaten operational costs and competitiveness.",
-    "explainMore": "The Prime Minister's Office confirmed that Prime Minister Mark Carney and U.S. President Donald Trump held a phone conversation regarding ongoing trade negotiations. The dialogue comes as a critical deadline nears for threatened U.S. tariffs on Canadian goods.\n\nAcross the country, industrial sectors are sounding the alarm over their inability to absorb punishing tariff costs. In B.C., a major plywood manufacturer stated it cannot absorb a 50 per cent tariff cost as deadlines loom, illustrating the immense pressure facing export-driven producers.\n\nWith North American supply chains tightly integrated, these high-stakes diplomatic talks will dictate input costs, pricing stability, and margin pressures for manufacturers across Ontario and the rest of the country.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Greer-Lutnick.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12024045/leblanc-trump-officials-tariffs/"
+    "category": "Canada-US Trade",
+    "location": "Ottawa / Washington",
+    "headline": "Trump pauses tariffs on Canada, cites pending trade deal",
+    "summary": "The U.S. president announced on social media that planned duties against Canada were delayed based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a deal.",
+    "whyItMatters": "For anyone operating in Ontario manufacturing and industrial supply chains, avoiding sudden border tariffs is vital for cost predictability, component sourcing, and export stability.",
+    "explainMore": "The announcement represents a significant shift in cross-border trade dynamics, removing an immediate penalty threat that hung over Canadian manufacturers, steel, and aluminum producers.\n\nWhile the exact text and finalization of documents remain pending, the pause offers immediate breathing room for industrial supply chains across Ontario.\n\nStakeholders will be monitoring how quickly the final legal frameworks and trade documents are locked in to ensure long-term stability for cross-border manufacturing operations.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/06/Trump-Carney-CUSMA-talks.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12025675/canada-us-trade-deal-donald-trump-tariffs/"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Premier Ford met with Loblaw CEO 1 day after dismissing grocery pricing legislation",
-      "summary": "Premier Doug Ford held a private meeting with the executive head of one of Canada's largest grocery chains as the government rejected efforts to further regulate the industry.",
-      "whyItMatters": "Reflects ongoing provincial policy directions regarding consumer pricing, cost-of-living pressures, and industry regulation in Ontario.",
-      "explainMore": "Premier Doug Ford engaged in a private meeting with the CEO of one of Canada's largest grocery chains just one day after his government dismissed legislative efforts aimed at further regulating grocery pricing.\n\nThe timing of the meeting has drawn public and political scrutiny regarding how the province handles corporate lobbying and consumer cost pressures. As Ontario households continue to navigate tight household budgets, critics argue the administration is sidelining regulatory interventions in favor of private consultations.\n\nFor residents across the region, including Lincoln and the broader Niagara area, grocery costs remain a vital component of household expenses against a backdrop of broader inflationary challenges.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/bbc727824f2249c9710b210fa646c838755da58c26a37ee5b0fc1063c2cc3e94.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Quebec couple sues Ontario surrogacy agency after stillbirth, alleges improper expenses",
+      "summary": "A Montreal couple is suing an Ontario surrogacy agency for nearly $200,000 following a stillbirth and disputed expense reimbursements, allegations denied by the agency.",
+      "whyItMatters": "Highlights legal liabilities and commercial dispute trends within regional Ontario service agencies.",
+      "explainMore": "The civil suit filed in Ontario details serious claims regarding financial accounting and expense management by the surrogacy agency.\n\nThe agency strongly denies the claims, and the matter will proceed through the provincial legal system to resolve the disputes over reimbursed costs and contractual obligations.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Screenshot-2026-08-18-185415-e1787093692223.png?w=720&h=464&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12023959/premier-ford-met-loblaw-ceo-dismissing-grocery-pricing-legislation/"
+      "sourceUrl": "https://globalnews.ca/news/12026163/quebec-couple-sues-ontario-surrogacy-agency/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.26%",
+        "value": "▼ 0.73%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.47%",
+        "value": "▼ 0.68%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 2.91%",
+        "value": "▲ 0.28%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7210",
+        "value": "0.7212",
         "positive": null
       }
     ],
-    "insight": "Oil climbed nearly 3% to $130.29, keeping energy input costs elevated, while the TSX and S&P 500 both pulled back slightly in early trading. The Canadian dollar sits at 0.7210 against the greenback."
+    "insight": "North American equities pulled back slightly in morning tracking, with the TSX down 0.73% to 54.28 and the S&P 500 losing 0.68% to 767.45. Oil ticked upward to 130.66, while the Canadian dollar held near 0.7212 against the greenback."
   },
   "yourMoney": {
-    "headline": "Foreign Investors Add $40.8 Billion in Canadian Securities",
-    "summary": "Statistics Canada reports strong foreign acquisitions of federal debt and private corporate bonds, while domestic investors picked up $35.4 billion in foreign securities.",
-    "whyItMatters": "Cross-border capital flows and foreign demand for Canadian debt securities influence broader domestic liquidity, bond yields, and borrowing costs.",
+    "headline": "Foreign investment in Canadian securities surges by $40.8B in June",
+    "summary": "Statistics Canada reports that foreign investors added $40.8 billion of Canadian securities to their holdings in June, driven mainly by federal debt and private corporate bonds.",
+    "whyItMatters": "For variable-rate mortgage holders and long-term investors, capital flows into federal debt and corporate bonds signal strong foreign appetite for Canadian fixed-income assets, impacting broader borrowing conditions.",
     "source": "Statistics Canada - Economic Accounts",
     "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260817/dq260817b-eng.htm"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario Invests Over $7 Million to Support Manufacturing Growth in Lindsay",
-    "summary": "The federal government has announced financial investments to help two local businesses expand their operations and enhance industrial resilience.",
-    "whyItMatters": "Targeted investments in regional manufacturing capacity bolster supply chain robustness and operational modernization across Ontario industrial hubs.",
+    "headline": "Federal investment targets regional manufacturing expansion and innovation",
+    "summary": "FedDev Ontario has announced investments exceeding $7 million to help two businesses in Lindsay expand operations and increase industrial resilience, while federal officials pursue regional manufacturing support in Quebec.",
+    "whyItMatters": "Targeted capital injections into industrial hubs improve supply chain depth and regional manufacturing capacity across Ontario.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-investment-supports-growth-and-innovation-for-two-businesses-in-lindsay.html",
-    "engineeringHeadline": "B.C. Plywood Sector Warns Tariffs Threaten Viability",
-    "engineeringSummary": "As trade deadlines loom, wood product manufacturers stress that a 50 per cent tariff rate is impossible to absorb without devastating operational impacts, highlighting the vulnerability of Canadian industrial exporters to sudden cross-border levies."
+    "engineeringHeadline": "Federal funding boosts operational capacity for Ontario industrial operations",
+    "engineeringSummary": "Federal support programs continue to flow toward regional manufacturing facilities aiming to scale up production capacity and technological capability, reinforcing Ontario's industrial base."
   },
   "world": {
-    "headline": "Colombia Asks U.S. to Suspend Tariffs Amid Earthquake Recovery",
-    "summary": "Following a devastating earthquake, Colombia's presidential administration has formally requested that U.S. President Donald Trump suspend tariffs to aid recovery efforts.",
-    "whyItMatters": "Demonstrates how natural disasters and humanitarian crises intersect directly with international trade policy and tariff diplomacy.",
+    "headline": "Colombia asks Trump to suspend tariffs amid earthquake recovery",
+    "summary": "Following a major disaster, Colombian leadership has appealed to the U.S. administration to suspend tariffs to assist with national recovery efforts.",
+    "whyItMatters": "Demonstrates how unexpected geopolitical events and natural disasters directly intersect with international trade policy and tariff enforcement.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12023394/colombias-president-trump-tariffs-earthquake-recovery/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing Canada-U.S. bilateral talks between Prime Minister Mark Carney and President Donald Trump regarding impending tariff deadlines."
+      "text": "Monitor finalization of documents regarding the newly announced Canada-U.S. trade deal and tariff pause."
     },
     {
       "label": "Ongoing",
-      "text": "Track regional developments as municipal civil servants continue voicing concerns over provincial consultation processes and regulatory legislation."
+      "text": "Track regional economic development announcements and federal funding impacts on Ontario manufacturing supply chains."
     }
   ]
 }
