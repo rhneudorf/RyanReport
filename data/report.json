@@ -1,88 +1,102 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "morningSnapshot": {
-    "headline": "Trade Diplomacy Shifts: U.S. Tariffs Averted as Ottawa Urges Restocking",
-    "summary": "Prime Minister Mark Carney pushes provinces to restock U.S. alcohol as trade talks advance, while Saskatchewan's Premier notes the avoidance of crippling 50 per cent tariffs."
+    "headline": "Trade Mission Meal Funding Sparks Scrutiny; Markets Pull Back as Oil Climbs",
+    "summary": "Good morning, Ryan. Here is your briefing for Thursday, August 21, 2026. Ontario trade minister expenses draw scrutiny while manufacturing sector support events face cancellations. Markets see broad pullbacks with oil rising to $134.54."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Ottawa / Saskatchewan",
-    "headline": "Moe optimistic about Canada-U.S. trade deal",
-    "summary": "Saskatchewan Premier Scott Moe says a decision by U.S. President Donald Trump to not impose 50 per cent tariffs on an array of Canadian goods is positive for his province.",
-    "whyItMatters": "As a Canadian manufacturing professional, stable trade relations directly dictate supply chain flow, input costs, and export viability with our largest trading partner.",
-    "explainMore": "The ongoing negotiations between Ottawa and Washington continue to drive major headlines across domestic industry. Saskatchewan Premier Scott Moe highlighted the optimism felt across provincial sectors following the decision by U.S. President Donald Trump to steer clear of imposing heavy 50 per cent tariffs on a broad array of Canadian goods.\n\nSimultaneously, Nova Scotia Premier Tim Houston noted that Prime Minister Mark Carney has requested provinces to restock American alcohol on store shelves as Canada works to finalize a comprehensive trade arrangement with the U.S. Additionally, discussions surrounding the potential resurrection of the Keystone XL pipeline expansion project have emerged as a key component of these pending trade talks.\n\nThese high-level diplomatic maneuvers signal a concerted effort from federal and provincial leaders to stabilize cross-border commerce, providing crucial relief to manufacturing, resource, and logistics sectors that rely heavily on friction-free continental trade.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/1f5a3528b52e89690efb59d432e55294d0603a041848d3b3e82665ec38524686_1fd3c9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12027774/moe-optimistic-about-canada-u-s-trade-deal/"
+    "category": "Local",
+    "location": "Ontario",
+    "headline": "Ontario minister charged trade mission meals to riding association instead of government",
+    "summary": "Vic Fedeli, Premier Doug Ford's trade minister, hasn't charged the public for his meals or other expenses on trips, but records reveal party donors are footing the bill.",
+    "whyItMatters": "As an Ontario professional following provincial economic policy, trade mission oversight and ministerial transparency directly impact regional industrial initiatives.",
+    "explainMore": "Records indicate that while Ontario's trade minister avoided billing the public directly for meals and trip expenses, local riding association donors covered the costs instead. This method of financing ministerial travel has brought fresh scrutiny to how trade missions are funded.\n\nTransparency in government trade delegations remains a key point of interest for local stakeholders watching how provincial resources support Ontario businesses abroad.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176369372-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12029247/vic-fedeli-riding-association-expenses/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "‘Aggressive’ Asian tiger mosquito found in Niagara Region",
-      "summary": "Niagara Region Public Health has detected a single Aedes albopictus mosquito, also known as the Asian tiger mosquito, through its ongoing surveillance program.",
-      "whyItMatters": "Directly impacts your home region in the Niagara peninsula, introducing new public health surveillance concerns for local residents.",
-      "explainMore": "Niagara Region Public Health announced the detection of a single Aedes albopictus mosquito—commonly known as the Asian tiger mosquito—via its ongoing vector surveillance efforts. Known for its aggressive daytime biting behavior, the species has raised local awareness.\n\nWhile only one specimen has been identified so far, public health officials continue to monitor the area closely to track potential populations and mitigate any future vector-borne disease risks across the region.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/asian-tiger-mosqiuto.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12027011/aggressive-asian-tiger-mosquito-found-in-niagara-region/"
+      "category": "Canada",
+      "headline": "U.S. alcohol may go back on Manitoba shelves, but Kinew urges customers to buy Canadian",
+      "summary": "Premier Wab Kinew is open to returning American alcohol to shelves to secure a good trade deal, while still encouraging consumers to back domestic products.",
+      "whyItMatters": "Highlights ongoing domestic purchasing considerations and trade positioning across provinces amid broader North American trade discussions.",
+      "explainMore": "Premier Wab Kinew noted openness to restoring U.S. alcohol products to retail shelves if it assists in securing advantageous trade arrangements for Canada.\n\nDespite potential availability, provincial leadership continues to urge local consumers to prioritize Canadian-made goods, reflecting ongoing sensitivities around cross-border commerce.",
+      "image": "https://globalnews.ca/wp-content/uploads/2018/10/liquor-mart-4.png?w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12029080/american-alcohol-manitoba-shelves-kinew-buy-canadian/"
+    },
+    {
+      "category": "World",
+      "headline": "Canadian tribunal says wheat gluten dumping is likely hurting industry",
+      "summary": "A Canadian tribunal found that the dumping of wheat gluten from Italy, Poland, and the United Kingdom is likely injuring the domestic industry.",
+      "whyItMatters": "Demonstrates regulatory responses to foreign trade practices affecting Canadian agricultural and industrial producers.",
+      "explainMore": "The Canadian tribunal's finding addresses concerns over international trade fairness, specifically targeting wheat gluten imports from Italy, Poland, and the UK.\n\nSuch findings underline the enforcement mechanisms available to protect domestic industries from foreign pricing pressures that can destabilize local production sectors.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/06/8b07c13a6a14e29def5557a43c601d388582e69a15162d5702dd016bcbca0dff_97b470.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - World",
+      "sourceUrl": "https://globalnews.ca/news/12026872/italy-poland-uk-dumping-wheat-canada-tribunal/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.29%",
+        "value": "▼ 0.26%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.21%",
-        "positive": true
+        "value": "▼ 0.84%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.19%",
+        "value": "▲ 2.77%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7264",
+        "value": "0.7277",
         "positive": null
       }
     ],
-    "insight": "The TSX edged down 0.29% to 54.12, while the S&P 500 gained 0.21% to 769.06. Oil ticked higher to $130.91 amid ongoing energy trade discussions, and the Canadian dollar held steady at 0.7264 against the greenback."
+    "insight": "Oil climbed notably to $134.54, while equities saw modest downward pressure with the TSX at 53.98 (-0.26%) and the S&P 500 at 762.6 (-0.84%). The Canadian dollar held at 0.7277 against the U.S. dollar."
   },
   "yourMoney": {
-    "headline": "Statistics Canada Releases June 2026 Monthly Credit Aggregates",
-    "summary": "Fresh data detailing monthly credit aggregates for June 2026 have been published by Statistics Canada, offering insights into national borrowing trends.",
-    "whyItMatters": "Credit and borrowing metrics provide an essential read on consumer leverage and broader economic liquidity, directly influencing variable mortgage rate trajectories and Bank of Canada policy outlooks.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819e-eng.htm"
+    "headline": "Employment Insurance Statistics Updated by Statistics Canada",
+    "summary": "Statistics Canada updated Employment Insurance statistics through June 2026, with historical series revised back to January 2023.",
+    "whyItMatters": "Keeping track of national labour market data releases helps provide early indicators on employment trends that influence broader economic stability and variable-rate mortgage planning.",
+    "source": "Statistics Canada - Labour",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819d-eng.htm"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario Invests Over $7 Million in Regional Industrial Growth",
-    "summary": "The federal government has committed more than $7 million through FedDev Ontario to help two manufacturing and industrial businesses in Lindsay expand operations and increase resilience.",
-    "whyItMatters": "Continued capital injections into Ontario's manufacturing ecosystem reinforce supply chain infrastructure and validate ongoing investments in regional industrial capacity.",
+    "headline": "Federal Manufacturing Support Events Face Cancellations in Quebec",
+    "summary": "Scheduled federal announcements and regional tours supporting manufacturing businesses in Roberval and Saguenay have been cancelled due to circumstances beyond control.",
+    "whyItMatters": "Federal funding rollouts for industrial growth provide a barometer for capital investment trends across Canadian manufacturing hubs.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-investment-supports-growth-and-innovation-for-two-businesses-in-lindsay.html",
-    "engineeringHeadline": "Canadian Tribunal Flags Wheat Gluten Dumping Pressures",
-    "engineeringSummary": "A Canadian tribunal ruling indicates that wheat gluten dumping is likely harming domestic industry, highlighting ongoing import and trade enforcement challenges facing Canadian processing sectors."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/cancellation--carlos-leitao-tours-saguenaylac-saint-jean-region.html",
+    "engineeringHeadline": "Panama Canal Transit Caps Set to Impact Global Supply Chains",
+    "engineeringSummary": "The Panama Canal announced it will cap daily transits starting September 4 to 34 vessels, reducing further to 32 on September 15 due to El Nino-driven low water levels. This operational constraint will directly impact international shipping logistics and component delivery timelines for industrial supply chains."
   },
   "world": {
-    "headline": "Meta Faces Landmark California Trial Over Child Safety Allegations",
-    "summary": "Opening statements kicked off in a pivotal California trial where a coalition of states seeks billions in damages, with ex-executives alleging Mark Growth prioritized expansion over child safety on Instagram and Facebook.",
-    "whyItMatters": "This landmark legal challenge carries massive regulatory and operational implications for global tech giants, potentially reshaping platform governance and digital product design standards.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12025798/meta-trial-california-social-media/"
+    "headline": "Panama Canal Imposes Vessel Transit Caps Amid Declining Water Levels",
+    "summary": "With El Nino reducing water levels, the Panama Canal will restrict daily vessel transits starting in early September.",
+    "whyItMatters": "Global logistics bottlenecks affect import and export schedules for heavy machinery components and raw industrial materials.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12029432/panama-canal-daily-limits-el-nino-water/"
   },
   "lookingAhead": [
     {
-      "label": "Thursday, August 20, 2026",
-      "text": "Scheduled industrial support announcements in Saguenay-Lac-Saint-Jean region (noting local press conference adjustments)."
+      "label": "September 4, 2026",
+      "text": "Panama Canal implements initial daily transit cap of 34 vessels due to low water levels."
     },
     {
-      "label": "This Week",
-      "text": "Parliamentary Secretary Carlos Leitão continues industrial and regional economic tours across the Saguenay-Lac-Saint-Jean region."
+      "label": "September 15, 2026",
+      "text": "Panama Canal further reduces daily vessel transits to 32."
+    },
+    {
+      "label": "September 17, 2026",
+      "text": "Statistics Canada scheduled release of July 2026 Employment Insurance data."
     }
   ]
 }
