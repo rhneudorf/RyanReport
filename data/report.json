@@ -1,102 +1,92 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "morningSnapshot": {
-    "headline": "Trade Mission Meal Funding Sparks Scrutiny; Markets Pull Back as Oil Climbs",
-    "summary": "Good morning, Ryan. Here is your briefing for Thursday, August 21, 2026. Ontario trade minister expenses draw scrutiny while manufacturing sector support events face cancellations. Markets see broad pullbacks with oil rising to $134.54."
+    "headline": "Trade Retaliation Engulfs Ottawa and Washington as Tariff Deadlines Take Effect",
+    "summary": "Canada vows dollar-for-dollar retaliation and suspends trade talks following new U.S. tariffs, directly impacting cross-border manufacturing supply chains and industrial input costs."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Ontario",
-    "headline": "Ontario minister charged trade mission meals to riding association instead of government",
-    "summary": "Vic Fedeli, Premier Doug Ford's trade minister, hasn't charged the public for his meals or other expenses on trips, but records reveal party donors are footing the bill.",
-    "whyItMatters": "As an Ontario professional following provincial economic policy, trade mission oversight and ministerial transparency directly impact regional industrial initiatives.",
-    "explainMore": "Records indicate that while Ontario's trade minister avoided billing the public directly for meals and trip expenses, local riding association donors covered the costs instead. This method of financing ministerial travel has brought fresh scrutiny to how trade missions are funded.\n\nTransparency in government trade delegations remains a key point of interest for local stakeholders watching how provincial resources support Ontario businesses abroad.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176369372-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12029247/vic-fedeli-riding-association-expenses/"
+    "category": "Canada-US Trade",
+    "location": "Ottawa / Washington",
+    "headline": "Canada vows dollar-for-dollar response to Trump’s 50% tariffs",
+    "summary": "Canada vowed retaliation and suspended trade talks with Washington after new U.S. tariffs took effect Saturday.",
+    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production, escalations in cross-border tariffs and trade suspensions threaten steel, aluminum, and component supply chains.",
+    "explainMore": "The federal government's decision to suspend trade talks and pledge dollar-for-dollar retaliation follows the implementation of aggressive U.S. tariffs.\n\nThis friction directly influences input costs and operational predictability for Canadian manufacturers tied to cross-border logistics.\n\nBusinesses across industrial sectors are closely monitoring how retaliation measures will be structured to protect domestic competitiveness without deepening cost pressures.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Carney-tariff-pause.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12030351/donald-trump-tariff-trade-deal-deadline/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "U.S. alcohol may go back on Manitoba shelves, but Kinew urges customers to buy Canadian",
-      "summary": "Premier Wab Kinew is open to returning American alcohol to shelves to secure a good trade deal, while still encouraging consumers to back domestic products.",
-      "whyItMatters": "Highlights ongoing domestic purchasing considerations and trade positioning across provinces amid broader North American trade discussions.",
-      "explainMore": "Premier Wab Kinew noted openness to restoring U.S. alcohol products to retail shelves if it assists in securing advantageous trade arrangements for Canada.\n\nDespite potential availability, provincial leadership continues to urge local consumers to prioritize Canadian-made goods, reflecting ongoing sensitivities around cross-border commerce.",
-      "image": "https://globalnews.ca/wp-content/uploads/2018/10/liquor-mart-4.png?w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12029080/american-alcohol-manitoba-shelves-kinew-buy-canadian/"
-    },
-    {
-      "category": "World",
-      "headline": "Canadian tribunal says wheat gluten dumping is likely hurting industry",
-      "summary": "A Canadian tribunal found that the dumping of wheat gluten from Italy, Poland, and the United Kingdom is likely injuring the domestic industry.",
-      "whyItMatters": "Demonstrates regulatory responses to foreign trade practices affecting Canadian agricultural and industrial producers.",
-      "explainMore": "The Canadian tribunal's finding addresses concerns over international trade fairness, specifically targeting wheat gluten imports from Italy, Poland, and the UK.\n\nSuch findings underline the enforcement mechanisms available to protect domestic industries from foreign pricing pressures that can destabilize local production sectors.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/06/8b07c13a6a14e29def5557a43c601d388582e69a15162d5702dd016bcbca0dff_97b470.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - World",
-      "sourceUrl": "https://globalnews.ca/news/12026872/italy-poland-uk-dumping-wheat-canada-tribunal/"
+      "category": "Manufacturing & Trade",
+      "headline": "Tariff response: SME Gilbert Products receives $3M in repayable assistance from Government of Canada to boost its competitiveness",
+      "summary": "CED will enable Roberval manufacturer to remain competitive in uncertain and changing market conditions.",
+      "whyItMatters": "Federal assistance programs are being deployed to help Canadian industrial operators navigate shifting market dynamics and tariff pressures.",
+      "explainMore": "Economic Development Canada is stepping up repayable financial assistance to help industrial manufacturers upgrade capabilities.\n\nSuch investments are aimed at insulating regional producers from immediate tariff shocks and preserving manufacturing output.\n\nOperators are evaluating these funding mechanisms as they look to maintain production efficiencies despite broader geopolitical headwinds.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Business & Industry",
+      "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/tariff-response-sme-gilbert-products-receives-3m-in-repayable-assistance-from-government-of-canada-to-boost-its-competitiveness.html"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.26%",
-        "positive": false
+        "value": "▲ 0.70%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.84%",
-        "positive": false
+        "value": "▲ 0.41%",
+        "positive": true
       },
       {
         "name": "Oil",
-        "value": "▲ 2.77%",
+        "value": "▲ 0.07%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7277",
+        "value": "0.7266",
         "positive": null
       }
     ],
-    "insight": "Oil climbed notably to $134.54, while equities saw modest downward pressure with the TSX at 53.98 (-0.26%) and the S&P 500 at 762.6 (-0.84%). The Canadian dollar held at 0.7277 against the U.S. dollar."
+    "insight": "Equities posted modest gains with the TSX up 0.70% to 54.36 and the S&P 500 rising 0.41% to 765.72. Oil held strong at $134.64, while the Canadian dollar traded at 0.7266 against the U.S. greenback."
   },
   "yourMoney": {
-    "headline": "Employment Insurance Statistics Updated by Statistics Canada",
-    "summary": "Statistics Canada updated Employment Insurance statistics through June 2026, with historical series revised back to January 2023.",
-    "whyItMatters": "Keeping track of national labour market data releases helps provide early indicators on employment trends that influence broader economic stability and variable-rate mortgage planning.",
-    "source": "Statistics Canada - Labour",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819d-eng.htm"
+    "headline": "Bank of Canada recognizes counterfeit deterrence efforts",
+    "summary": "The Bank of Canada announced the recipient of its 2026 Law Enforcement Award of Excellence for Counterfeit Deterrence, highlighting security measures across the financial system.",
+    "whyItMatters": "While maintaining a 5-year variable mortgage in an environment of shifting economic signals, keeping a close eye on institutional updates from the Bank of Canada helps track overall monetary stability.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/08/canada-border-services-agency-and-royal-canadian-mounted-police-win-bank-canada-counterfeit-deterrence-award-2/"
   },
   "manufacturing": {
-    "headline": "Federal Manufacturing Support Events Face Cancellations in Quebec",
-    "summary": "Scheduled federal announcements and regional tours supporting manufacturing businesses in Roberval and Saguenay have been cancelled due to circumstances beyond control.",
-    "whyItMatters": "Federal funding rollouts for industrial growth provide a barometer for capital investment trends across Canadian manufacturing hubs.",
+    "headline": "Government backs industrial productivity as trade friction grows",
+    "summary": "Federal agencies are channeling financial assistance into regional manufacturing and fabrication businesses to offset uncertain trade conditions.",
+    "whyItMatters": "Direct capital injections into firms like Aliar Fabrication & Structures ($600,000) and Hydrep ($800,750) highlight the federal push to modernize industrial capacity and productivity.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/cancellation--carlos-leitao-tours-saguenaylac-saint-jean-region.html",
-    "engineeringHeadline": "Panama Canal Transit Caps Set to Impact Global Supply Chains",
-    "engineeringSummary": "The Panama Canal announced it will cap daily transits starting September 4 to 34 vessels, reducing further to 32 on September 15 due to El Nino-driven low water levels. This operational constraint will directly impact international shipping logistics and component delivery timelines for industrial supply chains."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-supports-hydreps-growth.html",
+    "engineeringHeadline": "Hydraulic and Industrial Sector Capital Support",
+    "engineeringSummary": "Recent federal funding packages target regional hydraulics and fabrication workshops to boost operational capacity, directly supporting mechanical engineering and automation upgrades."
   },
   "world": {
-    "headline": "Panama Canal Imposes Vessel Transit Caps Amid Declining Water Levels",
-    "summary": "With El Nino reducing water levels, the Panama Canal will restrict daily vessel transits starting in early September.",
-    "whyItMatters": "Global logistics bottlenecks affect import and export schedules for heavy machinery components and raw industrial materials.",
-    "source": "Global News - National",
+    "headline": "Panama Canal to cap daily transits as El Niño lowers water levels",
+    "summary": "Under new measures taking effect in September, the Panama Canal will restrict daily vessel transits due to declining water levels driven by El Niño.",
+    "whyItMatters": "Global shipping bottlenecks and canal transit caps introduce potential delays and cost fluctuations for raw materials and industrial components moving through international supply chains.",
+    "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12029432/panama-canal-daily-limits-el-nino-water/"
   },
   "lookingAhead": [
     {
       "label": "September 4, 2026",
-      "text": "Panama Canal implements initial daily transit cap of 34 vessels due to low water levels."
+      "text": "Panama Canal implements its initial daily transit cap, reducing traffic to 34 vessels."
     },
     {
       "label": "September 15, 2026",
-      "text": "Panama Canal further reduces daily vessel transits to 32."
+      "text": "Panama Canal further reduces daily transits down to 32 vessels as water levels drop."
     },
     {
-      "label": "September 17, 2026",
-      "text": "Statistics Canada scheduled release of July 2026 Employment Insurance data."
+      "label": "This Week",
+      "text": "Monitor ongoing developments regarding Canada-U.S. tariff countermeasures and provincial manufacturing support announcements."
     }
   ]
 }
