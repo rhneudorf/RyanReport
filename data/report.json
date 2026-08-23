@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "morningSnapshot": {
-    "headline": "Trade Retaliation Engulfs Ottawa and Washington as Tariff Deadlines Take Effect",
-    "summary": "Canada vows dollar-for-dollar retaliation and suspends trade talks following new U.S. tariffs, directly impacting cross-border manufacturing supply chains and industrial input costs."
+    "headline": "U.S.-Canada Trade Talks Collapse as 50% Tariffs Hit Exports",
+    "summary": "Trade negotiations between Canada and the United States have officially broken down, resulting in a sweeping 50 per cent tariff on billions of Canadian goods. Prime Minister Mark Carney has walked away from what he termed a 'bad deal,' earning backing from provincial premiers while Canada prepares a dollar-for-dollar retaliatory response."
   },
   "topStory": {
-    "category": "Canada-US Trade",
-    "location": "Ottawa / Washington",
+    "category": "Local",
+    "location": "Beamsville, Ontario",
     "headline": "Canada vows dollar-for-dollar response to Trump’s 50% tariffs",
-    "summary": "Canada vowed retaliation and suspended trade talks with Washington after new U.S. tariffs took effect Saturday.",
-    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production, escalations in cross-border tariffs and trade suspensions threaten steel, aluminum, and component supply chains.",
-    "explainMore": "The federal government's decision to suspend trade talks and pledge dollar-for-dollar retaliation follows the implementation of aggressive U.S. tariffs.\n\nThis friction directly influences input costs and operational predictability for Canadian manufacturers tied to cross-border logistics.\n\nBusinesses across industrial sectors are closely monitoring how retaliation measures will be structured to protect domestic competitiveness without deepening cost pressures.",
+    "summary": "Canada suspended trade talks with Washington and vowed a dollar-for-dollar response after new U.S. tariffs of 50 per cent took effect on Saturday following the collapse of negotiations.",
+    "whyItMatters": "As an Ontario hydraulic cylinder manufacturer operating near the U.S. border, these sweeping tariffs and Canada's retaliatory measures directly threaten cross-border supply chains, material costs, and regional industrial competitiveness.",
+    "explainMore": "The collapse of trade talks between the United States and Canada culminated on Friday night, leading directly to the implementation of 50 per cent tariffs on billions of dollars worth of Canadian exports starting Saturday.\n\nPrime Minister Mark Carney addressed reporters and subsequently met with provincial premiers, who appeared to rally behind his decision to walk away from what officials characterized as a bad deal. In response to the U.S. actions, the federal government has suspended further trade talks with Washington and pledged a dollar-for-dollar retaliatory response.\n\nWhile industrial manufacturers evaluate the fallout, federal support programs are mobilizing elsewhere in the country to assist small and medium-sized enterprises in bolstering their competitiveness amid shifting trade conditions.",
     "image": "https://globalnews.ca/wp-content/uploads/2026/08/Carney-tariff-pause.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12030351/donald-trump-tariff-trade-deal-deadline/"
+    "sourceUrl": "https://globalnews.ca/news/12030351/donald-trump-tariffs-canada-trade-deal-deadline/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Tariff response: SME Gilbert Products receives $3M in repayable assistance from Government of Canada to boost its competitiveness",
-      "summary": "CED will enable Roberval manufacturer to remain competitive in uncertain and changing market conditions.",
-      "whyItMatters": "Federal assistance programs are being deployed to help Canadian industrial operators navigate shifting market dynamics and tariff pressures.",
-      "explainMore": "Economic Development Canada is stepping up repayable financial assistance to help industrial manufacturers upgrade capabilities.\n\nSuch investments are aimed at insulating regional producers from immediate tariff shocks and preserving manufacturing output.\n\nOperators are evaluating these funding mechanisms as they look to maintain production efficiencies despite broader geopolitical headwinds.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/tariff-response-sme-gilbert-products-receives-3m-in-repayable-assistance-from-government-of-canada-to-boost-its-competitiveness.html"
+      "category": "Local",
+      "headline": "Unifor, General Motors reach tentative deal for thousands of Ontario auto workers",
+      "summary": "Unifor announced a tentative labour agreement for its members at GM's Ontario plants, aiming to improve wages and benefits if ratified.",
+      "whyItMatters": "Labour settlements within Ontario's major automotive sector set important wage and benefit benchmarks that ripple through the broader provincial manufacturing ecosystem, influencing talent retention and operational costs for suppliers.",
+      "explainMore": "Unifor officials confirmed the breakthrough on Saturday following intensive negotiations covering thousands of workers across General Motors' manufacturing footprint in Ontario.\n\nThe tentative agreement focuses on securing enhanced wages and stronger benefit packages for the unionized workforce. Ratification votes are expected to follow, marking a critical stability milestone for Ontario's manufacturing sector amid broader economic pressures.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176731544.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12031388/general-motors-unifor-tentative-deal/"
     }
   ],
   "markets": {
@@ -46,47 +46,47 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7266",
+        "value": "0.7265",
         "positive": null
       }
     ],
-    "insight": "Equities posted modest gains with the TSX up 0.70% to 54.36 and the S&P 500 rising 0.41% to 765.72. Oil held strong at $134.64, while the Canadian dollar traded at 0.7266 against the U.S. greenback."
+    "insight": "Markets are digesting the sudden escalation in Canada-U.S. trade tensions alongside steady oil pricing at $134.64 and a CAD/USD exchange rate of 0.7265."
   },
   "yourMoney": {
-    "headline": "Bank of Canada recognizes counterfeit deterrence efforts",
-    "summary": "The Bank of Canada announced the recipient of its 2026 Law Enforcement Award of Excellence for Counterfeit Deterrence, highlighting security measures across the financial system.",
-    "whyItMatters": "While maintaining a 5-year variable mortgage in an environment of shifting economic signals, keeping a close eye on institutional updates from the Bank of Canada helps track overall monetary stability.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/08/canada-border-services-agency-and-royal-canadian-mounted-police-win-bank-canada-counterfeit-deterrence-award-2/"
+    "headline": "Monthly credit aggregate data released by Statistics Canada",
+    "summary": "Statistics Canada has released monthly credit aggregate data for June 2026, offering insights into household and commercial borrowing trends.",
+    "whyItMatters": "For homeowners managing variable-rate mortgages, tracking broad credit and lending aggregates provides vital context on consumer debt pressures and future monetary policy trajectories.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819e-eng.htm"
   },
   "manufacturing": {
-    "headline": "Government backs industrial productivity as trade friction grows",
-    "summary": "Federal agencies are channeling financial assistance into regional manufacturing and fabrication businesses to offset uncertain trade conditions.",
-    "whyItMatters": "Direct capital injections into firms like Aliar Fabrication & Structures ($600,000) and Hydrep ($800,750) highlight the federal push to modernize industrial capacity and productivity.",
+    "headline": "Federal funding targeted to boost SME manufacturing competitiveness amid tariff pressure",
+    "summary": "The Government of Canada is actively issuing repayable financial assistance and productivity support to industrial suppliers, such as recent investments in Quebec manufacturing and fabrication firms to help them navigate uncertain market conditions.",
+    "whyItMatters": "Direct government backing for industrial productivity and supply chain resilience helps buffer Canadian manufacturers facing severe U.S. tariffs and shifting export hurdles.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/government-of-canada-supports-hydreps-growth.html",
-    "engineeringHeadline": "Hydraulic and Industrial Sector Capital Support",
-    "engineeringSummary": "Recent federal funding packages target regional hydraulics and fabrication workshops to boost operational capacity, directly supporting mechanical engineering and automation upgrades."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/tariff-response-sme-gilbert-products-receives-3m-in-repayable-assistance-from-government-of-canada-to-boost-its-competitiveness.html",
+    "engineeringHeadline": "Hydraulic and electrical supply chain investments advance production capacity",
+    "engineeringSummary": "Recent federal industrial support initiatives highlight targeted financial assistance for specialized component makers, including hydraulic equipment specialists and electrical motor workshops, aiming to strengthen domestic manufacturing infrastructure and automation capabilities."
   },
   "world": {
-    "headline": "Panama Canal to cap daily transits as El Niño lowers water levels",
-    "summary": "Under new measures taking effect in September, the Panama Canal will restrict daily vessel transits due to declining water levels driven by El Niño.",
-    "whyItMatters": "Global shipping bottlenecks and canal transit caps introduce potential delays and cost fluctuations for raw materials and industrial components moving through international supply chains.",
+    "headline": "Panama Canal caps daily vessel transits as El Niño lowers water levels",
+    "summary": "The Panama Canal authority has announced caps on daily vessel transits starting in September due to El Niño weather patterns reducing water levels.",
+    "whyItMatters": "Restrictions on vital global shipping lanes threaten to introduce additional freight delays and cost pressures into international industrial supply chains.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12029432/panama-canal-daily-limits-el-nino-water/"
   },
   "lookingAhead": [
     {
       "label": "September 4, 2026",
-      "text": "Panama Canal implements its initial daily transit cap, reducing traffic to 34 vessels."
+      "text": "Panama Canal implements initial transit restrictions capped at 34 vessels per day."
     },
     {
       "label": "September 15, 2026",
-      "text": "Panama Canal further reduces daily transits down to 32 vessels as water levels drop."
+      "text": "Panama Canal further reduces daily transits to 32 vessels as water levels decline."
     },
     {
       "label": "This Week",
-      "text": "Monitor ongoing developments regarding Canada-U.S. tariff countermeasures and provincial manufacturing support announcements."
+      "text": "Monitor federal and provincial policy responses, trade negotiations fallout, and labour developments across Ontario manufacturing."
     }
   ]
 }
