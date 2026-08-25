@@ -1,88 +1,88 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "morningSnapshot": {
-    "headline": "Trade Talks Collapse as 50% Tariffs Take Effect; Ontario Manufacturing Faces Deep Uncertainty",
-    "summary": "Canada-U.S. trade negotiations have broken down, bringing 50% tariffs on billions in Canadian goods as Prime Minister Mark Carney and provincial premiers rally behind walking away from a bad deal. Meanwhile, Ontario auto workers secure a tentative agreement with GM."
+    "headline": "Trade Talk Breakdown Sparks 50% Tariffs and Power Export Threats",
+    "summary": "Canada-U.S. trade talks have collapsed amid a 50 per cent tariff escalation, prompting sharp political friction and heavy implications for Ontario manufacturing and energy."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton / Ontario",
-    "headline": "U.S.-Canada trade talks have collapsed. Carney says these 3 issues torpedoed them",
-    "summary": "Tariffs of 50 per cent on billions of dollars of Canadian goods are now in effect after talks between the United States and Canada collapsed on Friday night.",
-    "whyItMatters": "As an engineer in Ontario hydraulic cylinder manufacturing, escalating cross-border duties and the breakdown of trade talks directly threaten supply chains, equipment input costs, and regional industrial competitiveness.",
-    "explainMore": "Trade talks between Canada and the United States suspended early Saturday, leading to 50 percent tariffs hitting billions of dollars of Canadian goods. Prime Minister Mark Carney addressed reporters regarding the three key issues that torpedoed the agreement before meeting with provincial premiers.\n\nCanada's premiers appeared to back Carney's decision to walk away from what officials characterized as a bad deal. Canadian companies are now bracing for higher operational costs and severe uncertainty.\n\nMeanwhile, domestic leaders and eastern Canadian premiers are renewing calls for consumers and businesses to buy Canadian products as the trade conflict ramps up.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176749781.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Trade & Tariffs",
+    "location": "Ontario",
+    "headline": "Ford calls Trump a ‘loser’ and ‘dictator’ after president posts about Ontario premier",
+    "summary": "Premier Doug Ford is threatening to cut off electricity exports to the United States amid an escalating trade war that will heavily impact steel, autos, and cross-border manufacturing.",
+    "whyItMatters": "As an Ontario manufacturing professional working near Beamsville, escalating tariffs and potential retaliatory electricity cutoffs threaten regional supply chains, input costs for steel and aluminum, and broader industrial stability.",
+    "explainMore": "Trade talks between Canada and the U.S. broke down late on Friday night, with both sides trading blame over last-minute changes. Following the breakdown, Canadian premiers appear to be rallying behind Prime Minister Mark Carney's decision to walk away from a deal as 50 per cent tariffs hit.\n\nIn response to U.S. President Donald Trump's threats of additional tariffs on Canadian automobiles, car parts, and steel, Premier Doug Ford launched a vocal response. Over a 45-minute address, Ford threatened to cut off electricity exports to the United States while criticizing the U.S. administration.\n\nThis breakdown marks a severe escalation in North American trade relations, directly challenging the integrated supply chains that regional industrial sectors rely upon.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176663342.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12031459/united-states-canada-trade-talks-issues/"
+    "sourceUrl": "https://globalnews.ca/news/12032734/doug-ford-united-states-trade-war-comments/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Unifor, General Motors reach tentative deal for thousands of Ontario auto workers",
-      "summary": "Unifor announced a tentative labour deal Saturday for its members at GM's Ontario plants, aiming to improve wages and benefits if ratified.",
-      "whyItMatters": "A major labor agreement in Ontario's automotive sector sets wage benchmarks and stability indicators for broader provincial manufacturing supply chains.",
-      "explainMore": "Unifor officials confirmed the agreement on Saturday following intensive negotiations for members across General Motors operations in Ontario. If ratified, the deal is structured to enhance member wages and benefits.\n\nThe timing coincides with intense economic pressure from newly enacted U.S. tariffs, making labor stability a critical anchor for Ontario's industrial sector as plants navigate surging cross-border trade friction.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176731544.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12031388/general-motors-unifor-tentative-deal/"
+      "category": "Economy",
+      "headline": "Collapse of Canada-U.S. trade talks a ‘nightmare scenario’ for small businesses",
+      "summary": "The sudden breakdown in trade negotiations has left businesses across the country facing extreme uncertainty as sweeping tariffs take effect.",
+      "whyItMatters": "Small and medium-sized enterprises form the backbone of the regional industrial supply chain in Southern Ontario, making trade instability a direct risk to operational continuity.",
+      "explainMore": "The abrupt end to negotiations has sent shockwaves through domestic commercial sectors. Small businesses and manufacturers that depend on smooth border access are now forced to re-evaluate their cost structures and logistics.\n\nIndustry groups warn that sustained friction will disrupt procurement and pricing, demanding high operational agility from firms navigating the new tariff landscape.",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/08/Canada-U.S.-travel.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12033486/collapse-canada-us-trade-talks-nightmare-scenario-bc-small-businesses/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.70%",
+        "value": "▲ 0.20%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.41%",
-        "positive": true
+        "value": "▼ 0.29%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.07%",
-        "positive": true
+        "value": "▼ 1.80%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7226",
+        "value": "0.7216",
         "positive": null
       }
     ],
-    "insight": "Equities posted modest gains despite the severe geopolitical shock from collapsing U.S.-Canada trade talks. Oil remains elevated at $134.64, while the Canadian dollar sits at 0.7226 against the greenback, reflecting heightened macroeconomic turbulence."
+    "insight": "The TSX edged up 0.20% to 54.47 while the S&P 500 dipped 0.29% to 763.47. Oil pulled back 1.80% to $132.21, and the Canadian dollar is holding at 0.7216 USD against a turbulent geopolitical backdrop."
   },
   "yourMoney": {
-    "headline": "Statistics Canada Releases Monthly Credit Aggregates for June 2026",
-    "summary": "New economic data regarding monthly credit aggregates is now available from Statistics Canada.",
-    "whyItMatters": "For homeowners with a 5-year variable mortgage, tracking national credit and lending aggregates provides vital insight into household leverage and how monetary policy is transmitting through the financial system.",
+    "headline": "Statistics Canada releases monthly credit aggregates data for June 2026",
+    "summary": "New financial data sheds light on borrowing trends as households navigate shifting interest rate and inflationary pressures.",
+    "whyItMatters": "For homeowners managing a 5-year variable mortgage, tracking broader credit aggregates and debt metrics provides essential visibility into consumer financial health and upcoming Bank of Canada rate trajectories.",
     "source": "Statistics Canada - Economic Accounts",
     "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819e-eng.htm"
   },
   "manufacturing": {
-    "headline": "Federal Assistance and Tariff Response Programs Target Canadian SME Competitiveness",
-    "summary": "As trade pressures mount, Ottawa continues deploying financial assistance programs, such as repayable support for SME manufacturers to boost productivity and remain competitive.",
-    "whyItMatters": "Federal funding initiatives underline the urgent push to modernize plant productivity, automation, and industrial technology across Canadian manufacturing to offset punishing tariff barriers.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/08/tariff-response-sme-gilbert-products-receives-3m-in-repayable-assistance-from-government-of-canada-to-boost-its-competitiveness.html",
-    "engineeringHeadline": "Federal Investments Support Hydraulic and Electrical Component Growth",
-    "engineeringSummary": "Recent federal industrial support highlights funding for specialized engineering and component growth, including investments directed toward hydraulic workshops and electrical motor systems to strengthen domestic supply chain resilience."
+    "headline": "Ontario breaks ground on northern mining roads amid trade tensions over steel and autos",
+    "summary": "The Ontario government and Aroland First Nation have broken ground on upgrades to the Anaconda and Painter Lake roads, expanding access to northern resource networks.",
+    "whyItMatters": "Infrastructure expansion in northern resource sectors creates domestic demand for heavy industrial equipment, hydraulic systems, and manufactured components, offering a vital offset to cross-border tariff pressures.",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12033538/aroland-road-ground-breaking/",
+    "engineeringHeadline": "Ottawa Expands High-Speed Internet Access Across Rural Ontario Communities",
+    "engineeringSummary": "The federal government has announced investments to bring high-speed internet access to more than 820 homes across Ontario, bolstering connectivity for regional industrial and rural infrastructure."
   },
   "world": {
-    "headline": "Mark Zuckerberg Purchases Castle Estate in Ireland Near European Meta HQ",
-    "summary": "Meta founder Mark Zuckerberg has acquired Strancally Castle, an 1830 estate in Ireland close to the company's European headquarters.",
-    "whyItMatters": "Signals major tech executive real estate positioning in European jurisdictions housing key corporate operational hubs.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12030232/mark-zuckerberg-buys-castle-in-ireland/"
+    "headline": "U.S. targets Iran with aggressive new sanctions to isolate the nation economically",
+    "summary": "U.S. Treasury Secretary Scott Bessent has warned international partners to sever financial ties with Iran or face severe U.S. economic retaliation.",
+    "whyItMatters": "Global sanctions and shifts in energy policies directly influence international commodity prices, supply chain stability, and broader macroeconomic risk profiles for long-term investors.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12033449/iran-economic-outcast-sanctions-bessent/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing federal updates and business reactions following the collapse of U.S.-Canada trade talks and the implementation of 50% tariffs."
+      "text": "Monitor ongoing developments in the Canada-U.S. trade dispute and potential impacts on Ontario steel, aluminum, and automotive supply chains."
     },
     {
-      "label": "Fall Municipal Elections",
-      "text": "Ontario municipal election candidate nominations close, setting up local races across the Niagara Region and Greater Toronto Area."
+      "label": "Today",
+      "text": "Track domestic industrial reactions to Premier Ford's proposed electricity export restrictions and retaliatory trade measures."
     }
   ]
 }
