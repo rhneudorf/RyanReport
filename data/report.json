@@ -1,98 +1,88 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "morningSnapshot": {
-    "headline": "Canada-U.S. Trade Tensions Escalate as Ontario Manufacturing Braces for Impact",
-    "summary": "Good morning, Ryan. As U.S.-Canada trade talks collapse and political friction mounts, Ontario manufacturers face acute cross-border pressures. Meanwhile, markets post gains as oil drops."
+    "headline": "Tariff Pressures Mount for Ontario as Trade Tensions Intensify",
+    "summary": "Good morning, Ryan. Today's briefing covers escalating U.S.-Canada tariff actions impacting cross-border manufacturing supply chains, strong macroeconomic trade figures, and key industrial investments."
   },
   "topStory": {
-    "category": "Local",
+    "category": "Local / Trade",
     "location": "Ontario",
-    "headline": "Ontario legislature faces calls to return amid trade war. Ford calls it ‘gutter politics’",
-    "summary": "The trade war between Canada and the United States intensified over the weekend after talks fell apart, prompting Prime Minister Mark Carney to recall negotiators and leaving Ontario leaders sparring over how to respond.",
-    "whyItMatters": "As an engineer in Ontario's hydraulic cylinder manufacturing sector, escalating Canada-U.S. trade disputes directly threaten your supply chain, operating environment, and regional industrial stability.",
-    "explainMore": "The breakdown in negotiations led Prime Minister Mark Carney to recall the negotiating team, triggering immediate fallout across the border. In Ontario, Premier Doug Ford admitted that relations with President Donald Trump 'got a little heated' and personal, telling CNN it is time to lower the temperature.\n\nSimultaneously, political pressure is mounting in the province for the Ontario legislature to return to address the economic fallout of the trade war, though Ford has dismissed these calls as 'gutter politics.' The friction has even extended to unusual symbolic threats, with Washington giving serious consideration to renaming Lake Ontario as relations sour further.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176800401.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "headline": "Ford government enjoys polling bump after latest U.S.-Canada trade war twist",
+    "summary": "A new study by Liaison Strategies reveals a polling bump for the Ford government following Donald Trump's imposition of 50 per cent tariffs on billions of dollars of Canadian products after trade talks collapsed.",
+    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production, ongoing trade retaliation directly threatens cross-border supply chains, material costs, and regional economic stability.",
+    "explainMore": "The collapse of cross-border trade talks and the subsequent imposition of steep 50 per cent U.S. tariffs have triggered significant political and economic shifts across the province. In response, retaliatory Canadian counter-tariffs are already being weighed against key infrastructure acquisitions, including self-driving electric subway trains ordered from south of the border for the Ontario Line.\n\nFor industrial operators and supply chain planners in southern Ontario, these sweeping trade barriers introduce acute uncertainty regarding component sourcing, equipment procurement, and pricing stability. Businesses must closely monitor regulatory shifts as federal and provincial leaders navigate the ongoing bilateral trade dispute.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176395164.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12034902/ontario-legislature-return-tariffs/"
+    "sourceUrl": "https://globalnews.ca/news/12036693/doug-ford-trade-war-polling-bump/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Danielle Smith wants Ottawa to resume negotiations with U.S. before counter-tariffs",
-      "summary": "Alberta's premier is holding out against Prime Minister Mark Carney's plan for counter-tariffs, urging Ottawa to resume negotiations with the U.S. first.",
-      "whyItMatters": "Interprovincial division on trade policy weakens Team Canada's bargaining posture during a critical manufacturing and export crisis.",
-      "explainMore": "Alberta Premier Danielle Smith remains a prominent holdout among provincial and territorial leaders supporting Prime Minister Mark Carney's proposed counter-tariffs. Smith is publicly pressing Ottawa to return to the negotiating table with Washington rather than escalating through retaliatory measures.\n\nThis domestic split adds another layer of complexity to Canada's economic defense strategy as industries across the country grapple with the collapse of bilateral trade talks and the looming threat of prolonged U.S. tariffs.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/acc9b16c65ef5a13cc4348e3fe7f9a6c6519d7eae34e2cb63b1f91ef0b6e0a37_51edb9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12035143/danielle-smith-counter-tariffs/"
-    },
-    {
-      "category": "Local",
-      "headline": "Former Iranian official living in Toronto was ‘critical’ to terror finance, CBSA alleges",
-      "summary": "A CBSA report alleges that Abbas Omidi, a former deputy director in Iran’s Ministry of Industry, Mines and Trade living in Toronto, assisted the regime's state sponsorship of terrorism.",
-      "whyItMatters": "Highlights ongoing federal scrutiny on individuals with high-level foreign industrial and government backgrounds residing within the Greater Toronto Area.",
-      "explainMore": "Canadian Border Services Agency documents allege that Abbas Omidi used his position as a deputy director in Iran’s Ministry of Industry, Mines and Trade to provide critical support to state-sponsored terrorism.\n\nOmidi, who took up residence in Toronto, is now facing deportation proceedings as Canadian authorities crack down on individuals linked to foreign security and economic ministries.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Abbas-omidi-canada-deportation.jpg?quality=65&strip=all&w=638&h=367&crop=1",
+      "category": "Manufacturing & Trade",
+      "headline": "Ontario’s order for new subway trains could be hit by Canadian counter-tariffs",
+      "summary": "Retaliatory Canadian counter-tariffs could directly target self-driving, electric transit trains ordered by the Ford government for the Ontario Line that are built south of the border.",
+      "whyItMatters": "Demonstrates how broad retaliatory tariff policies can disrupt major regional infrastructure projects and localized industrial procurement.",
+      "explainMore": "The ongoing trade friction between Canada and the United States is expanding into procurement sectors. Provincial investments in public transit are now intersecting with trade policy as retaliatory measures target foreign-built capital goods.\n\nManufacturers and industrial stakeholders must evaluate how retaliatory tariffs might alter project delivery timelines, equipment costs, and long-term procurement strategies across Ontario.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176714442.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12034115/iranian-official-toronto-terror-finance-cbsa/"
+      "sourceUrl": "https://globalnews.ca/news/12036396/ontario-line-tariffs/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.79%",
-        "positive": true
+        "value": "▼ 0.89%",
+        "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.32%",
+        "value": "▲ 0.65%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 4.58%",
-        "positive": false
+        "value": "▲ 2.10%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7212",
+        "value": "0.7219",
         "positive": null
       }
     ],
-    "insight": "Equities ticked upward with the TSX gaining 0.79% and the S&P 500 up 0.32%, while oil retreated sharply by 4.58% to $126.15. The Canadian dollar holds at 0.7212 against the greenback amid intensifying cross-border trade friction."
+    "insight": "The TSX pulled back 0.89% to 54.41 amid regional trade headwinds, while oil advanced past $130 per barrel, rising 2.10%. The Canadian dollar sits at 0.7219 against the USD."
   },
   "yourMoney": {
-    "headline": "Credit Aggregate Data Highlights Consumer Debt Trends",
-    "summary": "Statistics Canada released monthly credit aggregate figures for June 2026, offering a detailed look at consumer borrowing behavior.",
-    "whyItMatters": "As a homeowner managing a 5-year variable mortgage, tracking national credit aggregates and lending trends provides crucial context on how monetary conditions and consumer leverage are evolving.",
+    "headline": "Canada’s current account swings to $8.8B surplus in second quarter",
+    "summary": "Statistics Canada reports that Canada's current account balance shifted from an $8.3 billion deficit in Q1 to an $8.8 billion surplus in the second quarter.",
+    "whyItMatters": "A surging current account surplus reflects shifting national trade dynamics and net export performance, which hold implications for long-term currency stability and macroeconomic conditions affecting variable-rate mortgages.",
     "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260819/dq260819e-eng.htm"
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260827/dq260827a-eng.htm"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario Support Aims to Build Regional Economic Resilience",
-    "summary": "The Government of Canada announced new FedDev Ontario funding designed to help scale businesses and enhance economic resilience across Southern Ontario.",
-    "whyItMatters": "Federal funding targeted at Southern Ontario business scaling can help regional industrial supply chains weather current cross-border trade turbulence.",
+    "headline": "Government of Canada supports Etobicoke businesses to drive growth and boost competitiveness",
+    "summary": "FedDev Ontario announced a combined repayable investment of more than $6.6 million for five Etobicoke-based businesses to modernize operations and strengthen manufacturing capabilities.",
+    "whyItMatters": "Federal investments in southern Ontario industrial competitiveness provide direct capital support for businesses aiming to upgrade technology, scale production, and diversify supply chains.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-announces-support-to-strengthen-canadian-workers-and-businesses.html",
-    "engineeringHeadline": "Federal Funding Boosts Agri-Food Automation and Intelligence",
-    "engineeringSummary": "Minister Joly and Parliamentary Secretary Corey Hogan announced targeted investments in the Canadian Agri-Food Automation and Intelligence Network, driving advancements in domestic automation technology."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-supports-etobicoke-businesses-to-drive-growth-and-boost-competitiveness.html",
+    "engineeringHeadline": "Minister Joly announces major investment in Canadian Agri-Food Automation and Intelligence Network",
+    "engineeringSummary": "Federal funding targeted at the Canadian Agri-Food Automation and Intelligence Network aims to accelerate automation, robotics, and advanced technology integration across domestic sectors."
   },
   "world": {
-    "headline": "U.S. Targets Iran with Maximum Pressure Campaign and Severe Financial Sanctions",
-    "summary": "U.S. Treasury Secretary Scott Bessent warned all international entities to sever financial ties with Iran or face direct U.S. retaliation as Washington attempts to make the nation an economic outcast.",
-    "whyItMatters": "Aggressive U.S. sanctions and energy market realignments carry broad implications for global supply chains, industrial input costs, and geopolitical stability.",
+    "headline": "Nvidia data centre revenue more than doubled to $89B amid AI spending boom",
+    "summary": "Nvidia reported that its data centre revenue more than doubled to $89 billion, forecasting a 70 per cent jump in revenue next fiscal year driven by relentless demand for artificial intelligence computing.",
+    "whyItMatters": "The massive acceleration in AI infrastructure spending continues to reshape global semiconductor supply chains, data centre construction, and high-tech manufacturing priorities worldwide.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12033449/iran-economic-outcast-sanctions-bessent/"
+    "sourceUrl": "https://globalnews.ca/news/12037403/nvidia-earnings-august-ai/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor federal and provincial developments regarding the collapsed Canada-U.S. trade talks and potential retaliatory tariff measures."
+      "label": "September 8, 2026",
+      "text": "Metrolinx implements hiked fare evasion penalties of $200 and higher for first-time offences."
     },
     {
-      "label": "Ongoing",
-      "text": "Watch for further responses from Ontario leadership and industry groups regarding the ongoing trade dispute and legislative pressures."
+      "label": "This Week",
+      "text": "Monitor ongoing developments regarding Canada-U.S. tariff countermeasures and provincial infrastructure procurement impacts."
     }
   ]
 }
