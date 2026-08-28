@@ -1,88 +1,88 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "morningSnapshot": {
-    "headline": "Tariff Pressures Mount for Ontario as Trade Tensions Intensify",
-    "summary": "Good morning, Ryan. Today's briefing covers escalating U.S.-Canada tariff actions impacting cross-border manufacturing supply chains, strong macroeconomic trade figures, and key industrial investments."
+    "headline": "Tariff Pressures Hit Southern Ontario as GDP Rebounds",
+    "summary": "Good morning, Ryan. Federal support arrives for Hamilton-region businesses facing tariff pressures, while fresh economic data highlights Canadian trade shifts."
   },
   "topStory": {
-    "category": "Local / Trade",
-    "location": "Ontario",
-    "headline": "Ford government enjoys polling bump after latest U.S.-Canada trade war twist",
-    "summary": "A new study by Liaison Strategies reveals a polling bump for the Ford government following Donald Trump's imposition of 50 per cent tariffs on billions of dollars of Canadian products after trade talks collapsed.",
-    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production, ongoing trade retaliation directly threatens cross-border supply chains, material costs, and regional economic stability.",
-    "explainMore": "The collapse of cross-border trade talks and the subsequent imposition of steep 50 per cent U.S. tariffs have triggered significant political and economic shifts across the province. In response, retaliatory Canadian counter-tariffs are already being weighed against key infrastructure acquisitions, including self-driving electric subway trains ordered from south of the border for the Ontario Line.\n\nFor industrial operators and supply chain planners in southern Ontario, these sweeping trade barriers introduce acute uncertainty regarding component sourcing, equipment procurement, and pricing stability. Businesses must closely monitor regulatory shifts as federal and provincial leaders navigate the ongoing bilateral trade dispute.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176395164.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12036693/doug-ford-trade-war-polling-bump/"
+    "category": "Manufacturing & Trade",
+    "location": "Hamilton, Ontario",
+    "headline": "Minister Solomon to announce support for businesses in Hamilton area to help respond to tariff pressures",
+    "summary": "Federal support is rolling out for Hamilton-region businesses navigating mounting cross-border tariff pressures.",
+    "whyItMatters": "Operating in Ontario's industrial corridor means keeping a close eye on trade headwinds and federal relief measures targeting regional manufacturing competitiveness.",
+    "explainMore": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for the Federal Economic Development Agency for Southern Ontario (FedDev Ontario), is set to make an important announcement in support of Hamilton region businesses affected by tariffs.\n\nThis regional focus directly impacts the broader industrial network across Southern Ontario, including the steel, aluminum, and manufacturing supply chains that feed into mechanical and hydraulic engineering operations.\n\nBusinesses throughout the Hamilton and surrounding trade areas are looking for strategic pathways to maintain competitiveness and offset cross-border trade friction as federal programs step in with targeted assistance.",
+    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/minister-solomon-to-announce-support-for-businesses-hamilton-region-to-help-respond-to-tariff-pressures.html"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Ontario’s order for new subway trains could be hit by Canadian counter-tariffs",
-      "summary": "Retaliatory Canadian counter-tariffs could directly target self-driving, electric transit trains ordered by the Ford government for the Ontario Line that are built south of the border.",
-      "whyItMatters": "Demonstrates how broad retaliatory tariff policies can disrupt major regional infrastructure projects and localized industrial procurement.",
-      "explainMore": "The ongoing trade friction between Canada and the United States is expanding into procurement sectors. Provincial investments in public transit are now intersecting with trade policy as retaliatory measures target foreign-built capital goods.\n\nManufacturers and industrial stakeholders must evaluate how retaliatory tariffs might alter project delivery timelines, equipment costs, and long-term procurement strategies across Ontario.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176714442.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12036396/ontario-line-tariffs/"
+      "category": "Canada",
+      "headline": "GDP results for June and second quarter to be released Friday by StatCan",
+      "summary": "Statistics Canada is set to publish fresh gross domestic product figures, with economists expecting growth to have rebounded sharply in the second quarter.",
+      "whyItMatters": "Macroeconomic activity and quarterly growth metrics heavily influence Bank of Canada policy decisions, which directly dictate variable-rate mortgage fluctuations.",
+      "explainMore": "Statistics Canada's upcoming release of June and Q2 gross domestic product data provides a vital pulse check on national economic momentum.\n\nEconomists widely anticipate that growth rebounded sharply through the spring, setting the baseline for monetary policy adjustments heading into the autumn months.\n\nFor variable-rate mortgage holders, tracking these national output figures offers critical insight into where interest rates and borrowing costs may head next.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/GDP-June-StatCan.jpg-e1787919149479.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - National",
+      "sourceUrl": "https://globalnews.ca/news/12038954/gdp-june-2026-second-quarter/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.89%",
+        "value": "▼ 0.15%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.65%",
-        "positive": true
+        "value": "▼ 0.22%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 2.10%",
-        "positive": true
+        "value": "▼ 0.28%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7219",
+        "value": "0.7194",
         "positive": null
       }
     ],
-    "insight": "The TSX pulled back 0.89% to 54.41 amid regional trade headwinds, while oil advanced past $130 per barrel, rising 2.10%. The Canadian dollar sits at 0.7219 against the USD."
+    "insight": "Equities and oil faced minor downward pressure in recent trading, while the Canadian dollar held near 0.7194 USD."
   },
   "yourMoney": {
-    "headline": "Canada’s current account swings to $8.8B surplus in second quarter",
-    "summary": "Statistics Canada reports that Canada's current account balance shifted from an $8.3 billion deficit in Q1 to an $8.8 billion surplus in the second quarter.",
-    "whyItMatters": "A surging current account surplus reflects shifting national trade dynamics and net export performance, which hold implications for long-term currency stability and macroeconomic conditions affecting variable-rate mortgages.",
+    "headline": "Canada's current account swings to surplus in second quarter",
+    "summary": "Statistics Canada reported that Canada's current account balance shifted from a deficit of $8.3 billion in Q1 to a surplus of $8.8 billion in the second quarter.",
+    "whyItMatters": "A surging current account surplus reflects shifting trade dynamics and national cash flows, impacting broader economic stability and currency valuations.",
     "source": "Statistics Canada - Economic Accounts",
     "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260827/dq260827a-eng.htm"
   },
   "manufacturing": {
-    "headline": "Government of Canada supports Etobicoke businesses to drive growth and boost competitiveness",
-    "summary": "FedDev Ontario announced a combined repayable investment of more than $6.6 million for five Etobicoke-based businesses to modernize operations and strengthen manufacturing capabilities.",
-    "whyItMatters": "Federal investments in southern Ontario industrial competitiveness provide direct capital support for businesses aiming to upgrade technology, scale production, and diversify supply chains.",
+    "headline": "Federal Investment Backs Advanced Quantum Manufacturing in Canada",
+    "summary": "The federal government is investing in Xanadu to build up advanced quantum manufacturing and strengthen the national technology supply chain.",
+    "whyItMatters": "State-backed advancements in high-tech manufacturing infrastructure pave the way for broader integration of automation, industrial tech, and precision engineering across Canadian sectors.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/government-of-canada-supports-etobicoke-businesses-to-drive-growth-and-boost-competitiveness.html",
-    "engineeringHeadline": "Minister Joly announces major investment in Canadian Agri-Food Automation and Intelligence Network",
-    "engineeringSummary": "Federal funding targeted at the Canadian Agri-Food Automation and Intelligence Network aims to accelerate automation, robotics, and advanced technology integration across domestic sectors."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/government-of-canada-invests-in-xanadu-to-build-up-advanced-quantum-manufacturing-in-canada.html",
+    "engineeringHeadline": "Federal Programs Target Ontario Industrial Competitiveness",
+    "engineeringSummary": "As regional funding initiatives roll out across Southern Ontario to counteract tariff pressures, industrial automation, robotics, and mechanical manufacturing firms are looking to modernize operations and reinforce local supply chains."
   },
   "world": {
-    "headline": "Nvidia data centre revenue more than doubled to $89B amid AI spending boom",
-    "summary": "Nvidia reported that its data centre revenue more than doubled to $89 billion, forecasting a 70 per cent jump in revenue next fiscal year driven by relentless demand for artificial intelligence computing.",
-    "whyItMatters": "The massive acceleration in AI infrastructure spending continues to reshape global semiconductor supply chains, data centre construction, and high-tech manufacturing priorities worldwide.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12037403/nvidia-earnings-august-ai/"
+    "headline": "Norway’s King Harald V Dies at 89, Succeeded by Son Haakon VIII",
+    "summary": "Norway is in mourning following the death of King Harald V at 89, with his son stepping up to the throne as King Haakon VIII.",
+    "whyItMatters": "The peaceful royal succession in a key European energy and maritime nation marks the end of an era for a monarch who modernized the Norwegian crown.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12038953/norways-king-harald-v-dead/"
   },
   "lookingAhead": [
     {
-      "label": "September 8, 2026",
-      "text": "Metrolinx implements hiked fare evasion penalties of $200 and higher for first-time offences."
+      "label": "Today",
+      "text": "Statistics Canada releases June and second-quarter GDP figures, providing key indicators for economic momentum."
     },
     {
       "label": "This Week",
-      "text": "Monitor ongoing developments regarding Canada-U.S. tariff countermeasures and provincial infrastructure procurement impacts."
+      "text": "Monitor federal announcements regarding regional support for Southern Ontario businesses dealing with tariff pressures."
     }
   ]
 }
