@@ -1,30 +1,40 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "morningSnapshot": {
-    "headline": "Trade tensions escalate as provincial leaders engage U.S. officials and tariffs prompt local support measures",
-    "summary": "Canada-U.S. trade friction takes center stage as Premier Danielle Smith travels to meet U.S. officials, while federal ministers roll out local business support for tariff-hit regions in Southern Ontario, and current account balances swing to a surplus."
+    "headline": "Trade Pressures Mount as Ottawa Invests in Hamilton Supply Chains and U.S. Officials Speak on Tariffs",
+    "summary": "Good morning, Ryan. As U.S. Treasury Secretary Scott Bessent insists the U.S. is not 'at war with Canada,' trade friction continues to ripple across Ontario. Meanwhile, the federal government has announced over $12.5 million in repayable investments for nine Hamilton-area businesses to fortify domestic supply chains against tariff pressures."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Alberta / Ottawa",
-    "headline": "Alberta Premier Danielle Smith to meet with U.S. officials amid trade war",
-    "summary": "Alberta Premier Danielle Smith is heading to the United States to meet directly with officials as bilateral trade tensions continue to escalate between Canada and the U.S.",
-    "whyItMatters": "As cross-border trade friction impacts Canadian industrial and economic stability, direct engagement by provincial leaders highlights the high stakes for regional supply chains and manufacturing sectors.",
-    "explainMore": "Alberta Premier Danielle Smith was originally heading to the U.S. on a pre-planned trip, but her office confirmed she is now shifting her agenda to meet directly with U.S. officials amid the ongoing trade war.\n\nSimultaneously, public polling highlights strong domestic backing for a hardline stance, with Canadians expressing solid support for axing U.S. trade talks and implementing retaliatory tariffs, even as opinion pieces emphasize the heavy cost burdens borne by everyday citizens.\n\nFor industrial and manufacturing stakeholders across Southern Ontario, these escalating trade dynamics signal potential disruptions and cost pressures that require active supply chain navigation.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/9d1eb698c312c3a95616e1b36ee564c815e9c71b3488ead2e9ebcbb26709c73f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Canada-US Tariffs & Trade",
+    "location": "Ottawa / Hamilton / Washington",
+    "headline": "‘We’re not at war with Canada,’ U.S. treasury secretary says",
+    "summary": "U.S. Treasury Secretary Scott Bessent addressed trade tensions as Canadian polling indicates strong public support for walking away from U.S. talks and implementing retaliatory tariffs.",
+    "whyItMatters": "As an Ontario manufacturing professional, escalating tariff threats directly impact cross-border supply chains, material costs for steel and aluminum, and overall sector stability.",
+    "explainMore": "The ongoing trade friction between Canada and the United States has reached a critical juncture, prompting significant policy and public reactions. U.S. Treasury Secretary Scott Bessent recently stated that the U.S. is 'not at war with Canada' amidst mounting anxieties over potential duties and restrictions.\n\nSimultaneously, domestic polling reveals that strong majorities of Canadians support the federal government walking away from stalled U.S. trade talks and implementing retaliatory tariffs to protect national economic interests.\n\nFor industrial hubs across Southern Ontario, including Hamilton and the broader Niagara region, these cross-border tensions introduce high volatility into procurement, manufacturing output, and long-term capital planning. Businesses are closely monitoring whether diplomatic resolutions can avert a full-scale trade escalation.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Scott-Bessent-trade-war.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12040399/danielle-smith-us-trip-trade-war/"
+    "sourceUrl": "https://globalnews.ca/news/12041649/war-with-canada-us-treasury-secretary/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Minister Solomon to announce support for businesses in Hamilton area to help respond to tariff pressures",
-      "summary": "Federal Minister Evan Solomon is scheduled to make an announcement in support of Hamilton region businesses affected by ongoing U.S. tariffs.",
-      "whyItMatters": "Directly impacts the industrial footprint across your local area—including Hamilton, Stoney Creek, and the broader Niagara Region—by introducing federal mechanisms to offset tariff-induced manufacturing pressures.",
-      "explainMore": "The Honourable Evan Solomon, Minister of Artificial Intelligence and Digital Innovation and Minister responsible for FedDev Ontario, is deploying targeted economic support to help Southern Ontario businesses navigate mounting trade headwinds.\n\nThis regional intervention aligns with recent federal investments aimed at bolstering competitiveness, modernizing operations, and strengthening advanced supply chains across industrial hubs near the Greater Toronto and Hamilton Area.\n\nLocal manufacturers facing increased cost pressures from cross-border friction should monitor these funding announcements for operational relief.",
-      "image": "https://images.unsplash.com/photo-1547683905-f686c993aae5?auto=format&fit=crop&w=1000&q=80",
+      "category": "Manufacturing & Trade",
+      "headline": "Nine Hamilton businesses receive Government of Canada support to strengthen Canadian supply chains",
+      "summary": "FedDev Ontario has announced a combined repayable investment of over $12.5 million to help nine Hamilton-area businesses respond to tariff-related pressures and protect jobs.",
+      "whyItMatters": "Directly impacts the regional manufacturing ecosystem neighboring Beamsville and the Golden Horseshoe, supporting local industrial resilience.",
+      "explainMore": "The Federal Economic Development Agency for Southern Ontario has stepped in with substantial financial backing to shield regional industrial operators from escalating trade headwinds.\n\nMinister Evan Solomon announced the funding package aimed at fortifying domestic supply chains and driving long-term growth across Hamilton-area enterprises.\n\nBy helping local industrial facilities adapt to tariff pressures, the initiative seeks to safeguard manufacturing employment and maintain operational continuity across the regional supply network.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
       "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/minister-solomon-to-announce-support-for-businesses-hamilton-region-to-help-respond-to-tariff-pressures.html"
+      "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html"
+    },
+    {
+      "category": "Local",
+      "headline": "Early voter turnout down slightly for 3 Ontario legislature byelections",
+      "summary": "Elections Ontario released tracking figures for early ballots cast in provincial byelections across Scarborough Southwest, Hamilton East-Stoney Creek and York-Simcoe.",
+      "whyItMatters": "Highlights voter engagement right in your extended local area of Hamilton East-Stoney Creek as voters head to the polls alongside federal byelection contests.",
+      "explainMore": "Voters in Hamilton East-Stoney Creek are participating in provincial byelection voting alongside broader federal electoral engagement as campaigns unfold under the shadow of national economic concerns.\n\nPreliminary figures from Elections Ontario indicate that early turnout is down slightly compared to previous baselines across the contested ridings.\n\nWith voting officially underway, local riding outcomes will provide an immediate read on voter sentiment regarding provincial governance and economic pressures.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP930237.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12041743/ontario-byelections-early-turnout/"
     }
   ],
   "markets": {
@@ -46,43 +56,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7194",
+        "value": "0.7219",
         "positive": null
       }
     ],
-    "insight": "North American equities pulled back slightly with the TSX down 0.52% to 54.05 and the S&P 500 easing 0.23% to 769.35. Oil traded down at 129.7, while the Canadian dollar held steady at 0.7194 against the U.S. greenback."
+    "insight": "Canadian equities and the loonie face ongoing macro headwinds as the TSX dipped 0.52% to 54.05 and the Canadian dollar held at 0.7219 USD. Meanwhile, high crude oil prices near $129.70 continue to influence broader energy and input costs for industrial manufacturers."
   },
   "yourMoney": {
-    "headline": "Canada’s current account swings to $8.8B surplus in second quarter: StatCan",
-    "summary": "Statistics Canada reports that Canada's current account balance moved from a deficit of $8.3 billion in the first quarter to a surplus of $8.8 billion in the second quarter.",
-    "whyItMatters": "A significant macroeconomic swing toward a national trade surplus alters broader economic indicators that influence currency valuations, monetary policy decisions by the Bank of Canada, and variable mortgage rate trajectories.",
+    "headline": "Real GDP increases 0.8% in Q2 2026 on exports and capital investment",
+    "summary": "Statistics Canada reports that real gross domestic product grew by 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment.",
+    "whyItMatters": "Macroeconomic expansion and business investment trends directly influence Bank of Canada rate trajectories, which dictate your 5-year variable mortgage rate and long-term investment outlook.",
     "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260827/dq260827a-eng.htm"
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260828/dq260828a-eng.htm"
   },
   "manufacturing": {
-    "headline": "Government of Canada invests in Xanadu to build up advanced quantum manufacturing",
-    "summary": "Ottawa has announced targeted investments in Xanadu to strengthen Canada's quantum technology supply chain and build up advanced high-tech manufacturing domestically.",
-    "whyItMatters": "Highlights federal commitment to scaling domestic advanced technology manufacturing capabilities, reinforcing the high-tech supply chain ecosystem across Ontario.",
+    "headline": "FedDev Ontario deploys $12.5M to bolster Hamilton supply chains against tariffs",
+    "summary": "Federal funding aims to protect industrial operations and jobs in the Hamilton manufacturing corridor against ongoing trade disruptions.",
+    "whyItMatters": "Strengthens regional supplier networks close to Beamsville that hydraulic cylinder manufacturers rely on for raw materials and machining capacity.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/08/government-of-canada-invests-in-xanadu-to-build-up-advanced-quantum-manufacturing-in-canada.html",
-    "engineeringHeadline": "FedDev Ontario deploys over $6.6M to modernize Etobicoke manufacturing capabilities",
-    "engineeringSummary": "Five Etobicoke-based businesses secured a combined repayable investment of over $6.6 million via FedDev Ontario to upgrade operational capabilities, drive growth, and boost industrial competitiveness."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html",
+    "engineeringHeadline": "Unifor ratifies new contracts for 4,600 Ontario autoworkers",
+    "engineeringSummary": "Unionized GM workers across Ontario have successfully ratified new collective agreements following extensive negotiations, ensuring labor stability across key automotive supply chains tied to industrial automation demand."
   },
   "world": {
-    "headline": "Trump announces U.S. deal to take control of 65 billion barrels of Venezuela oil reserves",
-    "summary": "U.S. leadership announced a new agreement to take control and oversee the development of 17 oil fields in Venezuela boasting a proven potential of 65 billion barrels.",
-    "whyItMatters": "Major geopolitical and energy market shifts involving multi-billion-barrel reserves directly impact global crude supply fundamentals, international trade flows, and long-term commodity pricing.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12040400/trump-us-venezuela-oil-reserves/"
+    "headline": "Nepal flood death toll surpasses 900, impacting critical hydropower infrastructure",
+    "summary": "Disastrous floods in Nepal have claimed over 900 lives, leaving hundreds trapped in hydropower tunnels and prompting major infrastructure damage assessments.",
+    "whyItMatters": "Serves as a stark reminder of extreme weather vulnerabilities affecting global energy assets and vital engineering infrastructure.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12041572/nepal-flood-hydropower-tunnels/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor federal announcements regarding targeted financial support for Southern Ontario businesses navigating U.S. tariff pressures."
+      "label": "Today",
+      "text": "Ontario legislative and federal byelection voting concludes across contested ridings including Hamilton East-Stoney Creek."
     },
     {
-      "label": "September 26",
-      "text": "B.C. byelection scheduled as Conservative Leader Kerry-Lynne Findlay seeks a seat in the legislature amid internal party questions."
+      "label": "This Week",
+      "text": "Monitor ongoing federal announcements regarding trade disruption supports for Canadian manufacturing businesses and regional supply chains."
     }
   ]
 }
