@@ -1,98 +1,98 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-02",
   "morningSnapshot": {
-    "headline": "Trade Pressures Mount as Ottawa Invests in Hamilton Supply Chains and U.S. Officials Speak on Tariffs",
-    "summary": "Good morning, Ryan. As U.S. Treasury Secretary Scott Bessent insists the U.S. is not 'at war with Canada,' trade friction continues to ripple across Ontario. Meanwhile, the federal government has announced over $12.5 million in repayable investments for nine Hamilton-area businesses to fortify domestic supply chains against tariff pressures."
+    "headline": "Bank of Canada Holds Rate at 2¼%; Ottawa Pauses Fuel Tax as Tariff Pressures Mount",
+    "summary": "The Bank of Canada keeps its policy rate steady at 2.25% while Ottawa extends the pause on the federal fuel excise tax. Meanwhile, FedDev Ontario rolls out over $12.5 million in support for Hamilton-area businesses weathering U.S. tariffs."
   },
   "topStory": {
-    "category": "Canada-US Tariffs & Trade",
-    "location": "Ottawa / Hamilton / Washington",
-    "headline": "‘We’re not at war with Canada,’ U.S. treasury secretary says",
-    "summary": "U.S. Treasury Secretary Scott Bessent addressed trade tensions as Canadian polling indicates strong public support for walking away from U.S. talks and implementing retaliatory tariffs.",
-    "whyItMatters": "As an Ontario manufacturing professional, escalating tariff threats directly impact cross-border supply chains, material costs for steel and aluminum, and overall sector stability.",
-    "explainMore": "The ongoing trade friction between Canada and the United States has reached a critical juncture, prompting significant policy and public reactions. U.S. Treasury Secretary Scott Bessent recently stated that the U.S. is 'not at war with Canada' amidst mounting anxieties over potential duties and restrictions.\n\nSimultaneously, domestic polling reveals that strong majorities of Canadians support the federal government walking away from stalled U.S. trade talks and implementing retaliatory tariffs to protect national economic interests.\n\nFor industrial hubs across Southern Ontario, including Hamilton and the broader Niagara region, these cross-border tensions introduce high volatility into procurement, manufacturing output, and long-term capital planning. Businesses are closely monitoring whether diplomatic resolutions can avert a full-scale trade escalation.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/08/Scott-Bessent-trade-war.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12041649/war-with-canada-us-treasury-secretary/"
+    "category": "Your Money",
+    "location": "Ottawa",
+    "headline": "Bank of Canada maintains the policy rate at 2¼%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+    "whyItMatters": "For homeowners with a 5-year variable mortgage like yours, a steady policy rate provides immediate stability on borrowing costs following previous adjustments.",
+    "explainMore": "The Bank of Canada announced today that it is holding its target for the overnight rate at 2.25%. Alongside this decision, the Bank Rate is maintained at 2.5% and the deposit rate sits at 2.20%.\n\nGovernor Tiff Macklem discussed key factors in the Governing Council’s deliberations during the accompanying monetary policy decision press conference opening statement, weighing economic momentum against ongoing domestic and international pressures.\n\nThis decision arrives on the heels of recent national accounts data showing real gross domestic product increased 0.8% in the second quarter of 2026, driven by exports, household spending, and business capital investment.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "stories": [
     {
       "category": "Manufacturing & Trade",
-      "headline": "Nine Hamilton businesses receive Government of Canada support to strengthen Canadian supply chains",
-      "summary": "FedDev Ontario has announced a combined repayable investment of over $12.5 million to help nine Hamilton-area businesses respond to tariff-related pressures and protect jobs.",
-      "whyItMatters": "Directly impacts the regional manufacturing ecosystem neighboring Beamsville and the Golden Horseshoe, supporting local industrial resilience.",
-      "explainMore": "The Federal Economic Development Agency for Southern Ontario has stepped in with substantial financial backing to shield regional industrial operators from escalating trade headwinds.\n\nMinister Evan Solomon announced the funding package aimed at fortifying domestic supply chains and driving long-term growth across Hamilton-area enterprises.\n\nBy helping local industrial facilities adapt to tariff pressures, the initiative seeks to safeguard manufacturing employment and maintain operational continuity across the regional supply network.",
+      "headline": "Nine Hamilton businesses receive Government of Canada support to strengthen Canadian supply chains and drive growth",
+      "summary": "FedDev Ontario announced a combined repayable investment of over $12.5 million to help nine Hamilton-area businesses respond to tariff-related pressures, strengthen domestic supply chains, and position themselves for long-term growth.",
+      "whyItMatters": "Operating in the regional industrial corridor near Hamilton, local manufacturing supply chains face direct cross-border trade headwinds and tariff pressures.",
+      "explainMore": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon announced the federal funding package aimed at bolstering regional supply chains.\n\nThe investment is specifically structured to help industrial businesses in the Hamilton area adapt to tariff-related pressures and secure long-term operational resilience.\n\nFederal officials, including Minister Mélanie Joly and Minister Rechie Valdez, have also highlighted broader federal support measures geared toward protecting Canadian workers and businesses navigating ongoing U.S. trade disruptions.",
       "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
       "source": "Canada.ca - Business & Industry",
       "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html"
     },
     {
-      "category": "Local",
-      "headline": "Early voter turnout down slightly for 3 Ontario legislature byelections",
-      "summary": "Elections Ontario released tracking figures for early ballots cast in provincial byelections across Scarborough Southwest, Hamilton East-Stoney Creek and York-Simcoe.",
-      "whyItMatters": "Highlights voter engagement right in your extended local area of Hamilton East-Stoney Creek as voters head to the polls alongside federal byelection contests.",
-      "explainMore": "Voters in Hamilton East-Stoney Creek are participating in provincial byelection voting alongside broader federal electoral engagement as campaigns unfold under the shadow of national economic concerns.\n\nPreliminary figures from Elections Ontario indicate that early turnout is down slightly compared to previous baselines across the contested ridings.\n\nWith voting officially underway, local riding outcomes will provide an immediate read on voter sentiment regarding provincial governance and economic pressures.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP930237.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12041743/ontario-byelections-early-turnout/"
+      "category": "Canada",
+      "headline": "Ottawa set to extend the pause on federal fuel excise tax: source",
+      "summary": "A planned renewal of the federal excise tax on fuel that was to kick in after Labour Day will be paused, according to a government source ahead of the finance minister's afternoon announcement.",
+      "whyItMatters": "Extending the fuel tax pause offers temporary relief on transportation and fuel costs as living expenses remain a central pressure for consumers.",
+      "explainMore": "The federal government is moving to extend the suspension of the fuel excise tax, which was originally scheduled to snap back into place following the Labour Day long weekend.\n\nThis extension comes as convenience store chains like Couche-Tard report that consumers are cutting back on discretionary items like snacks due to rising living and fuel costs.\n\nFinance officials are set to detail the mechanics of the continued tax pause.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/gas-tax-pause-extension.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12044728/gas-tax-pause-extension-canada/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.52%",
+        "value": "▼ 0.97%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.23%",
+        "value": "▼ 0.69%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▼ 0.24%",
-        "positive": false
+        "value": "▲ 5.46%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7219",
+        "value": "0.7208",
         "positive": null
       }
     ],
-    "insight": "Canadian equities and the loonie face ongoing macro headwinds as the TSX dipped 0.52% to 54.05 and the Canadian dollar held at 0.7219 USD. Meanwhile, high crude oil prices near $129.70 continue to influence broader energy and input costs for industrial manufacturers."
+    "insight": "North American equities retreated on Tuesday with the TSX down 0.97% to 53.13 and the S&P 500 slipping 0.69% to 761.78. Oil jumped 5.46% to $141, while the Canadian dollar held steady at 0.7208 USD."
   },
   "yourMoney": {
-    "headline": "Real GDP increases 0.8% in Q2 2026 on exports and capital investment",
-    "summary": "Statistics Canada reports that real gross domestic product grew by 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment.",
-    "whyItMatters": "Macroeconomic expansion and business investment trends directly influence Bank of Canada rate trajectories, which dictate your 5-year variable mortgage rate and long-term investment outlook.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260828/dq260828a-eng.htm"
+    "headline": "Bank of Canada Holds Policy Rate at 2¼%",
+    "summary": "The Bank of Canada maintained its target for the overnight rate at 2.25%, keeping borrowing conditions stable for variable-rate mortgage holders.",
+    "whyItMatters": "With your 5-year variable mortgage tied directly to policy rate decisions, today's hold avoids any sudden payment hikes while economic growth registers a modest 0.8% increase in Q2 2026.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario deploys $12.5M to bolster Hamilton supply chains against tariffs",
-    "summary": "Federal funding aims to protect industrial operations and jobs in the Hamilton manufacturing corridor against ongoing trade disruptions.",
-    "whyItMatters": "Strengthens regional supplier networks close to Beamsville that hydraulic cylinder manufacturers rely on for raw materials and machining capacity.",
+    "headline": "FedDev Ontario Deploys $12.5M to Shield Hamilton Supply Chains from Tariffs",
+    "summary": "Federal investments target regional industrial resilience as Ministers Joly and Valdez highlight ongoing federal programs to support businesses grappling with U.S. trade barriers.",
+    "whyItMatters": "Regional manufacturers in the Hamilton and Niagara industrial orbit face direct cost pressures from U.S. tariffs, making supply chain reinforcement and capital backing critical for long-term operational stability.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html",
-    "engineeringHeadline": "Unifor ratifies new contracts for 4,600 Ontario autoworkers",
-    "engineeringSummary": "Unionized GM workers across Ontario have successfully ratified new collective agreements following extensive negotiations, ensuring labor stability across key automotive supply chains tied to industrial automation demand."
+    "engineeringHeadline": "Ontario Industrial Supply Chains Adapt to U.S. Trade Friction",
+    "engineeringSummary": "While industrial hubs like Sudbury navigate critical mineral trade disputes without panic, southern Ontario manufacturing facilities are leveraging federal funding programs to strengthen domestic supply chains, automate operations, and mitigate cross-border tariff impacts."
   },
   "world": {
-    "headline": "Nepal flood death toll surpasses 900, impacting critical hydropower infrastructure",
-    "summary": "Disastrous floods in Nepal have claimed over 900 lives, leaving hundreds trapped in hydropower tunnels and prompting major infrastructure damage assessments.",
-    "whyItMatters": "Serves as a stark reminder of extreme weather vulnerabilities affecting global energy assets and vital engineering infrastructure.",
+    "headline": "Nepal Flood Death Toll Exceeds 900 as Rescue Operations Continue",
+    "summary": "Disaster response agencies report mounting casualties and hundreds still missing following catastrophic glacier collapse and flooding in the Himalayan border region.",
+    "whyItMatters": "The disaster has disrupted vital infrastructure, including hydropower facilities where workers remain trapped, and prompted Canadian Nepalese communities to cancel traditional Teej festivals.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12041572/nepal-flood-hydropower-tunnels/"
+    "sourceUrl": "https://globalnews.ca/news/12041572/nepal-flood-death-toll-hydropower-tunnels/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Ontario legislative and federal byelection voting concludes across contested ridings including Hamilton East-Stoney Creek."
+      "text": "Finance Minister expected to officially announce the extension of the federal fuel excise tax pause."
     },
     {
       "label": "This Week",
-      "text": "Monitor ongoing federal announcements regarding trade disruption supports for Canadian manufacturing businesses and regional supply chains."
+      "text": "Monitor ongoing federal updates from Ministers Joly and Valdez regarding targeted economic support for Canadian manufacturing businesses impacted by U.S. tariffs."
     }
   ]
 }
