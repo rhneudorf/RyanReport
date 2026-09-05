@@ -1,98 +1,98 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-05",
   "morningSnapshot": {
-    "headline": "Bank of Canada Holds Rate at 2¼%; Ottawa Pauses Fuel Tax as Tariff Pressures Mount",
-    "summary": "The Bank of Canada keeps its policy rate steady at 2.25% while Ottawa extends the pause on the federal fuel excise tax. Meanwhile, FedDev Ontario rolls out over $12.5 million in support for Hamilton-area businesses weathering U.S. tariffs."
+    "headline": "Bank of Canada Holds Rates at 2¼% as Trade and Tariff Pressures Mount Across Ontario",
+    "summary": "Good morning, Ryan. As the Bank of Canada maintains its policy rate at 2.25%, regional manufacturers grapple with mounting U.S. tariff pressures and federal funding initiatives."
   },
   "topStory": {
     "category": "Your Money",
-    "location": "Ottawa",
+    "location": "Ottawa, Ontario",
     "headline": "Bank of Canada maintains the policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "For homeowners with a 5-year variable mortgage like yours, a steady policy rate provides immediate stability on borrowing costs following previous adjustments.",
-    "explainMore": "The Bank of Canada announced today that it is holding its target for the overnight rate at 2.25%. Alongside this decision, the Bank Rate is maintained at 2.5% and the deposit rate sits at 2.20%.\n\nGovernor Tiff Macklem discussed key factors in the Governing Council’s deliberations during the accompanying monetary policy decision press conference opening statement, weighing economic momentum against ongoing domestic and international pressures.\n\nThis decision arrives on the heels of recent national accounts data showing real gross domestic product increased 0.8% in the second quarter of 2026, driven by exports, household spending, and business capital investment.",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+    "whyItMatters": "For your 5-year variable mortgage and long-term investments, the steady rate provides immediate stability, though broader economic conditions remain sensitive to trade headwinds.",
+    "explainMore": "Governor Tiff Macklem discussed the key issues involved in the Governing Council’s deliberations during the monetary policy decision press conference opening statement.\n\nSimultaneously, real gross domestic product increased 0.8% in the second quarter of 2026, supported by higher exports, household spending, and business capital investment.\n\nWith the policy rate holding at 2.25%, borrowers with variable-rate commitments can plan with short-term rate predictability while monitoring macroeconomic shifts.",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Nine Hamilton businesses receive Government of Canada support to strengthen Canadian supply chains and drive growth",
-      "summary": "FedDev Ontario announced a combined repayable investment of over $12.5 million to help nine Hamilton-area businesses respond to tariff-related pressures, strengthen domestic supply chains, and position themselves for long-term growth.",
-      "whyItMatters": "Operating in the regional industrial corridor near Hamilton, local manufacturing supply chains face direct cross-border trade headwinds and tariff pressures.",
-      "explainMore": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon announced the federal funding package aimed at bolstering regional supply chains.\n\nThe investment is specifically structured to help industrial businesses in the Hamilton area adapt to tariff-related pressures and secure long-term operational resilience.\n\nFederal officials, including Minister Mélanie Joly and Minister Rechie Valdez, have also highlighted broader federal support measures geared toward protecting Canadian workers and businesses navigating ongoing U.S. trade disruptions.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html"
+      "category": "Local",
+      "headline": "Muskoka chair maker’s tariff woes highlight challenges for mom-and-pop manufacturers",
+      "summary": "A Canadian Muskoka chair maker hit hard by U.S. tariffs is considering moving the bulk of its manufacturing to the United States.",
+      "whyItMatters": "Demonstrates the tangible operational pain that U.S. tariffs inflict on Canadian manufacturing businesses, echoing cross-border pressures felt across Ontario industrial sectors.",
+      "explainMore": "U.S. tariffs continue to force difficult strategic pivots for Canadian producers competing in export markets. As mom-and-pop manufacturers weigh relocating operations south of the border, the broader supply chain feels the pinch.\n\nFederal ministers have highlighted substantive support programs for workers and businesses responding to U.S. tariffs, aiming to buffer domestic enterprises against these trade barriers.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/9dd018bf2602a0675e005b108b4536a356e5d77a1b6c62a1e194bdf9a2e4a618.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12047666/muskoka-chair-makers-tariff-woes-highlight-challenges-for-mom-and-pop-manufacturers/"
     },
     {
-      "category": "Canada",
-      "headline": "Ottawa set to extend the pause on federal fuel excise tax: source",
-      "summary": "A planned renewal of the federal excise tax on fuel that was to kick in after Labour Day will be paused, according to a government source ahead of the finance minister's afternoon announcement.",
-      "whyItMatters": "Extending the fuel tax pause offers temporary relief on transportation and fuel costs as living expenses remain a central pressure for consumers.",
-      "explainMore": "The federal government is moving to extend the suspension of the fuel excise tax, which was originally scheduled to snap back into place following the Labour Day long weekend.\n\nThis extension comes as convenience store chains like Couche-Tard report that consumers are cutting back on discretionary items like snacks due to rising living and fuel costs.\n\nFinance officials are set to detail the mechanics of the continued tax pause.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/gas-tax-pause-extension.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12044728/gas-tax-pause-extension-canada/"
+      "category": "Manufacturing & Trade",
+      "headline": "Government of Canada launches Canada’s Responsible Data Centre Development Principles",
+      "summary": "New framework commits data centres to protecting electricity ratepayers, limiting water use and delivering lasting benefits for Canadians.",
+      "whyItMatters": "Directly impacts industrial utility frameworks, local electricity ratepayer protection, and water resource management across Ontario.",
+      "explainMore": "Minister Evan Solomon and federal officials introduced the responsible data centre development principles to establish guardrails for expanding digital infrastructure.\n\nThe framework specifically targets the protection of electricity ratepayers and the limitation of industrial water usage, ensuring that high-demand tech facilities do not strain local municipal utilities or drive up power costs for industrial and residential users.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Business & Industry",
+      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.97%",
+        "value": "▼ 0.37%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.69%",
+        "value": "▼ 0.39%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 5.46%",
-        "positive": true
+        "value": "▼ 0.09%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7208",
+        "value": "N/A",
         "positive": null
       }
     ],
-    "insight": "North American equities retreated on Tuesday with the TSX down 0.97% to 53.13 and the S&P 500 slipping 0.69% to 761.78. Oil jumped 5.46% to $141, while the Canadian dollar held steady at 0.7208 USD."
+    "insight": "Equities experienced minor pullbacks with the TSX down 0.37% to 54.11 and the S&P 500 easing 0.39% to 770.19, while oil ticked slightly lower to $141.96 amid steady domestic monetary policy."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Holds Policy Rate at 2¼%",
-    "summary": "The Bank of Canada maintained its target for the overnight rate at 2.25%, keeping borrowing conditions stable for variable-rate mortgage holders.",
-    "whyItMatters": "With your 5-year variable mortgage tied directly to policy rate decisions, today's hold avoids any sudden payment hikes while economic growth registers a modest 0.8% increase in Q2 2026.",
+    "headline": "Bank of Canada Holds Overnight Rate at 2.25%",
+    "summary": "The Bank of Canada has maintained its target for the overnight rate at 2.25%, keeping borrowing costs steady for variable-rate mortgage holders.",
+    "whyItMatters": "With a 5-year variable mortgage, maintaining the policy rate at 2.25% prevents immediate payment spikes, offering breathing room as second-quarter GDP growth registers at 0.8%.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario Deploys $12.5M to Shield Hamilton Supply Chains from Tariffs",
-    "summary": "Federal investments target regional industrial resilience as Ministers Joly and Valdez highlight ongoing federal programs to support businesses grappling with U.S. trade barriers.",
-    "whyItMatters": "Regional manufacturers in the Hamilton and Niagara industrial orbit face direct cost pressures from U.S. tariffs, making supply chain reinforcement and capital backing critical for long-term operational stability.",
+    "headline": "Federal Officials Highlight Tariff Support While Data Centre Framework Takes Shape",
+    "summary": "As U.S. tariffs pressure Canadian manufacturers into contemplating cross-border relocations, Ottawa highlights support programs and launches a new responsible framework for data centre development.",
+    "whyItMatters": "Industrial input costs, tariff mitigation, and utility rate protections are critical factors for regional manufacturing competitiveness in Ontario.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/08/nine-hamilton-businesses-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-growth.html",
-    "engineeringHeadline": "Ontario Industrial Supply Chains Adapt to U.S. Trade Friction",
-    "engineeringSummary": "While industrial hubs like Sudbury navigate critical mineral trade disputes without panic, southern Ontario manufacturing facilities are leveraging federal funding programs to strengthen domestic supply chains, automate operations, and mitigate cross-border tariff impacts."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/minister-valdez-highlights-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html",
+    "engineeringHeadline": "Toronto Orders Live Nation to Hire Engineer for Rogers Stadium Repairs",
+    "engineeringSummary": "The City of Toronto has ordered Live Nation to hire an engineer and fix the Rogers Stadium venue near Downsview Park, where grandstands appeared partially collapsed and bleachers were strewn about ahead of a scheduled AC/DC show."
   },
   "world": {
-    "headline": "Nepal Flood Death Toll Exceeds 900 as Rescue Operations Continue",
-    "summary": "Disaster response agencies report mounting casualties and hundreds still missing following catastrophic glacier collapse and flooding in the Himalayan border region.",
-    "whyItMatters": "The disaster has disrupted vital infrastructure, including hydropower facilities where workers remain trapped, and prompted Canadian Nepalese communities to cancel traditional Teej festivals.",
+    "headline": "2 Trapped Workers Rescued From Tunnel 9 Days After Nepal Floods",
+    "summary": "Search teams successfully rescued two workers trapped inside a tunnel for nine days following deadly flash floods in Nepal.",
+    "whyItMatters": "Highlights critical subterranean rescue engineering under extreme disaster conditions, alongside ongoing international humanitarian relief efforts supported by Canadians.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12041572/nepal-flood-death-toll-hydropower-tunnels/"
+    "sourceUrl": "https://globalnews.ca/news/12047771/2-trapped-workers-rescued-tunnel-nepal-floods/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Finance Minister expected to officially announce the extension of the federal fuel excise tax pause."
+      "label": "This Week",
+      "text": "Minister of Agriculture Heath MacDonald conducts outreach in southern Alberta to engage with food processing and agricultural producers from September 8 to 10."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing federal updates from Ministers Joly and Valdez regarding targeted economic support for Canadian manufacturing businesses impacted by U.S. tariffs."
+      "label": "Ongoing",
+      "text": "Monitor ongoing municipal engineering and repair orders for major public venues and infrastructure projects across Ontario."
     }
   ]
 }
