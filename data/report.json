@@ -1,40 +1,30 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "morningSnapshot": {
-    "headline": "Bank of Canada Holds Rates at 2¼% as Trade and Tariff Pressures Mount Across Ontario",
-    "summary": "Good morning, Ryan. As the Bank of Canada maintains its policy rate at 2.25%, regional manufacturers grapple with mounting U.S. tariff pressures and federal funding initiatives."
+    "headline": "Bank of Canada Holds Rates at 2.25% as Tariffs and Economic Shifts Test Ontario Industry",
+    "summary": "Good morning, Ryan. The Bank of Canada maintains its policy rate at 2.25%, keeping your 5-year variable mortgage stable. Meanwhile, U.S. tariff pressures continue to challenge Canadian manufacturers, and new federal data center development principles roll out."
   },
   "topStory": {
     "category": "Your Money",
     "location": "Ottawa, Ontario",
     "headline": "Bank of Canada maintains the policy rate at 2¼%",
     "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "For your 5-year variable mortgage and long-term investments, the steady rate provides immediate stability, though broader economic conditions remain sensitive to trade headwinds.",
-    "explainMore": "Governor Tiff Macklem discussed the key issues involved in the Governing Council’s deliberations during the monetary policy decision press conference opening statement.\n\nSimultaneously, real gross domestic product increased 0.8% in the second quarter of 2026, supported by higher exports, household spending, and business capital investment.\n\nWith the policy rate holding at 2.25%, borrowers with variable-rate commitments can plan with short-term rate predictability while monitoring macroeconomic shifts.",
+    "whyItMatters": "For homeowners with a 5-year variable mortgage, this decision provides immediate rate stability as borrowing costs remain held at 2.25%.",
+    "explainMore": "Governor Tiff Macklem discussed key issues during the monetary policy decision press release and opening statement, noting the current economic balance as real GDP increased 0.8% in the second quarter of 2026.\n\nWith second-quarter growth led by higher exports, household spending, and business capital investment, the central bank opted to steady the policy rate at 2.25%.\n\nThis pause gives industrial and manufacturing sectors in Ontario a stable monetary backdrop to navigate ongoing trade hurdles and currency fluctuations.",
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Muskoka chair maker’s tariff woes highlight challenges for mom-and-pop manufacturers",
-      "summary": "A Canadian Muskoka chair maker hit hard by U.S. tariffs is considering moving the bulk of its manufacturing to the United States.",
-      "whyItMatters": "Demonstrates the tangible operational pain that U.S. tariffs inflict on Canadian manufacturing businesses, echoing cross-border pressures felt across Ontario industrial sectors.",
-      "explainMore": "U.S. tariffs continue to force difficult strategic pivots for Canadian producers competing in export markets. As mom-and-pop manufacturers weigh relocating operations south of the border, the broader supply chain feels the pinch.\n\nFederal ministers have highlighted substantive support programs for workers and businesses responding to U.S. tariffs, aiming to buffer domestic enterprises against these trade barriers.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/9dd018bf2602a0675e005b108b4536a356e5d77a1b6c62a1e194bdf9a2e4a618.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12047666/muskoka-chair-makers-tariff-woes-highlight-challenges-for-mom-and-pop-manufacturers/"
-    },
-    {
       "category": "Manufacturing & Trade",
-      "headline": "Government of Canada launches Canada’s Responsible Data Centre Development Principles",
-      "summary": "New framework commits data centres to protecting electricity ratepayers, limiting water use and delivering lasting benefits for Canadians.",
-      "whyItMatters": "Directly impacts industrial utility frameworks, local electricity ratepayer protection, and water resource management across Ontario.",
-      "explainMore": "Minister Evan Solomon and federal officials introduced the responsible data centre development principles to establish guardrails for expanding digital infrastructure.\n\nThe framework specifically targets the protection of electricity ratepayers and the limitation of industrial water usage, ensuring that high-demand tech facilities do not strain local municipal utilities or drive up power costs for industrial and residential users.",
+      "headline": "Minister Valdez highlights substantive support for workers and businesses in response to U.S. tariffs",
+      "summary": "Federal officials are highlighting substantive support programs for Canadian small businesses and workers facing economic pressures from U.S. tariffs.",
+      "whyItMatters": "Directly impacts regional industrial competitiveness and supply chain costs for Ontario manufacturers dealing with cross-border trade friction.",
+      "explainMore": "Small businesses form the backbone of the Canadian economy, but many are feeling intense pressure from U.S. tariffs on the workers they employ and the investments they make.\n\nMom-and-pop operations, such as Canadian Muskoka chair makers hit hard by American tariffs, are actively weighing whether to shift production south of the border.\n\nIn response, federal support initiatives aim to help domestic businesses navigate these trade obstacles and shore up local supply chains.",
       "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
       "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html"
+      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/minister-valdez-highlights-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html"
     }
   ],
   "markets": {
@@ -56,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "N/A",
+        "value": "0.7228",
         "positive": null
       }
     ],
-    "insight": "Equities experienced minor pullbacks with the TSX down 0.37% to 54.11 and the S&P 500 easing 0.39% to 770.19, while oil ticked slightly lower to $141.96 amid steady domestic monetary policy."
+    "insight": "Equities softened slightly with the TSX down 0.37% to 54.11 and the S&P 500 dipping 0.39% to 770.19. Oil traded at 141.96 while the Canadian dollar held at 0.7228 against the U.S. greenback following the Bank of Canada's rate hold."
   },
   "yourMoney": {
     "headline": "Bank of Canada Holds Overnight Rate at 2.25%",
-    "summary": "The Bank of Canada has maintained its target for the overnight rate at 2.25%, keeping borrowing costs steady for variable-rate mortgage holders.",
-    "whyItMatters": "With a 5-year variable mortgage, maintaining the policy rate at 2.25% prevents immediate payment spikes, offering breathing room as second-quarter GDP growth registers at 0.8%.",
+    "summary": "With the policy rate steady at 2.25% and second-quarter GDP up 0.8% on the strength of exports and business investment, borrowing costs remain unchanged for variable-rate holders.",
+    "whyItMatters": "Maintains predictable monthly interest expenses for your 5-year variable mortgage while broader economic indicators show resilience.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Federal Officials Highlight Tariff Support While Data Centre Framework Takes Shape",
-    "summary": "As U.S. tariffs pressure Canadian manufacturers into contemplating cross-border relocations, Ottawa highlights support programs and launches a new responsible framework for data centre development.",
-    "whyItMatters": "Industrial input costs, tariff mitigation, and utility rate protections are critical factors for regional manufacturing competitiveness in Ontario.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/minister-valdez-highlights-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html",
-    "engineeringHeadline": "Toronto Orders Live Nation to Hire Engineer for Rogers Stadium Repairs",
-    "engineeringSummary": "The City of Toronto has ordered Live Nation to hire an engineer and fix the Rogers Stadium venue near Downsview Park, where grandstands appeared partially collapsed and bleachers were strewn about ahead of a scheduled AC/DC show."
+    "headline": "Canadian Wool and Manufacturing Sectors Untangle from U.S. Supply Chains Amid Tariffs",
+    "summary": "U.S. tariffs are pushing Canadian producers away from American customers and suppliers as domestic industries look to expand processing and supply chains at home.",
+    "whyItMatters": "Highlights a broader national trend of manufacturers decoupling from cross-border dependencies to build regional resilience against U.S. trade barriers.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12049000/us-cda-tariffs-wool/",
+    "engineeringHeadline": "Ottawa Launches Responsible Data Centre Development Principles to Protect Ratepayers",
+    "engineeringSummary": "The federal government launched Canada's Responsible Data Centre Development Principles, establishing a new framework committed to protecting electricity ratepayers, limiting water use, and delivering lasting infrastructure benefits."
   },
   "world": {
-    "headline": "2 Trapped Workers Rescued From Tunnel 9 Days After Nepal Floods",
-    "summary": "Search teams successfully rescued two workers trapped inside a tunnel for nine days following deadly flash floods in Nepal.",
-    "whyItMatters": "Highlights critical subterranean rescue engineering under extreme disaster conditions, alongside ongoing international humanitarian relief efforts supported by Canadians.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12047771/2-trapped-workers-rescued-tunnel-nepal-floods/"
+    "headline": "U.S. Strikes Three Iranian Oil Tankers After Misses Target Navy Ships",
+    "summary": "The U.S. military executed strikes against three Iranian oil tankers after Iran launched missiles toward two U.S. Navy warships in the region.",
+    "whyItMatters": "Escalating maritime tensions in critical energy transit corridors directly influence global oil prices, which currently sit at 141.96.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12048980/u-s-strikes-3-iranian-oil-tankers/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Minister of Agriculture Heath MacDonald conducts outreach in southern Alberta to engage with food processing and agricultural producers from September 8 to 10."
+      "label": "September 8 to 10",
+      "text": "Agriculture and Agri-Food Minister Heath MacDonald travels to southern Alberta to tour farming and food processing facilities and engage with industry leaders."
     },
     {
-      "label": "Ongoing",
-      "text": "Monitor ongoing municipal engineering and repair orders for major public venues and infrastructure projects across Ontario."
+      "label": "This Week",
+      "text": "Monitor ongoing industry developments regarding federal tariff support programs for Canadian manufacturing and processing operations."
     }
   ]
 }
