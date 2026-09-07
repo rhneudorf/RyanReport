@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "morningSnapshot": {
-    "headline": "Bank of Canada Holds Rates at 2.25% as Tariffs and Economic Shifts Test Ontario Industry",
-    "summary": "Good morning, Ryan. The Bank of Canada maintains its policy rate at 2.25%, keeping your 5-year variable mortgage stable. Meanwhile, U.S. tariff pressures continue to challenge Canadian manufacturers, and new federal data center development principles roll out."
+    "headline": "Canada Prepares Retaliatory Tariffs as U.S. Trade War Escalates to Midterms; Bank Holds Rates at 2.25%",
+    "summary": "Good morning, Ryan. As Canada prepares to implement its retaliatory duties in response to President Trump's 50 per cent tariffs, the trade dispute is increasingly becoming a U.S. midterm ballot box issue. Meanwhile, the Bank of Canada maintains its overnight policy rate at 2.25%, and second-quarter real GDP rose 0.8%."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Ottawa, Ontario",
-    "headline": "Bank of Canada maintains the policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "For homeowners with a 5-year variable mortgage, this decision provides immediate rate stability as borrowing costs remain held at 2.25%.",
-    "explainMore": "Governor Tiff Macklem discussed key issues during the monetary policy decision press release and opening statement, noting the current economic balance as real GDP increased 0.8% in the second quarter of 2026.\n\nWith second-quarter growth led by higher exports, household spending, and business capital investment, the central bank opted to steady the policy rate at 2.25%.\n\nThis pause gives industrial and manufacturing sectors in Ontario a stable monetary backdrop to navigate ongoing trade hurdles and currency fluctuations.",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
+    "category": "Canada-U.S. Trade War",
+    "location": "Canada / United States",
+    "headline": "Trump’s trade war with Canada becoming U.S. midterms ballot box issue",
+    "summary": "Canada is set to implement its retaliatory duties on Tuesday, with many targets aimed directly at key industries in U.S. states facing competitive midterm races.",
+    "whyItMatters": "As an Ontario manufacturing professional, cross-border tariff escalation directly impacts supply chains, pricing stability, and industrial competitiveness across the region.",
+    "explainMore": "The trade conflict intensified following President Donald Trump's imposition of 50 per cent tariffs on Canadian goods. In response, federal and provincial officials—including Quebec's Frechette, who held a mid-campaign cabinet meeting—are preparing counter-measures.\n\nCanada's retaliatory duties are strategically targeted at key industries located in U.S. states where competitive midterm elections are underway. This political dynamic brings trade pressure directly into the U.S. electoral arena, potentially altering the timeline and conditions for a resolution.\n\nFor industrial sectors in Ontario and across Canada, navigating these shifting tariff structures requires close attention to cross-border components, raw material costs, and export logistics.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/663443a3c54fde27692e517324f1ab1e883cd2806bb7f7a6f394301808b16121.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12050070/trump-trade-war-midterm-election-issue/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Minister Valdez highlights substantive support for workers and businesses in response to U.S. tariffs",
-      "summary": "Federal officials are highlighting substantive support programs for Canadian small businesses and workers facing economic pressures from U.S. tariffs.",
-      "whyItMatters": "Directly impacts regional industrial competitiveness and supply chain costs for Ontario manufacturers dealing with cross-border trade friction.",
-      "explainMore": "Small businesses form the backbone of the Canadian economy, but many are feeling intense pressure from U.S. tariffs on the workers they employ and the investments they make.\n\nMom-and-pop operations, such as Canadian Muskoka chair makers hit hard by American tariffs, are actively weighing whether to shift production south of the border.\n\nIn response, federal support initiatives aim to help domestic businesses navigate these trade obstacles and shore up local supply chains.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/minister-valdez-highlights-substantive-support-for-workers-and-businesses-in-response-to-us-tariffs.html"
+      "category": "Economy",
+      "headline": "Bank of Canada maintains the policy rate at 2¼%",
+      "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+      "whyItMatters": "As a homeowner with a 5-year variable mortgage, maintaining the policy rate at 2.25% provides near-term rate stability as the central bank monitors economic indicators.",
+      "explainMore": "Governor Tiff Macklem discussed the key issues during the monetary policy decision press conference opening statement, noting the factors influencing the Governing Council’s deliberations.\n\nConcurrently, Statistics Canada reported that real gross domestic product increased 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
+      "source": "Bank of Canada",
+      "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
     }
   ],
   "markets": {
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7228",
+        "value": "0.7246",
         "positive": null
       }
     ],
-    "insight": "Equities softened slightly with the TSX down 0.37% to 54.11 and the S&P 500 dipping 0.39% to 770.19. Oil traded at 141.96 while the Canadian dollar held at 0.7228 against the U.S. greenback following the Bank of Canada's rate hold."
+    "insight": "North American equities and commodities saw slight downward adjustments, with the TSX down 0.37% to 54.11 and the Canadian dollar holding at 0.7246 USD."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Holds Overnight Rate at 2.25%",
-    "summary": "With the policy rate steady at 2.25% and second-quarter GDP up 0.8% on the strength of exports and business investment, borrowing costs remain unchanged for variable-rate holders.",
-    "whyItMatters": "Maintains predictable monthly interest expenses for your 5-year variable mortgage while broader economic indicators show resilience.",
+    "headline": "Bank of Canada Holds Rates at 2.25% Amid Q2 Growth",
+    "summary": "The Bank of Canada has kept its target overnight rate steady at 2.25% following second-quarter real GDP growth of 0.8%.",
+    "whyItMatters": "Variable mortgage holders and long-term investors benefit from steady borrowing benchmarks while economic accounts show moderate expansion led by exports and business capital investment.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Canadian Wool and Manufacturing Sectors Untangle from U.S. Supply Chains Amid Tariffs",
-    "summary": "U.S. tariffs are pushing Canadian producers away from American customers and suppliers as domestic industries look to expand processing and supply chains at home.",
-    "whyItMatters": "Highlights a broader national trend of manufacturers decoupling from cross-border dependencies to build regional resilience against U.S. trade barriers.",
+    "headline": "Canada Sets Counter-Tariffs Against U.S. Trade Actions",
+    "summary": "Canada prepares to implement retaliatory duties on Tuesday in response to U.S. tariffs, prompting regional cabinet coordination and trade scrutiny.",
+    "whyItMatters": "Cross-border duties on key U.S. industrial states directly affect supply chains, component costs, and manufacturing operations across Ontario.",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12049000/us-cda-tariffs-wool/",
-    "engineeringHeadline": "Ottawa Launches Responsible Data Centre Development Principles to Protect Ratepayers",
-    "engineeringSummary": "The federal government launched Canada's Responsible Data Centre Development Principles, establishing a new framework committed to protecting electricity ratepayers, limiting water use, and delivering lasting infrastructure benefits."
+    "sourceUrl": "https://globalnews.ca/news/12049778/quebec-election-frechette-cabinet-meeting-trade-war/",
+    "engineeringHeadline": "Agriculture and Agri-Food Support Outreach Focuses on Southern Alberta Producers and Processors",
+    "engineeringSummary": "Minister Heath MacDonald is undertaking outreach to southern Alberta from September 8 to 10 to engage with local producers, tour farming and food processing facilities, and discuss controlled environment agriculture support."
   },
   "world": {
-    "headline": "U.S. Strikes Three Iranian Oil Tankers After Misses Target Navy Ships",
-    "summary": "The U.S. military executed strikes against three Iranian oil tankers after Iran launched missiles toward two U.S. Navy warships in the region.",
-    "whyItMatters": "Escalating maritime tensions in critical energy transit corridors directly influence global oil prices, which currently sit at 141.96.",
-    "source": "Global News - National",
+    "headline": "U.S. Strikes Iranian Oil Tankers After Missile Incident in Strait of Hormuz",
+    "summary": "The U.S. military struck three Iranian oil tankers following missile attacks targeting U.S. Navy warships in the region.",
+    "whyItMatters": "Geopolitical escalation in vital energy corridors directly influences global crude pricing and international market stability.",
+    "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12048980/u-s-strikes-3-iranian-oil-tankers/"
   },
   "lookingAhead": [
     {
-      "label": "September 8 to 10",
-      "text": "Agriculture and Agri-Food Minister Heath MacDonald travels to southern Alberta to tour farming and food processing facilities and engage with industry leaders."
+      "label": "Tuesday",
+      "text": "Canada implements its retaliatory tariffs against U.S. goods."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing industry developments regarding federal tariff support programs for Canadian manufacturing and processing operations."
+      "label": "September 8 to 10",
+      "text": "Minister of Agriculture and Agri-Food Heath MacDonald visits southern Alberta to engage with producers, processors, and industry leaders."
     }
   ]
 }
