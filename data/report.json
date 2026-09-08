@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "morningSnapshot": {
-    "headline": "Canada Prepares Retaliatory Tariffs as U.S. Trade War Escalates to Midterms; Bank Holds Rates at 2.25%",
-    "summary": "Good morning, Ryan. As Canada prepares to implement its retaliatory duties in response to President Trump's 50 per cent tariffs, the trade dispute is increasingly becoming a U.S. midterm ballot box issue. Meanwhile, the Bank of Canada maintains its overnight policy rate at 2.25%, and second-quarter real GDP rose 0.8%."
+    "headline": "Canada Counter-Tariffs Take Effect as Trade Tensions Escalate",
+    "summary": "Canada's retaliatory duties on U.S. goods are officially active, impacting cross-border industrial dynamics while the Bank of Canada holds rates at 2.25%."
   },
   "topStory": {
-    "category": "Canada-U.S. Trade War",
-    "location": "Canada / United States",
-    "headline": "Trump’s trade war with Canada becoming U.S. midterms ballot box issue",
-    "summary": "Canada is set to implement its retaliatory duties on Tuesday, with many targets aimed directly at key industries in U.S. states facing competitive midterm races.",
-    "whyItMatters": "As an Ontario manufacturing professional, cross-border tariff escalation directly impacts supply chains, pricing stability, and industrial competitiveness across the region.",
-    "explainMore": "The trade conflict intensified following President Donald Trump's imposition of 50 per cent tariffs on Canadian goods. In response, federal and provincial officials—including Quebec's Frechette, who held a mid-campaign cabinet meeting—are preparing counter-measures.\n\nCanada's retaliatory duties are strategically targeted at key industries located in U.S. states where competitive midterm elections are underway. This political dynamic brings trade pressure directly into the U.S. electoral arena, potentially altering the timeline and conditions for a resolution.\n\nFor industrial sectors in Ontario and across Canada, navigating these shifting tariff structures requires close attention to cross-border components, raw material costs, and export logistics.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/663443a3c54fde27692e517324f1ab1e883cd2806bb7f7a6f394301808b16121.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Canada-U.S. Trade",
+    "location": "Ottawa / Washington",
+    "headline": "Canada’s counter-tariffs kick in on hundreds of U.S. goods",
+    "summary": "Canada's counter-tariffs are now in effect on billions of dollars worth of U.S. goods in response to recent trade war escalation by U.S. President Donald Trump.",
+    "whyItMatters": "As an Ontario manufacturing professional working near the U.S. border, cross-border tariff escalations and retaliatory duties directly impact supply chains, material costs, and regional industrial competitiveness.",
+    "explainMore": "Canada's retaliatory measures are roughly equal to the value of Canadian goods targeted by U.S. tariffs. Many of these Canadian counter-duties are strategically aimed at key industries in U.S. states hosting competitive midterm races.\n\nSimultaneously, U.S. leadership has directed rhetoric and pressure at Canadian entities like Bombardier, introducing further volatility into the Canadian dollar and bilateral economic relations.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-Canada-counter-tariffs.jpg-e1788873373871.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12050070/trump-trade-war-midterm-election-issue/"
+    "sourceUrl": "https://globalnews.ca/news/12050675/donald-trump-tariffs-canada-retaliation/"
   },
   "stories": [
     {
-      "category": "Economy",
-      "headline": "Bank of Canada maintains the policy rate at 2¼%",
-      "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-      "whyItMatters": "As a homeowner with a 5-year variable mortgage, maintaining the policy rate at 2.25% provides near-term rate stability as the central bank monitors economic indicators.",
-      "explainMore": "Governor Tiff Macklem discussed the key issues during the monetary policy decision press conference opening statement, noting the factors influencing the Governing Council’s deliberations.\n\nConcurrently, Statistics Canada reported that real gross domestic product increased 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment.",
-      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
-      "source": "Bank of Canada",
-      "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
+      "category": "Ontario Local",
+      "headline": "Inside the Ford government’s pause on all freedom of information requests",
+      "summary": "The Ford government made the unprecedented decision to pause all transparency requests for more than a week.",
+      "whyItMatters": "Involves regional governance changes in Ontario affecting transparency and provincial administration.",
+      "explainMore": "The provincial government implemented a temporary halt across all freedom of information channels, sparking intense scrutiny from observers regarding administrative openness.\n\nWhile officials managed the pause behind the scenes, accountability advocates continue to evaluate the implications for public oversight.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/CP175185750-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12048436/ontario-freedom-information-pause/"
     }
   ],
   "markets": {
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7246",
+        "value": "0.7267",
         "positive": null
       }
     ],
-    "insight": "North American equities and commodities saw slight downward adjustments, with the TSX down 0.37% to 54.11 and the Canadian dollar holding at 0.7246 USD."
+    "insight": "Markets are pulling back slightly with the TSX down 0.37% and S&P 500 down 0.39%. Oil hovers near $141.96 while the Canadian dollar trades at 0.7267 against the USD amid ongoing trade disputes."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Holds Rates at 2.25% Amid Q2 Growth",
-    "summary": "The Bank of Canada has kept its target overnight rate steady at 2.25% following second-quarter real GDP growth of 0.8%.",
-    "whyItMatters": "Variable mortgage holders and long-term investors benefit from steady borrowing benchmarks while economic accounts show moderate expansion led by exports and business capital investment.",
+    "headline": "Bank of Canada maintains policy rate at 2¼%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, a steady policy rate at 2.25% provides stability for your current borrowing costs following previous rate adjustments.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Canada Sets Counter-Tariffs Against U.S. Trade Actions",
-    "summary": "Canada prepares to implement retaliatory duties on Tuesday in response to U.S. tariffs, prompting regional cabinet coordination and trade scrutiny.",
-    "whyItMatters": "Cross-border duties on key U.S. industrial states directly affect supply chains, component costs, and manufacturing operations across Ontario.",
+    "headline": "Trump’s Trade War and Tariffs Target Canadian Industrial Supply Chains",
+    "summary": "Canada’s newly enacted counter-tariffs roll out in response to U.S. trade actions, directly intersecting with cross-border manufacturing and export sectors.",
+    "whyItMatters": "For Ontario hydraulic cylinder manufacturing and engineering operations, shifts in trade policy and currency values (CAD/USD at 0.7267) require close monitoring of component and material expenses.",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12049778/quebec-election-frechette-cabinet-meeting-trade-war/",
-    "engineeringHeadline": "Agriculture and Agri-Food Support Outreach Focuses on Southern Alberta Producers and Processors",
-    "engineeringSummary": "Minister Heath MacDonald is undertaking outreach to southern Alberta from September 8 to 10 to engage with local producers, tour farming and food processing facilities, and discuss controlled environment agriculture support."
+    "sourceUrl": "https://globalnews.ca/news/12050175/canada-us-counter-tariffs-trump-bombardier/",
+    "engineeringHeadline": "Real GDP Growth Supported by Business Capital Investment",
+    "engineeringSummary": "Statistics Canada reported that real gross domestic product increased 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment."
   },
   "world": {
-    "headline": "U.S. Strikes Iranian Oil Tankers After Missile Incident in Strait of Hormuz",
-    "summary": "The U.S. military struck three Iranian oil tankers following missile attacks targeting U.S. Navy warships in the region.",
-    "whyItMatters": "Geopolitical escalation in vital energy corridors directly influences global crude pricing and international market stability.",
+    "headline": "U.S. Strikes Iranian Oil Tankers Following Persian Gulf Escalation",
+    "summary": "The U.S. military launched strikes against three Iranian oil tankers after Iran fired missiles toward two U.S. Navy warships in the region.",
+    "whyItMatters": "Geopolitical friction in the Strait of Hormuz directly influences global energy markets, aligning with high crude oil benchmarks near $141.96.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12048980/u-s-strikes-3-iranian-oil-tankers/"
   },
   "lookingAhead": [
     {
-      "label": "Tuesday",
-      "text": "Canada implements its retaliatory tariffs against U.S. goods."
+      "label": "Today",
+      "text": "Canada's retaliatory counter-tariffs on U.S. goods officially take effect."
     },
     {
-      "label": "September 8 to 10",
-      "text": "Minister of Agriculture and Agri-Food Heath MacDonald visits southern Alberta to engage with producers, processors, and industry leaders."
+      "label": "This Week",
+      "text": "Monitor broader market reactions to U.S. midterm campaign shifts regarding the ongoing Canada-U.S. trade dispute."
     }
   ]
 }
