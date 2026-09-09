@@ -1,88 +1,86 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "morningSnapshot": {
-    "headline": "Canada Counter-Tariffs Take Effect as Trade Tensions Escalate",
-    "summary": "Canada's retaliatory duties on U.S. goods are officially active, impacting cross-border industrial dynamics while the Bank of Canada holds rates at 2.25%."
+    "headline": "Oil Surpasses $100 Amid Middle East Supply Disruptions, While Bank of Canada Holds Rate at 2.25%",
+    "summary": "Energy markets face severe pressure as oil tops $100 a barrel following attacks on Middle East facilities. Domestically, the Bank of Canada maintains its policy rate at 2.25%, offering stability for variable-rate mortgage holders in Beamsville."
   },
   "topStory": {
-    "category": "Canada-U.S. Trade",
-    "location": "Ottawa / Washington",
-    "headline": "Canada’s counter-tariffs kick in on hundreds of U.S. goods",
-    "summary": "Canada's counter-tariffs are now in effect on billions of dollars worth of U.S. goods in response to recent trade war escalation by U.S. President Donald Trump.",
-    "whyItMatters": "As an Ontario manufacturing professional working near the U.S. border, cross-border tariff escalations and retaliatory duties directly impact supply chains, material costs, and regional industrial competitiveness.",
-    "explainMore": "Canada's retaliatory measures are roughly equal to the value of Canadian goods targeted by U.S. tariffs. Many of these Canadian counter-duties are strategically aimed at key industries in U.S. states hosting competitive midterm races.\n\nSimultaneously, U.S. leadership has directed rhetoric and pressure at Canadian entities like Bombardier, introducing further volatility into the Canadian dollar and bilateral economic relations.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-Canada-counter-tariffs.jpg-e1788873373871.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12050675/donald-trump-tariffs-canada-retaliation/"
+    "category": "World",
+    "location": "Middle East",
+    "headline": "Oil tops $100 a barrel following latest attacks on Middle East facilities",
+    "summary": "The price of oil surpassed $100 a barrel for the first time since July after attacks on oil facilities and ships in the Middle East threatened an already weakened supply chain.",
+    "whyItMatters": "Spiking energy costs directly influence broader inflation pressures, input costs for Ontario manufacturers, and transportation expenses across the Niagara Region.",
+    "explainMore": "The price of oil surpassed $100 a barrel following attacks on oil facilities and ships in the Middle East. These disruptions threaten an already weakened global supply chain.\n\nEnergy spikes of this magnitude ripple quickly through manufacturing and logistics networks, driving up operating costs for industrial facilities across southern Ontario.\n\nMarket data confirms oil trading sharply higher, reflecting immediate supply anxieties that will likely impact input pricing and downstream goods.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/oil-saudi-arabia.jpg-e1788959141933.jpg?quality=65&strip=all&w=720&h=480&crop=1"
   },
   "stories": [
     {
-      "category": "Ontario Local",
-      "headline": "Inside the Ford government’s pause on all freedom of information requests",
-      "summary": "The Ford government made the unprecedented decision to pause all transparency requests for more than a week.",
-      "whyItMatters": "Involves regional governance changes in Ontario affecting transparency and provincial administration.",
-      "explainMore": "The provincial government implemented a temporary halt across all freedom of information channels, sparking intense scrutiny from observers regarding administrative openness.\n\nWhile officials managed the pause behind the scenes, accountability advocates continue to evaluate the implications for public oversight.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/CP175185750-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Canada",
+      "headline": "Ontario hit 58% of 2025 housing goal, even after adding long-term care, student beds",
+      "summary": "A briefing note shows that, even by its own modified definition of new housing, the province only achieved 58 per cent of its 2025 target.",
+      "whyItMatters": "Highlights persistent regional housing delivery challenges across Ontario and the Niagara corridor.",
+      "explainMore": "Internal briefing notes reveal that despite broadening the criteria to include long-term care and student beds, the provincial housing targets for 2025 fell significantly short.\n\nAchieving only 58 per cent of the stated goal underscores structural hurdles in residential development and municipal infrastructure capacity across Ontario.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/CP176800469.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12048436/ontario-freedom-information-pause/"
+      "sourceUrl": "https://globalnews.ca/news/12051237/ontario-housing-target-progress-2025/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.37%",
+        "value": "▼ 1.26%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.39%",
+        "value": "▼ 0.55%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▼ 0.09%",
-        "positive": false
+        "value": "▲ 2.87%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7267",
+        "value": "0.7248",
         "positive": null
       }
     ],
-    "insight": "Markets are pulling back slightly with the TSX down 0.37% and S&P 500 down 0.39%. Oil hovers near $141.96 while the Canadian dollar trades at 0.7267 against the USD amid ongoing trade disputes."
+    "insight": "Oil prices surged past $100 a barrel on Middle East supply concerns, lifting energy benchmarks while equity indexes like the TSX and S&P 500 pulled back."
   },
   "yourMoney": {
-    "headline": "Bank of Canada maintains policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, a steady policy rate at 2.25% provides stability for your current borrowing costs following previous rate adjustments.",
+    "headline": "Bank of Canada maintains the policy rate at 2¼%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+    "whyItMatters": "As a 5-year variable mortgage holder, keeping the policy rate steady at 2.25% maintains stability in your current borrowing costs without unexpected near-term upward pressure.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Trump’s Trade War and Tariffs Target Canadian Industrial Supply Chains",
-    "summary": "Canada’s newly enacted counter-tariffs roll out in response to U.S. trade actions, directly intersecting with cross-border manufacturing and export sectors.",
-    "whyItMatters": "For Ontario hydraulic cylinder manufacturing and engineering operations, shifts in trade policy and currency values (CAD/USD at 0.7267) require close monitoring of component and material expenses.",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12050175/canada-us-counter-tariffs-trump-bombardier/",
-    "engineeringHeadline": "Real GDP Growth Supported by Business Capital Investment",
-    "engineeringSummary": "Statistics Canada reported that real gross domestic product increased 0.8% in the second quarter of 2026, driven by higher exports, household spending, and business capital investment."
+    "headline": "Eligible businesses and organizations in southern Ontario can now apply for support through the enhanced Regional Tariff Response Initiative",
+    "summary": "The expanded federal program helps southern Ontario businesses and organizations manage immediate trade pressures, adapt to disruptions, and build stronger industrial resilience.",
+    "whyItMatters": "Provides targeted financial and operational support for regional manufacturers navigating trade volatility and tariff adjustments.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/eligible-businesses-and-organizations-in-southern-ontario-can-can-now-apply-for-support-through-the-enhanced-regional-tariff-response-initiative.html",
+    "engineeringHeadline": "Government of Canada to launch Canada’s National AI Literacy Initiative",
+    "engineeringSummary": "Ottawa announced the upcoming launch of a National AI Literacy Initiative aimed at bolstering technological competence and industrial readiness across the Canadian workforce."
   },
   "world": {
-    "headline": "U.S. Strikes Iranian Oil Tankers Following Persian Gulf Escalation",
-    "summary": "The U.S. military launched strikes against three Iranian oil tankers after Iran fired missiles toward two U.S. Navy warships in the region.",
-    "whyItMatters": "Geopolitical friction in the Strait of Hormuz directly influences global energy markets, aligning with high crude oil benchmarks near $141.96.",
+    "headline": "Iceland summons U.S. ambassador over Trump’s ‘unacceptable’ map post",
+    "summary": "Iceland formally summoned the U.S. ambassador following a social media post displaying a map of North America that colored countries like Canada, Greenland, and Iceland under the American flag.",
+    "whyItMatters": "Signals mounting geopolitical tensions and diplomatic friction involving North American and European allies.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12048980/u-s-strikes-3-iranian-oil-tankers/"
+    "sourceUrl": "https://globalnews.ca/news/12050918/iceland-summons-u-s-ambassador-over-trump-map-post/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Canada's retaliatory counter-tariffs on U.S. goods officially take effect."
+      "text": "Quebec political leaders continue their campaign trail TV interviews ahead of the Oct. 5 election."
     },
     {
       "label": "This Week",
-      "text": "Monitor broader market reactions to U.S. midterm campaign shifts regarding the ongoing Canada-U.S. trade dispute."
+      "text": "Southern Ontario industrial and manufacturing businesses can review eligibility and apply for support through the enhanced Regional Tariff Response Initiative."
     }
   ]
 }
