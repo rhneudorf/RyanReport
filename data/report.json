@@ -1,92 +1,88 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "morningSnapshot": {
-    "headline": "Trade Escalation and Oil Surge Dominate Markets as Bank of Canada Holds Rates",
-    "summary": "Good morning, Ryan. As U.S. trade tensions escalate with impending import bans and oil breaches $100 a barrel, the Bank of Canada maintains its policy rate at 2.25%. Here is your concise briefing on markets, manufacturing, and trade developments affecting Southern Ontario."
+    "headline": "Trade War Intensifies as Oil Crosses $100; Bank of Canada Rate Held Steady at 2.25%",
+    "summary": "As U.S. President Donald Trump ratchets up trade tensions with import bans on Canadian goods, oil prices have spiked past $100 a barrel following Middle East supply disruptions. Meanwhile, the Bank of Canada maintains its policy rate at 2.25%, leaving your 5-year variable mortgage stable for now."
   },
   "topStory": {
     "category": "Canada",
     "location": "Banff, Alberta",
-    "headline": "Carney’s cabinet meets in Banff as Trump escalates trade war",
-    "summary": "Prime Minister Mark Carney's cabinet is meeting in Banff as U.S. President Donald Trump signs executive orders to ban certain Canadian imports later this month, including alcohol, motorcycles, and dairy products.",
-    "whyItMatters": "Direct trade restrictions and escalating U.S. protectionism pose ongoing risks to Ontario’s manufacturing, supply chains, and cross-border commerce.",
-    "explainMore": "Prime Minister Mark Carney's cabinet gathered in Banff to formulate a response as trade hostilities intensified. President Trump lashed out by signing executive orders targeting specific Canadian imports starting later this month.\n\nOntario’s alcohol and manufacturing industries are actively bracing for these disruptions following early gains. Meanwhile, the federal government has opened applications for support through the enhanced Regional Tariff Response Initiative to help southern Ontario businesses navigate immediate trade pressures.\n\nCabinet discussions are also touching upon broader international co-operation, running parallel to high-level diplomatic engagements with visiting international leaders like Ukraine's President Zelenskyy.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-cabinet-banff.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "headline": "Carney’s cabinet huddles for 2nd day in Banff as trade war intensifies",
+    "summary": "Prime Minister Mark Carney's cabinet is meeting in Banff for a second day as U.S. President Donald Trump escalates an ongoing trade war by moving to ban certain Canadian imports, including alcohol and select dairy products.",
+    "whyItMatters": "For manufacturers and businesses in Southern Ontario, escalating cross-border trade friction and impending U.S. import bans directly threaten regional supply chains, export markets, and industrial stability.",
+    "explainMore": "The two-day ministerial retreat in Banff comes at a critical juncture for Canadian trade policy. With Washington aggressively targeting Canadian exports, the federal government is forced to formulate immediate defensive measures and strategic alternatives.\n\nPrime Minister Carney is also scheduled to address the European Parliament next week as part of a broader push to diversify Canada's economic partnerships and strengthen ties with the EU amid the ongoing U.S. trade dispute.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-cabinet-day-2-banff.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12053890/carney-cabinet-banff-trade-war/"
+    "sourceUrl": "https://globalnews.ca/news/12055400/carneys-cabinet-2nd-day-banff-trade-war/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Carney to hold joint press conference with Ukraine’s Zelenskyy",
-      "summary": "Prime Minister Mark Carney announced a joint meeting with Ukrainian President Volodymyr Zelenskyy focused on deepening defence, economic, and energy co-operation.",
-      "whyItMatters": "Strengthened bilateral ties and energy co-operation can influence broader industrial supply chains and national trade priorities.",
-      "explainMore": "Ukrainian President Volodymyr Zelenskyy arrived in Canada for high-level talks, stopping in Calgary before heading toward meetings with Prime Minister Mark Carney. The discussions center on shared priorities across defence, economic collaboration, and energy sectors.\n\nAs part of his Canadian tour, Zelenskyy is also scheduled to visit Toronto and North Bay before concluding his trip. These diplomatic engagements highlight Canada's ongoing international commitments amidst a tense geopolitical landscape.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Zelenskyy-Canada.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12053964/carney-ukraine-zelenskyy/"
+      "category": "Local",
+      "headline": "Ford says cabinet shuffle prepares Ontario for ‘long haul’ in Trump tariff war",
+      "summary": "Premier Doug Ford announced a cabinet shuffle featuring the creation of a new position: associate minister of artificial intelligence adoption.",
+      "whyItMatters": "Directly impacts Ontario's manufacturing sector and industrial automation strategies as the province braces for prolonged trade friction with the U.S.",
+      "explainMore": "Premier Doug Ford's restructuring of his provincial cabinet is explicitly designed to steel Ontario for a prolonged trade conflict with the United States. \n\nBy introducing a dedicated focus on artificial intelligence adoption, the province is signaling that local manufacturing modernization, automation, and technological efficiency will be central pillars of its economic defense strategy.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/d39ef5ad6750b5046189b46e0cb00d50f1943852f0e72e8d0689ea412a8fbe89.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12054033/premier-doug-ford-set-to-shuffle-his-cabinet/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.80%",
+        "value": "▼ 0.83%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.46%",
+        "value": "▼ 0.60%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 2.70%",
+        "value": "▲ 5.61%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7238",
+        "value": "0.7209",
         "positive": null
       }
     ],
-    "insight": "Oil prices surged past $100 a barrel following Middle East supply disruptions, pushing energy costs higher while equities on the TSX and S&P 500 faced downward pressure amid trade friction."
+    "insight": "Canadian household net worth rose 2.9% in Q2 2026 to eclipse $19 trillion on equity market gains, though current broad markets face downward pressure alongside surging oil prices over $158/barrel."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Holds Policy Rate at 2¼%",
-    "summary": "The Bank of Canada maintained its target for the overnight rate at 2.25% (2.25%), keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "For homeowners with a 5-year variable mortgage, this decision keeps borrowing costs steady following previous adjustments, though broader macroeconomic factors like energy price inflation continue to loom over the financial outlook.",
+    "headline": "Bank of Canada maintains policy rate at 2.25%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25% (with the Bank Rate at 2.5% and deposit rate at 2.20%), keeping borrowing costs steady for variable-rate mortgage holders.",
+    "whyItMatters": "As a 5-year variable mortgage holder, holding the policy rate at 2.25% keeps your current mortgage servicing costs stable while the central bank navigates ongoing trade and inflation pressures.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Eligible Businesses in Southern Ontario Can Apply for Enhanced Regional Tariff Response Support",
-    "summary": "Southern Ontario businesses and organizations can now apply for support through the expanded Regional Tariff Response Initiative to adapt to trade disruptions.",
-    "whyItMatters": "With U.S. import bans targeting Canadian goods and provincial alcohol and manufacturing sectors bracing for impact, regional support programs provide critical relief for industrial supply chains.",
+    "headline": "Eligible Southern Ontario businesses can apply for enhanced Regional Tariff Response Initiative support",
+    "summary": "Southern Ontario businesses facing immediate pressures from U.S. tariffs can now apply for support through the expanded Regional Tariff Response Initiative to adapt and build resilience.",
+    "whyItMatters": "Provides crucial regional funding avenues for Ontario manufacturers navigating supply chain disruptions and trade volatility caused by U.S. tariff actions.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/eligible-businesses-and-organizations-in-southern-ontario-can-now-apply-for-support-through-the-enhanced-regional-tariff-response-initiative.html",
     "engineeringHeadline": "Ottawa Launches National AI Literacy Initiative in Partnership with Amii",
-    "engineeringSummary": "The federal government has launched a national partnership with Amii to provide free, practical AI learning for workers, students, and engineers across Canada, supporting technological adaptation in automation and industrial applications."
+    "engineeringSummary": "The federal government has launched a National AI Literacy Initiative alongside Amii to provide free, practical AI learning for workers and communities across Canada, aligning with Ontario's push toward advanced manufacturing automation."
   },
   "world": {
-    "headline": "Oil Tops $100 a Barrel Following Attacks on Middle East Facilities",
-    "summary": "The price of oil surpassed $100 a barrel for the first time since July after attacks on Middle East oil facilities and shipping lanes disrupted supply chains.",
-    "whyItMatters": "Spiking crude prices directly increase operational energy expenses for heavy manufacturing, transportation, and industrial fabrication across Ontario.",
+    "headline": "Oil tops $100 a barrel following attacks on Middle East facilities",
+    "summary": "Global oil prices surpassed $100 a barrel for the first time since July after military attacks on Middle East oil facilities and shipping threatened an already fragile supply chain.",
+    "whyItMatters": "Soaring global energy costs ripple directly into manufacturing input expenses, logistics pricing, and domestic inflation rates.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12052326/oil-prices-iran-middle-east-war/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Edmonton police are scheduled to share a public update regarding the ongoing probe into the Sikh temple stabbing."
-    },
-    {
       "label": "This Week",
-      "text": "Cabinet discussions in Banff continue as officials formulate retaliatory and defensive economic strategies against escalating U.S. trade tariffs."
+      "text": "Prime Minister Mark Carney is scheduled to address the European Parliament to discuss deeper Canada-EU cooperation amid the U.S. trade war."
     },
     {
-      "label": "Friday",
-      "text": "Ukrainian President Volodymyr Zelenskyy concludes his multi-city Canadian tour after visiting Calgary, Toronto, and North Bay."
+      "label": "Ongoing",
+      "text": "Eligible Southern Ontario manufacturers can submit applications for assistance through the enhanced Regional Tariff Response Initiative."
     }
   ]
 }
