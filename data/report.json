@@ -1,88 +1,88 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "morningSnapshot": {
-    "headline": "Trade War Intensifies as Oil Crosses $100; Bank of Canada Rate Held Steady at 2.25%",
-    "summary": "As U.S. President Donald Trump ratchets up trade tensions with import bans on Canadian goods, oil prices have spiked past $100 a barrel following Middle East supply disruptions. Meanwhile, the Bank of Canada maintains its policy rate at 2.25%, leaving your 5-year variable mortgage stable for now."
+    "headline": "Household Net Worth Hits $19 Trillion as Markets Rise, While Policy Rates Hold Steady",
+    "summary": "Canadian household net worth climbed 2.9% in the second quarter to eclipse $19 trillion on equity market gains, as the Bank of Canada maintains its policy rate at 2.25%."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Banff, Alberta",
-    "headline": "Carney’s cabinet huddles for 2nd day in Banff as trade war intensifies",
-    "summary": "Prime Minister Mark Carney's cabinet is meeting in Banff for a second day as U.S. President Donald Trump escalates an ongoing trade war by moving to ban certain Canadian imports, including alcohol and select dairy products.",
-    "whyItMatters": "For manufacturers and businesses in Southern Ontario, escalating cross-border trade friction and impending U.S. import bans directly threaten regional supply chains, export markets, and industrial stability.",
-    "explainMore": "The two-day ministerial retreat in Banff comes at a critical juncture for Canadian trade policy. With Washington aggressively targeting Canadian exports, the federal government is forced to formulate immediate defensive measures and strategic alternatives.\n\nPrime Minister Carney is also scheduled to address the European Parliament next week as part of a broader push to diversify Canada's economic partnerships and strengthen ties with the EU amid the ongoing U.S. trade dispute.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-cabinet-day-2-banff.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12055400/carneys-cabinet-2nd-day-banff-trade-war/"
+    "category": "Your Money",
+    "location": "Canada",
+    "headline": "Canadian household net worth climbs 2.9% to eclipse $19 trillion",
+    "summary": "The net worth of Canadian households rose 2.9% in the second quarter of 2026, crossing the $19 trillion threshold driven by a boon in equity markets and higher asset valuations.",
+    "whyItMatters": "As a long-term investor, tracking broader macroeconomic asset expansion helps frame overall portfolio health against shifting equity valuations.",
+    "explainMore": "The net worth of Canadian households—calculated as the value of all assets minus all liabilities—experienced a notable 2.9% increase during the second quarter of 2026. This growth pushed total household net worth past the $19 trillion mark.\n\nStatistics Canada noted that the primary driver behind this milestone was a strong performance in equity markets, which translated directly into greater household wealth via elevated asset valuations.\n\nFor homeowners and long-term investors alike, these figures underscore the sensitivity of household balance sheets to broader capital market performance.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260911/dq260911a-eng.htm"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Ford says cabinet shuffle prepares Ontario for ‘long haul’ in Trump tariff war",
-      "summary": "Premier Doug Ford announced a cabinet shuffle featuring the creation of a new position: associate minister of artificial intelligence adoption.",
-      "whyItMatters": "Directly impacts Ontario's manufacturing sector and industrial automation strategies as the province braces for prolonged trade friction with the U.S.",
-      "explainMore": "Premier Doug Ford's restructuring of his provincial cabinet is explicitly designed to steel Ontario for a prolonged trade conflict with the United States. \n\nBy introducing a dedicated focus on artificial intelligence adoption, the province is signaling that local manufacturing modernization, automation, and technological efficiency will be central pillars of its economic defense strategy.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/d39ef5ad6750b5046189b46e0cb00d50f1943852f0e72e8d0689ea412a8fbe89.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12054033/premier-doug-ford-set-to-shuffle-his-cabinet/"
+      "category": "Manufacturing & Trade",
+      "headline": "Government of Canada invests in machine learning technology for vineyards",
+      "summary": "Parliamentary Secretary Karim Bardeesy announced a federal investment in science and technology to support early disease detection and crop management in Canadian vineyards.",
+      "whyItMatters": "Highlights ongoing government investment in machine learning and applied agricultural technology, intersecting directly with industrial automation trends.",
+      "explainMore": "Federal investments in advanced agricultural technology are ramping up to provide Canadian producers with modern tools to maintain competitiveness.\n\nThe initiative focuses on deploying machine learning systems designed to improve crop management and execute early disease detection in vineyards.\n\nSuch implementations demonstrate the practical deployment of automated data analysis tools within primary production sectors.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Business & Industry",
+      "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/government-of-canada-to-invest-in-machine-learning-technology-to-improve-crop-management-and-disease-detection-in-vineyards.html"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.83%",
-        "positive": false
-      },
-      {
-        "name": "S&P 500",
-        "value": "▼ 0.60%",
-        "positive": false
-      },
-      {
-        "name": "Oil",
-        "value": "▲ 5.61%",
+        "value": "▲ 0.68%",
         "positive": true
       },
       {
+        "name": "S&P 500",
+        "value": "▲ 0.85%",
+        "positive": true
+      },
+      {
+        "name": "Oil",
+        "value": "▼ 2.20%",
+        "positive": false
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7209",
+        "value": "0.7220",
         "positive": null
       }
     ],
-    "insight": "Canadian household net worth rose 2.9% in Q2 2026 to eclipse $19 trillion on equity market gains, though current broad markets face downward pressure alongside surging oil prices over $158/barrel."
+    "insight": "Equities pushed higher with solid gains on both the TSX (+0.68%) and S&P 500 (+0.85%), while oil pulled back 2.20% to 154.9 and the loonie held at 0.7220 against the greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada maintains policy rate at 2.25%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25% (with the Bank Rate at 2.5% and deposit rate at 2.20%), keeping borrowing costs steady for variable-rate mortgage holders.",
-    "whyItMatters": "As a 5-year variable mortgage holder, holding the policy rate at 2.25% keeps your current mortgage servicing costs stable while the central bank navigates ongoing trade and inflation pressures.",
+    "headline": "Bank of Canada maintains policy rate at 2¼%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
+    "whyItMatters": "Directly impacts your 5-year variable mortgage costs by keeping borrowing benchmarks steady for now.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Eligible Southern Ontario businesses can apply for enhanced Regional Tariff Response Initiative support",
-    "summary": "Southern Ontario businesses facing immediate pressures from U.S. tariffs can now apply for support through the expanded Regional Tariff Response Initiative to adapt and build resilience.",
-    "whyItMatters": "Provides crucial regional funding avenues for Ontario manufacturers navigating supply chain disruptions and trade volatility caused by U.S. tariff actions.",
+    "headline": "Government of Canada launches National AI Literacy Initiative",
+    "summary": "A new national partnership with Amii provides free, practical AI learning for students, workers, and communities across Canada.",
+    "whyItMatters": "Expands workforce familiarity with artificial intelligence tools relevant to modern engineering and automation environments.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/eligible-businesses-and-organizations-in-southern-ontario-can-now-apply-for-support-through-the-enhanced-regional-tariff-response-initiative.html",
-    "engineeringHeadline": "Ottawa Launches National AI Literacy Initiative in Partnership with Amii",
-    "engineeringSummary": "The federal government has launched a National AI Literacy Initiative alongside Amii to provide free, practical AI learning for workers and communities across Canada, aligning with Ontario's push toward advanced manufacturing automation."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-national-ai-literacy-initiative.html",
+    "engineeringHeadline": "Minister MacDonald announces clean tech investment for controlled environment agriculture",
+    "engineeringSummary": "An investment of nearly $900,000 was announced for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program to test and scale new clean lighting technology in partnership with Hydragreens vertical farm."
   },
   "world": {
-    "headline": "Oil tops $100 a barrel following attacks on Middle East facilities",
-    "summary": "Global oil prices surpassed $100 a barrel for the first time since July after military attacks on Middle East oil facilities and shipping threatened an already fragile supply chain.",
-    "whyItMatters": "Soaring global energy costs ripple directly into manufacturing input expenses, logistics pricing, and domestic inflation rates.",
+    "headline": "Why are rising bond yields spurring alarm? And what do the markets mean for you?",
+    "summary": "Global bond markets are once again signalling rising economic risk, leaving consumers facing the prospect of higher borrowing costs for longer.",
+    "whyItMatters": "Rising global bond yields exert upward pressure on long-term debt pricing and macroeconomic stability.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12052326/oil-prices-iran-middle-east-war/"
+    "sourceUrl": "https://globalnews.ca/news/12054283/bond-yields-consumer-impact/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Prime Minister Mark Carney is scheduled to address the European Parliament to discuss deeper Canada-EU cooperation amid the U.S. trade war."
+      "text": "Monitor ongoing developments surrounding the Bank of Canada's recruitment process for the external Deputy Governor position."
     },
     {
-      "label": "Ongoing",
-      "text": "Eligible Southern Ontario manufacturers can submit applications for assistance through the enhanced Regional Tariff Response Initiative."
+      "label": "This Week",
+      "text": "Keep an eye on industrial policy updates and implementation of the newly launched National AI Literacy Initiative across Canadian workplaces."
     }
   ]
 }
