@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "morningSnapshot": {
-    "headline": "Household Net Worth Hits $19 Trillion as Markets Rise, While Policy Rates Hold Steady",
-    "summary": "Canadian household net worth climbed 2.9% in the second quarter to eclipse $19 trillion on equity market gains, as the Bank of Canada maintains its policy rate at 2.25%."
+    "headline": "Policy Rate Held at 2.25% as Markets Signal Risks",
+    "summary": "Good morning, Ryan. The Bank of Canada maintains its policy rate at 2.25%, keeping your 5-year variable mortgage stable for now while bond yields and global economic risks signal a tightening borrowing environment."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Canada",
-    "headline": "Canadian household net worth climbs 2.9% to eclipse $19 trillion",
-    "summary": "The net worth of Canadian households rose 2.9% in the second quarter of 2026, crossing the $19 trillion threshold driven by a boon in equity markets and higher asset valuations.",
-    "whyItMatters": "As a long-term investor, tracking broader macroeconomic asset expansion helps frame overall portfolio health against shifting equity valuations.",
-    "explainMore": "The net worth of Canadian households—calculated as the value of all assets minus all liabilities—experienced a notable 2.9% increase during the second quarter of 2026. This growth pushed total household net worth past the $19 trillion mark.\n\nStatistics Canada noted that the primary driver behind this milestone was a strong performance in equity markets, which translated directly into greater household wealth via elevated asset valuations.\n\nFor homeowners and long-term investors alike, these figures underscore the sensitivity of household balance sheets to broader capital market performance.",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260911/dq260911a-eng.htm"
+    "category": "Economy & Trade",
+    "location": "Ottawa, Ontario",
+    "headline": "Bank of Canada maintains the policy rate at 2¼%",
+    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20% during its September policy decision.",
+    "whyItMatters": "For homeowners managing a 5-year variable mortgage in Beamsville, a steady policy rate provides immediate payment stability, though broader financial conditions remain tight.",
+    "explainMore": "Governor Tiff Macklem discussed the key issues involved in the Governing Council’s deliberations during the monetary policy press conference. The central bank continues to monitor economic indicators closely as households navigate shifting financial landscapes.\n\nSimultaneously, the Bank of Canada Board initiated a recruitment process to fill an external Deputy Governor position left vacant following Nicolas Vincent's appointment as a full-time Deputy Governor. These leadership shifts occur as Canadian household net worth rose 2.9% in the second quarter of 2026 to eclipse $19 trillion, driven largely by equity market asset valuations.",
+    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "stories": [
     {
       "category": "Manufacturing & Trade",
-      "headline": "Government of Canada invests in machine learning technology for vineyards",
-      "summary": "Parliamentary Secretary Karim Bardeesy announced a federal investment in science and technology to support early disease detection and crop management in Canadian vineyards.",
-      "whyItMatters": "Highlights ongoing government investment in machine learning and applied agricultural technology, intersecting directly with industrial automation trends.",
-      "explainMore": "Federal investments in advanced agricultural technology are ramping up to provide Canadian producers with modern tools to maintain competitiveness.\n\nThe initiative focuses on deploying machine learning systems designed to improve crop management and execute early disease detection in vineyards.\n\nSuch implementations demonstrate the practical deployment of automated data analysis tools within primary production sectors.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/government-of-canada-to-invest-in-machine-learning-technology-to-improve-crop-management-and-disease-detection-in-vineyards.html"
+      "headline": "Stellantis signs MOU on Brampton, Ont., plant as talks with union break down",
+      "summary": "Stellantis has signed a memorandum of understanding with Roshel for the potential sale of its idled Brampton assembly plant as Unifor pauses contract talks.",
+      "whyItMatters": "Directly impacts the southern Ontario manufacturing corridor, touching automotive supply chains, industrial footprint changes, and union dynamics across the region.",
+      "explainMore": "The signing of the MOU represents a significant shift for the idled Brampton manufacturing facility. As contract discussions with Unifor pause, industrial observers across Ontario are closely watching how the potential transition to Roshel will reshape local production capabilities.\n\nThis development comes amidst wider cross-border trade discussions, with U.S. President Donald Trump remarking that Canada wants to make a trade deal very badly, which could influence future industrial policy and tariffs affecting the broader manufacturing sector.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/255e08547eab410434d5b7bc92058cd469c13bc42794edd14a3c522e0c23a4cd.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12056125/stellantis-signs-mou-on-brampton-plant/"
     }
   ],
   "markets": {
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7220",
+        "value": "0.7214",
         "positive": null
       }
     ],
-    "insight": "Equities pushed higher with solid gains on both the TSX (+0.68%) and S&P 500 (+0.85%), while oil pulled back 2.20% to 154.9 and the loonie held at 0.7220 against the greenback."
+    "insight": "Equities gained ground with the TSX up 0.68% and S&P 500 rising 0.85%, while oil retreated 2.20% to $154.90. The Canadian dollar holds at 0.7214 against the greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada maintains policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "Directly impacts your 5-year variable mortgage costs by keeping borrowing benchmarks steady for now.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
+    "headline": "Canadian Household Net Worth Surpasses $19 Trillion in Q2",
+    "summary": "The net worth of Canadian households rose 2.9% in the second quarter of 2026, driven by a boon in equity markets that boosted asset valuations.",
+    "whyItMatters": "Higher asset valuations strengthen household balance sheets, though rising bond yields continue to signal potential longer-term borrowing cost pressures for property owners.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260911/dq260911a-eng.htm"
   },
   "manufacturing": {
-    "headline": "Government of Canada launches National AI Literacy Initiative",
-    "summary": "A new national partnership with Amii provides free, practical AI learning for students, workers, and communities across Canada.",
-    "whyItMatters": "Expands workforce familiarity with artificial intelligence tools relevant to modern engineering and automation environments.",
+    "headline": "Federal Clean Technology Funding Boosts Controlled Environment Agriculture",
+    "summary": "Agriculture Minister Heath MacDonald announced an investment of nearly $900,000 for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program to scale clean lighting technology for indoor agriculture.",
+    "whyItMatters": "Highlights ongoing investments in advanced engineering, energy-efficient automation, and industrial technology applications that lower operational costs for domestic producers.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-national-ai-literacy-initiative.html",
-    "engineeringHeadline": "Minister MacDonald announces clean tech investment for controlled environment agriculture",
-    "engineeringSummary": "An investment of nearly $900,000 was announced for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program to test and scale new clean lighting technology in partnership with Hydragreens vertical farm."
+    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-concludes-successful-outreach-to-southern-alberta.html",
+    "engineeringHeadline": "Machine Learning and Advanced Crop Management Integration",
+    "engineeringSummary": "Recent federal investments in machine learning technology aim to improve vineyard crop management and disease detection, demonstrating how automated digital systems and advanced engineering continue to integrate into traditional industrial and agricultural sectors."
   },
   "world": {
-    "headline": "Why are rising bond yields spurring alarm? And what do the markets mean for you?",
-    "summary": "Global bond markets are once again signalling rising economic risk, leaving consumers facing the prospect of higher borrowing costs for longer.",
-    "whyItMatters": "Rising global bond yields exert upward pressure on long-term debt pricing and macroeconomic stability.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12054283/bond-yields-consumer-impact/"
+    "headline": "Anthropic CEO Warns AI Industry Needs Safety Measures to Catch Up",
+    "summary": "Anthropic CEO Dario Amodei called for the artificial intelligence industry to slow development, warning that safety measures need time to catch up with rapidly advancing systems.",
+    "whyItMatters": "As automation and intelligent software increasingly intersect with industrial engineering and robotics, pace and safety governance remain critical variables for long-term tech development.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12056776/anthropic-ceo-dario-amodei/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor ongoing developments surrounding the Bank of Canada's recruitment process for the external Deputy Governor position."
+      "label": "Tuesday",
+      "text": "Quebec provincial election leaders' debates get underway as party campaigns wrap up their third week and release financial frameworks."
     },
     {
       "label": "This Week",
-      "text": "Keep an eye on industrial policy updates and implementation of the newly launched National AI Literacy Initiative across Canadian workplaces."
+      "text": "Prime Minister Mark Carney travels to the UK for his first meeting with U.K. Prime Minister Andy Burnham, focusing on defence, energy, and economic ties before heading to Toronto for Canada's first national investment summit."
     }
   ]
 }
