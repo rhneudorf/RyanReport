@@ -1,27 +1,27 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "morningSnapshot": {
-    "headline": "Policy Rate Held at 2.25% as Markets Signal Risks",
-    "summary": "Good morning, Ryan. The Bank of Canada maintains its policy rate at 2.25%, keeping your 5-year variable mortgage stable for now while bond yields and global economic risks signal a tightening borrowing environment."
+    "headline": "Prime Minister Carney Hosts First Investment Summit in Toronto as Bank of Canada Holds Rate at 2.25%",
+    "summary": "Good morning, Ryan. Equity markets are climbing today with the TSX up 0.68% and the S&P 500 up 0.85%, while the Bank of Canada maintains its policy rate at 2.25%. Domestically, Prime Minister Mark Carney is welcoming global investors to Toronto for a high-stakes infrastructure and project summit, and Stellantis has signed an MOU regarding its idled Brampton assembly plant as union contract talks hit a pause."
   },
   "topStory": {
-    "category": "Economy & Trade",
-    "location": "Ottawa, Ontario",
-    "headline": "Bank of Canada maintains the policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, keeping the Bank Rate at 2.5% and the deposit rate at 2.20% during its September policy decision.",
-    "whyItMatters": "For homeowners managing a 5-year variable mortgage in Beamsville, a steady policy rate provides immediate payment stability, though broader financial conditions remain tight.",
-    "explainMore": "Governor Tiff Macklem discussed the key issues involved in the Governing Council’s deliberations during the monetary policy press conference. The central bank continues to monitor economic indicators closely as households navigate shifting financial landscapes.\n\nSimultaneously, the Bank of Canada Board initiated a recruitment process to fill an external Deputy Governor position left vacant following Nicolas Vincent's appointment as a full-time Deputy Governor. These leadership shifts occur as Canadian household net worth rose 2.9% in the second quarter of 2026 to eclipse $19 trillion, driven largely by equity market asset valuations.",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
+    "category": "Canada",
+    "location": "Toronto, Ontario",
+    "headline": "Carney, premiers pitching major projects at first investment summit",
+    "summary": "Prime Minister Mark Carney is welcoming the world's investors to Toronto for a high-stakes summit aimed at attracting new asset deployment and capital to major Canadian infrastructure and industrial projects.",
+    "whyItMatters": "As an Ontario manufacturing professional and long-term investor, tracking national capital deployment and domestic industrial strategy gives vital insight into macro demand and regional growth.",
+    "explainMore": "Hundreds of executives and global asset managers have arrived in Toronto for Canada's first-ever investment summit to review major projects currently in development across the country.\n\nPrime Minister Carney has noted that economic activity is already spurring from the summit as international capital evaluates domestic opportunities, aligning with broader federal efforts to build out domestic supply chains.\n\nThis comes as Canada looks to strengthen its economic positioning and forge closer ties with international partners amid ongoing trade complexities with the United States.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-Investment-Summit.jpg-e1789388388828.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12058012/carney-investment-summit/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
+      "category": "Local",
       "headline": "Stellantis signs MOU on Brampton, Ont., plant as talks with union break down",
       "summary": "Stellantis has signed a memorandum of understanding with Roshel for the potential sale of its idled Brampton assembly plant as Unifor pauses contract talks.",
-      "whyItMatters": "Directly impacts the southern Ontario manufacturing corridor, touching automotive supply chains, industrial footprint changes, and union dynamics across the region.",
-      "explainMore": "The signing of the MOU represents a significant shift for the idled Brampton manufacturing facility. As contract discussions with Unifor pause, industrial observers across Ontario are closely watching how the potential transition to Roshel will reshape local production capabilities.\n\nThis development comes amidst wider cross-border trade discussions, with U.S. President Donald Trump remarking that Canada wants to make a trade deal very badly, which could influence future industrial policy and tariffs affecting the broader manufacturing sector.",
+      "whyItMatters": "Directly impacts the southern Ontario manufacturing landscape, supply chain networks, and regional industrial real estate near your stomping grounds.",
+      "explainMore": "The memorandum of understanding between Stellantis and Roshel represents a potential new chapter for the idled Brampton assembly facility, which has been a focal point for regional manufacturing employment.\n\nSimultaneously, contract talks between Unifor and leadership have hit a pause, keeping labor relations across Ontario's heavy automotive and manufacturing sectors under close observation.\n\nStakeholders across the industrial corridor are watching closely to see how the potential transition of the plant asset will affect local component suppliers and specialized manufacturing ecosystems.",
       "image": "https://globalnews.ca/wp-content/uploads/2026/09/255e08547eab410434d5b7bc92058cd469c13bc42794edd14a3c522e0c23a4cd.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
       "sourceUrl": "https://globalnews.ca/news/12056125/stellantis-signs-mou-on-brampton-plant/"
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7214",
+        "value": "0.7194",
         "positive": null
       }
     ],
-    "insight": "Equities gained ground with the TSX up 0.68% and S&P 500 rising 0.85%, while oil retreated 2.20% to $154.90. The Canadian dollar holds at 0.7214 against the greenback."
+    "insight": "Canadian household net worth rose 2.9% in Q2 2026 to surpass $19 trillion, driven largely by higher asset valuations in equity markets. Meanwhile, equity benchmarks are positive today with the TSX up 0.68% and S&P 500 gaining 0.85%, while oil pulls back over 2% to 154.9."
   },
   "yourMoney": {
-    "headline": "Canadian Household Net Worth Surpasses $19 Trillion in Q2",
-    "summary": "The net worth of Canadian households rose 2.9% in the second quarter of 2026, driven by a boon in equity markets that boosted asset valuations.",
-    "whyItMatters": "Higher asset valuations strengthen household balance sheets, though rising bond yields continue to signal potential longer-term borrowing cost pressures for property owners.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260911/dq260911a-eng.htm"
+    "headline": "Bank of Canada Holds Policy Rate at 2¼%; Household Net Worth Crosses $19 Trillion",
+    "summary": "With the Bank of Canada maintaining its overnight rate target at 2.25%, your 5-year variable mortgage remains anchored to current policy settings while overall Canadian household net worth climbed 2.9% in Q2.",
+    "whyItMatters": "A steady 2.25% policy rate provides predictable borrowing costs for your variable mortgage structure, while broader economic indicators point to robust household asset valuations.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
   },
   "manufacturing": {
-    "headline": "Federal Clean Technology Funding Boosts Controlled Environment Agriculture",
-    "summary": "Agriculture Minister Heath MacDonald announced an investment of nearly $900,000 for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program to scale clean lighting technology for indoor agriculture.",
-    "whyItMatters": "Highlights ongoing investments in advanced engineering, energy-efficient automation, and industrial technology applications that lower operational costs for domestic producers.",
+    "headline": "Federal Clean Technology Funding Boosts Controlled Environment Agriculture and Industrial Innovation",
+    "summary": "The federal government announced nearly $900,000 in funding for SmartGRO Bioengineering Inc. under the Agricultural Clean Technology Program to test and scale clean lighting technology for vertical farming.",
+    "whyItMatters": "Spurs domestic demand for advanced automation, specialized machinery, and custom engineering applications within Ontario and Canadian industrial tech sectors.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-concludes-successful-outreach-to-southern-alberta.html",
-    "engineeringHeadline": "Machine Learning and Advanced Crop Management Integration",
-    "engineeringSummary": "Recent federal investments in machine learning technology aim to improve vineyard crop management and disease detection, demonstrating how automated digital systems and advanced engineering continue to integrate into traditional industrial and agricultural sectors."
+    "engineeringHeadline": "Advancing Automation and Clean Tech Integration in Canadian Manufacturing",
+    "engineeringSummary": "Federal investments in controlled environment agriculture and national food security strategies underscore the ongoing push for advanced operational efficiency, automated systems, and energy-saving industrial machinery designed to lower production overhead."
   },
   "world": {
-    "headline": "Anthropic CEO Warns AI Industry Needs Safety Measures to Catch Up",
-    "summary": "Anthropic CEO Dario Amodei called for the artificial intelligence industry to slow development, warning that safety measures need time to catch up with rapidly advancing systems.",
-    "whyItMatters": "As automation and intelligent software increasingly intersect with industrial engineering and robotics, pace and safety governance remain critical variables for long-term tech development.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12056776/anthropic-ceo-dario-amodei/"
+    "headline": "AI Stocks Slide Globally as Tech Executives and World Leaders Call for Development Slowdown",
+    "summary": "Artificial-intelligence stocks are sliding worldwide as prominent technology leaders warn that development needs to slow down to address pressing safety concerns.",
+    "whyItMatters": "Signals a potential sentiment shift in high-flying tech sectors as regulatory and safety discussions take center stage among global executives and heads of state, including upcoming talks hosted by King Charles.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12058177/ai-stocks-drop-safety/"
   },
   "lookingAhead": [
     {
-      "label": "Tuesday",
-      "text": "Quebec provincial election leaders' debates get underway as party campaigns wrap up their third week and release financial frameworks."
+      "label": "This Week",
+      "text": "King Charles is scheduled to host leaders of major artificial intelligence companies to discuss potential shared safety principles."
     },
     {
-      "label": "This Week",
-      "text": "Prime Minister Mark Carney travels to the UK for his first meeting with U.K. Prime Minister Andy Burnham, focusing on defence, energy, and economic ties before heading to Toronto for Canada's first national investment summit."
+      "label": "Today",
+      "text": "Prime Minister Mark Carney's investment summit continues in Toronto, featuring project pitches from federal and provincial leaders."
     }
   ]
 }
