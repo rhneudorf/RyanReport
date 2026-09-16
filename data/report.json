@@ -1,92 +1,102 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "morningSnapshot": {
-    "headline": "Trade Pressures and Infrastructure Investments Take Center Stage for Ontario Industry",
-    "summary": "As new U.S. tariffs take effect and national infrastructure initiatives advance in Toronto, Ontario manufacturers face a shifting trade and supply chain environment."
+    "headline": "Trade Pressures, Tariff Impacts, and AI Data Centre Debates Grip Ontario and Canada",
+    "summary": "Good morning, Ryan. Today's brief highlights mounting tariff uncertainties affecting Canadian manufacturing workers, local policy pushback against energy-intensive AI data centres across Ontario municipalities, and mixed global market movements."
   },
   "topStory": {
     "category": "Canada",
-    "location": "Canada / United States",
-    "headline": "Latest U.S. tariffs on Canadian goods take effect, with some changes",
-    "summary": "The latest U.S. tariffs on a small number of Canadian goods went into effect Tuesday as Washington presses on in its trade war with Canada.",
-    "whyItMatters": "For Ontario manufacturing, cross-border tariff fluctuations directly impact component costs, supply chain efficiency, and export competitiveness.",
-    "explainMore": "The implementation of these latest trade measures marks another step in ongoing trade pressures from Washington. While the scope targets a specific subset of goods, it underscores the friction Canadian exporters navigate daily.\n\nSimultaneously, logistics corridors are seeing high activity, as evidenced by the Gordie Howe bridge reporting over 270,000 crossings in its first full month to help ease gridlock for commercial traffic.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/New-Tariffs-e1789475549580.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12059703/donald-trump-tariffs-50-per-cent/"
+    "location": "National",
+    "headline": "Union warns workers paying price of Canada-U.S. trade war",
+    "summary": "In light of the newest round of 50 per cent tariffs, a workers' union and an economist are shedding light on the impacts on job security across the country.",
+    "whyItMatters": "As an engineer in the Ontario manufacturing and hydraulic cylinder sector, tariff uncertainties and trade frictions directly impact operational planning, client demand, and supply chain stability.",
+    "explainMore": "The escalation of bilateral trade pressures, marked by new 50 per cent tariff rounds, is creating significant strain across domestic industrial supply chains. Labour representatives and economic analysts note that manufacturing workers and industrial sectors are absorbing the immediate shocks of these trade disruptions.\n\nFor industrial operations relying on cross-border material flows and competitive pricing, navigating these shifting trade conditions requires enhanced efficiency and strategic adaptability. Policymakers are attempting to target regional support initiatives to help businesses weather the ongoing trade headwinds.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/steel-workers-e1789500369983.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12060251/tariff-uncertainty-job-security/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Carney, premiers pitching major projects at first investment summit",
-      "summary": "Prime Minister Mark Carney is welcoming the world's investors to Toronto on Monday for a high-stakes summit aimed at attracting new investment to Canada.",
-      "whyItMatters": "Sovereign infrastructure and private capital commitments shape domestic industrial demand and technology funding channels.",
-      "explainMore": "Prime Minister Mark Carney and provincial leaders are utilizing Canada's first-ever national investment summit in Toronto to pitch major capital projects. Notable outcomes include major expansions in sovereign AI infrastructure, such as the Bell AI data centre initiative in Saskatchewan.\n\nFor industrial and engineering professionals, these large-scale technology and infrastructure inflows signal broader national focus on modernizing domestic capacity.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-Investment-Summit.jpg-e1789388388828.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Local",
+      "headline": "Here’s how some Ontario municipalities are grappling with new AI data centres",
+      "summary": "The boom in artificial intelligence has put Ontario municipalities on the front lines of a major debate over how to regulate a new wave of large, energy-hungry data centres.",
+      "whyItMatters": "Rapid expansion of high-load data infrastructure impacts regional utility grids and energy pricing, which directly affects industrial power consumers.",
+      "explainMore": "Municipalities across Ontario, including Mississauga which recently approved a one-year data centre moratorium, are pausing to study the necessary guardrails for energy-intensive artificial intelligence facilities.\n\nLocal councils are grappling with how these massive power demands interact with municipal electrical grids and long-term energy capacity. Ensuring grid stability and predictable utility pricing remains a critical factor for heavy industrial and manufacturing hubs.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/d73589f2c322e864b4fe15416df6a8e6056ae4fbd4a65d6a134caf97831581fc.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12058012/carney-investment-summit/"
+      "sourceUrl": "https://globalnews.ca/news/12061153/heres-how-some-ontario-municipalities-are-grappling-with-new-ai-data-centres/"
+    },
+    {
+      "category": "Canada",
+      "headline": "EU wants Canada as its first ‘associate member,’ von der Leyen says",
+      "summary": "The two sides will move from CETA to an Alliance for the Future, European Commission President Ursula von der Leyen said in her State of the Union address.",
+      "whyItMatters": "Deepening European economic ties could reshape international trade frameworks and export opportunities for Canadian industrial producers.",
+      "explainMore": "European Commission President Ursula von der Leyen announced during her State of the Union address that the European Union is seeking Canada as its first associate member, transitioning past the current CETA framework toward an Alliance for the Future.\n\nThis prospective partnership aims to strengthen bilateral economic cooperation, technology alignment, and trade resilience against global market fragmentation.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Carney-EU-membership.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12061131/eu-canada-associate-member/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.21%",
-        "positive": true
+        "value": "▼ 0.23%",
+        "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.45%",
+        "value": "▼ 0.46%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.14%",
+        "value": "▲ 3.32%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7187",
+        "value": "0.7176",
         "positive": null
       }
     ],
-    "insight": "Oil climbed over 1% to 156.66, while the TSX edged up 0.21% to 53.03. The Canadian dollar holds at approximately 0.7187 USD, providing stable baseline conversion metrics for cross-border manufacturing inputs."
+    "insight": "Stock markets are taking heat amid high oil prices, which surged over 3.3 per cent, and ongoing bond market jitters. For long-term investors and variable-rate mortgage holders, tracking energy inflation and bond yields remains critical as broader macroeconomic volatility persists."
   },
   "yourMoney": {
-    "headline": "Bank of Canada maintains policy rate at 2¼%",
-    "summary": "The Bank of Canada held its target for the overnight rate at 2.25%, with the Bank Rate at 2.5% and the deposit rate at 2.20%.",
-    "whyItMatters": "As a 5-year variable rate mortgage holder, keeping the policy rate steady at 2.25% maintains stability in your current borrowing costs following earlier monetary adjustments.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/"
+    "headline": "Canadian Household Net Worth Rises to Eclipse $19 Trillion in Q2 2026",
+    "summary": "The net worth of Canadian households rose 2.9% in the second quarter of 2026 to eclipse $19 trillion, driven largely by equity market gains and higher asset valuations.",
+    "whyItMatters": "As a homeowner and long-term investor with a 50-year variable mortgage structure, monitoring overall household balance sheet health and equity market performance provides key context for domestic financial stability.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260911/dq260911a-eng.htm"
   },
   "manufacturing": {
-    "headline": "Government of Canada welcomes major new investment in sovereign AI infrastructure in Saskatchewan",
-    "summary": "Saskatchewan Premier Scott Moe and Prime Minister Mark Carney announced a major expansion of the Bell AI data centre, bringing over $50B in investment.",
-    "whyItMatters": "Massive capital inflows into digital and industrial infrastructure highlight the federal push to accelerate domestic technological capacity and private investment.",
+    "headline": "Navigating Tariff Pressures and Regional Industrial Adaptation",
+    "summary": "Federal and regional funding initiatives are rolling out support programs to help Canadian businesses adapt to trade disruptions and safeguard industrial jobs.",
+    "whyItMatters": "With ongoing Canada-U.S. tariff pressures affecting industrial supply chains, targeted programs aim to boost organizational efficiency, productivity, and regional economic resilience.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-welcomes-major-new-investment-in-sovereign-ai-infrastructure-in-saskatchewan.html",
-    "engineeringHeadline": "CRTC Engages Industry on Telecommunications Competitiveness",
-    "engineeringSummary": "CRTC Commissioner Ellen Desmond spoke at the Canadian Communication Systems Alliance's Connect 2026, outlining ongoing regulatory updates aimed at keeping Canadian infrastructure and telecommunications competitive in a changing landscape."
+    "sourceUrl": "https://www.canada.ca/en/northern-economic-development/news/2026/09/the-government-of-canada-invests-over-19-million-to-support-workers-and-strengthen-businesses-in-the-yukon.html",
+    "engineeringHeadline": "Atlantic Canada Showcases AI and Automation Expertise at ALL IN 2026",
+    "engineeringSummary": "Thirty-seven Atlantic Canadian companies and organizations are showcasing advanced automation and artificial intelligence capabilities at ALL IN 2026, helping bridge domestic engineering expertise with scalable business growth."
   },
   "world": {
-    "headline": "China can now ban citizens from leaving for national or industrial security",
-    "summary": "New Chinese border control rules taking effect Tuesday allow the state to ban citizens from leaving the country if they engage in illegal activity that risks national or industrial security.",
-    "whyItMatters": "Heightened international border controls and industrial security measures reinforce global fragmentation in technology and manufacturing supply chains.",
+    "headline": "China Implements New Border Rules Allowing Bans for Industrial Security",
+    "summary": "New Chinese border control rules taking effect allow authorities to ban citizens from leaving the country if they engage in activities posing risks to national or industrial security.",
+    "whyItMatters": "Tightened international controls over industrial and technological security highlight the ongoing global fragmentation of supply chains and technical expertise.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12059728/china-border-control/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "New Chinese border control rules regarding national and industrial security take effect."
-    },
-    {
       "label": "This Week",
-      "text": "King Charles hosts leaders of major artificial intelligence companies in Britain to discuss shared safety principles."
+      "text": "Monitor ongoing parliamentary developments and Conservative caucus meetings as political leaders shift focus to economic results."
     },
     {
-      "label": "October 27",
-      "text": "The Ontario provincial legislature is scheduled to resume sitting following its extended summer break."
+      "label": "Today",
+      "text": "Observe municipal utility and zoning updates across Ontario as cities continue evaluating data centre moratoriums."
+    },
+    {
+      "label": "Ongoing",
+      "text": "Track developments in Canada-EU relations following proposals to advance toward an associate membership framework."
     }
   ]
 }
