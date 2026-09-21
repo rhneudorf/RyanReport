@@ -1,30 +1,40 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "morningSnapshot": {
-    "headline": "Canada-EU Energy Alliances Take Shape as Markets Shift",
-    "summary": "Good morning, Ryan. Prime Minister Mark Carney advances critical European partnerships while Bank of Canada and industrial metrics signal evolving economic conditions for southern Ontario."
+    "headline": "House of Commons Returns as Trade Pressures and Energy Shifts Take Center Stage",
+    "summary": "Parliament resumes with promises of major economic legislation, while the Bank of Canada highlights structural trade risks and energy shifts affecting households and markets."
   },
   "topStory": {
-    "category": "World",
-    "location": "Strasbourg / France",
-    "headline": "Canada and the EU want an energy alliance. What would it look like?",
-    "summary": "Prime Minister Mark Carney was in Strasbourg, France, this week where he and European Union leadership discussed strengthening ties on several fronts, pitching cooperation in industries like artificial intelligence, critical minerals, and defence.",
-    "whyItMatters": "Closer economic and industrial alignment with the EU opens critical export pathways for Canadian raw materials, technology, and advanced manufacturing sectors.",
-    "explainMore": "Prime Minister Mark Carney's visit to Strasbourg and subsequent discussions at the European Parliament highlighted a strategic pivot toward deepening European integration. European Union officials welcomed cooperation across key industrial pillars, including energy alliances and critical minerals.\n\nBeyond traditional energy infrastructure, discussions also touched on expanding technological cooperation. For industrial engineers and manufacturers, aligning trade frameworks with European standards can reshape supply chain dependencies and create new avenues for specialized high-tech exports.\n\nWhile formal mechanisms and agreements will take time to materialize, the foundational talks point to a sustained federal focus on diversifying international trade partners away from sole reliance on North American corridors.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Canada-EU-energy-alliance.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12064378/canada-eu-energy-alliance/"
+    "category": "Canada",
+    "location": "Ottawa, Ontario",
+    "headline": "House of Commons is back as Liberals vow ‘significant’ legislation coming",
+    "summary": "Government House leader Steven MacKinnon has promised \"significant\" economic legislation will become the \"centrepiece\" of the fall sitting of Parliament.",
+    "whyItMatters": "As Parliament reconvenes, upcoming federal economic legislation will directly impact national monetary conditions, trade posture, and regulatory frameworks affecting businesses and homeowners across Ontario.",
+    "explainMore": "The return of the House of Commons marks a crucial juncture for federal policy this fall. Government House leader Steven MacKinnon has signaled that major economic legislation will drive the legislative agenda.\n\nWith ongoing shifts in international trade, energy markets, and domestic affordability metrics, the upcoming bills will likely shape how Canadian industries adapt to structural economic pressures.\n\nFor professionals and homeowners in the Niagara and Greater Toronto regions, monitoring these parliamentary developments provides vital early signals regarding regulatory changes and fiscal direction.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Parliament-fall-sitting.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12066812/house-of-commons-liberals-legislation/"
   },
   "stories": [
     {
       "category": "Canada",
-      "headline": "Carney and Macron to meet in Saint-Pierre-et-Miquelon on Sunday",
-      "summary": "Prime Minister Mark Carney and French President Emmanuel Macron are holding a symbolic meeting on an archipelago 20 kilometres off the southern coast of Newfoundland on Sunday.",
-      "whyItMatters": "Diplomatic engagements between Canada and key European allies reinforce the ongoing push to solidify bilateral trade and security frameworks.",
-      "explainMore": "Following discussions at the European Parliament, Prime Minister Carney's itinerary extends to a high-level meeting with French President Emmanuel Macron.\n\nThe choice of Saint-Pierre-et-Miquelon underscores the geographic and strategic proximity shared between France and Canada in the North Atlantic, further cementing diplomatic ties developed throughout the week's European tour.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/6cf6f23c2b4be900b8d86b9d5cdc0d13996914c3c596fe952580e43a95b4a230.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Nearly 1 in 4 Canadian households live in unaffordable housing, StatCan says",
+      "summary": "Nearly one in four Canadian households were living in unaffordable housing in 2024, up from 22 per cent in 2022, Statistics Canada reported.",
+      "whyItMatters": "Housing cost pressures remain elevated nationwide, keeping residential real estate affordability at the forefront for variable-rate mortgage holders.",
+      "explainMore": "Statistics Canada's latest findings underscore persistent housing strains across the country, showing a measurable tick upward in households facing affordability hurdles.\n\nFor homeowners managing variable-rate mortgages, tracking broader housing metrics provides essential context on how macro shelter costs intersect with central bank policy decisions.\n\nThese structural cost pressures continue to influence consumer financial health and regional economic resilience.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/fo-rent-housing-affordability.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12065806/carney-macron-to-meet-saint-pierre-et-miquelon/"
+      "sourceUrl": "https://globalnews.ca/news/12066990/canadian-households-unaffordable-housing/"
+    },
+    {
+      "category": "Canada",
+      "headline": "Pickering nuclear reactors start coming off-line for massive refurbishment",
+      "summary": "An Ontario nuclear plant is beginning a massive refurbishment project as the provincial government leans heavily on nuclear energy to meet future electricity needs.",
+      "whyItMatters": "Large-scale utility and energy infrastructure overhauls directly impact long-term industrial power supply reliability and provincial utility planning.",
+      "explainMore": "Ontario's energy landscape is shifting as the Pickering nuclear facility takes reactors offline to initiate a comprehensive, multi-year refurbishment project.\n\nPremier Doug Ford's administration is banking heavily on nuclear power to sustain the province's expanding electrical demands and industrial growth.\n\nFor manufacturing operations and heavy industrial facilities relying on stable grid power, tracking these long-term generation upgrades is essential for future energy security and cost management.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/0361bc7600c30f16650e8c8e9613f5178c98fba726fadda2f9f49d45aab44333.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12066798/pickering-nuclear-reactors-start-coming-off-line-for-massive-refurbishment/"
     }
   ],
   "markets": {
@@ -46,43 +56,47 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7153",
+        "value": "0.7135",
         "positive": null
       }
     ],
-    "insight": "Domestic equities face minor headwinds with the TSX down 0.36% to 53.04, while the Canadian dollar holds near 0.7153 USD against a backdrop of fluctuating commodity pricing."
+    "insight": "The TSX pulled back 0.36% to 53.04 alongside softer oil prices down nearly 1%, while the Canadian dollar held at 0.7135 USD against a slightly firmer S&P 500."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Launches Search for External Deputy Governor as Credit Data Releases",
-    "summary": "The Bank of Canada Board has initiated recruitment to fill an external Deputy Governor vacancy, while Statistics Canada published monthly credit aggregate updates.",
-    "whyItMatters": "Leadership shifts at the central bank and ongoing monitoring of household and business credit aggregates directly inform monetary policy decisions impacting variable-rate mortgages.",
+    "headline": "Navigating uncertainty and adapting to change: Bank of Canada examines trade and energy risks",
+    "summary": "Governor Tiff Macklem discussed how Canadian businesses and households are adapting to structural forces, noting that re-escalating trade tensions and high energy prices are shifting economic risks.",
+    "whyItMatters": "For 5-year variable mortgage holders, shifts in monetary policy risks driven by international trade tensions and energy price volatility directly influence interest rate trajectories.",
     "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/bank-canada-board-launches-process-fill-external-deputy-governor-position/"
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/navigating-uncertainty-and-adapting-to-change/"
   },
   "manufacturing": {
-    "headline": "Federal Officials Focus on Southern Ontario Industrial and Regional Tech Partnerships",
-    "summary": "Federal ministers concluded regional tours across southern Ontario while advancing international technology alliances focused on automation and digital infrastructure.",
-    "whyItMatters": "Sustained government attention on southern Ontario's industrial base and cross-border tech frameworks directly impacts capital investment, automation funding, and regional engineering supply chains.",
+    "headline": "Governments celebrate agricultural trade ties and southern Ontario industrial tours",
+    "summary": "The Bank of Canada noted that artificial intelligence and advanced automation are actively transforming output and labor requirements across the economy.",
+    "whyItMatters": "Regional supply chain investments and trade awareness across southern Ontario reinforce the broader industrial ecosystem supporting local manufacturing suppliers and equipment builders.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/first-meeting-of-the-co-chairs-of-the-sovereign-technology-alliance.html",
-    "engineeringHeadline": "AI and Automation Take Center Stage at National Technology Forums",
-    "engineeringSummary": "Federal initiatives highlighted the rapid evolution of artificial intelligence and digital integration across Canadian industries, emphasizing dual-use capabilities and advanced industrial automation strategies."
+    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-concludes-tour-of-southern-ontario.html",
+    "engineeringHeadline": "Bank of Canada highlights automation and AI transformation in productivity",
+    "engineeringSummary": "As industrial technology evolves, automated systems and AI integration continue to reshape manufacturing processes, operational efficiency, and engineering workflows across Ontario facilities."
   },
   "world": {
-    "headline": "U.S. Secures Military Presence Deal in Greenland",
-    "summary": "The United States reached an agreement with Denmark to bolster its permanent security presence in Greenland while maintaining Danish control over the island.",
-    "whyItMatters": "Arctic security agreements carry significant geopolitical weight, shaping defense manufacturing requirements and international resource access across northern corridors.",
+    "headline": "Trump asserts U.S. security control over Greenland in reported Denmark agreement",
+    "summary": "In a social media statement, Donald Trump announced a deal with Denmark granting the United States permanent control over security and other needs in Greenland.",
+    "whyItMatters": "Geopolitical realignment in the Arctic carries significant long-term strategic, resource access, and defense implications for North American trade and sovereignty.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12065140/trump-deal-denmark-us-military-greenland/"
   },
   "lookingAhead": [
     {
-      "label": "Sunday",
-      "text": "Prime Minister Mark Carney and French President Emmanuel Macron hold a symbolic meeting in Saint-Pierre-et-Miquelon."
+      "label": "This Week",
+      "text": "Monitor economic legislation developments as the House of Commons gets underway for its fall sitting."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing developments from the Bank of Canada leadership search and technological alliance follow-ups."
+      "label": "Ongoing",
+      "text": "Track Pickering nuclear facility reactor shutdowns and provincial energy infrastructure updates."
+    },
+    {
+      "label": "Ongoing",
+      "text": "Evaluate Bank of Canada commentary regarding trade tensions, energy prices, and monetary policy adjustments."
     }
   ]
 }
