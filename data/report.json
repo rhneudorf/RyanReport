@@ -1,102 +1,88 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-25",
   "morningSnapshot": {
-    "headline": "House of Commons Returns as Trade Pressures and Energy Shifts Take Center Stage",
-    "summary": "Parliament resumes with promises of major economic legislation, while the Bank of Canada highlights structural trade risks and energy shifts affecting households and markets."
+    "headline": "Trade Talks Pause, Manufacturing Shifts, and Economic Pressures Mount in Ontario",
+    "summary": "Good morning, Ryan. U.S. officials express no urgency regarding Canadian trade deals, while provincial deficits and municipal tensions over data centres shape the local landscape. Markets see oil climbing past $153 and CAD trading at 0.7073 USD."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Ottawa, Ontario",
-    "headline": "House of Commons is back as Liberals vow ‘significant’ legislation coming",
-    "summary": "Government House leader Steven MacKinnon has promised \"significant\" economic legislation will become the \"centrepiece\" of the fall sitting of Parliament.",
-    "whyItMatters": "As Parliament reconvenes, upcoming federal economic legislation will directly impact national monetary conditions, trade posture, and regulatory frameworks affecting businesses and homeowners across Ontario.",
-    "explainMore": "The return of the House of Commons marks a crucial juncture for federal policy this fall. Government House leader Steven MacKinnon has signaled that major economic legislation will drive the legislative agenda.\n\nWith ongoing shifts in international trade, energy markets, and domestic affordability metrics, the upcoming bills will likely shape how Canadian industries adapt to structural economic pressures.\n\nFor professionals and homeowners in the Niagara and Greater Toronto regions, monitoring these parliamentary developments provides vital early signals regarding regulatory changes and fiscal direction.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Parliament-fall-sitting.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Canada-US Trade",
+    "location": "Washington / Ottawa",
+    "headline": "Trump ‘comfortable’ with pause in Canada trade talks, Greer says",
+    "summary": "Both sides have been having good conversations about potential deals, but the U.S. felt no urgency to make a trade deal, U.S. Trade Representative Jamieson Greer said.",
+    "whyItMatters": "As an engineer in Ontario manufacturing, trade stability and tariff policies directly impact supply chains, steel/aluminum access, and capital investment in industrial technology.",
+    "explainMore": "U.S. Trade Representative Jamieson Greer stated that while productive conversations regarding potential deals have taken place, the United States feels no immediate urgency to finalize a trade agreement with Canada.\n\nThis pause in active negotiations highlights the ongoing friction in cross-border commerce. Bank of Canada Governor Tiff Macklem has pointed out that re-escalating trade tensions and shifting international trade relationships are forcing Canadian businesses to adapt to a new economic reality.\n\nFor industrial operators and component manufacturers across Ontario, prolonged uncertainty on trade requires careful navigation of supply lines and operating costs as broader geopolitical factors continue to influence North American markets.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/Jamieson-Greer-CNBC.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12066812/house-of-commons-liberals-legislation/"
+    "sourceUrl": "https://globalnews.ca/news/12072973/trump-comfortable-canada-trade-talks-greer/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Nearly 1 in 4 Canadian households live in unaffordable housing, StatCan says",
-      "summary": "Nearly one in four Canadian households were living in unaffordable housing in 2024, up from 22 per cent in 2022, Statistics Canada reported.",
-      "whyItMatters": "Housing cost pressures remain elevated nationwide, keeping residential real estate affordability at the forefront for variable-rate mortgage holders.",
-      "explainMore": "Statistics Canada's latest findings underscore persistent housing strains across the country, showing a measurable tick upward in households facing affordability hurdles.\n\nFor homeowners managing variable-rate mortgages, tracking broader housing metrics provides essential context on how macro shelter costs intersect with central bank policy decisions.\n\nThese structural cost pressures continue to influence consumer financial health and regional economic resilience.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/fo-rent-housing-affordability.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12066990/canadian-households-unaffordable-housing/"
-    },
-    {
-      "category": "Canada",
-      "headline": "Pickering nuclear reactors start coming off-line for massive refurbishment",
-      "summary": "An Ontario nuclear plant is beginning a massive refurbishment project as the provincial government leans heavily on nuclear energy to meet future electricity needs.",
-      "whyItMatters": "Large-scale utility and energy infrastructure overhauls directly impact long-term industrial power supply reliability and provincial utility planning.",
-      "explainMore": "Ontario's energy landscape is shifting as the Pickering nuclear facility takes reactors offline to initiate a comprehensive, multi-year refurbishment project.\n\nPremier Doug Ford's administration is banking heavily on nuclear power to sustain the province's expanding electrical demands and industrial growth.\n\nFor manufacturing operations and heavy industrial facilities relying on stable grid power, tracking these long-term generation upgrades is essential for future energy security and cost management.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/0361bc7600c30f16650e8c8e9613f5178c98fba726fadda2f9f49d45aab44333.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12066798/pickering-nuclear-reactors-start-coming-off-line-for-massive-refurbishment/"
+      "category": "Local / Ontario",
+      "headline": "‘The world we are in’: Ford government signals deficits will continue",
+      "summary": "Ontario Finance Minister Peter Bethlenfalvy is warning taxpayers of continuing deficits and potential service cuts if Ottawa scales back financial transfers in the upcoming federal budget.",
+      "whyItMatters": "Provincial fiscal health and potential federal transfer reductions directly affect regional municipal infrastructure, public services, and overall economic stability in the Niagara-Hamilton corridor.",
+      "explainMore": "The Ontario government has signalled that fiscal deficits will continue as the province grapples with economic headwinds. Finance Minister Peter Bethlenfalvy cautioned that taxpayers could face service cuts if federal financial transfers from Ottawa are scaled back.\n\nLocally, public sector adjustments are already materializing. For instance, Hamilton Health Sciences has announced plans to eliminate more than 400 jobs, tying the reduction directly to provincial marching orders to balance budgets.\n\nThese fiscal pressures across provincial and municipal levels highlight the tighter financial constraints facing public institutions in Ontario, which ripple through regional economic activity.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/CP176395165.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12072079/ontario-government-deficit-continuing/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.36%",
-        "positive": false
-      },
-      {
-        "name": "S&P 500",
-        "value": "▲ 0.13%",
+        "value": "▲ 0.00%",
         "positive": true
       },
       {
-        "name": "Oil",
-        "value": "▼ 0.96%",
+        "name": "S&P 500",
+        "value": "▼ 0.08%",
         "positive": false
       },
       {
+        "name": "Oil",
+        "value": "▲ 2.86%",
+        "positive": true
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7135",
+        "value": "0.7073",
         "positive": null
       }
     ],
-    "insight": "The TSX pulled back 0.36% to 53.04 alongside softer oil prices down nearly 1%, while the Canadian dollar held at 0.7135 USD against a slightly firmer S&P 500."
+    "insight": "Oil surged 2.86% to $153.09, keeping energy prices elevated. The Canadian dollar sits at 0.7073 against the U.S. greenback, while major equity indices remain mixed."
   },
   "yourMoney": {
-    "headline": "Navigating uncertainty and adapting to change: Bank of Canada examines trade and energy risks",
-    "summary": "Governor Tiff Macklem discussed how Canadian businesses and households are adapting to structural forces, noting that re-escalating trade tensions and high energy prices are shifting economic risks.",
-    "whyItMatters": "For 5-year variable mortgage holders, shifts in monetary policy risks driven by international trade tensions and energy price volatility directly influence interest rate trajectories.",
+    "headline": "Global trade changes how the Canadian economy works",
+    "summary": "Bank of Canada notes that international trade benefits the Canadian economy, but structural changes to trade relationships are forcing businesses to adjust to a new reality.",
+    "whyItMatters": "For homeowners with variable-rate mortgages and long-term investment portfolios, understanding how monetary policy responds to shifting trade risks and high energy prices is crucial for financial planning.",
     "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/navigating-uncertainty-and-adapting-to-change/"
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/global-trade-is-changing-how-the-canadian-economy-works/"
   },
   "manufacturing": {
-    "headline": "Governments celebrate agricultural trade ties and southern Ontario industrial tours",
-    "summary": "The Bank of Canada noted that artificial intelligence and advanced automation are actively transforming output and labor requirements across the economy.",
-    "whyItMatters": "Regional supply chain investments and trade awareness across southern Ontario reinforce the broader industrial ecosystem supporting local manufacturing suppliers and equipment builders.",
+    "headline": "Government welcomes 19 additional signatories to Data Centre Principles",
+    "summary": "Growing industry support demonstrates a shared commitment to responsible data centre development in Canada.",
+    "whyItMatters": "As Ontario navigates friction between the province and municipalities over AI data centres and power allocation, industrial technology infrastructure development remains a key sector focus.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/09/minister-macdonald-concludes-tour-of-southern-ontario.html",
-    "engineeringHeadline": "Bank of Canada highlights automation and AI transformation in productivity",
-    "engineeringSummary": "As industrial technology evolves, automated systems and AI integration continue to reshape manufacturing processes, operational efficiency, and engineering workflows across Ontario facilities."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-welcomes-19-additional-signatories-to-canadas-responsible-data-centre-development-principles.html",
+    "engineeringHeadline": "Ontario Paramedics Launch Medical Drone Pilot",
+    "engineeringSummary": "Ontario paramedics launched a medical drone pilot program this month to speed delivery of life-saving equipment, demonstrating advanced automated aerial logistics in rural and remote emergency scenarios."
   },
   "world": {
-    "headline": "Trump asserts U.S. security control over Greenland in reported Denmark agreement",
-    "summary": "In a social media statement, Donald Trump announced a deal with Denmark granting the United States permanent control over security and other needs in Greenland.",
-    "whyItMatters": "Geopolitical realignment in the Arctic carries significant long-term strategic, resource access, and defense implications for North American trade and sovereignty.",
+    "headline": "OpenAI’s agent hacked an Australian government website, reports reveal",
+    "summary": "The incident relates to security vulnerabilities involving Australia's Medicare public health insurance portal.",
+    "whyItMatters": "As automation and artificial intelligence transform engineering, manufacturing, and administrative systems globally, cybersecurity safeguards remain a critical vulnerability for digital infrastructure.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12065140/trump-deal-denmark-us-military-greenland/"
+    "sourceUrl": "https://globalnews.ca/news/12071447/openai-hack-australian-government-website/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor economic legislation developments as the House of Commons gets underway for its fall sitting."
+      "label": "Friday",
+      "text": "Latest CPP and OAS benefit payments hit bank accounts for older Canadians."
     },
     {
-      "label": "Ongoing",
-      "text": "Track Pickering nuclear facility reactor shutdowns and provincial energy infrastructure updates."
-    },
-    {
-      "label": "Ongoing",
-      "text": "Evaluate Bank of Canada commentary regarding trade tensions, energy prices, and monetary policy adjustments."
+      "label": "This Weekend",
+      "text": "Catch the harvest moon in the night sky providing extra evening moonlight."
     }
   ]
 }
