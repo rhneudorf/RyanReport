@@ -1,92 +1,88 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "morningSnapshot": {
-    "headline": "Markets Juggle Rising Bond Yields, Oil Shifts, and Trade Dynamics as Central Banks Monitor Structural Risks",
-    "summary": "Stock markets are grappling with pressures from bond yields and oil price movements, while global trade realities continue to reshape the Canadian economic landscape for manufacturers and households alike."
+    "headline": "Stelco Layoffs Hit Hamilton Amid Tariffs as Canadian GDP Stalls",
+    "summary": "Real GDP remained essentially unchanged in July following three months of expansion, while ongoing U.S. steel tariffs triggered 350 layoffs at Stelco's Hamilton plant."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Canada / United States",
-    "headline": "Stock markets struggling to keep up with rising oil prices and bond yields",
-    "summary": "Rising oil prices are knocking the U.S. stock market further from its record high, while building pressure even higher within the U.S. bond market.",
-    "whyItMatters": "As an investor focusing on long-term growth, shifts in U.S. bond yields and oil price volatility directly influence overall market valuations, borrowing conditions, and broader economic stability.",
-    "explainMore": "Rising oil prices and escalating bond yields create a challenging environment for equity markets, forcing investors to reassess valuations and risk premiums.\n\nIn the broader economic picture, these movements reflect ongoing structural pressures on energy costs and debt markets. Governor Tiff Macklem has recently highlighted how high energy prices and shifting trade risks complicate the monetary policy outlook.\n\nMarket participants continue to monitor how these intersecting financial pressures will impact corporate earnings, capital expenditure, and overall macroeconomic resilience in the quarters ahead.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/wall-street-bonds-oil-e1790616677298.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12075945/stock-markets-bond-yields-oil/"
+    "category": "Manufacturing & Trade",
+    "location": "Hamilton, Ontario",
+    "headline": "Stelco to lay off 350 workers at Hamilton steel plant: union",
+    "summary": "The union representing workers at Stelco's Hamilton plant says ongoing U.S. steel tariffs are a primary reason for the company's decision to idle the plant and lay off 350 workers.",
+    "whyItMatters": "As an Ontario manufacturing professional working near the Hamilton and Niagara regions, direct impacts on local steel supply chains and regional industrial stability directly affect downstream component sourcing and sector health.",
+    "explainMore": "The union representing the workforce confirmed that Stelco's decision to idle parts of its operations and cut 350 jobs stems directly from ongoing U.S. tariffs on steel. While the announcement came as a shock to employees on the ground, Ontario's minister of economic development noted that the provincial government was given advance warning of the cuts.\n\nThis regional blow underscores broader vulnerabilities in Canada's manufacturing sector as trade pressures intensify. With local steel availability directly impacting hydraulic cylinder manufacturing and broader mechanical engineering supply chains across Southern Ontario, these developments signal a tense operating environment for industrial businesses.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/hamilton-stelco.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12076124/stelco-idling-hamilton-plant-layoffs/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Competition Bureau investigating grocery store minimum pricing policies",
-      "summary": "The Competition Bureau has launched an investigation into minimum advertised pricing policies in the grocery sector, noting they can hinder discount grocers from offering lower prices.",
-      "whyItMatters": "Understanding retail pricing enforcement and trade practices provides vital insight into how regulatory bodies oversee market competitiveness and supply chain pricing structures.",
-      "explainMore": "The Competition Bureau's probe focuses on minimum advertised pricing policies, which can be imposed by suppliers or negotiated between suppliers and retailers. In concentrated retail sectors, these mechanisms can restrict discounting and price competition.\n\nWhile the current focus is on grocery retail, regulatory scrutiny of supply chain pricing and distribution agreements highlights the watchful eye authorities keep on commercial trade practices across Canadian industries.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/grocery-prices-competition-bureau-e1790611829379.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Economy & Trade",
+      "headline": "Trump’s Canadian booze ban will hurt American restaurants, U.S. body warns",
+      "summary": "Trump's previously announced bans affecting alcoholic drinks, dairy byproducts, and motorcycles came into force at 12:01 a.m. ET Tuesday, drawing warnings from U.S. industry bodies.",
+      "whyItMatters": "Escalating cross-border trade restrictions highlight the tightening commercial friction between Canada and the U.S. that continues to reverberate across industrial and consumer markets.",
+      "explainMore": "The newly enforced measures target a range of Canadian goods, including specific alcoholic beverages, dairy byproducts, and motorcycles. American restaurant associations have cautioned that these bans will ultimately hurt U.S. establishments by disrupting supply chains and raising costs.\n\nThis development comes against a backdrop of shifting trade dynamics, as Bank of Canada officials monitor how re-escalating trade tensions and structural changes in global trade impact the broader domestic economy.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-booze-ban.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12075841/competition-bureau-grocery-pricing/"
+      "sourceUrl": "https://globalnews.ca/news/12077209/trump-canadian-booze-ban/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.25%",
-        "positive": true
-      },
-      {
-        "name": "S&P 500",
-        "value": "▲ 0.54%",
-        "positive": true
-      },
-      {
-        "name": "Oil",
-        "value": "▼ 3.11%",
+        "value": "▼ 0.60%",
         "positive": false
       },
       {
+        "name": "S&P 500",
+        "value": "▼ 0.74%",
+        "positive": false
+      },
+      {
+        "name": "Oil",
+        "value": "▲ 1.13%",
+        "positive": true
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7059",
+        "value": "0.7046",
         "positive": null
       }
     ],
-    "insight": "North American equities hold positive territory despite oil pulling back 3.11%, while the Canadian dollar trades at 0.7059 against the U.S. greenback."
+    "insight": "Stock markets are struggling to keep up as rising oil prices (reaching 150.01) and climbing bond yields place building pressure on equities. The Canadian dollar holds at 0.7046 against the USD."
   },
   "yourMoney": {
-    "headline": "Navigating Structural Uncertainty and Economic Change",
-    "summary": "Bank of Canada Governor Tiff Macklem notes that Canadian households and businesses have had to adapt to structural forces, with trade tensions and energy prices shifting economic risks.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, keeping a close eye on how the Bank of Canada interprets trade friction, energy shifts, and inflation risks is essential for anticipating interest rate trajectories.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/navigating-uncertainty-and-adapting-to-change/"
+    "headline": "Real GDP essentially unchanged in July following three months of expansion",
+    "summary": "Statistics Canada reports that real gross domestic product was essentially flat in July, pausing after three consecutive months of economic growth.",
+    "whyItMatters": "For variable-rate mortgage holders and long-term investors, stalling GDP growth combined with shifting bond yields provides vital context for upcoming monetary policy decisions by the Bank of Canada.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260929/dq260929a-eng.htm"
   },
   "manufacturing": {
-    "headline": "Global Trade Forces Pressing Ontario Supply Chains to Adapt",
-    "summary": "Changes to international trade relationships and global economic shifts are forcing Canadian businesses to adjust to a new commercial reality.",
-    "whyItMatters": "For Ontario hydraulic cylinder manufacturing and engineering operations, evolving trade dynamics and automation trends directly impact component sourcing, export competitiveness, and shop-floor productivity.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/09/global-trade-is-changing-how-the-canadian-economy-works/",
-    "engineeringHeadline": "Artificial Intelligence Transformation in Production and Design",
-    "engineeringSummary": "The Bank of Canada highlights that artificial intelligence is transforming production output and the nature of human work, though the full long-term economic footprint of AI remains to be seen."
+    "headline": "Minister Solomon Highlights New Productivity Mega Deduction in Cambridge",
+    "summary": "Federal Minister Evan Solomon is visiting a local business in Cambridge to highlight the Productivity Mega Deduction, aimed at helping Canadian businesses invest, grow, and create jobs.",
+    "whyItMatters": "For manufacturers and engineering operations in Southern Ontario looking to invest in automation, robotics, and advanced industrial technology, this federal tax mechanism provides crucial capital incentives.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/minister-solomon-to-highlight-new-productivity-mega-deduction-that-will-help-businesses-invest-grow-and-create-jobs-in-canada.html",
+    "engineeringHeadline": "Federal Support Targets Next-Generation Security and Digital Training Technology",
+    "engineeringSummary": "In tandem with regional productivity initiatives, the federal government announced support for next-generation security training technology and digital solutions to advance innovative defense and security training capabilities in Ontario."
   },
   "world": {
-    "headline": "U.S. and China to Slash Tariffs on US$30B in Goods Following High-Level Talks",
-    "summary": "The United States and China have agreed to slash tariffs on goods worth US$30 billion following a Washington meeting between President Donald Trump and Chinese President Xi Jinping.",
-    "whyItMatters": "Shifts in U.S.-China tariff policies reverberate through international supply chains, influencing global manufacturing costs, metal markets, and the broader trade environment that affects Canadian industrial competitiveness.",
+    "headline": "U.S. and China to Slash Tariffs on Goods Worth US$30B Following Trump-Xi Meeting",
+    "summary": "Following a high-level meeting in Washington between U.S. President Donald Trump and Chinese President Xi Jinping, the two nations agreed to slash tariffs on $30 billion worth of goods.",
+    "whyItMatters": "Shifts in bilateral trade policies between the world's largest economies heavily influence global commodity prices, supply chain routing, and international manufacturing sentiment.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12075608/us-china-tariffs-trump-xi-meeting/"
   },
   "lookingAhead": [
     {
+      "label": "Today",
+      "text": "Minister Evan Solomon highlights the Productivity Mega Deduction for Southern Ontario businesses in Cambridge."
+    },
+    {
       "label": "This Week",
-      "text": "Monitor ongoing developments in U.S.-China trade adjustments and their potential ripple effects on global manufacturing inputs."
-    },
-    {
-      "label": "Ongoing",
-      "text": "Track Competition Bureau updates and regulatory scrutiny regarding supply chain pricing policies."
-    },
-    {
-      "label": "Economic Watch",
-      "text": "Keep an eye on Statistics Canada economic releases regarding business openings, closures, and regional manufacturing indicators."
+      "text": "Monitor ongoing economic adjustments as stock markets navigate high oil prices and bond yields, alongside evolving impacts of U.S. trade tariffs on Canadian manufacturing."
     }
   ]
 }
