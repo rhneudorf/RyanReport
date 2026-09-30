@@ -1,88 +1,88 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "morningSnapshot": {
-    "headline": "Stelco Layoffs Hit Hamilton Amid Tariffs as Canadian GDP Stalls",
-    "summary": "Real GDP remained essentially unchanged in July following three months of expansion, while ongoing U.S. steel tariffs triggered 350 layoffs at Stelco's Hamilton plant."
+    "headline": "Stelco Layoffs and Tariff Pressures Highlight Ontario Manufacturing Reality",
+    "summary": "As Ontario industrial sectors grapple with U.S. tariff fallout and stagnant GDP growth, federal and provincial supports target business productivity investments."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Hamilton, Ontario",
-    "headline": "Stelco to lay off 350 workers at Hamilton steel plant: union",
-    "summary": "The union representing workers at Stelco's Hamilton plant says ongoing U.S. steel tariffs are a primary reason for the company's decision to idle the plant and lay off 350 workers.",
-    "whyItMatters": "As an Ontario manufacturing professional working near the Hamilton and Niagara regions, direct impacts on local steel supply chains and regional industrial stability directly affect downstream component sourcing and sector health.",
-    "explainMore": "The union representing the workforce confirmed that Stelco's decision to idle parts of its operations and cut 350 jobs stems directly from ongoing U.S. tariffs on steel. While the announcement came as a shock to employees on the ground, Ontario's minister of economic development noted that the provincial government was given advance warning of the cuts.\n\nThis regional blow underscores broader vulnerabilities in Canada's manufacturing sector as trade pressures intensify. With local steel availability directly impacting hydraulic cylinder manufacturing and broader mechanical engineering supply chains across Southern Ontario, these developments signal a tense operating environment for industrial businesses.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/hamilton-stelco.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Local Manufacturing",
+    "location": "Hamilton / Ontario",
+    "headline": "‘No amount of money’ would have avoided Stelco slowdown, job loss: CEO",
+    "summary": "The owner of Stelco stated that recent layoff decisions were purely market-driven and that financial incentives could not prevent the slowdown, highlighting ongoing stress in Ontario's steel and manufacturing base.",
+    "whyItMatters": "For engineers and manufacturers in the Niagara and Hamilton regions, the ripple effects of steel sector adjustments directly impact local supply chains, machining demand, and regional industrial stability.",
+    "explainMore": "The recent job cuts at Stelco follow a string of tariff-linked layoffs across the province, including plans for more than 1,000 job reductions at Algoma Steel. Industry experts emphasize that these cutbacks expose the heavy domino effect that U.S. tariffs and shifting trade dynamics exert on Ontario industrial operations.\n\nSimultaneously, the Ford government's 'Protect Ontario' tariff program has accounted for $140 million in expenditures so far, drawing intense questioning from opposition MPPs at Queen's Park regarding how effectively cash has been deployed to shield local businesses.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/09/2940d9a4aa9365be7ed44f3cb73bb7b4329e9aa2d6e86b969643c9e282aaa401_252d9f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12076124/stelco-idling-hamilton-plant-layoffs/"
+    "sourceUrl": "https://globalnews.ca/news/12082768/no-amount-of-money-would-have-avoided-stelco-slowdown-job-loss-ceo/"
   },
   "stories": [
     {
-      "category": "Economy & Trade",
-      "headline": "Trump’s Canadian booze ban will hurt American restaurants, U.S. body warns",
-      "summary": "Trump's previously announced bans affecting alcoholic drinks, dairy byproducts, and motorcycles came into force at 12:01 a.m. ET Tuesday, drawing warnings from U.S. industry bodies.",
-      "whyItMatters": "Escalating cross-border trade restrictions highlight the tightening commercial friction between Canada and the U.S. that continues to reverberate across industrial and consumer markets.",
-      "explainMore": "The newly enforced measures target a range of Canadian goods, including specific alcoholic beverages, dairy byproducts, and motorcycles. American restaurant associations have cautioned that these bans will ultimately hurt U.S. establishments by disrupting supply chains and raising costs.\n\nThis development comes against a backdrop of shifting trade dynamics, as Bank of Canada officials monitor how re-escalating trade tensions and structural changes in global trade impact the broader domestic economy.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-booze-ban.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12077209/trump-canadian-booze-ban/"
+      "category": "Local",
+      "headline": "Distraction thefts spiking in Peel, police say after woman robbed of $19K in jewelry",
+      "summary": "Peel Regional Police issued a warning regarding a spike in distraction thefts following an incident where a woman was robbed of $19,000 in jewelry.",
+      "whyItMatters": "Serves as a regional security reminder for anyone traveling through neighbouring Greater Toronto Area municipalities.",
+      "explainMore": "Police are urging residents to remain highly vigilant in public spaces as these types of organized distraction thefts continue to trend upward across the region.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Peel-police-e1786152606202.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12082924/peel-police-warning-distraction-thefts/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.60%",
+        "value": "▼ 0.06%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.74%",
+        "value": "▼ 0.18%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.13%",
-        "positive": true
+        "value": "▼ 4.44%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7046",
+        "value": "0.7036",
         "positive": null
       }
     ],
-    "insight": "Stock markets are struggling to keep up as rising oil prices (reaching 150.01) and climbing bond yields place building pressure on equities. The Canadian dollar holds at 0.7046 against the USD."
+    "insight": "Stock markets are facing headwinds from elevated oil prices and bond yields, while Statistics Canada reported that real GDP was essentially unchanged in July following three consecutive months of expansion."
   },
   "yourMoney": {
-    "headline": "Real GDP essentially unchanged in July following three months of expansion",
-    "summary": "Statistics Canada reports that real gross domestic product was essentially flat in July, pausing after three consecutive months of economic growth.",
-    "whyItMatters": "For variable-rate mortgage holders and long-term investors, stalling GDP growth combined with shifting bond yields provides vital context for upcoming monetary policy decisions by the Bank of Canada.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260929/dq260929a-eng.htm"
+    "headline": "Bank of Canada Highlights Repo Market Resilience Amid Evolving Monetary Policy",
+    "summary": "Deputy Governor Toni Gravelle discussed how the central bank is supporting resilience in repurchase agreement (repo) markets and evolving its monetary policy framework.",
+    "whyItMatters": "For homeowners with variable-rate mortgages and long-term investors, understanding central bank liquidity operations provides critical visibility into broader borrowing cost trends.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/09/repo-markets-monetary-policy-implementation/"
   },
   "manufacturing": {
-    "headline": "Minister Solomon Highlights New Productivity Mega Deduction in Cambridge",
-    "summary": "Federal Minister Evan Solomon is visiting a local business in Cambridge to highlight the Productivity Mega Deduction, aimed at helping Canadian businesses invest, grow, and create jobs.",
-    "whyItMatters": "For manufacturers and engineering operations in Southern Ontario looking to invest in automation, robotics, and advanced industrial technology, this federal tax mechanism provides crucial capital incentives.",
+    "headline": "Minister Solomon Highlights Productivity Mega Deduction to Support Business Investment",
+    "summary": "Federal officials are highlighting changes to Canada's business tax system via the new Productivity Mega Deduction aimed at helping businesses invest, grow, and create jobs.",
+    "whyItMatters": "For automated manufacturing and engineering operations looking to upgrade capital equipment, tax tools supporting tech investments directly influence facility expansion decisions.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/minister-solomon-to-highlight-new-productivity-mega-deduction-that-will-help-businesses-invest-grow-and-create-jobs-in-canada.html",
-    "engineeringHeadline": "Federal Support Targets Next-Generation Security and Digital Training Technology",
-    "engineeringSummary": "In tandem with regional productivity initiatives, the federal government announced support for next-generation security training technology and digital solutions to advance innovative defense and security training capabilities in Ontario."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/minister-solomon-to-highlight-new-productivity-mega-deduction-that-help-businesses-invest-grow-and-create-jobs-in-canada.html",
+    "engineeringHeadline": "Federal Funding Backs Next-Generation Security and Defense Training Technology",
+    "engineeringSummary": "Ottawa announced support for digital solutions designed to advance innovative defence and security training, showcasing ongoing federal investment in advanced simulation and digital technologies."
   },
   "world": {
-    "headline": "U.S. and China to Slash Tariffs on Goods Worth US$30B Following Trump-Xi Meeting",
-    "summary": "Following a high-level meeting in Washington between U.S. President Donald Trump and Chinese President Xi Jinping, the two nations agreed to slash tariffs on $30 billion worth of goods.",
-    "whyItMatters": "Shifts in bilateral trade policies between the world's largest economies heavily influence global commodity prices, supply chain routing, and international manufacturing sentiment.",
+    "headline": "U.S. and China to Slash Tariffs on Goods Worth US$30B Following High-Level Meetings",
+    "summary": "Following discussions between Washington and Beijing, the U.S. and China agreed to reduce tariffs on $30 billion worth of goods.",
+    "whyItMatters": "Shifts in bilateral trade barriers between global superpowers continue to ripple through international supply chains and raw material pricing for manufacturers.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12075608/us-china-tariffs-trump-xi-meeting/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Minister Evan Solomon highlights the Productivity Mega Deduction for Southern Ontario businesses in Cambridge."
+      "text": "Observe Truth and Reconciliation Day reflections and community events across the region."
     },
     {
       "label": "This Week",
-      "text": "Monitor ongoing economic adjustments as stock markets navigate high oil prices and bond yields, alongside evolving impacts of U.S. trade tariffs on Canadian manufacturing."
+      "text": "Monitor ongoing parliamentary committee reviews regarding the Ontario 'Protect Ontario' tariff program and corporate responses to regional steel sector adjustments."
     }
   ]
 }
