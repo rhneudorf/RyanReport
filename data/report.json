@@ -1,88 +1,102 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "morningSnapshot": {
-    "headline": "Stelco Layoffs and Tariff Pressures Highlight Ontario Manufacturing Reality",
-    "summary": "As Ontario industrial sectors grapple with U.S. tariff fallout and stagnant GDP growth, federal and provincial supports target business productivity investments."
+    "headline": "Federal Productivity Mega Deduction Launched; GDP Flat in July Amid Tariff and Energy Pressures",
+    "summary": "Ottawa introduces a major productivity tax deduction to bolster business investment as GDP stalls, oil climbs, and manufacturing faces tariff headwinds."
   },
   "topStory": {
-    "category": "Local Manufacturing",
-    "location": "Hamilton / Ontario",
-    "headline": "‘No amount of money’ would have avoided Stelco slowdown, job loss: CEO",
-    "summary": "The owner of Stelco stated that recent layoff decisions were purely market-driven and that financial incentives could not prevent the slowdown, highlighting ongoing stress in Ontario's steel and manufacturing base.",
-    "whyItMatters": "For engineers and manufacturers in the Niagara and Hamilton regions, the ripple effects of steel sector adjustments directly impact local supply chains, machining demand, and regional industrial stability.",
-    "explainMore": "The recent job cuts at Stelco follow a string of tariff-linked layoffs across the province, including plans for more than 1,000 job reductions at Algoma Steel. Industry experts emphasize that these cutbacks expose the heavy domino effect that U.S. tariffs and shifting trade dynamics exert on Ontario industrial operations.\n\nSimultaneously, the Ford government's 'Protect Ontario' tariff program has accounted for $140 million in expenditures so far, drawing intense questioning from opposition MPPs at Queen's Park regarding how effectively cash has been deployed to shield local businesses.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/09/2940d9a4aa9365be7ed44f3cb73bb7b4329e9aa2d6e86b969643c9e282aaa401_252d9f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12082768/no-amount-of-money-would-have-avoided-stelco-slowdown-job-loss-ceo/"
+    "category": "Manufacturing & Trade",
+    "location": "Cambridge, Ontario",
+    "headline": "Government of Canada introduces new Productivity Mega Deduction to help businesses invest, grow and create jobs in Canada",
+    "summary": "The federal government has unveiled the Productivity Mega Deduction, described as one of the most significant changes to Canada’s business tax system, designed to help companies invest in new equipment, adopt advanced technology, and expand operations.",
+    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production, direct tax incentives for capital investments and advanced technologies are critical for upgrading machinery and maintaining competitiveness against rising tariff pressures.",
+    "explainMore": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon participated in events highlighting how businesses of all sizes can leverage this deduction to modernize their operations and compete globally. This federal push comes alongside targeted responses to Greater Toronto Area businesses grappling with escalating tariff pressures.\n\nThe timing aligns with broader structural shifts in trade and technology highlighted by the Bank of Canada, where industrial automation and artificial intelligence are rapidly reshaping domestic production capabilities. Companies looking to optimize manufacturing workflows can utilize these federal mechanisms to absorb external cost shocks.",
+    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-introduces-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Distraction thefts spiking in Peel, police say after woman robbed of $19K in jewelry",
-      "summary": "Peel Regional Police issued a warning regarding a spike in distraction thefts following an incident where a woman was robbed of $19,000 in jewelry.",
-      "whyItMatters": "Serves as a regional security reminder for anyone traveling through neighbouring Greater Toronto Area municipalities.",
-      "explainMore": "Police are urging residents to remain highly vigilant in public spaces as these types of organized distraction thefts continue to trend upward across the region.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/Peel-police-e1786152606202.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Economy",
+      "headline": "Real gross domestic product was essentially unchanged in July, following three consecutive months of expansion",
+      "summary": "Statistics Canada reports that real GDP remained flat in July, pausing a three-month growth streak as the broader economy navigates evolving global trade dynamics and monetary policy shifts.",
+      "whyItMatters": "A flat GDP reading signals economic deceleration, influencing future Bank of Canada rate trajectories which directly impact variable-rate mortgages and regional industrial demand.",
+      "explainMore": "The stagnation in July follows three months of steady expansion, illustrating the nuanced hurdles currently facing Canadian industries. Central bank officials, including Governor Tiff Macklem and Deputy Governor Toni Gravelle, have emphasized that businesses and households are continuing to adapt to structural forces, including trade tensions and high energy prices.\n\nFor homeowners on variable rate mortgages and local manufacturers managing supply chains, flat growth underscores the delicate balance the central bank must maintain as it implements monetary policy through repo markets and liquidity frameworks.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
+      "source": "Statistics Canada - Economic Accounts",
+      "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/260929/dq260929a-eng.htm"
+    },
+    {
+      "category": "Local Industry",
+      "headline": "‘No amount of money’ would have avoided Stelco slowdown, job loss: CEO",
+      "summary": "The owner of Stelco stated in an exclusive interview that recent layoff decisions and operational slowdowns were driven entirely by market forces rather than a lack of financial incentives.",
+      "whyItMatters": "As domestic steel and metal markets shift, local supply chains in the Hamilton and Niagara regions face direct upstream effects on material availability and regional industrial stability.",
+      "explainMore": "The commentary from Stelco's leadership highlights the severe reality of prevailing market cycles over government subsidies during structural downturns. For local manufacturing sectors reliant on regional steel output, these operational shifts dictate input costs and production pacing.\n\nLocal plants across the Greater Toronto Area and Golden Horseshoe continue to monitor these commodity adjustments closely as global trade pressures challenge domestic processing margins.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/2940d9a4aa9365be7ed44f3cb73bb7b4329e9aa2d6e86b969643c9e282aaa401_252d9f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12082924/peel-police-warning-distraction-thefts/"
+      "sourceUrl": "https://globalnews.ca/news/12082768/no-amount-of-money-would-have-avoided-stelco-slowdown-job-loss-ceo/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.06%",
+        "value": "▼ 0.72%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.18%",
+        "value": "▼ 0.21%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▼ 4.44%",
-        "positive": false
+        "value": "▲ 1.61%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7036",
+        "value": "0.7019",
         "positive": null
       }
     ],
-    "insight": "Stock markets are facing headwinds from elevated oil prices and bond yields, while Statistics Canada reported that real GDP was essentially unchanged in July following three consecutive months of expansion."
+    "insight": "Equity markets faced downward pressure alongside climbing bond yields and soaring oil prices at $145.66, while the Canadian dollar held near 0.7019 USD against persistent macroeconomic headwinds."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Highlights Repo Market Resilience Amid Evolving Monetary Policy",
-    "summary": "Deputy Governor Toni Gravelle discussed how the central bank is supporting resilience in repurchase agreement (repo) markets and evolving its monetary policy framework.",
-    "whyItMatters": "For homeowners with variable-rate mortgages and long-term investors, understanding central bank liquidity operations provides critical visibility into broader borrowing cost trends.",
+    "headline": "Bank of Canada highlights repo market resilience and monetary policy framework evolution",
+    "summary": "Deputy Governor Toni Gravelle discussed how the Bank of Canada supports liquidity in repurchase agreement (repo) markets and adapts monetary policy implementation to secure financial resilience.",
+    "whyItMatters": "For homeowners managing a 5-year variable mortgage, understanding how the central bank manages repo markets and monetary transmission offers critical insight into short-term lending rate stability.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/09/repo-markets-monetary-policy-implementation/"
   },
   "manufacturing": {
-    "headline": "Minister Solomon Highlights Productivity Mega Deduction to Support Business Investment",
-    "summary": "Federal officials are highlighting changes to Canada's business tax system via the new Productivity Mega Deduction aimed at helping businesses invest, grow, and create jobs.",
-    "whyItMatters": "For automated manufacturing and engineering operations looking to upgrade capital equipment, tax tools supporting tech investments directly influence facility expansion decisions.",
+    "headline": "Minister Solomon Responds to GTA Tariff Pressures While Ottawa Backs Security Tech",
+    "summary": "FedDev Ontario funding supports next-generation security training technology via H2 Analytics Inc., while federal officials address mounting tariff concerns for regional industries.",
+    "whyItMatters": "Regional federal investments in AI-driven digital solutions highlight ongoing government backing for advanced engineering and technological integration across Southern Ontario's industrial base.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/09/minister-solomon-to-highlight-new-productivity-mega-deduction-that-help-businesses-invest-grow-and-create-jobs-in-canada.html",
-    "engineeringHeadline": "Federal Funding Backs Next-Generation Security and Defense Training Technology",
-    "engineeringSummary": "Ottawa announced support for digital solutions designed to advance innovative defence and security training, showcasing ongoing federal investment in advanced simulation and digital technologies."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/minister-solomon-to-respond-to-tariff-pressures-for-businesses-and-organizations-in-the-greater-toronto-area.html",
+    "engineeringHeadline": "Canadian Space Agency Astronaut Joshua Kutryk Begins Historic First Space Mission",
+    "engineeringSummary": "CSA astronaut Colonel Joshua Kutryk has launched on the SpaceX Crew-13 mission to the International Space Station for a six-month stay, marking a major milestone for Canadian aerospace engineering."
   },
   "world": {
-    "headline": "U.S. and China to Slash Tariffs on Goods Worth US$30B Following High-Level Meetings",
-    "summary": "Following discussions between Washington and Beijing, the U.S. and China agreed to reduce tariffs on $30 billion worth of goods.",
-    "whyItMatters": "Shifts in bilateral trade barriers between global superpowers continue to ripple through international supply chains and raw material pricing for manufacturers.",
+    "headline": "U.S. Military Completes Full Troop Withdrawal from Iraq",
+    "summary": "The United States military has finalized the withdrawal of its remaining troops from Iraq, concluding a timeline agreed upon two years ago amid ongoing regional security tensions.",
+    "whyItMatters": "Geopolitical restructuring in the Middle East directly influences global energy security, oil benchmark volatility, and international supply chain stability.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12075608/us-china-tariffs-trump-xi-meeting/"
+    "sourceUrl": "https://globalnews.ca/news/12082783/us-military-troops-iraq-withdrawn/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Observe Truth and Reconciliation Day reflections and community events across the region."
+      "label": "This Week",
+      "text": "Monitor ongoing federal announcements from Minister Evan Solomon regarding regional tariff mitigation for Greater Toronto Area businesses."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing parliamentary committee reviews regarding the Ontario 'Protect Ontario' tariff program and corporate responses to regional steel sector adjustments."
+      "label": "Ongoing",
+      "text": "Track domestic industrial production indicators following Statistics Canada's flat July GDP report and rising oil price pressures."
+    },
+    {
+      "label": "This Month",
+      "text": "Observe regional implementation of minimum wage adjustments across Ontario and four other provinces."
     }
   ]
 }
