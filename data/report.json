@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "morningSnapshot": {
-    "headline": "Federal Productivity Mega Deduction Launched; Trade War Stance Holds as Markets Weigh Oil and Bond Pressures",
-    "summary": "Ottawa introduces a major productivity deduction to boost business investment, while Canadian consumers maintain their 'Buy Canadian' stance 19 months into ongoing trade tensions. Markets contend with rising oil prices and bond yields."
+    "headline": "Trade Pressures, Energy Reserves, and Federal Productivity Support Shape Friday's Markets",
+    "summary": "As global markets react to G7 reserve releases and trade tensions, the federal government rolls out new productivity deductions to help Canadian businesses invest and scale."
   },
   "topStory": {
     "category": "Manufacturing & Trade",
-    "location": "Charlottetown / Southern Ontario",
+    "location": "Ottawa / Greater Toronto Area",
     "headline": "The Government of Canada introduces new Productivity Mega Deduction to help businesses invest, grow and create jobs in Canada",
-    "summary": "The federal government has highlighted a new Productivity Mega Deduction aimed at helping Canadian businesses of all sizes invest in new equipment, adopt advanced technology, expand operations, and compete globally.",
-    "whyItMatters": "As an Ontario manufacturing professional working in hydraulic cylinder production and automation, this federal incentive directly supports capital expenditure on advanced machinery, robotic welding, and industrial technology.",
-    "explainMore": "Announced during recent ministerial visits to manufacturing facilities like Allan Equipment Manufacturing Ltd. and promoted via the Federal Economic Development Agency for Southern Ontario, the Productivity Mega Deduction is designed to spur a new era of industrial investment.\n\nBusinesses looking to upgrade their CAD/CAM systems, robotics, or shop-floor automation can leverage these measures to offset the costs of scaling up operations.\n\nThis initiative arrives as Canadian firms continue to navigate complex cross-border trade realities and tariff pressures originating from the U.S. trade war that began in February 2025.",
+    "summary": "The federal government has introduced a new Productivity Mega Deduction to help Canadian businesses of all sizes invest in new equipment, adopt new technology, expand operations, and compete globally.",
+    "whyItMatters": "For capital-intensive sectors like Ontario hydraulic cylinder manufacturing, new incentives targeting equipment investment and technology adoption directly support automation and long-term competitiveness.",
+    "explainMore": "Minister of Agriculture and Agri-Food Heath MacDonald and Minister of Artificial Intelligence and Digital Innovation Evan Solomon highlighted how the federal government is positioning Canadian enterprises to expand operations.\n\nRunning parallel to these national productivity pushes, FedDev Ontario has directed targeted funding, including nearly $26 million to over 30 Greater Toronto Area businesses and organizations, to build supply chain resilience and respond directly to ongoing tariff pressures.\n\nThese combined fiscal measures aim to offset rising cross-border trade friction, providing local industrial operations with the liquidity needed to upgrade machinery, integrate advanced tooling, and maintain output amid shifting North American trade dynamics.",
     "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/the-government-of-canada-introduces-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html"
+    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/the-government-of-canada-introduced-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "‘Buy Canadian’ movement just as strong 19 months since trade war began: poll",
-      "summary": "A recent Abacus data poll reveals that Canadians' intent to boycott American products remains just as strong 19 months after U.S. tariffs were first announced.",
-      "whyItMatters": "Sustained domestic preference for Canadian goods reinforces local supply chains and increases demand for domestic manufacturing output across Ontario industrial corridors.",
-      "explainMore": "In February 2025, trade tensions escalated when tariffs were first announced against Canada, prompting a widespread shift in consumer and commercial behavior.\n\nA new poll by Abacus Data shows that this 'Buy Canadian' sentiment has not waned, remaining remarkably resilient nearly a year and a half later.\n\nFor industrial businesses in regions like the Niagara Peninsula, Stoney Creek, and Hamilton, this sustained domestic focus creates unique opportunities to capture market share previously held by U.S. competitors.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Buy-Canadian-Abacus-Data.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12085306/buy-canadian-19-months-trade-war/"
+      "category": "Local",
+      "headline": "Niagara Region thanks Buffalo in open letter, invites them for Bills-coloured display",
+      "summary": "Neighbourly affection between Ontario's Niagara Region and Buffalo, N.Y., is highlighted in an open letter amidst ongoing Canada-U.S. trade friction.",
+      "whyItMatters": "A nod to cross-border ties right in your backyard of the Niagara Region during ongoing bilateral trade disputes.",
+      "explainMore": "The open letter from the Niagara Region to Buffalo underscores the enduring cultural and economic bonds shared across the border, even as trade disputes and tariff pressures test broader federal relationships.\n\nLocal cross-border partnerships remain a vital touchpoint for regional commerce and community solidarity throughout Southern Ontario and Western New York.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/ab3074b5daebf12915daddf261faa38aa5cd4a57933089188d8d55b6d785ad01.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12085595/niagara-region-thanks-buffalo-in-open-letter-invites-them-for-bills-coloured-display/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.11%",
-        "positive": false
+        "value": "▲ 0.94%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.18%",
+        "value": "▲ 0.74%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▲ 2.99%",
-        "positive": true
+        "value": "▼ 1.77%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7016",
+        "value": "0.7020",
         "positive": null
       }
     ],
-    "insight": "Oil prices surged nearly 3% to $150.02 amid geopolitical and supply pressures, while the TSX edged down slightly. Elevated bond yields and energy costs continue to shape broader financial market conditions."
+    "insight": "Equities pushed higher on Friday, led by artificial intelligence optimism and solid index gains, even as oil prices eased off recent highs following G7 reserve announcements."
   },
   "yourMoney": {
-    "headline": "Canada’s housing affordability dilemma examined by Bank of Canada",
-    "summary": "Senior Deputy Governor Carolyn Rogers discusses the complex roots of Canada's housing affordability crisis and notes the absence of easy policy solutions.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, understanding the Bank of Canada's perspective on housing and structural economic pressures is vital for long-term financial planning.",
+    "headline": "Bank of Canada Highlights Housing Affordability Dilemma",
+    "summary": "Senior Deputy Governor Carolyn Rogers discussed the complex structural factors behind Canada's housing affordability dilemma, noting that there are no simple solutions.",
+    "whyItMatters": "For a 5-year variable mortgage holder and homeowner, understanding Bank of Canada commentary on structural housing pressures and monetary policy implementation remains vital for long-term financial planning.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/"
   },
   "manufacturing": {
-    "headline": "Federal Productivity Mega Deduction Targets Manufacturing Growth",
-    "summary": "Ottawa rolls out the Productivity Mega Deduction to empower Canadian businesses to invest in cutting-edge equipment, automation, and operational expansion.",
-    "whyItMatters": "Provides direct fiscal backing for capital investments in Ontario's manufacturing sector, helping facilities modernize hydraulic production lines and automation tech.",
+    "headline": "FedDev Ontario Backs GTA Supply Chains and Technology Adoption",
+    "summary": "Federal investments totaling nearly $26 million across 30-plus GTA businesses are strengthening regional supply chains and mitigating tariff headwinds.",
+    "whyItMatters": "Direct federal support for regional manufacturing resilience and equipment modernization helps buffer Ontario industrial facilities against supply chain disruptions and tariff volatility.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-introduces-new-productivity-mega-deduction-to-help-businesses-invest-grow-and-create-jobs-in-canada.html",
-    "engineeringHeadline": "Canadian Space Agency Astronaut Joshua Kutryk Begins Historic Space Station Mission",
-    "engineeringSummary": "CSA astronaut Colonel Joshua Kutryk has launched on the SpaceX Crew-13 mission for a six-month stay aboard the International Space Station, marking a major milestone for Canadian aerospace engineering."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/thirty-one-greater-toronto-area-businesses-and-organizations-receive-government-of-canada-support-to-strengthen-canadian-supply-chains-and-drive-gr.html",
+    "engineeringHeadline": "CSA Astronaut Joshua Kutryk Embarks on Historic First Space Mission",
+    "engineeringSummary": "Canadian Space Agency astronaut Col. Joshua Kutryk has begun his six-month journey to the International Space Station aboard SpaceX Crew-13, representing a major milestone for Canadian aerospace engineering."
   },
   "world": {
-    "headline": "U.S. Threatens EU Diesel Export Ban Amid Global Energy Pressures",
-    "summary": "The United States is reportedly threatening to block diesel exports to parts of Europe unless countries like France and Germany release more of their national reserve fuel.",
-    "whyItMatters": "Escalating energy interventions and threats of export bans directly impact global fuel markets, driving oil price volatility and influencing industrial operating costs worldwide.",
+    "headline": "G7 to Release 100 Million Barrels of Oil and Diesel Reserves Amid Trade Strains",
+    "summary": "Following U.S. threats regarding diesel exports, G7 industrial nations plan to release 100 million barrels of oil and fuel products in the coming weeks.",
+    "whyItMatters": "Global energy interventions directly influence industrial input costs, petroleum pricing, and macroeconomic stability for manufacturers worldwide.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12083966/trump-diesel-export-ban-eu/"
+    "sourceUrl": "https://globalnews.ca/news/12085506/europe-trump-oil-diesel-reserves/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor ongoing responses from Greater Toronto Area businesses and federal officials regarding regional tariff pressures."
+      "label": "Monday",
+      "text": "The next Canada Groceries and Essentials Benefit payment arrives in bank accounts and mailboxes."
     },
     {
-      "label": "Ongoing",
-      "text": "Track Canadian business utilization of the newly introduced Productivity Mega Deduction for equipment and automation investments."
+      "label": "This Weekend",
+      "text": "Quebec voters head into the final weekend of campaigning ahead of Monday's provincial election."
     },
     {
-      "label": "This Week",
-      "text": "Keep an eye on global energy markets as oil hovers near $150 and international diesel export tensions develop."
+      "label": "Coming Weeks",
+      "text": "G7 nations prepare to execute the release of 100 million barrels of oil and fuel reserves."
     }
   ]
 }
