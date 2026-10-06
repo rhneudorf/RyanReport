@@ -1,92 +1,88 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "morningSnapshot": {
-    "headline": "Diesel Shock Warns of Supply Chain Cost Pressures; Markets Rise on Solid Gains",
-    "summary": "Good morning, Ryan. Scotiabank warns of an impending price shock for diesel and crude oil working its way through supply chains, carrying implications for freight and manufacturing input costs across Ontario. Meanwhile, equity markets show positive momentum with the TSX up 0.94% and the S&P 500 gaining 0.74%."
+    "headline": "Diesel price shock hits supply chains as housing and economic shifts take centre stage",
+    "summary": "Good morning, Ryan. Today's briefing covers a major diesel price shock threatening supply chains and food costs, local Greater Toronto Area housing market cooling, and new agricultural and manufacturing investments across Ontario."
   },
   "topStory": {
-    "category": "Economy & Supply Chains",
-    "location": "National / Ontario",
+    "category": "Economy & Energy",
+    "location": "National / Global",
     "headline": "Food prices may rise soon as diesel ‘shock’ bleeds through economy: report",
-    "summary": "Canadians could wind up with a bigger grocery bill in the coming months as a major price shock for diesel and crude oil works its way through supply chains, Scotiabank says.",
-    "whyItMatters": "As someone working in Ontario hydraulic cylinder manufacturing, energy and diesel cost fluctuations directly impact freight rates, raw material transit, and operational overhead for industrial supply chains.",
-    "explainMore": "Fuel price volatility continues to complicate cost forecasting across Canadian manufacturing and distribution networks. While crude oil values saw a 1.77% pullback to $147.37, the broader diesel shock identified by Scotiabank highlights persistent underlying pressures in logistics.\n\nFor industrial operators and supply chain planners, shifts in fuel surcharges ripple quickly through heavy freight. Monitoring these energy transmission channels remains critical as businesses prepare for higher operating costs heading into the final stretch of the year.",
+    "summary": "Canadians could wind up with a bigger grocery bill in the coming months as a major price 'shock' for diesel and crude oil works its way through supply chains, Scotiabank says.",
+    "whyItMatters": "As an Ontario manufacturing professional, energy input costs and logistics shocks directly impact freight, operational overhead, and component distribution expenses.",
+    "explainMore": "Canadians are facing potential price hikes at the checkout counter as surging energy costs ripple across the broader economy. Scotiabank warns that crude oil and diesel shocks are actively bleeding through logistics networks.\n\nSimultaneously, U.S. President Donald Trump signed an executive order allowing for wider use of dyed diesel on regular roads and highways across America in response to soaring fuel prices, highlighting how energy constraints are forcing policy and operational adjustments across North America.",
     "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP175965025-e1791225888858.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - National",
+    "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12088214/food-prices-diesel-scotiabank/"
   },
   "stories": [
     {
-      "category": "Local / Niagara Region",
-      "headline": "Blind voter argues at tribunal hearing that his accessible voting rights were denied",
-      "summary": "David Lepofsky says he had tried to vote using Elections Ontario’s assistive voting terminal for voters with disabilities, but a poll worker inadvertently saw who he voted for.",
-      "whyItMatters": "Highlights ongoing operational and administrative challenges within Ontario provincial electoral processes affecting regional voters.",
-      "explainMore": "Accessible voting infrastructure relies heavily on proper poll worker training and seamless terminal execution. When privacy protocols fail during assistive voting, it raises important governance questions about institutional accountability and ballot secrecy across Ontario ridings.\n\nThe tribunal hearing brings public scrutiny to how provincial electoral bodies manage accessibility mandates, ensuring that technical solutions for voters with disabilities are matched by flawless administrative execution at local polling stations.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/c37dabd8914ea8114bbd8219457db2d24fcf6a5cfd40433c58cd78920af6aa71_9cc2f6.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12088199/blind-voter-argues-at-tribunal-hearing-that-his-accessible-voting-rights-were-denied/"
+      "category": "Housing",
+      "headline": "Greater Toronto home sales in September down from year ago, average price also lower",
+      "summary": "Renewed tensions with the United States and a surge in gas prices amid an ongoing war in the Middle East have kept potential buyers on the sidelines in recent months.",
+      "whyItMatters": "Relevant to regional real estate trends near the Niagara and Greater Toronto areas.",
+      "explainMore": "Market activity across the Greater Toronto Area slowed in September, with both home sales and average prices registering declines compared to the previous year. Industry observers note that external pressures—including renewed trade tensions with the U.S. and climbing fuel expenses—have cooled buyer confidence.\n\nMeanwhile, Bank of Canada officials continue to analyze long-term housing affordability dynamics, emphasizing the complex structural challenges facing prospective homeowners across the country.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/883e51873df48c2840e0aef8f65ef810ce5db691738c5aa4c7bce5cb676ef98f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12089630/toronto-area-september-2026-home-sales/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.94%",
+        "value": "▲ 0.09%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.74%",
+        "value": "▲ 0.67%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 1.77%",
+        "value": "▼ 2.29%",
         "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7016",
+        "value": "0.7031",
         "positive": null
       }
     ],
-    "insight": "North American equities opened positively with the TSX advancing 0.94% to 52.78 and the S&P 500 gaining 0.74% to 769.64. Crude oil retreated 1.77% to $147.37, while the Canadian dollar held steady against the greenback at 0.7016."
+    "insight": "Oil prices retreated 2.29% to $143.99 amid broader energy market volatility, while equities posted modest gains across the TSX and S&P 500."
   },
   "yourMoney": {
-    "headline": "Canada Groceries and Essentials Benefit Payment Arrives",
-    "summary": "The next Canada Groceries and Essentials Benefit payment for the fiscal year, and the last of 2026, arrives in bank accounts and mailboxes of qualifying Canadians.",
-    "whyItMatters": "Provides direct fiscal relief to households navigating persistent grocery and everyday living cost pressures.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12085607/canada-groceries-and-essentials-benefit-october/"
+    "headline": "Canada’s housing affordability dilemma examined by central bank",
+    "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers discusses housing affordability, focusing on how challenges accumulated over time and why immediate solutions remain complex.",
+    "whyItMatters": "As a 5-year variable mortgage holder, keeping a close eye on central bank commentary and macroeconomic headwinds is essential for managing your long-term household financing.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/"
   },
   "manufacturing": {
-    "headline": "Canada and Ontario Invest $2 Million to Protect Agri-Food Industry Operations",
-    "summary": "Agriculture and Agri-Food Canada confirmed a transition year for the Seed Increase Unit, operating out of both Indian Head and Saskatoon for 2027 ahead of a full 2028 move.",
-    "whyItMatters": "Targeted provincial manufacturing and processing investments strengthen local supply chain resilience, automation readiness, and equipment modernization across Ontario industrial sectors.",
+    "headline": "Canada and Ontario invest $2 million to bolster agri-food sector efficiency and technology",
+    "summary": "The governments of Canada and Ontario are investing $2 million through the Food Safety and Growth Initiative to help small businesses expand operations, enhance food safety, and adopt efficiency-boosting technologies.",
+    "whyItMatters": "Directly aligns with regional industrial growth, advanced tool adoption, and local supply chain resilience across Ontario.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/canada-and-ontario-investing-2-million-to-protect-the-provinces-agri-food-industry.html",
-    "engineeringHeadline": "Federal Seed Increase Unit Transition Planned for Saskatoon",
-    "engineeringSummary": "Demonstrates long-term federal agricultural research infrastructure restructuring and operational relocation planning."
+    "engineeringHeadline": "Competition Bureau updates merger review guidelines",
+    "engineeringSummary": "The Interim Commissioner of Competition issued a statement regarding the abandoned Nortera-B&G Foods Canada merger, underscoring active federal oversight of commercial consolidation and supply networks."
   },
   "world": {
-    "headline": "Middle East Oil Exports Rebound Toward Pre-War Levels",
-    "summary": "Persian Gulf oil exporters topped pre-war levels for about half of September according to shipping data, though ongoing security incidents and attacks on tankers continue to cloud the long-term outlook.",
-    "whyItMatters": "Global crude flow stability directly dictates international energy pricing benchmarks, freight surcharges, and macroeconomic input costs for industrial manufacturing.",
+    "headline": "Ukraine intercepts mass aerial drone attack as regional tensions persist",
+    "summary": "Russian air defences intercepted nearly 900 Ukrainian drones overnight over multiple regions, according to Moscow's defence ministry, as international security challenges remain acute.",
+    "whyItMatters": "Global geopolitical friction points continue to drive commodity and energy market disruptions that reverberate into North American supply chains.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12087754/middle-east-oil-exports-rebound/"
+    "sourceUrl": "https://globalnews.ca/news/12089508/ukraine-russia-drones-aerial-attack/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Canada Groceries and Essentials Benefit payments begin arriving for qualifying recipients."
-    },
-    {
       "label": "This Week",
-      "text": "Monitor diesel and crude oil transmission effects across Canadian supply chains and logistics networks."
+      "text": "The College of Physicians and Surgeons of Ontario is set to hold a board of directors meeting to decide on proposed regulatory changes to safe supply prescribing."
     },
     {
-      "label": "Upcoming",
-      "text": "Watch for ongoing developments regarding Bank of Canada monetary policy frameworks and repo market resilience."
+      "label": "Ongoing",
+      "text": "Monitor broader energy market transmission as diesel and crude pricing shocks work their way through North American transportation and logistics networks."
     }
   ]
 }
