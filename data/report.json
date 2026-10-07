@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "morningSnapshot": {
-    "headline": "Diesel price shock hits supply chains as housing and economic shifts take centre stage",
-    "summary": "Good morning, Ryan. Today's briefing covers a major diesel price shock threatening supply chains and food costs, local Greater Toronto Area housing market cooling, and new agricultural and manufacturing investments across Ontario."
+    "headline": "Trade Warning on Steel, Utility Megamergers, and Economic Realities",
+    "summary": "Good morning, Ryan. In local trade news, Industry Minister Joly warns Cleveland-Cliffs over Stelco job commitments. Nationally, average Canadian rents fall for the 24th straight month, while a massive $72B utility merger reshapes the energy landscape."
   },
   "topStory": {
-    "category": "Economy & Energy",
-    "location": "National / Global",
-    "headline": "Food prices may rise soon as diesel ‘shock’ bleeds through economy: report",
-    "summary": "Canadians could wind up with a bigger grocery bill in the coming months as a major price 'shock' for diesel and crude oil works its way through supply chains, Scotiabank says.",
-    "whyItMatters": "As an Ontario manufacturing professional, energy input costs and logistics shocks directly impact freight, operational overhead, and component distribution expenses.",
-    "explainMore": "Canadians are facing potential price hikes at the checkout counter as surging energy costs ripple across the broader economy. Scotiabank warns that crude oil and diesel shocks are actively bleeding through logistics networks.\n\nSimultaneously, U.S. President Donald Trump signed an executive order allowing for wider use of dyed diesel on regular roads and highways across America in response to soaring fuel prices, highlighting how energy constraints are forcing policy and operational adjustments across North America.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP175965025-e1791225888858.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12088214/food-prices-diesel-scotiabank/"
+    "category": "Local",
+    "location": "Hamilton, Ontario",
+    "headline": "Joly threatens ‘full force of the law’ over Cleveland-Cliffs’ Stelco job commitments",
+    "summary": "Canada's industry minister said Wednesday that Stelco Holdings Inc. cannot use the trade war to justify cutting jobs it committed to when it bought the Hamilton-based steel plant.",
+    "whyItMatters": "As an Ontario manufacturing professional tied to industrial supply chains and steel usage, local sector stability and domestic trade pressures directly impact regional industrial health.",
+    "explainMore": "Canada's industry minister issued a stern warning to Cleveland-Cliffs regarding the Stelco acquisition in Hamilton.\n\nThe government made it clear that macroeconomic trade tensions cannot serve as an acceptable justification for walking back on agreed employment guarantees.\n\nFor regional manufacturing networks, maintaining robust domestic steel commitments remains a critical baseline.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/2940d9a4aa9365be7ed44f3cb73bb7b4329e9aa2d6e86b969643c9e282aaa401.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12091303/joly-stelco-job-threats/"
   },
   "stories": [
     {
-      "category": "Housing",
-      "headline": "Greater Toronto home sales in September down from year ago, average price also lower",
-      "summary": "Renewed tensions with the United States and a surge in gas prices amid an ongoing war in the Middle East have kept potential buyers on the sidelines in recent months.",
-      "whyItMatters": "Relevant to regional real estate trends near the Niagara and Greater Toronto areas.",
-      "explainMore": "Market activity across the Greater Toronto Area slowed in September, with both home sales and average prices registering declines compared to the previous year. Industry observers note that external pressures—including renewed trade tensions with the U.S. and climbing fuel expenses—have cooled buyer confidence.\n\nMeanwhile, Bank of Canada officials continue to analyze long-term housing affordability dynamics, emphasizing the complex structural challenges facing prospective homeowners across the country.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/883e51873df48c2840e0aef8f65ef810ce5db691738c5aa4c7bce5cb676ef98f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12089630/toronto-area-september-2026-home-sales/"
+      "category": "Your Money",
+      "headline": "Emera inks Canadian Utilities merger deal with ATCO to create $72B energy ‘powerhouse’",
+      "summary": "Emera and ATCO have agreed to a merger deal to create a $72 billion utility powerhouse, with existing Emera shareholders owning about 60 percent of the combined entity.",
+      "whyItMatters": "Utility consolidation alters the corporate landscape and touches regional energy infrastructure costs for Ontario businesses and homeowners.",
+      "explainMore": "Major corporate combinations in the utility sector shift market dynamics for infrastructure and energy delivery.\n\nWith a combined valuation of $72 billion, the newly formed entity commands substantial scale across Canadian markets.\n\nStakeholders and commercial ratepayers will be watching closely to see how integration impacts operational efficiencies and utility pricing frameworks.",
+      "image": "https://globalnews.ca/wp-content/uploads/2024/12/Ontario-power.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12089863/atco-emera-canadian-utilities-merger/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.09%",
+        "value": "▲ 0.40%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.67%",
+        "value": "▲ 0.55%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 2.29%",
-        "positive": false
+        "value": "▲ 0.64%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7031",
+        "value": "0.7015",
         "positive": null
       }
     ],
-    "insight": "Oil prices retreated 2.29% to $143.99 amid broader energy market volatility, while equities posted modest gains across the TSX and S&P 500."
+    "insight": "Markets trended positively with moderate gains across major indices, while oil advanced toward $144.91 and the Canadian dollar held at 0.7015 against the US greenback."
   },
   "yourMoney": {
-    "headline": "Canada’s housing affordability dilemma examined by central bank",
-    "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers discusses housing affordability, focusing on how challenges accumulated over time and why immediate solutions remain complex.",
-    "whyItMatters": "As a 5-year variable mortgage holder, keeping a close eye on central bank commentary and macroeconomic headwinds is essential for managing your long-term household financing.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/"
+    "headline": "Rents in Canada fall for 24 consecutive months as housing pressures persist",
+    "summary": "The average asking rent for residential properties in Canada dropped to $2,034 in September, marking a 4.2 percent decline compared to the previous year.",
+    "whyItMatters": "A shifting rental market reflects broader housing affordability trends that influence variable-rate mortgage holders and long-term real estate valuations.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12091033/rent-canada-falling-24-months/"
   },
   "manufacturing": {
-    "headline": "Canada and Ontario invest $2 million to bolster agri-food sector efficiency and technology",
-    "summary": "The governments of Canada and Ontario are investing $2 million through the Food Safety and Growth Initiative to help small businesses expand operations, enhance food safety, and adopt efficiency-boosting technologies.",
-    "whyItMatters": "Directly aligns with regional industrial growth, advanced tool adoption, and local supply chain resilience across Ontario.",
+    "headline": "Canada and Ontario invest $2 million to protect and modernize the agri-food sector",
+    "summary": "Governments are deploying funds across Ontario through the Food Safety and Growth Initiative to equip small businesses with tools, technologies, and enhanced safety measures.",
+    "whyItMatters": "Targeted technology adoption funds support local supply chain resilience and manufacturing modernization across Ontario.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/canada-and-ontario-investing-2-million-to-protect-the-provinces-agri-food-industry.html",
-    "engineeringHeadline": "Competition Bureau updates merger review guidelines",
-    "engineeringSummary": "The Interim Commissioner of Competition issued a statement regarding the abandoned Nortera-B&G Foods Canada merger, underscoring active federal oversight of commercial consolidation and supply networks."
+    "engineeringHeadline": "Standing Committee on Industry and Technology active on industrial trade",
+    "engineeringSummary": "Parliamentary committees continue reviewing federal industrial frameworks and manufacturing competitiveness as trade dynamics evolve."
   },
   "world": {
-    "headline": "Ukraine intercepts mass aerial drone attack as regional tensions persist",
-    "summary": "Russian air defences intercepted nearly 900 Ukrainian drones overnight over multiple regions, according to Moscow's defence ministry, as international security challenges remain acute.",
-    "whyItMatters": "Global geopolitical friction points continue to drive commodity and energy market disruptions that reverberate into North American supply chains.",
+    "headline": "Israel marks solemn anniversary of Oct. 7 attacks as regional conflicts persist",
+    "summary": "Families in Israel gathered at memorial sites and bomb shelters to mourn the victims of the Oct. 7 attacks, three years after the outbreak of the ongoing conflict.",
+    "whyItMatters": "Ongoing geopolitical instability in the Middle East continues to exert influence over global energy markets and international trade routes.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12089508/ukraine-russia-drones-aerial-attack/"
+    "sourceUrl": "https://globalnews.ca/news/12090907/oct-7-attacks-war-israel-gaza-anniversary/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "The College of Physicians and Surgeons of Ontario is set to hold a board of directors meeting to decide on proposed regulatory changes to safe supply prescribing."
+      "text": "Monitor ongoing developments regarding the $80M Lotto Max jackpot ahead of the Thanksgiving holiday draw."
     },
     {
-      "label": "Ongoing",
-      "text": "Monitor broader energy market transmission as diesel and crude pricing shocks work their way through North American transportation and logistics networks."
+      "label": "March 2027",
+      "text": "Keep watch on federal regulatory timelines as the current exclusion regarding medical assistance in dying for mental illness approaches its expiration date."
     }
   ]
 }
