@@ -1,88 +1,102 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-09",
   "morningSnapshot": {
-    "headline": "Trade Warning on Steel, Utility Megamergers, and Economic Realities",
-    "summary": "Good morning, Ryan. In local trade news, Industry Minister Joly warns Cleveland-Cliffs over Stelco job commitments. Nationally, average Canadian rents fall for the 24th straight month, while a massive $72B utility merger reshapes the energy landscape."
+    "headline": "Economy Reshaped by Demographics; Stelco Begins Layoffs in Hamilton",
+    "summary": "Good morning, Ryan. The Bank of Canada highlights structural economic shifts from aging populations and slowing immigration, while local manufacturing faces headwinds as Stelco starts layoffs in Hamilton."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton, Ontario",
-    "headline": "Joly threatens ‘full force of the law’ over Cleveland-Cliffs’ Stelco job commitments",
-    "summary": "Canada's industry minister said Wednesday that Stelco Holdings Inc. cannot use the trade war to justify cutting jobs it committed to when it bought the Hamilton-based steel plant.",
-    "whyItMatters": "As an Ontario manufacturing professional tied to industrial supply chains and steel usage, local sector stability and domestic trade pressures directly impact regional industrial health.",
-    "explainMore": "Canada's industry minister issued a stern warning to Cleveland-Cliffs regarding the Stelco acquisition in Hamilton.\n\nThe government made it clear that macroeconomic trade tensions cannot serve as an acceptable justification for walking back on agreed employment guarantees.\n\nFor regional manufacturing networks, maintaining robust domestic steel commitments remains a critical baseline.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/2940d9a4aa9365be7ed44f3cb73bb7b4329e9aa2d6e86b969643c9e282aaa401.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12091303/joly-stelco-job-threats/"
+    "category": "Canada",
+    "location": "Ottawa / National",
+    "headline": "Bank of Canada says aging population, low immigration ‘reshaping’ economy",
+    "summary": "In 2025, Canada’s population growth slowed to 0.5 per cent — the slowest rate of growth in more than a century after 150 years of steady growth.",
+    "whyItMatters": "Shifting demographics and a shrinking workforce directly impact domestic demand, labor availability, and long-term economic planning for Ontario industries.",
+    "explainMore": "The Bank of Canada points out that an older population and lower immigration are fundamentally changing the economic landscape by shrinking the workforce and shifting consumption patterns. After a century and a half of consistent expansion, population growth cooled dramatically to 0.5 per cent in 2025.\n\nFor industrial sectors reliant on a steady labor supply and stable domestic markets, these demographic headwinds require careful strategic adjustment. Lower immigration and an aging populace create persistent structural pressures on productivity and workforce planning.\n\nPolicymakers and businesses alike are being forced to adapt to a slower-growth baseline. Understanding these macroeconomic shifts is essential for navigating long-term capital allocation and operational scaling.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Bank-of-Canada-ageing.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12097260/aging-population-lower-immigration-reshaping-economy/"
   },
   "stories": [
     {
-      "category": "Your Money",
-      "headline": "Emera inks Canadian Utilities merger deal with ATCO to create $72B energy ‘powerhouse’",
-      "summary": "Emera and ATCO have agreed to a merger deal to create a $72 billion utility powerhouse, with existing Emera shareholders owning about 60 percent of the combined entity.",
-      "whyItMatters": "Utility consolidation alters the corporate landscape and touches regional energy infrastructure costs for Ontario businesses and homeowners.",
-      "explainMore": "Major corporate combinations in the utility sector shift market dynamics for infrastructure and energy delivery.\n\nWith a combined valuation of $72 billion, the newly formed entity commands substantial scale across Canadian markets.\n\nStakeholders and commercial ratepayers will be watching closely to see how integration impacts operational efficiencies and utility pricing frameworks.",
-      "image": "https://globalnews.ca/wp-content/uploads/2024/12/Ontario-power.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Money",
-      "sourceUrl": "https://globalnews.ca/news/12089863/atco-emera-canadian-utilities-merger/"
+      "category": "Local",
+      "headline": "Stelco begins issuing layoff notices as first job cuts set to take effect Sunday",
+      "summary": "Stelco Holdings Inc. has started handing out layoff notices at its Hamilton, Ont., steel plant, the first in a wave of job cuts expected to unfold over three weeks.",
+      "whyItMatters": "As a major regional steel producer, cutbacks at Stelco ripple through regional supply chains, impacting the broader industrial base across the Hamilton and Niagara corridor.",
+      "explainMore": "Stelco Holdings Inc. has initiated the distribution of layoff notices at its steel manufacturing facility in Hamilton, marking the beginning of a phased reduction in workforce. The cuts are scheduled to unfold over a three-week period starting Sunday.\n\nThis localized retrenchment serves as a stark reminder of the pressures facing domestic industrial and metal sectors. Regional supply chains and downstream manufacturing partners in the Golden Horseshoe will need to monitor how these production adjustments affect regional material availability.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-e1791486952734.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12093133/stelco-job-cuts/"
+    },
+    {
+      "category": "Canada",
+      "headline": "Canada lost 68K jobs in September, Statistics Canada says",
+      "summary": "The unemployment rate ticked up slightly to 6.5 per cent from 6.4 per cent from August to September, data from Statistics Canada showed on Friday.",
+      "whyItMatters": "A softening national labor market and rising unemployment signal broader economic cooling that influences monetary policy and consumer confidence.",
+      "explainMore": "Statistics Canada reported that the national economy lost 68,000 jobs in September, pushing the unemployment rate up to 6.5 per cent compared to 6.4 per cent the previous month. \n\nThis contraction highlights softening labor demand across several key sectors. Economists and market participants are closely watching these employment metrics for signals on future central bank rate paths and economic resilience.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Jobs-September-2026.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12094093/canada-jobs-september-2026/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.40%",
+        "value": "▲ 0.27%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.55%",
-        "positive": true
+        "value": "▼ 0.42%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.64%",
+        "value": "▲ 2.55%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7015",
+        "value": "0.7006",
         "positive": null
       }
     ],
-    "insight": "Markets trended positively with moderate gains across major indices, while oil advanced toward $144.91 and the Canadian dollar held at 0.7015 against the US greenback."
+    "insight": "Oil climbed 2.55% to $147.58, while the TSX posted modest gains of 0.27% to 52.33. The Canadian dollar holds at 0.7006 against the greenback amid shifting macroeconomic conditions."
   },
   "yourMoney": {
-    "headline": "Rents in Canada fall for 24 consecutive months as housing pressures persist",
-    "summary": "The average asking rent for residential properties in Canada dropped to $2,034 in September, marking a 4.2 percent decline compared to the previous year.",
-    "whyItMatters": "A shifting rental market reflects broader housing affordability trends that influence variable-rate mortgage holders and long-term real estate valuations.",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12091033/rent-canada-falling-24-months/"
+    "headline": "Bank of Canada Emphasizes Demographic and Housing Realities",
+    "summary": "With a 5-year variable mortgage, monitoring Bank of Canada commentary on structural demographic shifts and housing affordability remains critical for rate expectations.",
+    "whyItMatters": "Shifting population growth rates and ongoing housing affordability challenges influence the trajectory of monetary policy and variable borrowing costs.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
   },
   "manufacturing": {
-    "headline": "Canada and Ontario invest $2 million to protect and modernize the agri-food sector",
-    "summary": "Governments are deploying funds across Ontario through the Food Safety and Growth Initiative to equip small businesses with tools, technologies, and enhanced safety measures.",
-    "whyItMatters": "Targeted technology adoption funds support local supply chain resilience and manufacturing modernization across Ontario.",
+    "headline": "Federal Support Boosts Sarnia Manufacturing and Defense Supply Chains",
+    "summary": "FedDev Ontario is investing nearly $5 million to support growth, productivity, and advanced manufacturing capabilities at regional businesses in Sarnia.",
+    "whyItMatters": "Direct federal investments in southern Ontario industrial competitiveness help strengthen domestic manufacturing and supply chain resilience.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/canada-and-ontario-investing-2-million-to-protect-the-provinces-agri-food-industry.html",
-    "engineeringHeadline": "Standing Committee on Industry and Technology active on industrial trade",
-    "engineeringSummary": "Parliamentary committees continue reviewing federal industrial frameworks and manufacturing competitiveness as trade dynamics evolve."
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-supports-growth-and-competitiveness-of-two-businesses-in-sarnia.html",
+    "engineeringHeadline": "Advancing Automation and AI Integration in Ontario Industry",
+    "engineeringSummary": "Federal funding announcements in London and Sarnia highlight ongoing government backing for artificial intelligence and advanced manufacturing technology to boost industrial productivity."
   },
   "world": {
-    "headline": "Israel marks solemn anniversary of Oct. 7 attacks as regional conflicts persist",
-    "summary": "Families in Israel gathered at memorial sites and bomb shelters to mourn the victims of the Oct. 7 attacks, three years after the outbreak of the ongoing conflict.",
-    "whyItMatters": "Ongoing geopolitical instability in the Middle East continues to exert influence over global energy markets and international trade routes.",
+    "headline": "U.S. President States No Military Strikes on Iran Before Midterm Elections",
+    "summary": "President Trump stated that the U.S. will not undertake military strikes against Iran prior to the November 3rd U.S. midterms.",
+    "whyItMatters": "Geopolitical stability in the Middle East directly influences global energy markets, oil pricing, and international supply chain risk.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12090907/oct-7-attacks-war-israel-gaza-anniversary/"
+    "sourceUrl": "https://globalnews.ca/news/12092828/u-s-wont-resume-strikes-on-iran-before-midterms-trump/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing developments regarding the $80M Lotto Max jackpot ahead of the Thanksgiving holiday draw."
+      "text": "Stelco's phased job cuts in Hamilton begin unfolding over a three-week period starting Sunday."
     },
     {
-      "label": "March 2027",
-      "text": "Keep watch on federal regulatory timelines as the current exclusion regarding medical assistance in dying for mental illness approaches its expiration date."
+      "label": "November 3, 2026",
+      "text": "U.S. Midterm Elections take place, a milestone cited in geopolitical scheduling."
+    },
+    {
+      "label": "2027",
+      "text": "Official decisions regarding potential high-speed rail stops, including Kingston, are expected to arrive."
     }
   ]
 }
