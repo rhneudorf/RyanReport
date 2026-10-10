@@ -1,102 +1,88 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "morningSnapshot": {
-    "headline": "Economy Reshaped by Demographics; Stelco Begins Layoffs in Hamilton",
-    "summary": "Good morning, Ryan. The Bank of Canada highlights structural economic shifts from aging populations and slowing immigration, while local manufacturing faces headwinds as Stelco starts layoffs in Hamilton."
+    "headline": "Morning Report for Ryan: Markets Post Gains, FedDev Ontario Backs Advanced Manufacturing, and Demographic Shifts Reshape the Economy",
+    "summary": "Good morning, Ryan. Equity markets are climbing with the TSX up 1.43% and the S&P 500 rising 0.59%. Federal investments are targeting advanced manufacturing and artificial intelligence in Southern Ontario, while Bank of Canada insights highlight how demographic changes and housing affordability pressures continue to alter the economic landscape."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Ottawa / National",
-    "headline": "Bank of Canada says aging population, low immigration ‘reshaping’ economy",
-    "summary": "In 2025, Canada’s population growth slowed to 0.5 per cent — the slowest rate of growth in more than a century after 150 years of steady growth.",
-    "whyItMatters": "Shifting demographics and a shrinking workforce directly impact domestic demand, labor availability, and long-term economic planning for Ontario industries.",
-    "explainMore": "The Bank of Canada points out that an older population and lower immigration are fundamentally changing the economic landscape by shrinking the workforce and shifting consumption patterns. After a century and a half of consistent expansion, population growth cooled dramatically to 0.5 per cent in 2025.\n\nFor industrial sectors reliant on a steady labor supply and stable domestic markets, these demographic headwinds require careful strategic adjustment. Lower immigration and an aging populace create persistent structural pressures on productivity and workforce planning.\n\nPolicymakers and businesses alike are being forced to adapt to a slower-growth baseline. Understanding these macroeconomic shifts is essential for navigating long-term capital allocation and operational scaling.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Bank-of-Canada-ageing.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12097260/aging-population-lower-immigration-reshaping-economy/"
+    "category": "Manufacturing & Trade",
+    "location": "Sarnia, Ontario",
+    "headline": "Government of Canada supports growth and competitiveness of two businesses in Sarnia",
+    "summary": "FedDev Ontario has invested nearly $5 million to help local companies advance innovative technology, boost productivity, and expand opportunities in the defence and advanced manufacturing sectors.",
+    "whyItMatters": "As a mechanical engineer working in Ontario hydraulic cylinder manufacturing, regional investments in advanced manufacturing, productivity tools, and supply chain competitiveness directly reflect the technological upgrades happening across the provincial industrial base.",
+    "explainMore": "Federal funding targeted at Southern Ontario industrial suppliers is designed to bolster regional supply chains and accelerate technological adoption. For manufacturing professionals, these injections typically materialize as facility modernizations, increased demand for precision engineering, and a push toward advanced automation.\n\nStrengthening local capacity in advanced manufacturing and defence sectors underscores Ottawa's focus on building domestic industrial resilience. This aligns closely with broader regional efforts to support high-productivity operations across Ontario's manufacturing heartland.",
+    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-supports-growth-and-competitiveness-of-two-businesses-in-sarnia.html"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Stelco begins issuing layoff notices as first job cuts set to take effect Sunday",
-      "summary": "Stelco Holdings Inc. has started handing out layoff notices at its Hamilton, Ont., steel plant, the first in a wave of job cuts expected to unfold over three weeks.",
-      "whyItMatters": "As a major regional steel producer, cutbacks at Stelco ripple through regional supply chains, impacting the broader industrial base across the Hamilton and Niagara corridor.",
-      "explainMore": "Stelco Holdings Inc. has initiated the distribution of layoff notices at its steel manufacturing facility in Hamilton, marking the beginning of a phased reduction in workforce. The cuts are scheduled to unfold over a three-week period starting Sunday.\n\nThis localized retrenchment serves as a stark reminder of the pressures facing domestic industrial and metal sectors. Regional supply chains and downstream manufacturing partners in the Golden Horseshoe will need to monitor how these production adjustments affect regional material availability.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-e1791486952734.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Ontario police service using AI in hiring, training 911 call takers",
+      "summary": "Halton police announced that an American firm is providing AI simulation technology to train 911 applicants in decision-making, communication, and crisis management.",
+      "whyItMatters": "Highlights practical applications of artificial intelligence and simulation software within regional institutions close to your home area.",
+      "explainMore": "The integration of simulation tools into emergency response training demonstrates how artificial intelligence is being deployed for operational readiness and staff development.\n\nBy leveraging software to simulate high-pressure communication scenarios, organizations can systematically evaluate and improve candidate capabilities before deploying them into critical operational environments.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Halton-police-e1791577732881.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12093133/stelco-job-cuts/"
-    },
-    {
-      "category": "Canada",
-      "headline": "Canada lost 68K jobs in September, Statistics Canada says",
-      "summary": "The unemployment rate ticked up slightly to 6.5 per cent from 6.4 per cent from August to September, data from Statistics Canada showed on Friday.",
-      "whyItMatters": "A softening national labor market and rising unemployment signal broader economic cooling that influences monetary policy and consumer confidence.",
-      "explainMore": "Statistics Canada reported that the national economy lost 68,000 jobs in September, pushing the unemployment rate up to 6.5 per cent compared to 6.4 per cent the previous month. \n\nThis contraction highlights softening labor demand across several key sectors. Economists and market participants are closely watching these employment metrics for signals on future central bank rate paths and economic resilience.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Jobs-September-2026.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12094093/canada-jobs-september-2026/"
+      "sourceUrl": "https://globalnews.ca/news/12097761/halton-police-911-ai/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.27%",
+        "value": "▲ 1.43%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.42%",
-        "positive": false
+        "value": "▲ 0.60%",
+        "positive": true
       },
       {
         "name": "Oil",
-        "value": "▲ 2.55%",
+        "value": "▲ 0.42%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7006",
+        "value": "0.7016",
         "positive": null
       }
     ],
-    "insight": "Oil climbed 2.55% to $147.58, while the TSX posted modest gains of 0.27% to 52.33. The Canadian dollar holds at 0.7006 against the greenback amid shifting macroeconomic conditions."
+    "insight": "Equities moved higher across North America, with the TSX gaining 1.43% and the S&P 500 up 0.59%. Oil prices edged up to 148.2, while the Canadian dollar traded at 0.7016 against the US greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Emphasizes Demographic and Housing Realities",
-    "summary": "With a 5-year variable mortgage, monitoring Bank of Canada commentary on structural demographic shifts and housing affordability remains critical for rate expectations.",
-    "whyItMatters": "Shifting population growth rates and ongoing housing affordability challenges influence the trajectory of monetary policy and variable borrowing costs.",
+    "headline": "Demographic changes and housing affordability reshape the Canadian economy",
+    "summary": "Recent Bank of Canada releases emphasize that an aging population and shifting migration patterns are shrinking the workforce, altering consumption, and compounding structural housing challenges.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, tracking broader economic shifts, monetary policy commentary, and housing affordability updates from the Bank of Canada is vital for anticipating interest rate trajectories.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
   },
   "manufacturing": {
-    "headline": "Federal Support Boosts Sarnia Manufacturing and Defense Supply Chains",
-    "summary": "FedDev Ontario is investing nearly $5 million to support growth, productivity, and advanced manufacturing capabilities at regional businesses in Sarnia.",
-    "whyItMatters": "Direct federal investments in southern Ontario industrial competitiveness help strengthen domestic manufacturing and supply chain resilience.",
+    "headline": "Federal Support Bolsters Advanced Manufacturing and Industrial Productivity in Ontario",
+    "summary": "FedDev Ontario's nearly $5 million investment in Sarnia businesses highlights a continuing federal push to strengthen supply chains and technological capacity in the provincial manufacturing sector.",
+    "whyItMatters": "Directly impacts the competitive environment for Ontario component suppliers, automation integrators, and industrial manufacturing facilities.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-supports-growth-and-competitiveness-of-two-businesses-in-sarnia.html",
-    "engineeringHeadline": "Advancing Automation and AI Integration in Ontario Industry",
-    "engineeringSummary": "Federal funding announcements in London and Sarnia highlight ongoing government backing for artificial intelligence and advanced manufacturing technology to boost industrial productivity."
+    "engineeringHeadline": "Artificial Intelligence and Simulation Tech Expand in Ontario Operations",
+    "engineeringSummary": "Regional announcements point to expanding federal and institutional backing for artificial intelligence and advanced operational tools across Southern Ontario, supporting high-tech integration in manufacturing and public infrastructure."
   },
   "world": {
-    "headline": "U.S. President States No Military Strikes on Iran Before Midterm Elections",
-    "summary": "President Trump stated that the U.S. will not undertake military strikes against Iran prior to the November 3rd U.S. midterms.",
-    "whyItMatters": "Geopolitical stability in the Middle East directly influences global energy markets, oil pricing, and international supply chain risk.",
+    "headline": "Trump Says Russia Will Supply 300K Tons of Diesel Despite Global Sanctions",
+    "summary": "U.S. President Donald Trump stated that Russia is set to supply an initial 300,000 tons of diesel fuel, with plans for up to 3 million tons following refinery assessments, despite existing international sanctions.",
+    "whyItMatters": "Shifts in global energy supply agreements and sanctions enforcement have direct implications for international petroleum markets and industrial energy costs.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12092828/u-s-wont-resume-strikes-on-iran-before-midterms-trump/"
+    "sourceUrl": "https://globalnews.ca/news/12097610/russia-diesel-trump-putin/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Stelco's phased job cuts in Hamilton begin unfolding over a three-week period starting Sunday."
+      "text": "Monitor ongoing developments regarding federal funding announcements for artificial intelligence and advanced manufacturing in Southern Ontario."
     },
     {
-      "label": "November 3, 2026",
-      "text": "U.S. Midterm Elections take place, a milestone cited in geopolitical scheduling."
-    },
-    {
-      "label": "2027",
-      "text": "Official decisions regarding potential high-speed rail stops, including Kingston, are expected to arrive."
+      "label": "Ongoing",
+      "text": "Track Bank of Canada economic commentary concerning labor force trends, demographic shifts, and monetary policy impacts on variable-rate mortgages and housing markets."
     }
   ]
 }
