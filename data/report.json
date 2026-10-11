@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "morningSnapshot": {
-    "headline": "Morning Report for Ryan: Markets Post Gains, FedDev Ontario Backs Advanced Manufacturing, and Demographic Shifts Reshape the Economy",
-    "summary": "Good morning, Ryan. Equity markets are climbing with the TSX up 1.43% and the S&P 500 rising 0.59%. Federal investments are targeting advanced manufacturing and artificial intelligence in Southern Ontario, while Bank of Canada insights highlight how demographic changes and housing affordability pressures continue to alter the economic landscape."
+    "headline": "Trade Pressures Ratchet Up Operating Costs; Bank of Canada Highlights Demographic Shifts and Housing Pressures",
+    "summary": "Good morning, Ryan. As operating costs climb across Ontario's agricultural and industrial supply chains, the Bank of Canada underscores structural shifts in housing affordability and demographics that directly impact your long-term variable mortgage and financial planning."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Sarnia, Ontario",
-    "headline": "Government of Canada supports growth and competitiveness of two businesses in Sarnia",
-    "summary": "FedDev Ontario has invested nearly $5 million to help local companies advance innovative technology, boost productivity, and expand opportunities in the defence and advanced manufacturing sectors.",
-    "whyItMatters": "As a mechanical engineer working in Ontario hydraulic cylinder manufacturing, regional investments in advanced manufacturing, productivity tools, and supply chain competitiveness directly reflect the technological upgrades happening across the provincial industrial base.",
-    "explainMore": "Federal funding targeted at Southern Ontario industrial suppliers is designed to bolster regional supply chains and accelerate technological adoption. For manufacturing professionals, these injections typically materialize as facility modernizations, increased demand for precision engineering, and a push toward advanced automation.\n\nStrengthening local capacity in advanced manufacturing and defence sectors underscores Ottawa's focus on building domestic industrial resilience. This aligns closely with broader regional efforts to support high-productivity operations across Ontario's manufacturing heartland.",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-supports-growth-and-competitiveness-of-two-businesses-in-sarnia.html"
+    "category": "Local",
+    "location": "Hamilton / Niagara Region",
+    "headline": "High costs haunt Canadian ornamental pumpkin farm",
+    "summary": "Agricultural producers in the region report that while direct tariffs are not the primary issue, compounding trade issues are ratcheting up operating costs across the board.",
+    "whyItMatters": "For anyone embedded in Ontario's manufacturing and regional supply networks, rising input and operational costs highlight the pervasive nature of current supply chain friction.",
+    "explainMore": "As noted by farm co-owner Patrick Butters, escalating expenses are affecting local businesses despite not being directly targeted by tariffs. Trade friction continues to amplify costs across regional sectors.\n\nLocal producers are forced to navigate tighter margins as broader economic pressures filter down into day-to-day operations across Southern Ontario. Monitoring these cost vectors remains essential for regional supply chain participants.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/8d4243f3c01d1a1f560a6c83a46d92839f9ac4e4f6dbd6743b8fadf97ecd6007.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12099001/high-costs-haunt-canadian-ornamental-pumpkin-farm/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Ontario police service using AI in hiring, training 911 call takers",
-      "summary": "Halton police announced that an American firm is providing AI simulation technology to train 911 applicants in decision-making, communication, and crisis management.",
-      "whyItMatters": "Highlights practical applications of artificial intelligence and simulation software within regional institutions close to your home area.",
-      "explainMore": "The integration of simulation tools into emergency response training demonstrates how artificial intelligence is being deployed for operational readiness and staff development.\n\nBy leveraging software to simulate high-pressure communication scenarios, organizations can systematically evaluate and improve candidate capabilities before deploying them into critical operational environments.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Halton-police-e1791577732881.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12097761/halton-police-911-ai/"
+      "category": "Canada",
+      "headline": "Envoy says France admires Carney’s U.S. stance",
+      "summary": "France's new ambassador to Canada praises the government's response to extremely radical American trade and economic demands.",
+      "whyItMatters": "Geopolitical posture regarding U.S. trade relations directly influences the broader industrial climate and cross-border commercial stability.",
+      "explainMore": "France has expressed strong diplomatic support for Canada's approach to handling intense trade negotiations and demands from the United States.\n\nThis high-level alignment highlights the ongoing sensitivities surrounding Canada-US economic relations and national industrial strategy.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/b5cd364d4b11181d729f34da53ae08bea35450bd2f74d0b94eda7ce54d4ad767.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - National",
+      "sourceUrl": "https://globalnews.ca/news/12098999/envoy-says-france-admires-carneys-u-s-stance/"
     }
   ],
   "markets": {
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7016",
+        "value": "0.7018",
         "positive": null
       }
     ],
-    "insight": "Equities moved higher across North America, with the TSX gaining 1.43% and the S&P 500 up 0.59%. Oil prices edged up to 148.2, while the Canadian dollar traded at 0.7016 against the US greenback."
+    "insight": "Equities showed positive momentum with the TSX up 1.43% to 53.08 and the S&P 500 advancing 0.60%. Oil ticked higher to 148.2, while the Canadian dollar settled at 0.7018 against the USD."
   },
   "yourMoney": {
-    "headline": "Demographic changes and housing affordability reshape the Canadian economy",
-    "summary": "Recent Bank of Canada releases emphasize that an aging population and shifting migration patterns are shrinking the workforce, altering consumption, and compounding structural housing challenges.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, tracking broader economic shifts, monetary policy commentary, and housing affordability updates from the Bank of Canada is vital for anticipating interest rate trajectories.",
+    "headline": "Bank of Canada addresses long-term demographic shifts and housing affordability dilemma",
+    "summary": "Recent Bank of Canada insights examine how an aging population and structural housing challenges continue to reshape the economic landscape and consumer demand.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, keeping a close eye on structural economic updates from the Bank of Canada provides crucial context for future interest rate trajectories and financial planning.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
   },
   "manufacturing": {
-    "headline": "Federal Support Bolsters Advanced Manufacturing and Industrial Productivity in Ontario",
-    "summary": "FedDev Ontario's nearly $5 million investment in Sarnia businesses highlights a continuing federal push to strengthen supply chains and technological capacity in the provincial manufacturing sector.",
-    "whyItMatters": "Directly impacts the competitive environment for Ontario component suppliers, automation integrators, and industrial manufacturing facilities.",
+    "headline": "FedDev Ontario invests nearly $5M to boost productivity and innovative technology in Southern Ontario businesses",
+    "summary": "Federal investments in Southern Ontario's industrial corridor aim to advance technology adoption and expand operational competitiveness.",
+    "whyItMatters": "Direct support for regional commercial capabilities reinforces the local manufacturing ecosystem relevant to industrial automation and supply chain resilience.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-supports-growth-and-competitiveness-of-two-businesses-in-sarnia.html",
-    "engineeringHeadline": "Artificial Intelligence and Simulation Tech Expand in Ontario Operations",
-    "engineeringSummary": "Regional announcements point to expanding federal and institutional backing for artificial intelligence and advanced operational tools across Southern Ontario, supporting high-tech integration in manufacturing and public infrastructure."
+    "engineeringHeadline": "Halton police adopt AI simulation technology for emergency call taker training",
+    "engineeringSummary": "Local emergency services are integrating American artificial intelligence tools to simulate high-stress crisis scenarios, enhancing decision-making and communication training protocols."
   },
   "world": {
-    "headline": "Trump Says Russia Will Supply 300K Tons of Diesel Despite Global Sanctions",
-    "summary": "U.S. President Donald Trump stated that Russia is set to supply an initial 300,000 tons of diesel fuel, with plans for up to 3 million tons following refinery assessments, despite existing international sanctions.",
-    "whyItMatters": "Shifts in global energy supply agreements and sanctions enforcement have direct implications for international petroleum markets and industrial energy costs.",
+    "headline": "Saudi Arabia extends airport closure and shifts Riyadh schools online amid ongoing regional security threats",
+    "summary": "Major aviation hubs and educational infrastructure face continued disruptions following attacks linked to Houthi regional escalations.",
+    "whyItMatters": "Geopolitical volatility in energy-producing regions directly impacts global energy markets, oil pricing stability, and international supply chains.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12097610/russia-diesel-trump-putin/"
+    "sourceUrl": "https://globalnews.ca/news/12099013/saudi-arabia-airport-closure-riyadh-schools-attack-threats/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing developments regarding federal funding announcements for artificial intelligence and advanced manufacturing in Southern Ontario."
+      "text": "Monitor ongoing Bank of Canada economic commentary and regional manufacturing development announcements across Southern Ontario."
     },
     {
-      "label": "Ongoing",
-      "text": "Track Bank of Canada economic commentary concerning labor force trends, demographic shifts, and monetary policy impacts on variable-rate mortgages and housing markets."
+      "label": "October 19, 2026",
+      "text": "Alberta referendum and voting polling stations open across the province."
     }
   ]
 }
