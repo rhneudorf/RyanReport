@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "morningSnapshot": {
-    "headline": "Stelco pushes back on Ottawa, markets edge higher, and energy strikes persist in Ukraine",
-    "summary": "Good morning, Ryan. Here is your concise Beamsville briefing for Monday, October 12, 2026. Stelco denies breaching agreements over layoffs amid legal threats from Ottawa, markets climb with the TSX up 1.43%, and global energy developments remain in focus."
+    "headline": "Markets Shift on Stronger Oil and TSX Gains as Regional Manufacturing Focuses on AI and Trade Pressures",
+    "summary": "Good morning, Ryan. Equities see movement with the TSX up 1.43% alongside climbing oil prices, while regional manufacturing leaders look to AI expansion initiatives and trade resilience across Ontario and the broader Canadian economy."
   },
   "topStory": {
     "category": "Local",
     "location": "Hamilton / Ontario",
     "headline": "Stelco pushes back on Ottawa amid threats of legal action over layoffs",
-    "summary": "Stelco has reportedly pushed back on accusations it breached its agreement with the federal government, calling the claims \"false\" and stating it \"stands ready to protect its interests.\"",
-    "whyItMatters": "As an engineer in Ontario's manufacturing sector, local steel dynamics and regional industrial relations directly impact supply chains, input costs, and the broader manufacturing ecosystem across the Niagara and Hamilton regions.",
-    "explainMore": "Stelco's defense comes in response to accusations from Ottawa regarding potential breaches of agreements tied to workforce reductions and layoffs.\n\nThe company has strongly rejected these claims, maintaining that its actions are justified and signaling its readiness to defend its position through legal means if necessary.\n\nThis dispute highlights ongoing tensions between federal industrial policy and major domestic steel producers, a critical sector for regional manufacturing inputs.",
+    "summary": "Stelco has pushed back against accusations from the federal government that it breached its agreement regarding recent layoffs, stating the claims are false and that it stands ready to protect its interests.",
+    "whyItMatters": "As a cornerstone of the regional industrial supply chain in Southern Ontario, developments surrounding steel manufacturing stability, regulatory compliance, and employment directly impact local supply networks and macro industrial health.",
+    "explainMore": "The ongoing dispute between federal authorities and Stelco highlights the delicate operational environment facing domestic steel producers. With Ottawa threatening legal action over employment levels tied to previous agreements, steel management has firmly defended its position, asserting that accusations of contract breaches are unfounded.\n\nFor industrial sectors across the Niagara Region and Hamilton, steel availability and pricing remain vital inputs. Any prolonged friction between major producers and federal regulators carries potential ripple effects for downstream manufacturing operations.\n\nManagement has reiterated its commitment to defending corporate interests as the standoff continues, making this a key situation to monitor for anyone tied to Ontario's heavy industrial and manufacturing ecosystem.",
     "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP174133489-e1791830683109.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
     "sourceUrl": "https://globalnews.ca/news/12099764/stelco-denies-wrongdoing-layoffs/"
@@ -18,13 +18,13 @@
   "stories": [
     {
       "category": "Canada",
-      "headline": "Zelenskyy says Russia hit energy facilities despite Trump’s ceasefire claim",
-      "summary": "Ukrainian President Volodymyr Zelenskyy reported that Russia has continued to strike Ukraine's energy facilities despite a U.S. President claiming an agreed ceasefire.",
-      "whyItMatters": "Geopolitical shocks and ongoing disruptions to international energy infrastructure continue to influence global commodity markets, energy costs, and broader economic stability for long-term investors.",
-      "explainMore": "Despite prior announcements from Washington regarding a proposed energy ceasefire between Ukraine and Russia, Ukrainian leadership confirmed that attacks on critical energy infrastructure have persisted.\n\nThis discrepancy underscores the volatility of international conflict zones and their direct transmission into global energy markets and supply reliability.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Ukraine-Russia-Strikes-e1791814202188.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - National",
-      "sourceUrl": "https://globalnews.ca/news/12099634/zelenskyy-russia-energy-strikes/"
+      "headline": "New Brunswick gets $219 million loan from Ottawa for hydroelectric dam repair work",
+      "summary": "The Canada Infrastructure Bank has issued a $219-million loan to extend the operating life of New Brunswick's largest hydroelectric dam.",
+      "whyItMatters": "Grid reliability and large-scale infrastructure investments underpin long-term industrial power stability and regional utility cost trends across Canada.",
+      "explainMore": "The federal funding commitment delivered via the Canada Infrastructure Bank is structured to secure the long-term viability of critical provincial clean energy assets.\n\nBy targeting the life-extension of major hydroelectric installations, utilities can better manage baseload capacity, providing a steady baseline for regional power consumers and industrial users alike.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/8b7aece1384e07a5f249ca604f9c6ea645fee0b5db4478659efc0ee970b0cc8c.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12100740/new-brunswick-loan-hydroelectric-dam-repair/"
     }
   ],
   "markets": {
@@ -36,53 +36,53 @@
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.60%",
-        "positive": true
+        "value": "▼ 0.06%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.42%",
+        "value": "▲ 1.91%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7001",
+        "value": "0.7037",
         "positive": null
       }
     ],
-    "insight": "Equity markets opened the week positively, with the TSX gaining 1.43% to 53.08 and the S&P 500 rising 0.60%. Oil ticked up 0.42% to 148.2, while the Canadian dollar held steady at 0.7001 USD."
+    "insight": "The TSX advanced 1.43% supported by energy strength as oil climbed 1.91% to 151.03, while the Canadian dollar held at 0.7037 against the US greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada examines demographic shifts and housing affordability dilemma",
-    "summary": "Recent Bank of Canada insights highlight how an aging population and structural housing challenges continue to reshape the domestic economic landscape.",
-    "whyItMatters": "For a homeowner with a 5-year variable mortgage, keeping a close eye on macroeconomic trends, labor force shifts, and central bank commentary remains essential for managing borrowing costs and long-term financial planning.",
+    "headline": "Demographic shifts continue to reshape the Canadian economy and workforce",
+    "summary": "Recent Bank of Canada insights highlight how an aging population and changing demographics are actively shrinking the domestic labor pool and shifting consumer demand patterns.",
+    "whyItMatters": "Shifts in workforce demographics directly impact labor availability for manufacturing operations, wage pressures, and long-term economic growth trajectories relevant to variable-rate mortgage holders and long-term investors.",
     "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/"
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
   },
   "manufacturing": {
-    "headline": "Trade pressures and input costs impact regional operations",
-    "summary": "While local agricultural and industrial producers note that direct tariff impacts vary, broader trade friction continues to elevate operational costs across the board.",
-    "whyItMatters": "As an engineer in the hydraulic cylinder sector, rising overhead, material costs, and supply chain frictions directly influence manufacturing efficiency and competitiveness.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12099001/high-costs-haunt-canadian-ornamental-pumpkin-farm/",
-    "engineeringHeadline": "Advanced AI tumour modelling highlights precision engineering principles",
-    "engineeringSummary": "Researchers at the University Health Network in Toronto are leveraging advanced AI models to create precise 3D visual representations of tumors, underscoring the expanding cross-industry applications of complex data modeling and automation."
+    "headline": "Federal government expands support to adopt and commercialize artificial intelligence",
+    "summary": "An additional $500 million is being deployed through the expanded Regional Artificial Intelligence Initiative to boost AI adoption and bring Canadian-made automation and tech solutions to market.",
+    "whyItMatters": "For advanced manufacturing, robotics, and industrial technology sectors, federal funding programs offer critical capital pathways to accelerate plant automation, robotic welding integrations, and digital shop-floor efficiencies.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-expands-support-to-adopt-and-commercialize-artificial-intelligence.html",
+    "engineeringHeadline": "AI Security Partnerships Renewed to Protect Advanced Industrial Frameworks",
+    "engineeringSummary": "Canada and the United Kingdom have officially renewed their bilateral partnership on artificial intelligence security during ministerial talks in London, emphasizing secure deployment frameworks for advanced computational systems in engineering and industrial operations."
   },
   "world": {
-    "headline": "Canada advises against travel to Riyadh airport following Houthi attacks",
-    "summary": "Global Affairs Canada and Ambassador Jean-Philippe Linteau issued travel warnings following repeated projectile strikes on passenger terminals at the international airport in Riyadh.",
-    "whyItMatters": "Heightened security risks in the Middle East serve as a reminder of potential disruptions to international logistics, aviation safety, and global supply chains.",
+    "headline": "Nobel Memorial Prize awarded to economists for shock management research",
+    "summary": "American economists Robert E. Hall and Michael Woodford have been awarded the 2026 Nobel Memorial Prize in Economic Sciences for their pioneering work on how economies manage and respond to major macroeconomic shocks.",
+    "whyItMatters": "Understanding systemic shock management offers valuable theoretical framing for navigating global inflation cycles, supply chain disruptions, and monetary policy adjustments.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12099268/canada-advises-no-travel-to-riyadh-airport/"
+    "sourceUrl": "https://globalnews.ca/news/12099614/nobel-prize-economics-2026/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Russell Brand trial proceedings continue at Southwark Crown Court following jury selection."
+      "label": "This Week",
+      "text": "Monitor ongoing legal and regulatory developments regarding domestic steel production and labor agreements involving Stelco."
     },
     {
-      "label": "This Week",
-      "text": "Pope Leo XIV is scheduled to undergo surgery to remove a localized nodule in his lung."
+      "label": "Ongoing",
+      "text": "Track regional manufacturing applications and funding announcements stemming from the expanded Regional Artificial Intelligence Initiative."
     }
   ]
 }
