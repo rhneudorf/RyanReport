@@ -1,88 +1,92 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "morningSnapshot": {
-    "headline": "Markets Pull Back Amid Global Economic Pressures and Rising Bond Yields",
-    "summary": "Good morning, Ryan. Equity markets are down with the TSX slipping 0.86% to 53.3 and the S&P 500 dropping 1.08% to 769.6. Crude oil climbs to $153.56 while CAD holds at 0.7046 against the USD. The IMF warns of major economic risks tied to a disorderly rise in bond yields, and regional energy infrastructure faces continued disruptions."
+    "headline": "Stelco negotiations remain under review amid impending layoffs, while foreign investment shifts draw attention.",
+    "summary": "Good morning, Ryan. Here is your concise morning brief focused on manufacturing, markets, and regional developments across Ontario and Canada."
   },
   "topStory": {
-    "category": "World",
-    "location": "Global",
-    "headline": "IMF warns about major economic risks and a ‘disorderly’ rise in bond yields",
-    "summary": "Rising bond yields have become a warning sign for financial markets amid global economic pressures, with the International Monetary Fund raising serious concerns over potential economic risks.",
-    "whyItMatters": "As a long-term investor with a 5-year variable mortgage, monitoring global debt markets and bond yields is critical for anticipating interest rate trajectories and economic stability.",
-    "explainMore": "Rising bond yields serve as a key warning sign for financial markets, particularly amid ongoing geopolitical conflicts impacting global economies. The International Monetary Fund highlights that these mounting bond yield pressures pose significant economic risks.\n\nFor investors and homeowners alike, shifts in global bond markets influence borrowing costs, debt servicing, and broader macroeconomic conditions. Keeping an eye on these indicators helps map out long-term financial resilience against volatile global backdrops.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP177054493-e1791918631290.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12100790/imf-bond-yields-economic-risk/"
+    "category": "Local",
+    "location": "Hamilton, Ontario",
+    "headline": "Stelco negotiations still on the table, Joly says amid layoffs",
+    "summary": "Federal Minister Mélanie Joly stated that negotiations with Stelco remain on the table as officials review a response letter regarding looming layoffs following an ultimatum.",
+    "whyItMatters": "As an engineer in Ontario's manufacturing sector, shifts in the steel industry directly impact raw material supply chains, regional industrial health, and local industrial suppliers.",
+    "explainMore": "The ongoing discussions follow a letter exchange that included a five-day deadline given to Stelco by Minister Joly. \n\nWith layoffs looming, local stakeholders and federal officials are evaluating the path forward for one of the region's core industrial employers. \n\nKeeping a close eye on steel production and supply stability is vital for regional machining and heavy equipment operations.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-2-e1792095044204.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12103896/stelco-layoffs-looming-joly/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Over $135 million invested through NRC IRAP Defence Industry Assist to help Canadian businesses develop defence and dual-use technologies",
-      "summary": "The National Research Council of Canada Industrial Research Assistance Program has invested over $135 million to help Canadian businesses advance defence and dual-use technologies.",
-      "whyItMatters": "Directly impacts Canadian industrial innovation, high-tech manufacturing growth, and technological competitiveness in the engineering and automation sectors.",
-      "explainMore": "Announced by Minister Mélanie Joly, the over $135 million investment through the NRC IRAP Defence Industry Assist (DI Assist) program supports Canadian businesses developing advanced defence and dual-use tech.\n\nThis funding bolsters high-tech manufacturing, R&D capabilities, and domestic supply chain resilience, creating opportunities for technological integration across industrial engineering fields.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/national-research-council/news/2026/10/over-135-million-invested-through-nrc-irap-to-help-canadian-businesses-develop-defence-and-dual-use-technologies.html"
+      "category": "Canada",
+      "headline": "Waymo to launch robotaxis in Toronto under pilot program for self-driving vehicles",
+      "summary": "Self-driving taxi operator Waymo announced plans to launch a test phase in Toronto in the coming days, targeting passenger operations by 2028.",
+      "whyItMatters": "Highlights accelerating advancements in autonomous driving and commercial vehicle technology deployment within Ontario.",
+      "explainMore": "Waymo's upcoming test phase in Toronto marks a significant step for autonomous vehicle trials in Canada. While the initial timeline points to passenger services by 2028, the testing phase will provide valuable data for local infrastructure and autonomous software developers. \n\nFor engineering professionals tracking automation and sensor integration, observing the regulatory and technical frameworks used in this pilot offers useful context on commercializing autonomous tech in Canadian urban environments.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/20e7503d053d3f671a1ddaf7f81238c6b8d9a42bc0f6c6258b634cf4da3508b9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12105000/waymo-robotaxis-toronto/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.86%",
-        "positive": false
+        "value": "▲ 1.48%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▼ 1.08%",
-        "positive": false
+        "value": "▲ 0.28%",
+        "positive": true
       },
       {
         "name": "Oil",
-        "value": "▲ 0.31%",
+        "value": "▲ 2.44%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7046",
+        "value": "0.7074",
         "positive": null
       }
     ],
-    "insight": "Canadian equities faced downward pressure alongside U.S. markets. Crude oil remains elevated at $153.56 per barrel, fueling energy sector dynamics while the Canadian dollar trades at 0.7046 against the U.S. greenback."
+    "insight": "The TSX gained 1.48% to 54.09, and oil rose 2.44% to $157.31, while the Canadian dollar sits at 0.7074 against the USD."
   },
   "yourMoney": {
-    "headline": "Demographic shifts and workforce changes reshape the Canadian economy",
-    "summary": "Bank of Canada insights highlight how an aging population and changing demographics are shrinking the workforce and shifting consumer patterns.",
-    "whyItMatters": "Shifting demographics directly influence long-term economic growth, inflation trends, and interest rate paths that affect variable-rate mortgages and long-term investment portfolios.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
+    "headline": "Canadian investors ramp up foreign security acquisitions in August",
+    "summary": "Statistics Canada reported that Canadian investors acquired $23.9 billion of foreign securities in August, led by US share purchases, while foreign investors trimmed Canadian holdings by $17.3 billion.",
+    "whyItMatters": "As a long-term investor navigating shifting cross-border capital flows, tracking international acquisition trends helps inform portfolio diversification strategies.",
+    "source": "Statistics Canada - Economic Accounts",
+    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/261016/dq261016a-eng.htm"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario injects nearly $6.6 million into 10 Eastern Ontario organizations for modernization",
-    "summary": "Federal funding aims to modernize operations, boost competitiveness, and expand product and service offerings across regional businesses.",
-    "whyItMatters": "Strengthens the broader Ontario manufacturing and industrial supply ecosystem by fostering automation, innovation, and operational efficiency.",
+    "headline": "Federal investment backs new transformer insulation and pressboard manufacturing facility",
+    "summary": "The Government of Canada announced significant investments to strengthen supply chains, including support for Hitachi Energy’s new transformer insulation and pressboard manufacturing facility.",
+    "whyItMatters": "Directly supports domestic heavy industrial supply chains and manufacturing capacity expansion in electrical and industrial infrastructure.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/10/government-of-canada-to-support-business-growth-innovation-and-competitiveness-in-eastern-ontario.html",
-    "engineeringHeadline": "Advancing national priorities through $11.1 million in space technology and engineering funding",
-    "engineeringSummary": "Industry Minister Mélanie Joly announced $11.1 million for 16 innovative space projects led by 15 Canadian organizations, reinforcing advanced engineering and strategic national technology assets."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-significant-investment-to-strengthen-canadas-electricity-and-forest-products-supply-chains.html",
+    "engineeringHeadline": "Advancing national priorities through space and tech funding",
+    "engineeringSummary": "Industry Minister Mélanie Joly announced $11.1 million in funding for 16 innovative space projects across 15 Canadian organizations, reinforcing high-tech engineering capabilities."
   },
   "world": {
-    "headline": "Houthis strike Saudi oil company Aramco’s headquarters, damaging top executive offices",
-    "summary": "Attacks hit the top floors of a primary building used by senior executives at Saudi Aramco's headquarters, intensifying geopolitical energy risks.",
-    "whyItMatters": "Direct attacks on key global petroleum infrastructure reinforce upward volatility in global oil prices, which are currently trading at $153.56.",
+    "headline": "Houthis strike Saudi oil company Aramco's headquarters",
+    "summary": "Officials reported that a Houthi strike hit the headquarters of Saudi oil giant Aramco, damaging top executive floors including the office of the chief executive.",
+    "whyItMatters": "Geopolitical strikes on major global energy infrastructure directly influence international crude markets and pricing stability.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12102194/houthis-strike-saudi-aramco-headquarters/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing geopolitical developments in the Middle East and their sustained impact on global energy prices and bond markets."
+      "text": "Waymo's self-driving taxi test phase is set to begin in Toronto in the coming days."
     },
     {
-      "label": "Upcoming",
-      "text": "Keep track of international trade and agricultural policy discussions as federal ministers engage in G7 meetings and European outreach."
+      "label": "Monday",
+      "text": "Alberta's referendum on staying in Confederation or holding a binding separation vote takes place."
+    },
+    {
+      "label": "Later This Month",
+      "text": "Ontario municipal elections will feature active local debates regarding data center expansion and municipal resource demands."
     }
   ]
 }
