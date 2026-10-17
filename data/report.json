@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "morningSnapshot": {
-    "headline": "Stelco negotiations remain under review amid impending layoffs, while foreign investment shifts draw attention.",
-    "summary": "Good morning, Ryan. Here is your concise morning brief focused on manufacturing, markets, and regional developments across Ontario and Canada."
+    "headline": "Regional Industrial Pressure Mounts as Stelco Layoffs and Stellantis Strike Votes Unfold",
+    "summary": "As an Ontario manufacturing professional based in Beamsville, today's edition highlights crucial local developments impacting heavy industry and steel supply chains, alongside global energy shocks and shifting bond yields relevant to your 5-year variable mortgage."
   },
   "topStory": {
     "category": "Local",
-    "location": "Hamilton, Ontario",
-    "headline": "Stelco negotiations still on the table, Joly says amid layoffs",
-    "summary": "Federal Minister Mélanie Joly stated that negotiations with Stelco remain on the table as officials review a response letter regarding looming layoffs following an ultimatum.",
-    "whyItMatters": "As an engineer in Ontario's manufacturing sector, shifts in the steel industry directly impact raw material supply chains, regional industrial health, and local industrial suppliers.",
-    "explainMore": "The ongoing discussions follow a letter exchange that included a five-day deadline given to Stelco by Minister Joly. \n\nWith layoffs looming, local stakeholders and federal officials are evaluating the path forward for one of the region's core industrial employers. \n\nKeeping a close eye on steel production and supply stability is vital for regional machining and heavy equipment operations.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-2-e1792095044204.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "location": "Hamilton / Niagara Region",
+    "headline": "Stelco layoff legal challenge timeline is in ‘days,’ Joly says",
+    "summary": "Following notices given to approximately 90 workers last week and initial layoffs taking effect Sunday, federal officials indicate a legal challenge timeline is measured in days.",
+    "whyItMatters": "As an engineer in Ontario hydraulic cylinder manufacturing, any disruption to domestic steel supply chains, regional heavy industry employment, and local economic stability directly impacts the broader industrial ecosystem across Hamilton, Stoney Creek, and the Niagara Region.",
+    "explainMore": "Approximately 90 workers received notices last week at Stelco, with the first layoffs taking effect on Sunday, according to the president of United Steelworkers local 1005.\n\nFederal officials, including Minister Joly, have signalled that responses and potential legal challenge timelines regarding these layoffs will develop rapidly in the coming days as unions and local stakeholders push for government action.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-Joly-timeline.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12103896/stelco-layoffs-looming-joly/"
+    "sourceUrl": "https://globalnews.ca/news/12105452/stelco-legal-challenge-timeline/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Waymo to launch robotaxis in Toronto under pilot program for self-driving vehicles",
-      "summary": "Self-driving taxi operator Waymo announced plans to launch a test phase in Toronto in the coming days, targeting passenger operations by 2028.",
-      "whyItMatters": "Highlights accelerating advancements in autonomous driving and commercial vehicle technology deployment within Ontario.",
-      "explainMore": "Waymo's upcoming test phase in Toronto marks a significant step for autonomous vehicle trials in Canada. While the initial timeline points to passenger services by 2028, the testing phase will provide valuable data for local infrastructure and autonomous software developers. \n\nFor engineering professionals tracking automation and sensor integration, observing the regulatory and technical frameworks used in this pilot offers useful context on commercializing autonomous tech in Canadian urban environments.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/20e7503d053d3f671a1ddaf7f81238c6b8d9a42bc0f6c6258b634cf4da3508b9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12105000/waymo-robotaxis-toronto/"
+      "category": "Local",
+      "headline": "Stellantis workers begin voting on strike mandate as talks remain stalled",
+      "summary": "Stellantis workers in Canada begin voting today on whether to give their union a strike mandate as collective bargaining negotiations remain stalled.",
+      "whyItMatters": "A potential work stoppage at Stellantis introduces significant downstream supply chain risks for Ontario component manufacturers, automation providers, and machine builders throughout the Golden Horseshoe.",
+      "explainMore": "Collective bargaining negotiations between Stellantis and its Canadian workforce have hit an impasse, prompting union members to start casting ballots on a strike mandate.\n\nWith automotive production schedules hanging in the balance, suppliers and engineering firms in regional hubs like Grimsby, Lincoln, and Hamilton are closely monitoring potential disruptions to vehicle assembly lines.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stellantis-e1792244648251.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12106389/stellantis-begin-voting-strike-mandate/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 1.48%",
+        "value": "▲ 0.15%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.28%",
-        "positive": true
+        "value": "▼ 1.11%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 2.44%",
+        "value": "▲ 2.83%",
         "positive": true
       },
       {
@@ -50,43 +50,47 @@
         "positive": null
       }
     ],
-    "insight": "The TSX gained 1.48% to 54.09, and oil rose 2.44% to $157.31, while the Canadian dollar sits at 0.7074 against the USD."
+    "insight": "Oil surged 2.83% to 161.76 amid escalating geopolitical tensions in the Middle East, while the TSX ticked up slightly. The CAD/USD exchange rate sits at 0.7074."
   },
   "yourMoney": {
-    "headline": "Canadian investors ramp up foreign security acquisitions in August",
-    "summary": "Statistics Canada reported that Canadian investors acquired $23.9 billion of foreign securities in August, led by US share purchases, while foreign investors trimmed Canadian holdings by $17.3 billion.",
-    "whyItMatters": "As a long-term investor navigating shifting cross-border capital flows, tracking international acquisition trends helps inform portfolio diversification strategies.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/261016/dq261016a-eng.htm"
+    "headline": "Navigating Mortgage Decisions Amid Rising Bond Yields",
+    "summary": "With Canada experiencing its largest wave of mortgage renewals this year—surpassing one million households—rising bond yields are forcing homeowners to carefully evaluate fixed versus variable rate structures.",
+    "whyItMatters": "As a homeowner managing a 5-year variable mortgage during a historic renewal wave and shifting bond yield environment, keeping a close eye on interest rate trends is essential for household cash flow management.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12103643/bond-yield-mortgage-rates/"
   },
   "manufacturing": {
-    "headline": "Federal investment backs new transformer insulation and pressboard manufacturing facility",
-    "summary": "The Government of Canada announced significant investments to strengthen supply chains, including support for Hitachi Energy’s new transformer insulation and pressboard manufacturing facility.",
-    "whyItMatters": "Directly supports domestic heavy industrial supply chains and manufacturing capacity expansion in electrical and industrial infrastructure.",
+    "headline": "Federal Investments Target Clean Bus Platform Modernization and Electrical Supply Chains",
+    "summary": "Ottawa has announced targeted industrial funding to support Prevost (Volvo Group Canada Inc.) in modernizing its bus platform with electric propulsion technologies, alongside backing Hitachi Energy’s new transformer insulation and pressboard manufacturing facility.",
+    "whyItMatters": "Investments in electric vehicle manufacturing and domestic electrical infrastructure create robust demand vectors for precision engineering, automated assembly, and high-performance hydraulic components across the Canadian industrial sector.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-significant-investment-to-strengthen-canadas-electricity-and-forest-products-supply-chains.html",
-    "engineeringHeadline": "Advancing national priorities through space and tech funding",
-    "engineeringSummary": "Industry Minister Mélanie Joly announced $11.1 million in funding for 16 innovative space projects across 15 Canadian organizations, reinforcing high-tech engineering capabilities."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-investment-in-prevost-volvo-group-canada-inc-in-sainte-claire-to-support-canadian-bus-manufacturing-and-clean-tr.html",
+    "engineeringHeadline": "Engineering Watch: Advancing Clean Transit and Pressboard Manufacturing",
+    "engineeringSummary": "Prevost is upgrading its Sainte-Claire facilities for low- and zero-emission solutions, while Hitachi Energy establishes Canada's first pressboard manufacturing facility to reinforce electrical supply chains."
   },
   "world": {
-    "headline": "Houthis strike Saudi oil company Aramco's headquarters",
-    "summary": "Officials reported that a Houthi strike hit the headquarters of Saudi oil giant Aramco, damaging top executive floors including the office of the chief executive.",
-    "whyItMatters": "Geopolitical strikes on major global energy infrastructure directly influence international crude markets and pricing stability.",
+    "headline": "Houthis Strike Saudi Aramco Headquarters as Oil Markets React",
+    "summary": "Houthian strikes damaged top-floor executive offices at Saudi oil company Aramco's headquarters, contributing to significant upward pressure on global crude prices.",
+    "whyItMatters": "Geopolitical disruptions targeting major energy infrastructure directly drive global oil price volatility, elevating input costs and inflation risks across industrial manufacturing supply chains.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12102194/houthis-strike-saudi-aramco-headquarters/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Waymo's self-driving taxi test phase is set to begin in Toronto in the coming days."
+      "label": "Today",
+      "text": "Stellantis workers begin voting on their union strike mandate as collective bargaining talks remain stalled."
     },
     {
-      "label": "Monday",
-      "text": "Alberta's referendum on staying in Confederation or holding a binding separation vote takes place."
+      "label": "Saturday",
+      "text": "Pope Leo XIV is scheduled to be discharged from the hospital following lung cancer surgery."
+    },
+    {
+      "label": "November 4",
+      "text": "The Nackawic mill is scheduled to temporarily idle due to prevailing market conditions."
     },
     {
       "label": "Later This Month",
-      "text": "Ontario municipal elections will feature active local debates regarding data center expansion and municipal resource demands."
+      "text": "Ontario municipal elections take place, with local debates intensifying over issues such as municipal data centre developments."
     }
   ]
 }
