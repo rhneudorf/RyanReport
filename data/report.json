@@ -1,102 +1,88 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "morningSnapshot": {
-    "headline": "PBO Slashes Economic Forecasts Amid Trade Pressures; Ontario Manufacturing Faces Union AI Push",
-    "summary": "Good morning, Ryan. Canada's PBO has downgraded economic forecasts following a breakdown in U.S. trade talks and subsequent tariff measures. Meanwhile, Ontario public-sector unions are urging workplace AI safeguards, and Stellantis workers have overwhelmingly authorized a strike mandate."
+    "headline": "Trade War Support, Stelco Earnings, and Industrial Tech Focus in the Niagara Region",
+    "summary": "Good morning, Ryan. Prime Minister Carney and Ontario Premier Doug Ford are set to announce support for workers amid ongoing trade tensions, while Stelco reports soaring quarterly financial results and Cleveland-Cliffs signals strong performance. Meanwhile, Ottawa invests in satellite navigation capabilities under the Defence Industrial Strategy."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Ottawa, Ontario",
-    "headline": "Canada’s PBO slashes economic forecasts, warns debt will rise",
-    "summary": "Canada’s Parliamentary Budget Officer has significantly slashed economic forecasts and warned that national debt will rise following the breakdown of U.S. trade talks at the end of August and the subsequent implementation of U.S. tariffs and Canadian counter-tariffs.",
-    "whyItMatters": "For industrial sectors and manufacturing supply chains across Ontario, renewed trade friction with the U.S. and downgraded national economic growth create severe operational headwinds and rising financial pressures.",
-    "explainMore": "Trade negotiations between Canada and the United States broke down at the end of August, triggering a cascade of protective measures that include new rounds of U.S. tariffs and retaliatory Canadian counter-tariffs.\n\nIn response to these disruptions, the Parliamentary Budget Officer (PBO) has revised economic projections downward, signaling a more challenging macroeconomic environment ahead.\n\nThe forecasts also warn that federal debt levels will rise as economic growth slows and trade friction persists, impacting broader fiscal stability across the country.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/de0787bff23e6f697b55a94bbbebab8780ca1d9806ab7a093c098dc0c77de17c.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12109188/canada-economic-forecast-slashed-us-trade-war/"
+    "category": "Local",
+    "location": "Hamilton",
+    "headline": "Carney and Ford set to announce support for workers amid trade war",
+    "summary": "Prime Minister Carney will begin the day with a meeting of the Liberal caucus and then sit down with Ontario Premier Doug Ford to announce support measures for workers facing headwinds from the ongoing trade war.",
+    "whyItMatters": "As an Ontario hydraulic cylinder manufacturing professional based in Beamsville, provincial and federal responses to trade pressures and tariffs directly impact regional industrial stability and supply chains.",
+    "explainMore": "Prime Minister Carney's itinerary includes initial caucus consultations followed by a critical meeting with Ontario Premier Doug Ford to address worker support.\n\nThese policy moves arrive as regional industrial heavyweights navigate complex cross-border market dynamics and trade friction.\n\nThe discussions underscore the federal and provincial focus on safeguarding domestic manufacturing sectors against external economic pressures.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Carney-Ford-workers.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12110914/donald-trump-tariffs-mark-carney-worker-support/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Is Canada in an ‘affordability crisis’? Conservative motion heads to a vote",
-      "summary": "A Conservative opposition motion heads to a vote in the House of Commons, calling on Parliament to officially recognize that the Liberals have been in power for 11 years and that Canada is currently facing an affordability crisis.",
-      "whyItMatters": "Persistent cost-of-living pressures directly affect household budgets, making broader economic trends and policy debates critical to monitor for Canadian homeowners.",
-      "explainMore": "The motion brought forward by the opposition asks the House of Commons to formally acknowledge the ongoing affordability strain experienced by Canadians.\n\nDebate centers on the cumulative impacts of economic policies enacted over the past 11 years of Liberal governance.\n\nThe vote brings legislative focus to the broader economic challenges facing households nationwide.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Poilievre-affordability-crisis.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12109120/poilievre-affordability-crisis/"
-    },
-    {
       "category": "Local",
-      "headline": "Stellantis workers vote overwhelmingly in favour of strike mandate",
-      "summary": "Unifor announced that 97.3 per cent of Stellantis members who participated in a weekend vote voted in favor of authorizing a strike if needed.",
-      "whyItMatters": "Labor unrest and potential strike action in the automotive manufacturing sector have cascading supply chain implications for parts suppliers and industrial manufacturers across Ontario.",
-      "explainMore": "The overwhelming mandate demonstrates strong union backing as bargaining proceeds in the automotive sector.\n\nWith nearly 97 per cent approval among participating members, the vote positions Unifor to call a strike if agreement terms are not met.\n\nAutomotive sector labor disruptions frequently ripple through the broader Ontario industrial and manufacturing ecosystem.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/a0086e45fcdfcd91660ae687deff3ffdc70bdb634b5a0e37867db057d2bdd53b_f5036b.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "As Stelco reports soaring earnings, how solid is their layoff legal case?",
+      "summary": "U.S.-based Cleveland-Cliffs reported its strongest quarterly financial results since acquiring Stelco in 2024, prompting renewed scrutiny over local layoff legal proceedings.",
+      "whyItMatters": "Stelco's financial health and regional steel output are fundamental inputs for Ontario manufacturers and industrial supply chains across the Greater Toronto and Hamilton Area.",
+      "explainMore": "Cleveland-Cliffs announced robust financial performance following its acquisition of Stelco, highlighting strong domestic steel market fundamentals.\n\nHowever, the contrast between soaring corporate earnings and ongoing legal questions surrounding local layoffs remains a central point of discussion for regional stakeholders.\n\nObservers are closely watching how these legal and financial developments will influence local employment and steel availability for industrial fabricators.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP176814777-e1792080397141.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12107839/stellantis-workers-vote-overwhelming-in-favour-of-strike-mandate/"
+      "sourceUrl": "https://globalnews.ca/news/12103489/stelco-layoffs-ottawa-court/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.72%",
-        "positive": false
+        "value": "▲ 0.65%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.42%",
+        "value": "▲ 0.34%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 0.59%",
+        "value": "▼ 0.12%",
         "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7115",
+        "value": "N/A",
         "positive": null
       }
     ],
-    "insight": "Markets reflect caution as the TSX dips 0.72% to 53.78 amid broader economic headwinds, while the Canadian dollar holds at 0.7115 against the U.S. greenback."
+    "insight": "The TSX posted gains of 0.65% to 54.13 alongside positive movement in U.S. equities, while oil ticked down slightly to 160.61."
   },
   "yourMoney": {
-    "headline": "Demographic Shifts Reshape Canadian Consumption and Workforce Dynamics",
-    "summary": "Bank of Canada analysis highlights how an aging population and lower immigration levels are actively reshaping the economy by shrinking the domestic workforce and altering consumption patterns.",
-    "whyItMatters": "Shifts in workforce demographics and labor availability directly influence long-term structural inflation, wage growth, and investment strategy for long-term holders.",
+    "headline": "Demographic shifts continue to reshape the Canadian economy",
+    "summary": "A Bank of Canada report highlights that an older population and fewer immigrants are changing the economic landscape by shrinking the workforce and shifting consumer demand.",
+    "whyItMatters": "Shifts in workforce demographics and labor supply have direct implications for wage growth, broader inflation trends, and future Bank of Canada interest rate decisions affecting variable-rate mortgages.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
   },
   "manufacturing": {
-    "headline": "Canada and Germany Hold Bilateral Trade and Agriculture Discussions in Paris",
-    "summary": "Canadian officials met with German counterparts for a bilateral exchange during the G7 Agriculture Ministers' Meeting in Paris, discussing international trade cooperation.",
-    "whyItMatters": "International trade dialogues are vital for maintaining bilateral economic channels as domestic manufacturing navigates broader North American tariff pressures.",
+    "headline": "Ottawa invests $15 million in Xona Space Systems Canada for defense navigation",
+    "summary": "The federal government has announced a $15 million investment in Xona Space Systems Canada to advance next-generation satellite navigation capabilities under the Defence Industrial Strategy.",
+    "whyItMatters": "Targeted investments in advanced navigation and industrial technology signal Ottawa's commitment to supporting high-tech engineering and dual-use manufacturing capabilities.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/canada-germany-joint-statement.html",
-    "engineeringHeadline": "Ontario Public-Sector Unions Push for Workplace AI Safeguards",
-    "engineeringSummary": "Local bargaining units across Ontario are instructing members to investigate how artificial intelligence is being integrated into workplaces and to identify associated risks as automation technologies expand."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-15-million-in-xona-space-systems-canada.html",
+    "engineeringHeadline": "Advancing precision technology and industrial engineering capabilities",
+    "engineeringSummary": "Federal funding for high-precision satellite systems aligns with growing demands for advanced technological integration across Canadian manufacturing and defense sectors."
   },
   "world": {
-    "headline": "Paris Police Issue Overnight Curfew Following Nationwide Protests and Rioting",
-    "summary": "Paris police instituted an overnight curfew from 11 p.m. to 6 a.m., alongside bans on public gatherings, following widespread protests and rioting condemned by President Macron.",
-    "whyItMatters": "Civil unrest in major European economies can introduce volatility into global energy markets, supply chains, and international investor sentiment.",
+    "headline": "Paris police issue overnight curfews to curb ongoing public disorder",
+    "summary": "French authorities have implemented nightly curfews in Paris and renewed restrictions in Lyon city center alongside bans on public gatherings following localized unrest.",
+    "whyItMatters": "Prolonged civil disruption and emergency measures in major European economic hubs can introduce volatility into global supply chains and international industrial demand.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12107739/frances-prime-minister-calls-for-localized-curfews-to-curb-rioting/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "House of Commons vote on the Conservative opposition motion regarding the affordability crisis."
+      "label": "Today",
+      "text": "Prime Minister Carney meets with Liberal caucus and Ontario Premier Doug Ford regarding worker support and trade measures."
     },
     {
-      "label": "Ongoing",
-      "text": "Monitoring developments in Canada-U.S. tariff measures and their ongoing impact on Ontario manufacturing."
-    },
-    {
-      "label": "Ongoing",
-      "text": "Stellantis labor negotiations following the overwhelming 97.3 per cent strike mandate approval by Unifor members."
+      "label": "This Fall",
+      "text": "Federal firearms classification technical advisory group is expected to hold its inaugural meeting."
     }
   ]
 }
