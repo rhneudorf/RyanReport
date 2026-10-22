@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "morningSnapshot": {
-    "headline": "Trade War Support, Stelco Earnings, and Industrial Tech Focus in the Niagara Region",
-    "summary": "Good morning, Ryan. Prime Minister Carney and Ontario Premier Doug Ford are set to announce support for workers amid ongoing trade tensions, while Stelco reports soaring quarterly financial results and Cleveland-Cliffs signals strong performance. Meanwhile, Ottawa invests in satellite navigation capabilities under the Defence Industrial Strategy."
+    "headline": "Carney and Ford Unveil $9.1B Industrial Support Plan as Ottawa Warns Stelco Over Hamilton Layoffs",
+    "summary": "Good morning, Ryan. Federal-provincial funding lands to buffer Ontario industries from U.S. tariffs, while Ottawa issues a strict 15-day ultimatum to Stelco in Hamilton. Markets trend higher overall as CAD sits at 0.7126 USD."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton",
-    "headline": "Carney and Ford set to announce support for workers amid trade war",
-    "summary": "Prime Minister Carney will begin the day with a meeting of the Liberal caucus and then sit down with Ontario Premier Doug Ford to announce support measures for workers facing headwinds from the ongoing trade war.",
-    "whyItMatters": "As an Ontario hydraulic cylinder manufacturing professional based in Beamsville, provincial and federal responses to trade pressures and tariffs directly impact regional industrial stability and supply chains.",
-    "explainMore": "Prime Minister Carney's itinerary includes initial caucus consultations followed by a critical meeting with Ontario Premier Doug Ford to address worker support.\n\nThese policy moves arrive as regional industrial heavyweights navigate complex cross-border market dynamics and trade friction.\n\nThe discussions underscore the federal and provincial focus on safeguarding domestic manufacturing sectors against external economic pressures.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Carney-Ford-workers.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Manufacturing & Trade",
+    "location": "Hamilton, Ontario",
+    "headline": "Ottawa gives Stelco 15 days to reverse Hamilton layoffs or face lawsuit",
+    "summary": "Prime Minister Mark Carney and Ontario Premier Doug Ford launched a $9-billion action plan to protect Ontario industries and workers from U.S. tariffs. Concurrently, Industry Minister Mélanie Joly has given Stelco 15 days to reverse recent layoffs in Hamilton or face court action that could force a sale of their Canadian operations.",
+    "whyItMatters": "As an engineering professional in the local manufacturing sector, shifts in domestic steel supply and heavy regional labor actions directly dictate the health of the regional industrial supply chain across Hamilton, Stoney Creek, and the broader Niagara region.",
+    "explainMore": "The federal government's hardline stance against Stelco signals intense scrutiny over domestic industrial capacity amid ongoing trade pressures. Minister Joly warned that failure to rescind the workforce reductions will trigger immediate legal maneuvers.\n\nThis localized industrial crisis unfolds alongside a newly minted $8.7 billion joint federal-provincial action plan announced by Prime Minister Carney and Premier Ford to shield workers and businesses from U.S. tariffs. Together, these interventions mark a heavy regulatory and financial footprint across Ontario's manufacturing heartland.\n\nFor local machine shops, equipment manufacturers, and component suppliers, securing stable domestic steel and aluminum inputs is paramount to maintaining production schedules against external trade headwinds.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-2-e1792095044204.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12110914/donald-trump-tariffs-mark-carney-worker-support/"
+    "sourceUrl": "https://globalnews.ca/news/12113124/stelco-layoff-lawsuit-melanie-joly/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "As Stelco reports soaring earnings, how solid is their layoff legal case?",
-      "summary": "U.S.-based Cleveland-Cliffs reported its strongest quarterly financial results since acquiring Stelco in 2024, prompting renewed scrutiny over local layoff legal proceedings.",
-      "whyItMatters": "Stelco's financial health and regional steel output are fundamental inputs for Ontario manufacturers and industrial supply chains across the Greater Toronto and Hamilton Area.",
-      "explainMore": "Cleveland-Cliffs announced robust financial performance following its acquisition of Stelco, highlighting strong domestic steel market fundamentals.\n\nHowever, the contrast between soaring corporate earnings and ongoing legal questions surrounding local layoffs remains a central point of discussion for regional stakeholders.\n\nObservers are closely watching how these legal and financial developments will influence local employment and steel availability for industrial fabricators.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP176814777-e1792080397141.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12103489/stelco-layoffs-ottawa-court/"
+      "category": "Canada",
+      "headline": "Statistics Canada website down as internet hit by millions of hack attempts",
+      "summary": "Several federal government websites, including Statistics Canada, went offline Thursday morning amid a worldwide coding vulnerability that has sparked millions of reported hack attempts.",
+      "whyItMatters": "Widespread digital infrastructure vulnerabilities pose operational and cybersecurity risks to Canadian institutions, highlighting the growing necessity for robust cyber defenses in engineering and data environments.",
+      "explainMore": "The outage at Statistics Canada coincides with a broader global wave of cyber exploitation targeting PHP-related vulnerabilities. Millions of hack attempts have been logged internationally, knocking critical online government resources offline.\n\nIT and security teams across federal agencies are scrambling to patch systems and mitigate unauthorized access vectors. While the exact scope of data exposure continues to be assessed, the incident underscores ongoing vulnerabilities in public-sector digital architecture.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP176721587-e1792674353190.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12113047/statistics-canada-website-down-php-hacks/"
     }
   ],
   "markets": {
@@ -36,53 +36,57 @@
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.34%",
+        "value": "▲ 0.53%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 0.12%",
+        "value": "▼ 0.50%",
         "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "N/A",
+        "value": "0.7126",
         "positive": null
       }
     ],
-    "insight": "The TSX posted gains of 0.65% to 54.13 alongside positive movement in U.S. equities, while oil ticked down slightly to 160.61."
+    "insight": "Equities pushed higher with the TSX gaining 0.65% to 54.48 and the S&P 500 up 0.53% to 773.09. Crude oil ticked down half a percent to 159.8, while the Canadian dollar held steady at 0.7126 against the greenback."
   },
   "yourMoney": {
-    "headline": "Demographic shifts continue to reshape the Canadian economy",
-    "summary": "A Bank of Canada report highlights that an older population and fewer immigrants are changing the economic landscape by shrinking the workforce and shifting consumer demand.",
-    "whyItMatters": "Shifts in workforce demographics and labor supply have direct implications for wage growth, broader inflation trends, and future Bank of Canada interest rate decisions affecting variable-rate mortgages.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/demographic-changes-are-reshaping-the-canadian-economy/"
+    "headline": "Carney and Ford Roll Out $9B Support Package as Variable Mortgage Holders Navigate Economic Shifts",
+    "summary": "While no direct Bank of Canada rate announcement dropped today, the federal and Ontario governments launched a massive $8.7 billion action plan to shield local industries and consumers from tariff impacts.",
+    "whyItMatters": "As a homeowner managing a 5-year variable mortgage, monitoring macroeconomic policy interventions and large-scale fiscal stimulus remains essential for anticipating future interest rate trajectories and cost-of-living pressures in Southern Ontario.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html"
   },
   "manufacturing": {
-    "headline": "Ottawa invests $15 million in Xona Space Systems Canada for defense navigation",
-    "summary": "The federal government has announced a $15 million investment in Xona Space Systems Canada to advance next-generation satellite navigation capabilities under the Defence Industrial Strategy.",
-    "whyItMatters": "Targeted investments in advanced navigation and industrial technology signal Ottawa's commitment to supporting high-tech engineering and dual-use manufacturing capabilities.",
+    "headline": "Ottawa and Queen’s Park Commit $8.7B for Ontario Industries While Joly Targets Low-Carbon Aluminum",
+    "summary": "Prime Minister Carney and Premier Ford launched a comprehensive $8.7 billion action plan to protect Ontario manufacturing industries from U.S. tariffs. Additionally, Minister Joly announced Strategic Response Fund investments targeting low-carbon aluminum production through partnerships with Rio Tinto and Aluminerie Alouette.",
+    "whyItMatters": "Access to subsidized, low-carbon aluminum and protective trade measures directly influences raw material costs and structural supply chains for Ontario-based heavy manufacturing, automation, and hydraulic component producers.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-15-million-in-xona-space-systems-canada.html",
-    "engineeringHeadline": "Advancing precision technology and industrial engineering capabilities",
-    "engineeringSummary": "Federal funding for high-precision satellite systems aligns with growing demands for advanced technological integration across Canadian manufacturing and defense sectors."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html",
+    "engineeringHeadline": "Federal Investment Advances Satellite Navigation and Dual-Use Defence Tech",
+    "engineeringSummary": "The federal government announced a $15 million investment in Xona Space Systems Canada to advance next-generation satellite navigation capabilities under Canada’s Defence Industrial Strategy, signaling continued public backing for advanced high-precision positioning and industrial technology."
   },
   "world": {
-    "headline": "Paris police issue overnight curfews to curb ongoing public disorder",
-    "summary": "French authorities have implemented nightly curfews in Paris and renewed restrictions in Lyon city center alongside bans on public gatherings following localized unrest.",
-    "whyItMatters": "Prolonged civil disruption and emergency measures in major European economic hubs can introduce volatility into global supply chains and international industrial demand.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12107739/frances-prime-minister-calls-for-localized-curfews-to-curb-rioting/"
+    "headline": "Prime Minister Carney Pursues New Strategic Trade Partnership with Turkey",
+    "summary": "Prime Minister Mark Carney kicked off a bilateral diplomatic trip to Turkey alongside Foreign Affairs Minister Anita Anand and Natural Resources Minister Tim Hodgson to establish a strategic partnership and lay groundwork for a future trade deal.",
+    "whyItMatters": "Diversifying international trade pathways away from reliance on the United States holds major implications for Canadian industrial export markets, manufacturing supply chains, and macroeconomic stability.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12113046/carney-turkey-visit/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Prime Minister Carney meets with Liberal caucus and Ontario Premier Doug Ford regarding worker support and trade measures."
+      "label": "Next 15 Days",
+      "text": "Monitor Stelco's response to the federal government's ultimatum regarding Hamilton layoffs and potential court action."
     },
     {
-      "label": "This Fall",
-      "text": "Federal firearms classification technical advisory group is expected to hold its inaugural meeting."
+      "label": "This Week",
+      "text": "Track developments from Prime Minister Carney's bilateral trade mission to Turkey alongside ministers Anand and Hodgson."
+    },
+    {
+      "label": "Ongoing",
+      "text": "Observe recovery efforts across federal web infrastructure following the widespread PHP coding vulnerabilities and Statistics Canada outage."
     }
   ]
 }
