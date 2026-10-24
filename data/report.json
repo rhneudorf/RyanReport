@@ -1,88 +1,98 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "morningSnapshot": {
-    "headline": "Ottawa and Queen’s Park unveil $8.7B tariff response plan; markets slip as oil climbs",
-    "summary": "Prime Minister Carney and Premier Ford announce massive funding to protect Ontario industries against tariffs, while manufacturing investments ramp up across Canada and global markets pull back on tech and energy pressures."
+    "headline": "Tariff Policy Shifts and Oil Price Surges Weigh on Global Markets",
+    "summary": "Good morning Ryan. As oil prices climb amid ongoing conflict, North American markets face downward pressure. Meanwhile, Ottawa and Queen's Park roll out massive joint investments to shield Ontario industries and workers from U.S. tariffs."
   },
   "topStory": {
     "category": "Manufacturing & Trade",
-    "location": "Beamsville / Ontario",
+    "location": "Ottawa / Ontario",
     "headline": "Prime Minister Carney and Premier Ford launch new action plan to protect workers from tariffs and strengthen Ontario industries",
     "summary": "The Government of Canada and the Government of Ontario announced investments of $8.7 billion and new measures to strengthen strategic industries, support workers and businesses impacted by U.S. tariffs, and drive long-term economic growth.",
-    "whyItMatters": "Directly impacts regional manufacturing corridors across the Niagara Region, Lincoln, and Hamilton by deploying state-backed capital to shield industrial supply chains from U.S. trade pressures.",
-    "explainMore": "The $8.7 billion joint initiative between Ottawa and Queen's Park arrives as trade tensions and tariffs threaten core industrial sectors across Ontario. By targeting strategic industries, the funding aims to secure regional supply chains and protect local manufacturing facilities from external market shocks.\n\nFor engineers and operators in the Ontario industrial ecosystem, this capital infusion is designed to fortify domestic processing and production capabilities. It provides a financial buffer against shifting U.S. trade dynamics while encouraging long-term resilience across regional manufacturing hubs.",
+    "whyItMatters": "Directly impacts Ontario's industrial and manufacturing sectors, providing critical backing as trade headwinds and U.S. tariffs challenge regional supply chains.",
+    "explainMore": "The $8.7 billion joint federal-provincial initiative is designed to bolster strategic industrial sectors across Ontario, directly countering the economic friction caused by U.S. tariffs.\n\nFor manufacturers operating in Ontario, the funding aims to secure regional supply chains and safeguard local employment against sudden trade policy shifts from Washington.\n\nThis framework pairs with broader federal industrial funding rounds, including recent multi-million dollar boosts to critical minerals and aluminum processing to fortify domestic heavy industry.",
     "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
     "source": "Canada.ca - ISED",
     "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Ottawa gives Stelco 15 days to reverse Hamilton layoffs or face lawsuit",
-      "summary": "If the company does not reverse the layoffs, Industry Minister Mélanie Joly warns she will proceed with court action that could see the company be forced to sell their Canadian operations.",
-      "whyItMatters": "Hamilton is a core economic engine for the surrounding Niagara and Golden Horseshoe region, and steel supply disruptions directly impact heavy manufacturing and hydraulic cylinder fabrication.",
-      "explainMore": "Federal Industry Minister Mélanie Joly has issued a strict 15-day ultimatum to Stelco following recent layoffs in Hamilton. If the company fails to reinstate the workforce, the federal government intends to launch legal action seeking a court-ordered sale of its Canadian operations.\n\nThis high-stakes dispute underscores federal intervention in regional heavy industry. Given the tight integration of domestic steel production with Ontario's equipment manufacturing sector, any instability or ownership shift at Stelco carries immediate operational and supply chain implications for regional engineering firms.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Stelco-2-e1792095044204.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12113124/stelco-layoff-lawsuit-melanie-joly/"
+      "category": "Manufacturing & Trade",
+      "headline": "Government of Canada invests over $190 million to advance Canada’s critical minerals sector and strengthen aluminum processing",
+      "summary": "Investing in Rio Tinto’s industrial facilities and Aluminerie Alouette’s smelting operations will strengthen the competitiveness of Canada’s aluminum sector.",
+      "whyItMatters": "Secures the domestic supply of foundational metals essential for heavy manufacturing, fabrication, and industrial components.",
+      "explainMore": "The federal government is funneling over $190 million into aluminum processing and critical mineral supply chains, targeting facilities like Rio Tinto Alcan and Aluminerie Alouette.\n\nThese strategic investments support low-carbon aluminum production and reinforce upstream material availability for Canadian engineering and manufacturing plants.",
+      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
+      "source": "Canada.ca - Business & Industry",
+      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html"
+    },
+    {
+      "category": "Canada",
+      "headline": "Trump removing some 50% tariffs on Canadian products, adding others",
+      "summary": "The amendment issued by the White House Friday listed 22 products previously subject to 50 per cent tariffs that will now be exempt, while 100 new products were added.",
+      "whyItMatters": "Demonstrates the ongoing volatility in cross-border trade terms that directly affect export-driven manufacturing and steel/aluminum supply chains.",
+      "explainMore": "The White House has modified its tariff schedule, lifting 50 per cent levies on 22 specific Canadian products while simultaneously introducing 100 new additions.\n\nThis fluid regulatory environment requires close monitoring by Canadian producers navigating export compliance and material costing.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/flags-e1792781134438.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12118875/donald-trump-tariffs-canada-susan-collins/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.57%",
+        "value": "▼ 0.50%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 1.18%",
+        "value": "▼ 0.52%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.70%",
+        "value": "▲ 4.32%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7154",
+        "value": "0.7142",
         "positive": null
       }
     ],
-    "insight": "Wall Street and the TSX opened lower as artificial intelligence sector concerns continued to weigh on Big Tech stocks. Simultaneously, crude oil prices climbed to their highest level since May amid ongoing geopolitical conflict involving Iran, while the Canadian dollar hovered at 0.7154 USD."
+    "insight": "Oil prices surged over 4.3% to $169.53 amid geopolitical pressures, dragging Wall Street and the TSX lower as tech and broader equities lost ground."
   },
   "yourMoney": {
-    "headline": "Rogers reports Q3 revenue edges higher as telecom steady state persists",
-    "summary": "Rogers Communications Inc. reported a third-quarter profit attributable to shareholders of $482 million as its total revenue edged up two per cent compared with a year ago.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, keeping tabs on broader consumer and utility spending patterns helps contextualize overall economic momentum and interest rate trajectories.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12118294/rogers-reports-q3-revenue-edges-higher/"
+    "headline": "Canadian banking fees hard for consumers to see or anticipate, report says",
+    "summary": "A new report highlights that banking fees charged by Canadian institutions remain difficult to anticipate and can accumulate quickly over time.",
+    "whyItMatters": "As a homeowner managing variable-rate mortgages and everyday accounts, unexpected bank and processing fees add friction to personal financial planning.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12118394/banking-fees-consumers/"
   },
   "manufacturing": {
-    "headline": "Ottawa invests over $190 million to strengthen aluminum processing and critical minerals",
-    "summary": "Federal investments targeting Rio Tinto’s industrial facilities and Aluminerie Alouette’s smelting operations aim to boost the global competitiveness of Canada’s low-carbon aluminum sector.",
-    "whyItMatters": "Secures raw material supply chains for metal processing and manufacturing industries across Ontario, supporting heavy industrial input stability.",
+    "headline": "Ottawa Announces $1.75B Venture and Growth Capital Plan",
+    "summary": "Minister Joly unveiled a $1.75 billion plan to strengthen venture capital investments and scale up industrial growth amid shifting global trade dynamics.",
+    "whyItMatters": "Provides broader financial backing for capital-intensive industrial modernization, automation technology, and advanced manufacturing ventures across Canada.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html",
-    "engineeringHeadline": "Federal funding bolsters satellite navigation infrastructure and space tech",
-    "engineeringSummary": "The government announced a $15 million investment in Xona Space Systems Canada to advance next-generation satellite navigation capabilities and dual-use capabilities under the Defence Industrial Strategy."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-unveils-canadas-new-venture-and-growth-capital-plan-that-will-strengthen-venture-capital-investments-in-canada-with-175-billion-in-fu.html",
+    "engineeringHeadline": "U.S. Designates Helium as a Critical Material",
+    "engineeringSummary": "The U.S. Department of Energy designated helium as a critical material due to rising global supply risks, a resource vital for high-tech industrial manufacturing, leak-testing, and specialized welding applications."
   },
   "world": {
-    "headline": "AI stock headwinds and rising oil prices pressure global markets",
-    "summary": "Global equities faced downward pressure as artificial intelligence tech stocks retreated and oil prices reached multi-month highs amidst intensifying conflict in the Middle East.",
-    "whyItMatters": "Rising energy input costs directly influence manufacturing overhead, logistics, and raw material pricing for industrial operations globally and domestically.",
-    "source": "Global News - World",
+    "headline": "Rising oil prices push Wall Street and global markets lower",
+    "summary": "Global stock markets retreated as crude oil prices hit their highest levels since May amid ongoing conflict, compounded by pullbacks in artificial intelligence tech stocks.",
+    "whyItMatters": "Spiking energy costs feed directly into industrial input pricing, transportation overhead, and broader macroeconomic inflationary pressures.",
+    "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12113517/stock-markets-oil-ai/"
   },
   "lookingAhead": [
     {
-      "label": "Next 15 Days",
-      "text": "Monitor federal updates on the Stelco ultimatum regarding Hamilton layoffs and potential legal or corporate restructuring outcomes."
+      "label": "This Weekend",
+      "text": "Wayfair's Way Day Sale runs from October 25 to 27, offering discounts of up to 80 per cent off home decor and furnishings."
     },
     {
-      "label": "This Week",
-      "text": "Track ongoing market reactions to rising oil prices and tech sector earnings reports for broader investment and macroeconomic signals."
+      "label": "Ongoing",
+      "text": "Monitor evolving U.S. tariff amendments and exemptions for Canadian industrial exports and raw metals."
     }
   ]
 }
