@@ -1,40 +1,30 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "morningSnapshot": {
-    "headline": "Tariff Policy Shifts and Oil Price Surges Weigh on Global Markets",
-    "summary": "Good morning Ryan. As oil prices climb amid ongoing conflict, North American markets face downward pressure. Meanwhile, Ottawa and Queen's Park roll out massive joint investments to shield Ontario industries and workers from U.S. tariffs."
+    "headline": "Historic Ottawa Talks Set; Global Markets Slip as Oil Surges",
+    "summary": "Prime Minister Mark Carney and provincial leaders prepare for historic First Nations talks, while oil spikes and equity markets retreat amid Middle East supply pressures."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Ottawa / Ontario",
-    "headline": "Prime Minister Carney and Premier Ford launch new action plan to protect workers from tariffs and strengthen Ontario industries",
-    "summary": "The Government of Canada and the Government of Ontario announced investments of $8.7 billion and new measures to strengthen strategic industries, support workers and businesses impacted by U.S. tariffs, and drive long-term economic growth.",
-    "whyItMatters": "Directly impacts Ontario's industrial and manufacturing sectors, providing critical backing as trade headwinds and U.S. tariffs challenge regional supply chains.",
-    "explainMore": "The $8.7 billion joint federal-provincial initiative is designed to bolster strategic industrial sectors across Ontario, directly countering the economic friction caused by U.S. tariffs.\n\nFor manufacturers operating in Ontario, the funding aims to secure regional supply chains and safeguard local employment against sudden trade policy shifts from Washington.\n\nThis framework pairs with broader federal industrial funding rounds, including recent multi-million dollar boosts to critical minerals and aluminum processing to fortify domestic heavy industry.",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-    "source": "Canada.ca - ISED",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html"
+    "category": "Canada",
+    "location": "Ottawa, Ontario",
+    "headline": "First Nations, Carney, premiers to gather for ceremony ahead of historic meeting",
+    "summary": "First Nations leaders are preparing for a historic meeting with Prime Minister Mark Carney and the nation’s premiers, marking the first gathering of its kind since the Kelowna Accord talks of 2005.",
+    "whyItMatters": "Intergovernmental frameworks and national funding initiatives directly impact regional development, resource infrastructure, and economic policy across Ontario and local municipalities.",
+    "explainMore": "The ceremony comes a day before what is widely seen as a historic meeting involving the prime minister and provincial leaders. This represents the first major summit of its kind in more than two decades, following the Kelowna Accord talks of 2005.\n\nFirst Nations leaders have been actively voicing their core priorities ahead of the Ottawa discussions, focusing on foundational rights, economic partnership, and institutional reform.\n\nThe discussions are expected to establish a new trajectory for federal-provincial-Indigenous cooperation, potentially influencing major infrastructure investments and regulatory frameworks nationwide.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/d7a8df567fb688adcef55a85b8e7e8f9a8f697f1766e8f453c6fb80de5f70d0f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12120469/first-nations-historic-meeting-carney-premiers/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Government of Canada invests over $190 million to advance Canada’s critical minerals sector and strengthen aluminum processing",
-      "summary": "Investing in Rio Tinto’s industrial facilities and Aluminerie Alouette’s smelting operations will strengthen the competitiveness of Canada’s aluminum sector.",
-      "whyItMatters": "Secures the domestic supply of foundational metals essential for heavy manufacturing, fabrication, and industrial components.",
-      "explainMore": "The federal government is funneling over $190 million into aluminum processing and critical mineral supply chains, targeting facilities like Rio Tinto Alcan and Aluminerie Alouette.\n\nThese strategic investments support low-carbon aluminum production and reinforce upstream material availability for Canadian engineering and manufacturing plants.",
-      "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-      "source": "Canada.ca - Business & Industry",
-      "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html"
-    },
-    {
       "category": "Canada",
-      "headline": "Trump removing some 50% tariffs on Canadian products, adding others",
-      "summary": "The amendment issued by the White House Friday listed 22 products previously subject to 50 per cent tariffs that will now be exempt, while 100 new products were added.",
-      "whyItMatters": "Demonstrates the ongoing volatility in cross-border trade terms that directly affect export-driven manufacturing and steel/aluminum supply chains.",
-      "explainMore": "The White House has modified its tariff schedule, lifting 50 per cent levies on 22 specific Canadian products while simultaneously introducing 100 new additions.\n\nThis fluid regulatory environment requires close monitoring by Canadian producers navigating export compliance and material costing.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/flags-e1792781134438.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Who is Lorne Doerkson, B.C.’s next premier?",
+      "summary": "The interim B.C. Conservative leader delivered a rollicking victory speech as he revelled in a sweeping majority win, secured in a snap provincial election called by David Eby.",
+      "whyItMatters": "Provincial political shifts alter cross-country trade dynamics, regulatory alignment, and fiscal policy landscapes across Canada.",
+      "explainMore": "British Columbians headed to the polls in a snap provincial election called by David Eby, shifting the provincial legislative balance significantly.\n\nThe interim B.C. Conservative leader, Lorne Doerkson, captured a sweeping majority win, delivering a celebratory victory speech as local riding results finalized.\n\nObservers are closely analyzing the outcome's implications for provincial resource development, interprovincial commerce, and national energy corridors.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/9ef0f94650635f49db78f00f3e15a58548eec9586e58d114eb496014bc4cded1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12118875/donald-trump-tariffs-canada-susan-collins/"
+      "sourceUrl": "https://globalnews.ca/news/12120483/lorne-doerkson-premier-elect-bc-election/"
     }
   ],
   "markets": {
@@ -56,43 +46,47 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7142",
+        "value": "0.7143",
         "positive": null
       }
     ],
-    "insight": "Oil prices surged over 4.3% to $169.53 amid geopolitical pressures, dragging Wall Street and the TSX lower as tech and broader equities lost ground."
+    "insight": "Oil prices surged to their highest levels since May amid conflict in Iran, driving broader equity market declines on Wall Street and the TSX. For variable-rate mortgage holders and long-term investors, sustained energy inflation complicates interest rate trajectories."
   },
   "yourMoney": {
-    "headline": "Canadian banking fees hard for consumers to see or anticipate, report says",
-    "summary": "A new report highlights that banking fees charged by Canadian institutions remain difficult to anticipate and can accumulate quickly over time.",
-    "whyItMatters": "As a homeowner managing variable-rate mortgages and everyday accounts, unexpected bank and processing fees add friction to personal financial planning.",
+    "headline": "Canadian banking fees remain opaque and costly over time, report warns",
+    "summary": "A new report highlights that banking fees charged by Canadian institutions are difficult for consumers to see or anticipate, adding up quickly.",
+    "whyItMatters": "As a homeowner managing variable mortgage costs and everyday financial overhead, hidden banking expenses add unnecessary drag to personal household budgeting.",
     "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12118394/banking-fees-consumers/"
   },
   "manufacturing": {
-    "headline": "Ottawa Announces $1.75B Venture and Growth Capital Plan",
-    "summary": "Minister Joly unveiled a $1.75 billion plan to strengthen venture capital investments and scale up industrial growth amid shifting global trade dynamics.",
-    "whyItMatters": "Provides broader financial backing for capital-intensive industrial modernization, automation technology, and advanced manufacturing ventures across Canada.",
+    "headline": "Ottawa invests over $190 million to strengthen Canadian aluminum processing and critical minerals",
+    "summary": "The federal government announced major funding targeting Rio Tinto’s industrial facilities and Aluminerie Alouette’s smelting operations to boost the competitiveness of Canada’s aluminum sector.",
+    "whyItMatters": "Raw material costs, aluminum supply stability, and tariff pressures directly influence input pricing and operational margins for Ontario hydraulic cylinder manufacturing.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-unveils-canadas-new-venture-and-growth-capital-plan-that-will-strengthen-venture-capital-investments-in-canada-with-175-billion-in-fu.html",
-    "engineeringHeadline": "U.S. Designates Helium as a Critical Material",
-    "engineeringSummary": "The U.S. Department of Energy designated helium as a critical material due to rising global supply risks, a resource vital for high-tech industrial manufacturing, leak-testing, and specialized welding applications."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html",
+    "engineeringHeadline": "Government launches consultations on new Canadian space act and critical infrastructure resiliency",
+    "engineeringSummary": "Ottawa has launched formal consultations on a new comprehensive Canadian space act and introduced initiatives to fortify positioning, navigation, and timing (PNT) infrastructure critical for national industrial and technological security."
   },
   "world": {
-    "headline": "Rising oil prices push Wall Street and global markets lower",
-    "summary": "Global stock markets retreated as crude oil prices hit their highest levels since May amid ongoing conflict, compounded by pullbacks in artificial intelligence tech stocks.",
-    "whyItMatters": "Spiking energy costs feed directly into industrial input pricing, transportation overhead, and broader macroeconomic inflationary pressures.",
+    "headline": "Oil prices hit highest mark since May as global markets absorb supply disruption risks",
+    "summary": "Ongoing conflict in Iran has pushed oil prices sharply higher, weighing heavily on international equities and technology sectors.",
+    "whyItMatters": "Spiking global energy costs feed directly into manufacturing input expenses, logistics freight rates, and broader industrial operating overhead.",
     "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12113517/stock-markets-oil-ai/"
   },
   "lookingAhead": [
     {
-      "label": "This Weekend",
-      "text": "Wayfair's Way Day Sale runs from October 25 to 27, offering discounts of up to 80 per cent off home decor and furnishings."
+      "label": "Today",
+      "text": "Monitor ongoing local municipal election discussions and voter engagement trends across Ontario."
     },
     {
-      "label": "Ongoing",
-      "text": "Monitor evolving U.S. tariff amendments and exemptions for Canadian industrial exports and raw metals."
+      "label": "This Week",
+      "text": "Follow federal-provincial outcomes stemming from the historic Ottawa meeting between Prime Minister Mark Carney and premiers."
+    },
+    {
+      "label": "This Week",
+      "text": "Track global energy markets and crude oil price movements for continued impacts on manufacturing input costs and equity indices."
     }
   ]
 }
