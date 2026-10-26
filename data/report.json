@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "morningSnapshot": {
-    "headline": "Historic Ottawa Talks Set; Global Markets Slip as Oil Surges",
-    "summary": "Prime Minister Mark Carney and provincial leaders prepare for historic First Nations talks, while oil spikes and equity markets retreat amid Middle East supply pressures."
+    "headline": "Trade Friction, Heating Oil Spikes, and Local Elections Shape Monday Morning",
+    "summary": "Good morning, Ryan. As voters head to the polls across the Greater Toronto and Hamilton Area today, broader economic pressures take center stage. U.S. President Donald Trump has suggested trade tensions with Canada could end soon despite ongoing tariff levies, while retail home heating oil prices have jumped 42% across Canada due to the war in Iran. Markets are slightly lower, and oil prices have surged over 4%. Here is your concise morning briefing tailored for Beamsville."
   },
   "topStory": {
     "category": "Canada",
-    "location": "Ottawa, Ontario",
-    "headline": "First Nations, Carney, premiers to gather for ceremony ahead of historic meeting",
-    "summary": "First Nations leaders are preparing for a historic meeting with Prime Minister Mark Carney and the nation’s premiers, marking the first gathering of its kind since the Kelowna Accord talks of 2005.",
-    "whyItMatters": "Intergovernmental frameworks and national funding initiatives directly impact regional development, resource infrastructure, and economic policy across Ontario and local municipalities.",
-    "explainMore": "The ceremony comes a day before what is widely seen as a historic meeting involving the prime minister and provincial leaders. This represents the first major summit of its kind in more than two decades, following the Kelowna Accord talks of 2005.\n\nFirst Nations leaders have been actively voicing their core priorities ahead of the Ottawa discussions, focusing on foundational rights, economic partnership, and institutional reform.\n\nThe discussions are expected to establish a new trajectory for federal-provincial-Indigenous cooperation, potentially influencing major infrastructure investments and regulatory frameworks nationwide.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/d7a8df567fb688adcef55a85b8e7e8f9a8f697f1766e8f453c6fb80de5f70d0f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "location": "Port Huron, Michigan / Canada",
+    "headline": "Trade war with Canada could end ‘pretty soon,’ Trump says during rally",
+    "summary": "U.S. President Donald Trump told a rally in Port Huron, Michigan, on Sunday that Canada had been \"ripping off\" the U.S. on trade, necessitating levies on Canadian goods, but added that the trade war could end \"pretty soon.\"",
+    "whyItMatters": "For Ontario manufacturing, cross-border trade friction and the threat of tariffs directly impact export supply chains, input costs, and long-term capital planning.",
+    "explainMore": "President Trump's remarks at the Michigan rally underscore the ongoing volatility in bilateral trade relations between the U.S. and Canada. While he defended the imposition of levies by claiming Canada had been taking advantage of the U.S. on trade, his suggestion that the dispute could conclude relatively soon offers a glimmer of potential relief for industrial sectors reliant on smooth cross-border logistics.\n\nFor businesses operating in Ontario's manufacturing and supply corridors, these shifting policy signals complicate procurement and expansion strategies. Industry stakeholders must carefully monitor whether these diplomatic postures translate into tangible tariff rollbacks or prolonged trade friction.\n\nThe intersection of U.S. trade policy and Canadian manufacturing competitiveness remains a critical variable for industrial output and capital investment decisions going forward.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Trump-trade-war-end-soon.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12120469/first-nations-historic-meeting-carney-premiers/"
+    "sourceUrl": "https://globalnews.ca/news/12121158/trump-trade-war-end-soon/"
   },
   "stories": [
     {
       "category": "Canada",
-      "headline": "Who is Lorne Doerkson, B.C.’s next premier?",
-      "summary": "The interim B.C. Conservative leader delivered a rollicking victory speech as he revelled in a sweeping majority win, secured in a snap provincial election called by David Eby.",
-      "whyItMatters": "Provincial political shifts alter cross-country trade dynamics, regulatory alignment, and fiscal policy landscapes across Canada.",
-      "explainMore": "British Columbians headed to the polls in a snap provincial election called by David Eby, shifting the provincial legislative balance significantly.\n\nThe interim B.C. Conservative leader, Lorne Doerkson, captured a sweeping majority win, delivering a celebratory victory speech as local riding results finalized.\n\nObservers are closely analyzing the outcome's implications for provincial resource development, interprovincial commerce, and national energy corridors.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/9ef0f94650635f49db78f00f3e15a58548eec9586e58d114eb496014bc4cded1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "How the war in Iran could import soaring home heating costs this winter",
+      "summary": "Since the start of the war in Iran, average retail home heating oil prices have jumped 42 per cent across most of Canada, reaching $2.50 per litre this week.",
+      "whyItMatters": "Spiking energy commodities directly increase heating and operational overhead for homeowners and industrial facilities alike.",
+      "explainMore": "The ongoing conflict in Iran has triggered a significant shock to global energy markets, driving home heating oil prices up by nearly half in parts of Canada. Sitting at $2.50 per litre, this sharp inflationary pressure strains household budgets and elevates baseline energy expenses as colder weather approaches.\n\nBeyond residential impacts, surging oil prices feed into broader industrial transportation and utility costs, reinforcing inflationary trends that influence broader monetary policy and borrowing costs.\n\nMonitoring energy supply shocks remains vital for assessing both consumer cost-of-living adjustments and industrial operational overhead.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/home-heating-oil-iran-war.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12120483/lorne-doerkson-premier-elect-bc-election/"
+      "sourceUrl": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/"
     }
   ],
   "markets": {
@@ -46,47 +46,47 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7143",
+        "value": "0.7134",
         "positive": null
       }
     ],
-    "insight": "Oil prices surged to their highest levels since May amid conflict in Iran, driving broader equity market declines on Wall Street and the TSX. For variable-rate mortgage holders and long-term investors, sustained energy inflation complicates interest rate trajectories."
+    "insight": "Equities opened lower with the TSX down 0.50% and the S&P 500 down 0.52%. Oil surged 4.32% to $169.53 amid geopolitical tensions in the Middle East, while the Canadian dollar held at 0.7134 USD."
   },
   "yourMoney": {
-    "headline": "Canadian banking fees remain opaque and costly over time, report warns",
-    "summary": "A new report highlights that banking fees charged by Canadian institutions are difficult for consumers to see or anticipate, adding up quickly.",
-    "whyItMatters": "As a homeowner managing variable mortgage costs and everyday financial overhead, hidden banking expenses add unnecessary drag to personal household budgeting.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12118394/banking-fees-consumers/"
+    "headline": "Energy Shock and Heating Cost Inflation Bear Watching",
+    "summary": "With retail home heating oil prices climbing 42% to $2.50 per litre due to the war in Iran, homeowners face heightened utility expenses this season.",
+    "whyItMatters": "Energy price spikes feed into broader inflation metrics, keeping pressure on household cash flow and influencing interest rate trajectories for variable-rate mortgage holders.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/"
   },
   "manufacturing": {
-    "headline": "Ottawa invests over $190 million to strengthen Canadian aluminum processing and critical minerals",
-    "summary": "The federal government announced major funding targeting Rio Tinto’s industrial facilities and Aluminerie Alouette’s smelting operations to boost the competitiveness of Canada’s aluminum sector.",
-    "whyItMatters": "Raw material costs, aluminum supply stability, and tariff pressures directly influence input pricing and operational margins for Ontario hydraulic cylinder manufacturing.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html",
-    "engineeringHeadline": "Government launches consultations on new Canadian space act and critical infrastructure resiliency",
-    "engineeringSummary": "Ottawa has launched formal consultations on a new comprehensive Canadian space act and introduced initiatives to fortify positioning, navigation, and timing (PNT) infrastructure critical for national industrial and technological security."
+    "headline": "Cross-Border Trade Rhetoric and Defense Procurement Shifts",
+    "summary": "While President Trump points to a potential end to trade levies on Canadian goods, Prime Minister Mark Carney has paused the full F-35 fighter jet order for a potential mixed fleet, alongside ongoing developments with a Canada-led defence bank where the U.K. has opted out of membership but pledged cooperation.",
+    "whyItMatters": "Shifting federal defense procurement strategies and U.S. tariff postures directly influence Ontario's manufacturing, advanced engineering, and industrial supply chains.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12121158/trump-trade-war-end-soon/",
+    "engineeringHeadline": "Defense and Aerospace Procurement Under Review",
+    "engineeringSummary": "Prime Minister Carney's review of the 88-jet F-35 order in favor of a potential mixed fleet signals a shifting landscape for high-precision manufacturing and aerospace engineering requirements in Canada."
   },
   "world": {
-    "headline": "Oil prices hit highest mark since May as global markets absorb supply disruption risks",
-    "summary": "Ongoing conflict in Iran has pushed oil prices sharply higher, weighing heavily on international equities and technology sectors.",
-    "whyItMatters": "Spiking global energy costs feed directly into manufacturing input expenses, logistics freight rates, and broader industrial operating overhead.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12113517/stock-markets-oil-ai/"
+    "headline": "Brazil’s Lula Wins Presidential Election, Complicating U.S. Regional Strategy",
+    "summary": "Brazil’s Lula won the presidential election, bucking a regional rightward shift and complicating the Trump administration's campaign to enlist Brazil in its military coalition.",
+    "whyItMatters": "Geopolitical shifts in South America affect regional trade dynamics, multilateral diplomatic alignments, and international commodity markets.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12121163/brazil-lula-election/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Monitor ongoing local municipal election discussions and voter engagement trends across Ontario."
+      "text": "Voters head to the polls across the Greater Toronto and Hamilton Area to elect mayors, councillors, and school board trustees."
     },
     {
       "label": "This Week",
-      "text": "Follow federal-provincial outcomes stemming from the historic Ottawa meeting between Prime Minister Mark Carney and premiers."
+      "text": "Federal Tory bill to scrap B.C.’s oil tanker ban goes for second reading, with opposition MPs pressing for policy repeal."
     },
     {
       "label": "This Week",
-      "text": "Track global energy markets and crude oil price movements for continued impacts on manufacturing input costs and equity indices."
+      "text": "Israeli elections take place, putting Prime Minister Benjamin Netanyahu’s nearly two-decade political legacy on the line."
     }
   ]
 }
