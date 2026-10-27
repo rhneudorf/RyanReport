@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "morningSnapshot": {
-    "headline": "Trade Friction, Heating Oil Spikes, and Local Elections Shape Monday Morning",
-    "summary": "Good morning, Ryan. As voters head to the polls across the Greater Toronto and Hamilton Area today, broader economic pressures take center stage. U.S. President Donald Trump has suggested trade tensions with Canada could end soon despite ongoing tariff levies, while retail home heating oil prices have jumped 42% across Canada due to the war in Iran. Markets are slightly lower, and oil prices have surged over 4%. Here is your concise morning briefing tailored for Beamsville."
+    "headline": "Ottawa Demands Stelco Jobs Plan; Energy Costs Surge as Heating Oil Jumps",
+    "summary": "Good morning, Ryan. Here is your personalized briefing focusing on key industrial developments in Ontario, surging energy utility costs affecting Canadian households, and global market updates."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Port Huron, Michigan / Canada",
-    "headline": "Trade war with Canada could end ‘pretty soon,’ Trump says during rally",
-    "summary": "U.S. President Donald Trump told a rally in Port Huron, Michigan, on Sunday that Canada had been \"ripping off\" the U.S. on trade, necessitating levies on Canadian goods, but added that the trade war could end \"pretty soon.\"",
-    "whyItMatters": "For Ontario manufacturing, cross-border trade friction and the threat of tariffs directly impact export supply chains, input costs, and long-term capital planning.",
-    "explainMore": "President Trump's remarks at the Michigan rally underscore the ongoing volatility in bilateral trade relations between the U.S. and Canada. While he defended the imposition of levies by claiming Canada had been taking advantage of the U.S. on trade, his suggestion that the dispute could conclude relatively soon offers a glimmer of potential relief for industrial sectors reliant on smooth cross-border logistics.\n\nFor businesses operating in Ontario's manufacturing and supply corridors, these shifting policy signals complicate procurement and expansion strategies. Industry stakeholders must carefully monitor whether these diplomatic postures translate into tangible tariff rollbacks or prolonged trade friction.\n\nThe intersection of U.S. trade policy and Canadian manufacturing competitiveness remains a critical variable for industrial output and capital investment decisions going forward.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Trump-trade-war-end-soon.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12121158/trump-trade-war-end-soon/"
+    "category": "Local",
+    "location": "Hamilton",
+    "headline": "Ottawa demands plan to restore Stelco jobs before meeting Cleveland-Cliffs CEO",
+    "summary": "Industry Minister Mélanie Joly is calling on the U.S.-based owner of Stelco Inc. to provide a concrete plan and timeline to restore jobs at its Canadian steel mills.",
+    "whyItMatters": "As an Ontario manufacturing professional closely tied to regional industrial supply chains, the stability of domestic steel production and regional employment directly impacts broader heavy industry and component demand.",
+    "explainMore": "Industry Minister Mélanie Joly has firmly stated that the federal government requires a clear, actionable plan and timeline from the U.S.-based owner of Stelco Inc., Cleveland-Cliffs, before any official meetings take place.\n\nThe demand underscores federal scrutiny over foreign ownership of critical Canadian heavy manufacturing assets and employment levels within domestic steel mills.\n\nFor regional engineering and manufacturing sectors in Southern Ontario, the trajectory of local steel operations remains a vital indicator of raw material access and regional industrial health.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/c8a73fa710eb2e3b2af9db8ae045bc0a8c2689d61e5ee33aa1b20ebef718ebbe_11d1c9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12122705/ottawa-demands-stelco-jobs-plan/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "How the war in Iran could import soaring home heating costs this winter",
-      "summary": "Since the start of the war in Iran, average retail home heating oil prices have jumped 42 per cent across most of Canada, reaching $2.50 per litre this week.",
-      "whyItMatters": "Spiking energy commodities directly increase heating and operational overhead for homeowners and industrial facilities alike.",
-      "explainMore": "The ongoing conflict in Iran has triggered a significant shock to global energy markets, driving home heating oil prices up by nearly half in parts of Canada. Sitting at $2.50 per litre, this sharp inflationary pressure strains household budgets and elevates baseline energy expenses as colder weather approaches.\n\nBeyond residential impacts, surging oil prices feed into broader industrial transportation and utility costs, reinforcing inflationary trends that influence broader monetary policy and borrowing costs.\n\nMonitoring energy supply shocks remains vital for assessing both consumer cost-of-living adjustments and industrial operational overhead.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/home-heating-oil-iran-war.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/"
+      "category": "Local",
+      "headline": "Ford government returns after 21-week hiatus with deficits, cannabis, and municipal changes on agenda",
+      "summary": "The Ontario legislature has returned following a 21-week summer break, bringing a backlog of issues including provincial budget deficits and municipal policy debates.",
+      "whyItMatters": "Provincial regulatory and economic policies directly influence Ontario's manufacturing competitiveness, operating costs, and business taxation frameworks.",
+      "explainMore": "Following a lengthy 21-week summer hiatus, the Ford government has resumed legislative business at Queen's Park. Opposition critics point out that the extended break allowed the government to avoid rigorous scrutiny during Question Period while issues built up over the season.\n\nKey legislative and policy items on the immediate agenda include discussions surrounding provincial deficits, Blue Box transitions, and related regulatory updates. For manufacturers and businesses across Ontario, tracking legislative movement is essential for anticipating shifts in compliance, provincial utility policies, and regional fiscal management.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176395164.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12121679/ford-government-returns-after-21-week-summer-hiatus/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.50%",
-        "positive": false
-      },
-      {
-        "name": "S&P 500",
-        "value": "▼ 0.52%",
-        "positive": false
-      },
-      {
-        "name": "Oil",
-        "value": "▲ 4.32%",
+        "value": "▲ 0.43%",
         "positive": true
       },
       {
+        "name": "S&P 500",
+        "value": "▲ 0.71%",
+        "positive": true
+      },
+      {
+        "name": "Oil",
+        "value": "▼ 1.95%",
+        "positive": false
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.7134",
+        "value": "0.7124",
         "positive": null
       }
     ],
-    "insight": "Equities opened lower with the TSX down 0.50% and the S&P 500 down 0.52%. Oil surged 4.32% to $169.53 amid geopolitical tensions in the Middle East, while the Canadian dollar held at 0.7134 USD."
+    "insight": "Equities showed positive movement with the TSX up 0.43% to 54.13 and the S&P 500 gaining 0.71% to 765.37. Oil pulled back 1.95% to $166.23, while the Canadian dollar held at 0.7124 against the U.S. dollar."
   },
   "yourMoney": {
-    "headline": "Energy Shock and Heating Cost Inflation Bear Watching",
-    "summary": "With retail home heating oil prices climbing 42% to $2.50 per litre due to the war in Iran, homeowners face heightened utility expenses this season.",
-    "whyItMatters": "Energy price spikes feed into broader inflation metrics, keeping pressure on household cash flow and influencing interest rate trajectories for variable-rate mortgage holders.",
-    "source": "Global News - Canada",
+    "headline": "Home heating oil prices surge 42 per cent amid conflict in Iran",
+    "summary": "Geopolitical conflict in Iran has driven average retail home heating oil prices up by 42 per cent across much of Canada, reaching $2.50 per litre.",
+    "whyItMatters": "For Canadian homeowners, spiking utility and heating costs directly increase winter household expenditures, adding inflationary pressure to personal budgets alongside variable mortgage considerations.",
+    "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/"
   },
   "manufacturing": {
-    "headline": "Cross-Border Trade Rhetoric and Defense Procurement Shifts",
-    "summary": "While President Trump points to a potential end to trade levies on Canadian goods, Prime Minister Mark Carney has paused the full F-35 fighter jet order for a potential mixed fleet, alongside ongoing developments with a Canada-led defence bank where the U.K. has opted out of membership but pledged cooperation.",
-    "whyItMatters": "Shifting federal defense procurement strategies and U.S. tariff postures directly influence Ontario's manufacturing, advanced engineering, and industrial supply chains.",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12121158/trump-trade-war-end-soon/",
-    "engineeringHeadline": "Defense and Aerospace Procurement Under Review",
-    "engineeringSummary": "Prime Minister Carney's review of the 88-jet F-35 order in favor of a potential mixed fleet signals a shifting landscape for high-precision manufacturing and aerospace engineering requirements in Canada."
+    "headline": "Ottawa demands employment guarantees from Cleveland-Cliffs for Stelco steel mills",
+    "summary": "A legislative committee in Nova Scotia is reviewing the controversial infrastructure plans for a massive $10-billion AI data centre.",
+    "whyItMatters": "Domestic steel supply and pricing are critical inputs for Ontario's heavy manufacturing, machining, and hydraulic cylinder production sectors.",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12122705/ottawa-demands-stelco-jobs-plan/",
+    "engineeringHeadline": "Nova Scotia legislative committee evaluates proposed $10B Cape Breton AI data centre",
+    "engineeringSummary": "Large-scale technological infrastructure projects of this magnitude highlight the massive electrical, thermal, and mechanical engineering demands required to support high-density computing facilities and industrial-scale grid integration."
   },
   "world": {
-    "headline": "Brazil’s Lula Wins Presidential Election, Complicating U.S. Regional Strategy",
-    "summary": "Brazil’s Lula won the presidential election, bucking a regional rightward shift and complicating the Trump administration's campaign to enlist Brazil in its military coalition.",
-    "whyItMatters": "Geopolitical shifts in South America affect regional trade dynamics, multilateral diplomatic alignments, and international commodity markets.",
+    "headline": "Brazil’s Lula wins presidential election, complicating U.S. regional strategy",
+    "summary": "Brazilian voters elected Lula in a presidential runoff, bucking broader regional shifts toward the right and presenting complexities for U.S. diplomatic and military coalition efforts in Latin America.",
+    "whyItMatters": "Shifts in major Latin American political leadership influence international trade alignments, resource markets, and global geopolitical stability.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12121163/brazil-lula-election/"
   },
   "lookingAhead": [
     {
+      "label": "This Week",
+      "text": "Israeli elections take place with Prime Minister Benjamin Netanyahu's political legacy on the line."
+    },
+    {
       "label": "Today",
-      "text": "Voters head to the polls across the Greater Toronto and Hamilton Area to elect mayors, councillors, and school board trustees."
+      "text": "Ontario's legislature sits following its summer break, with opposition parties set to press the government on provincial deficits and policy backlogs."
     },
     {
       "label": "This Week",
-      "text": "Federal Tory bill to scrap B.C.’s oil tanker ban goes for second reading, with opposition MPs pressing for policy repeal."
-    },
-    {
-      "label": "This Week",
-      "text": "Israeli elections take place, putting Prime Minister Benjamin Netanyahu’s nearly two-decade political legacy on the line."
+      "text": "Nova Scotia legislative committee meets to discuss the proposed $10-billion Cape Breton AI data centre project."
     }
   ]
 }
