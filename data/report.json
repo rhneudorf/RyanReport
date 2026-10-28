@@ -1,92 +1,102 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "morningSnapshot": {
-    "headline": "Ottawa Demands Stelco Jobs Plan; Energy Costs Surge as Heating Oil Jumps",
-    "summary": "Good morning, Ryan. Here is your personalized briefing focusing on key industrial developments in Ontario, surging energy utility costs affecting Canadian households, and global market updates."
+    "headline": "Bank of Canada Raises Policy Rate as Markets and Manufacturing Brace for Tariff Pressures",
+    "summary": "The Bank of Canada has increased its overnight rate by 25 basis points to 2.5%, impacting variable mortgage holders. Meanwhile, Ontario aligns with federal capital investment tax perks while automotive and manufacturing sectors warn of severe disruptions from impending U.S. tariffs."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton",
-    "headline": "Ottawa demands plan to restore Stelco jobs before meeting Cleveland-Cliffs CEO",
-    "summary": "Industry Minister Mélanie Joly is calling on the U.S.-based owner of Stelco Inc. to provide a concrete plan and timeline to restore jobs at its Canadian steel mills.",
-    "whyItMatters": "As an Ontario manufacturing professional closely tied to regional industrial supply chains, the stability of domestic steel production and regional employment directly impacts broader heavy industry and component demand.",
-    "explainMore": "Industry Minister Mélanie Joly has firmly stated that the federal government requires a clear, actionable plan and timeline from the U.S.-based owner of Stelco Inc., Cleveland-Cliffs, before any official meetings take place.\n\nThe demand underscores federal scrutiny over foreign ownership of critical Canadian heavy manufacturing assets and employment levels within domestic steel mills.\n\nFor regional engineering and manufacturing sectors in Southern Ontario, the trajectory of local steel operations remains a vital indicator of raw material access and regional industrial health.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/c8a73fa710eb2e3b2af9db8ae045bc0a8c2689d61e5ee33aa1b20ebef718ebbe_11d1c9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12122705/ottawa-demands-stelco-jobs-plan/"
+    "category": "Your Money",
+    "location": "Ottawa",
+    "headline": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
+    "summary": "The Bank of Canada increased its target for the overnight rate by 25 basis points to 2.5%, bringing the Bank Rate to 2.75% and the deposit rate to 2.45%.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, this rate hike directly increases your borrowing costs and monthly interest obligations.",
+    "explainMore": "The central bank announced its policy decision to adjust borrowing benchmarks, with Governor Tiff Macklem addressing the Monetary Policy Report during the subsequent press conference.\n\nFor homeowners managing variable-rate mortgages, an increase in the overnight rate translates directly to higher monthly interest payments or extended amortization periods depending on the specific structure of your financing.\n\nEconomic observers will be parsing the central bank's forward guidance closely to determine if further tightening is on the horizon as inflation and economic pressures continue to evolve across domestic markets.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Ford government returns after 21-week hiatus with deficits, cannabis, and municipal changes on agenda",
-      "summary": "The Ontario legislature has returned following a 21-week summer break, bringing a backlog of issues including provincial budget deficits and municipal policy debates.",
-      "whyItMatters": "Provincial regulatory and economic policies directly influence Ontario's manufacturing competitiveness, operating costs, and business taxation frameworks.",
-      "explainMore": "Following a lengthy 21-week summer hiatus, the Ford government has resumed legislative business at Queen's Park. Opposition critics point out that the extended break allowed the government to avoid rigorous scrutiny during Question Period while issues built up over the season.\n\nKey legislative and policy items on the immediate agenda include discussions surrounding provincial deficits, Blue Box transitions, and related regulatory updates. For manufacturers and businesses across Ontario, tracking legislative movement is essential for anticipating shifts in compliance, provincial utility policies, and regional fiscal management.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176395164.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Ontario matches feds’ tax perk for businesses on capital investments",
+      "summary": "Bethlenfalvy announced that Ontario's matching measures will provide about $8 billion in relief, designed to attract more businesses to the province over the long term.",
+      "whyItMatters": "Provides significant long-term capital investment incentives for businesses operating in Ontario.",
+      "explainMore": "The Ontario government has moved to match federal tax perks aimed at business capital investments, a move projected to inject approximately $8 billion in relief.\n\nFinance Minister Bethlenfalvy highlighted that the initiative is structured to bolster the province's competitive edge and draw long-term commercial investment into Ontario's industrial sectors.\n\nThis fiscal alignment could offer beneficial conditions for regional capital expenditures and industrial growth across local markets.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/f1d4587bd327316cedd4addcbc854d8336133e881175590b591a55e790916098_25bbaf.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12121679/ford-government-returns-after-21-week-summer-hiatus/"
+      "sourceUrl": "https://globalnews.ca/news/12124224/ontario-matches-feds-tax-perk-for-businesses-on-capital-investments/"
+    },
+    {
+      "category": "Canada",
+      "headline": "Higher tariffs on Canadian imports would be ‘catastrophic,’ Honda exec says",
+      "summary": "A pending increase in U.S. tariffs on steel and auto imports from Canada starting Jan. 1 would severely damage the automotive industry, according to a Honda Motor executive.",
+      "whyItMatters": "Escalating trade tensions and steel tariffs threaten the broader Ontario manufacturing supply chain.",
+      "explainMore": "As cross-border trade tensions persist, major manufacturers are sounding alarms regarding impending trade barriers set to take effect at the start of the year.\n\nA Honda Motor executive explicitly categorized the pending U.S. tariff increases on steel and automotive imports as 'catastrophic' for interconnected North American supply chains.\n\nWith trade negotiations ongoing and officials noting that a comprehensive U.S. deal is not imminent before midterms, the manufacturing sector faces mounting uncertainty over material input costs.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP170800134-e1793194222428.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - National",
+      "sourceUrl": "https://globalnews.ca/news/12124034/auto-tariffs-canada-honda/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.43%",
+        "value": "▲ 0.37%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.71%",
+        "value": "▲ 0.56%",
         "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 1.95%",
+        "value": "▼ 1.41%",
         "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7124",
+        "value": "0.7125",
         "positive": null
       }
     ],
-    "insight": "Equities showed positive movement with the TSX up 0.43% to 54.13 and the S&P 500 gaining 0.71% to 765.37. Oil pulled back 1.95% to $166.23, while the Canadian dollar held at 0.7124 against the U.S. dollar."
+    "insight": "Equities ticked upward following tech rebounds and ahead of federal rate decisions, while the Canadian dollar hovers around 0.71 USD and oil prices softened amid ongoing global energy shifts."
   },
   "yourMoney": {
-    "headline": "Home heating oil prices surge 42 per cent amid conflict in Iran",
-    "summary": "Geopolitical conflict in Iran has driven average retail home heating oil prices up by 42 per cent across much of Canada, reaching $2.50 per litre.",
-    "whyItMatters": "For Canadian homeowners, spiking utility and heating costs directly increase winter household expenditures, adding inflationary pressure to personal budgets alongside variable mortgage considerations.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/"
+    "headline": "Bank of Canada Raises Rate to 2.5% as Borrowing Costs Climb",
+    "summary": "Following the central bank's 25 basis point hike, variable mortgage holders face immediate upward pressure on loan servicing costs.",
+    "whyItMatters": "Directly impacts monthly cash flow for variable-rate mortgage holders and signals tighter financing conditions for real estate and personal investments.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Ottawa demands employment guarantees from Cleveland-Cliffs for Stelco steel mills",
-    "summary": "A legislative committee in Nova Scotia is reviewing the controversial infrastructure plans for a massive $10-billion AI data centre.",
-    "whyItMatters": "Domestic steel supply and pricing are critical inputs for Ontario's heavy manufacturing, machining, and hydraulic cylinder production sectors.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12122705/ottawa-demands-stelco-jobs-plan/",
-    "engineeringHeadline": "Nova Scotia legislative committee evaluates proposed $10B Cape Breton AI data centre",
-    "engineeringSummary": "Large-scale technological infrastructure projects of this magnitude highlight the massive electrical, thermal, and mechanical engineering demands required to support high-density computing facilities and industrial-scale grid integration."
+    "headline": "Minister Joly Tours Nexans Facility as Ontario Matches Capital Investment Tax Relief",
+    "summary": "Industry Minister Mélanie Joly visits electrical cable manufacturer Nexans for a site tour while Ontario introduces an $8 billion capital investment tax relief package to attract business.",
+    "whyItMatters": "Capital investment incentives and industrial component manufacturing updates directly impact regional engineering, automation, and supply chain strategies in Ontario.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-to-participate-in-a-site-visit-of-nexans-and-hold-a-media-availability.html",
+    "engineeringHeadline": "Ontario Pauses Better Jobs Ontario Skills Training Funding",
+    "engineeringSummary": "The provincial government has implemented a pause on funding through Better Jobs Ontario, impacting skills training programs traditionally utilized by unemployed individuals looking to enter technical fields."
   },
   "world": {
-    "headline": "Brazil’s Lula wins presidential election, complicating U.S. regional strategy",
-    "summary": "Brazilian voters elected Lula in a presidential runoff, bucking broader regional shifts toward the right and presenting complexities for U.S. diplomatic and military coalition efforts in Latin America.",
-    "whyItMatters": "Shifts in major Latin American political leadership influence international trade alignments, resource markets, and global geopolitical stability.",
+    "headline": "Russia-Ukraine Southern Ceasefire Holds Amid Broader Geopolitical Conflict",
+    "summary": "A planned ceasefire in southern Ukraine held through its first day and night, though military engagements continued elsewhere in the region.",
+    "whyItMatters": "Ongoing geopolitical conflicts continue to drive volatility in global energy markets, supply chains, and industrial input costs.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12121163/brazil-lula-election/"
+    "sourceUrl": "https://globalnews.ca/news/12124017/russia-ukraine-ceasefire-attacks/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Israeli elections take place with Prime Minister Benjamin Netanyahu's political legacy on the line."
+      "label": "This Weekend",
+      "text": "Quebec residents prepare to potentially set clocks back one hour for the final time as the province plans to end the biannual time change."
     },
     {
-      "label": "Today",
-      "text": "Ontario's legislature sits following its summer break, with opposition parties set to press the government on provincial deficits and policy backlogs."
+      "label": "January 1, 2027",
+      "text": "Pending U.S. tariffs on steel and automotive imports from Canada are scheduled to take effect, threatening major manufacturing supply chains."
     },
     {
-      "label": "This Week",
-      "text": "Nova Scotia legislative committee meets to discuss the proposed $10-billion Cape Breton AI data centre project."
+      "label": "December",
+      "text": "The public voting period concludes to select Canada's Eurovision entrant from the five finalists, with the winner announced by December."
     }
   ]
 }
