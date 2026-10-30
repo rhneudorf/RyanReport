@@ -1,92 +1,88 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "morningSnapshot": {
-    "headline": "Bank of Canada Rate Hike Impacts Variable Mortgages as Ontario Steel Pressures Mount",
-    "summary": "Good morning, Ryan. Following the Bank of Canada's recent 25 basis point rate increase to 2.5%, variable mortgage holders face immediate shifts. Meanwhile, federal pressure mounts on Stelco to recall laid-off workers in Hamilton as regional manufacturing and trade developments unfold."
+    "headline": "Economy Stalls Amid Bank of Canada Rate Hike as Trade War Pressure Mounts on Ontario",
+    "summary": "Statistics Canada reports the economy stalled for a second consecutive month in August, compounding the pressure on businesses as the Bank of Canada raises rates and Ontario budgets for deep deficits."
   },
   "topStory": {
     "category": "Local",
-    "location": "Hamilton",
-    "headline": "Stelco must recall laid off workers ‘immediately,’ Joly says in new letter",
-    "summary": "Federal Minister Mélanie Joly has written to Stelco President Paul Simon demanding a concrete and credible plan to recall laid-off steelworkers immediately.",
-    "whyItMatters": "As a key component of the regional industrial supply chain across the Hamilton and Niagara region, stability in domestic steel production directly impacts downstream manufacturing sectors like industrial hydraulics and regional engineering.",
-    "explainMore": "In a letter dated Oct. 29, Minister Joly made it clear that Ottawa expects swift action regarding the employment status of steelworkers. This follows statements from Cleveland-Cliffs Inc. CEO Lourenco Goncalves expressing hope to bring back laid-off workers before Christmas if Canadian sales strategies succeed.\n\nFor regional manufacturers operating near Beamsville and the broader Golden Horseshoe, the health of domestic steel mills remains a vital indicator of local raw material availability and pricing stability. Ensuring a steady supply of steel is essential for maintaining production schedules in heavy machinery and hydraulic cylinder manufacturing.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/Joly-e1793281094253.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "location": "Hamilton / Ontario",
+    "headline": "Stelco must recall laid off workers immediately, Joly says as Ontario projects $36B in deficits",
+    "summary": "Federal Minister Mélanie Joly has demanded that Stelco recall laid-off workers immediately following Cleveland-Cliffs' layoffs, while the Ontario government projects $36 billion in deficits over three years due to trade war strains with the U.S.",
+    "whyItMatters": "As an Ontario manufacturing professional in the industrial supply chain, regional steel stability and provincial trade headwinds directly impact heavy equipment demand, input costs, and broader industrial activity across the Golden Horseshoe.",
+    "explainMore": "Federal officials have sharply criticized Cleveland-Cliffs, stating that the company is making a mistake by failing to respect its obligations and commitments following the initiation of layoffs at Stelco. Minister Joly formally urged leadership to present a concrete and credible plan for re-engagement with affected workers.\n\nSimultaneously, the Ontario government released its fall economic update, projecting $36 billion in deficits over the next three years. The province is bracing for the long-term impact of an ongoing trade war with the United States, which continues to weigh heavily on regional industrial sectors and public finances.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP177171617-e1793294910140.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12125684/melanie-joly-stelco-layoff-letter/"
+    "sourceUrl": "https://globalnews.ca/news/12125929/mark-carney-stelco-layoffs-mistake/"
   },
   "stories": [
     {
       "category": "Canada",
-      "headline": "Ottawa’s national security strategy aims to protect from economic ‘shocks’",
-      "summary": "The federal government's new national security strategy emphasizes managing economic shocks while fostering growth and innovation.",
-      "whyItMatters": "Broad economic strategies directly influence industrial resilience, trade policies, and domestic manufacturing investments across Ontario.",
-      "explainMore": "The Liberal government's newly released national security framework highlights the necessity of safeguarding Canada's economic infrastructure against sudden global disruptions.\n\nFor engineers and manufacturers operating in automation and industrial technology, federal focus on economic stability provides an important backdrop for long-term capital planning and risk management against international trade volatility.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP151315-e1793277549981.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12125638/canada-national-security-strategy-announcement/"
+      "headline": "Canada’s economy stalled again in August, StatCan says",
+      "summary": "Statistics Canada reports that real gross domestic product was essentially unchanged in August for the second month in a row, weighed down by weakness in the public sector and wholesale trade.",
+      "whyItMatters": "A flat national GDP reading signals broader economic sluggishness that can constrain industrial capital expenditures and local demand for manufactured components.",
+      "explainMore": "The latest economic accounts from Statistics Canada reveal persistent stagnation across the national economy through late summer. Slower activity in key sectors like wholesale trade and the public sector points to a subdued macroeconomic backdrop.\n\nThis plateauing growth arrives alongside tightening monetary policy and trade tensions, posing acute planning challenges for industrial manufacturers navigating shifting demand cycles.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/bc3e050eaefdbaa653bd08e5b1e57bb0c1cd014fbba0cf6ca8acf3fd509b2051.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - National",
+      "sourceUrl": "https://globalnews.ca/news/12127155/canada-gdp-data-august-2026/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.29%",
+        "value": "▲ 0.09%",
         "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.34%",
-        "positive": true
+        "value": "▼ 0.38%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.64%",
+        "value": "▲ 0.97%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7158",
+        "value": "0.7167",
         "positive": null
       }
     ],
-    "insight": "Equities ticked slightly higher with the TSX up 0.29% to 54.49 and the S&P 500 gaining 0.34% to 772.31. Oil advanced 1.64% to $166.57, while the Canadian dollar traded at 0.7158 against the US greenback."
+    "insight": "Oil climbed nearly 1% to $168.19, while the TSX edged up slightly and the Canadian dollar held at 0.7167 against the greenback amid ongoing domestic economic stagnation and U.S. trade friction."
   },
   "yourMoney": {
     "headline": "Bank of Canada Raises Policy Rate by 25 Basis Points to 2½%",
-    "summary": "The Bank of Canada increased its target for the overnight rate to 2.5%, with the Bank Rate at 2.75% and the deposit rate at 2.45%.",
-    "whyItMatters": "As a 5-year variable mortgage holder, this 25 basis point rate increase directly impacts your borrowing costs and monthly interest obligations.",
+    "summary": "The Bank of Canada increased its target for the overnight rate to 2.5%, with the Bank Rate moving to 2.75%, directly impacting variable-rate mortgage holders.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, this 25-basis-point increase will drive up borrowing costs and monthly interest allocations.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Ministers Solomon and Virkkunen to Announce Canada–EU Digital Cooperation Partnership",
-    "summary": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon and EU Executive Vice-President Henna Virkkunen will announce a new partnership to strengthen digital cooperation.",
-    "whyItMatters": "Closer technological alignment with European standards can accelerate industrial automation, software integration, and advanced manufacturing capabilities in Southern Ontario.",
+    "headline": "Ottawa Invests $750 Million in Year-Round Domestic Food Production",
+    "summary": "The federal government has announced a $750 million investment in domestic year-round food production to counter seasonal supply limitations.",
+    "whyItMatters": "Agricultural and domestic manufacturing infrastructure projects generate localized demand for automation, heavy machinery, and hydraulic systems.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-and-executive-vice-president-virkkunen-to-announce-new-partnership-at-canadaeuropean-union-summit.html",
-    "engineeringHeadline": "Government Launches Telecom Competition Roadmap and Agricultural Science Engagement",
-    "engineeringSummary": "Ottawa launched Canada’s first Telecom Competition Roadmap to expand digital choice, alongside a nationwide engagement initiative on the future of agricultural science and industrial research facilities."
+    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/government-of-canada-invests-750-million-in-domestic-year-round-food-production-to-improve-access-to-fruits-and-vegetables.html",
+    "engineeringHeadline": "Canada-EU Digital Trade and Tech Sovereignty Partnership Formed",
+    "engineeringSummary": "Federal ministers concluded a summit in Montreal establishing a new digital and technological cooperation partnership with the European Union, focusing on tech sovereignty and industrial resilience."
   },
   "world": {
     "headline": "European Central Bank President Christine Lagarde Resigns Amid Economic Volatility",
-    "summary": "ECB President Christine Lagarde announced her resignation on Thursday, stepping down as Europe enters a period of heightened economic volatility.",
-    "whyItMatters": "Leadership changes at key central banks during periods of financial instability can trigger ripple effects across global currency markets, trade flows, and manufacturing supply chains.",
+    "summary": "Christine Lagarde has announced her resignation as head of the European Central Bank, citing mounting economic volatility across European markets.",
+    "whyItMatters": "Leadership shifts at the ECB compound international financial instability, affecting global currency flows, European trade partnerships, and macro-industrial sentiment.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12125624/european-central-bank-president-resigns/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Federal Auditor General issues report cards tracking government agencies' progress on reducing greenhouse gas emissions."
+      "text": "The Canada-European Union summit concludes in Montreal with final announcements on digital trade and academic exchanges."
     },
     {
-      "label": "Today",
-      "text": "Ontario Finance Minister Peter Bethlenfalvy tables the provincial fall economic statement."
-    },
-    {
-      "label": "Nov. 5, 2026",
-      "text": "Federal government is set to table Budget 2026, themed around Canada's sovereignty and a period of change."
+      "label": "This Week",
+      "text": "Monitor regional steel developments in Hamilton following federal demands for Stelco to recall laid-off workers."
     }
   ]
 }
