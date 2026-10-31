@@ -1,88 +1,88 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "morningSnapshot": {
-    "headline": "Economy Stalls Amid Bank of Canada Rate Hike as Trade War Pressure Mounts on Ontario",
-    "summary": "Statistics Canada reports the economy stalled for a second consecutive month in August, compounding the pressure on businesses as the Bank of Canada raises rates and Ontario budgets for deep deficits."
+    "headline": "Bank of Canada Raises Rates to 2.5%, GDP Stagnates, and Canada Pursues Historic EU Partnership",
+    "summary": "Good morning, Ryan. Ottawa and Brussels are advancing plans for Canada to become the EU's first associate member amid a shifting geopolitical landscape. Domestically, the Bank of Canada has hiked its policy rate by 25 basis points to 2.5%, directly impacting variable-rate mortgages, while August GDP data shows the economy essentially unchanged for a second straight month."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton / Ontario",
-    "headline": "Stelco must recall laid off workers immediately, Joly says as Ontario projects $36B in deficits",
-    "summary": "Federal Minister Mélanie Joly has demanded that Stelco recall laid-off workers immediately following Cleveland-Cliffs' layoffs, while the Ontario government projects $36 billion in deficits over three years due to trade war strains with the U.S.",
-    "whyItMatters": "As an Ontario manufacturing professional in the industrial supply chain, regional steel stability and provincial trade headwinds directly impact heavy equipment demand, input costs, and broader industrial activity across the Golden Horseshoe.",
-    "explainMore": "Federal officials have sharply criticized Cleveland-Cliffs, stating that the company is making a mistake by failing to respect its obligations and commitments following the initiation of layoffs at Stelco. Minister Joly formally urged leadership to present a concrete and credible plan for re-engagement with affected workers.\n\nSimultaneously, the Ontario government released its fall economic update, projecting $36 billion in deficits over the next three years. The province is bracing for the long-term impact of an ongoing trade war with the United States, which continues to weigh heavily on regional industrial sectors and public finances.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/10/CP177171617-e1793294910140.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12125929/mark-carney-stelco-layoffs-mistake/"
+    "category": "Canada / Geopolitics",
+    "location": "Ottawa / Brussels",
+    "headline": "‘Associate’ EU membership for Canada not a ‘short-term’ project: expert",
+    "summary": "Carney said Ottawa and Brussels are working toward the 'deepest possible partnership short of accession' that would see Canada become the EU's 'first associate member.'",
+    "whyItMatters": "As trade becomes increasingly weaponized globally, forging a deeper alliance with the European Union holds immense strategic and economic importance for Canadian supply chains, technology sharing, and international commerce.",
+    "explainMore": "Canada and the EU are actively laying out their vision for what a closer relationship looks like in an increasingly dangerous and divided world where traditional trade frameworks face disruption.\n\nWhile officials stress this is not a short-term project, the push toward associate membership signals a major structural shift in how Canada intends to secure its economic future and diversify its international partnerships.\n\nFor industrial sectors, closer alignment with European standards, tech initiatives, and emergency preparedness frameworks could open new doors for cross-continental trade and technological cooperation.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/EU-summit-2-e1793458357136.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12128698/associate-eu-membership-for-canada/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Canada’s economy stalled again in August, StatCan says",
-      "summary": "Statistics Canada reports that real gross domestic product was essentially unchanged in August for the second month in a row, weighed down by weakness in the public sector and wholesale trade.",
-      "whyItMatters": "A flat national GDP reading signals broader economic sluggishness that can constrain industrial capital expenditures and local demand for manufactured components.",
-      "explainMore": "The latest economic accounts from Statistics Canada reveal persistent stagnation across the national economy through late summer. Slower activity in key sectors like wholesale trade and the public sector points to a subdued macroeconomic backdrop.\n\nThis plateauing growth arrives alongside tightening monetary policy and trade tensions, posing acute planning challenges for industrial manufacturers navigating shifting demand cycles.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/bc3e050eaefdbaa653bd08e5b1e57bb0c1cd014fbba0cf6ca8acf3fd509b2051.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - National",
-      "sourceUrl": "https://globalnews.ca/news/12127155/canada-gdp-data-august-2026/"
+      "category": "Economy",
+      "headline": "Real gross domestic product essentially unchanged in August",
+      "summary": "Statistics Canada reports that real gross domestic product remained essentially unchanged in August, marking the second consecutive month of flat economic growth.",
+      "whyItMatters": "A flatlining GDP coupled with central bank tightening points to a cooling domestic economy, presenting a complex backdrop for manufacturing demand and industrial output in Ontario.",
+      "explainMore": "The latest economic accounts from Statistics Canada show a persistent stagnation in real GDP through the summer months. This lack of momentum highlights the sluggish pace of broader economic expansion.\n\nFor engineers and manufacturers operating in Southern Ontario, flat growth underscores the importance of monitoring input costs, operational efficiency, and shifting industrial demand as the broader economy absorbs higher borrowing expenses.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
+      "source": "Statistics Canada - Economic Accounts",
+      "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030a-eng.htm"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.09%",
-        "positive": true
+        "value": "▼ 1.39%",
+        "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.38%",
+        "value": "▼ 1.77%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.97%",
+        "value": "▲ 0.38%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7167",
+        "value": "0.7158",
         "positive": null
       }
     ],
-    "insight": "Oil climbed nearly 1% to $168.19, while the TSX edged up slightly and the Canadian dollar held at 0.7167 against the greenback amid ongoing domestic economic stagnation and U.S. trade friction."
+    "insight": "North American equities retreated with the TSX down 1.39% to 53.78 and the S&P 500 dropping 1.77% to 755.72. Crude oil ticked up 0.38% to $168.83, while the Canadian dollar held steady at 0.7158 USD."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Raises Policy Rate by 25 Basis Points to 2½%",
-    "summary": "The Bank of Canada increased its target for the overnight rate to 2.5%, with the Bank Rate moving to 2.75%, directly impacting variable-rate mortgage holders.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, this 25-basis-point increase will drive up borrowing costs and monthly interest allocations.",
+    "headline": "Bank of Canada Raises Policy Rate by 25 Basis Points to 2.5%",
+    "summary": "The Bank of Canada increased its target for the overnight rate by 25 basis points to 2.5%, bringing the Bank Rate to 2.75% and the deposit rate to 2.45%.",
+    "whyItMatters": "As a 5-year variable-rate mortgage holder, this rate increase will directly raise your borrowing costs, making it crucial to reassess your monthly cash flow and long-term financial strategy.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Ottawa Invests $750 Million in Year-Round Domestic Food Production",
-    "summary": "The federal government has announced a $750 million investment in domestic year-round food production to counter seasonal supply limitations.",
-    "whyItMatters": "Agricultural and domestic manufacturing infrastructure projects generate localized demand for automation, heavy machinery, and hydraulic systems.",
+    "headline": "Canada and EU Announce New Digital and Tech Partnerships",
+    "summary": "At the Canada-European Union Summit, federal ministers announced new partnerships aimed at strengthening digital cooperation, tech sovereignty, and security.",
+    "whyItMatters": "Closer technological and industrial alignment with Europe offers Canadian engineering and manufacturing firms expanded pathways for innovation and advanced industrial collaboration.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/10/government-of-canada-invests-750-million-in-domestic-year-round-food-production-to-improve-access-to-fruits-and-vegetables.html",
-    "engineeringHeadline": "Canada-EU Digital Trade and Tech Sovereignty Partnership Formed",
-    "engineeringSummary": "Federal ministers concluded a summit in Montreal establishing a new digital and technological cooperation partnership with the European Union, focusing on tech sovereignty and industrial resilience."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-and-executive-vice-president-virkkunen-to-announce-new-partnership-at-canadaeuropean-union-summit.html",
+    "engineeringHeadline": "NATO Commander Emphasizes Need for Advanced Tech Integration",
+    "engineeringSummary": "A top NATO commander stated that Canada needs a 'good mix' of new technology, including drones and artificial intelligence, as the upcoming federal budget approaches with details on meeting defense spending targets by 2035."
   },
   "world": {
-    "headline": "European Central Bank President Christine Lagarde Resigns Amid Economic Volatility",
-    "summary": "Christine Lagarde has announced her resignation as head of the European Central Bank, citing mounting economic volatility across European markets.",
-    "whyItMatters": "Leadership shifts at the ECB compound international financial instability, affecting global currency flows, European trade partnerships, and macro-industrial sentiment.",
+    "headline": "Canada and EU Lay Out Vision for Closer Ties in ‘Dangerous and Divided’ World",
+    "summary": "Canadian and European leaders met to outline their vision for a fortified alliance as global trade faces increasing weaponization and geopolitical friction.",
+    "whyItMatters": "Global trade fragmentation and shifting security paradigms directly influence international supply chains, raw material pricing, and the stability of export-driven manufacturing sectors.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12125624/european-central-bank-president-resigns/"
+    "sourceUrl": "https://globalnews.ca/news/12127600/canada-eu-alliance/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "The Canada-European Union summit concludes in Montreal with final announcements on digital trade and academic exchanges."
+      "label": "Next Week",
+      "text": "Federal budget releases are expected to provide specific details regarding Canada's defense spending targets and technological investments through 2035."
     },
     {
-      "label": "This Week",
-      "text": "Monitor regional steel developments in Hamilton following federal demands for Stelco to recall laid-off workers."
+      "label": "Ongoing",
+      "text": "Monitor the implementation of the Bank of Canada's new 2.5% policy rate across variable mortgage structures and business lending facilities."
     }
   ]
 }
