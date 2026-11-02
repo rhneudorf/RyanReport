@@ -1,30 +1,40 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "morningSnapshot": {
-    "headline": "Bank of Canada Rate Hike Reverberates as Markets Pull Back and Trade Realignments Take Shape",
-    "summary": "Good morning, Ryan. Following the Bank of Canada's policy rate increase to 2.5%, local markets face a downturn with the TSX down 1.39%. Meanwhile, Ottawa is pushing broader international partnerships with northern Europe and the EU amid shifting global trade dynamics."
+    "headline": "Trade War Looms Over Budget 2026 as Border State Races Heat Up",
+    "summary": "Good morning, Ryan. As Finance Minister Champagne prepares to unveil Budget 2026, the ongoing U.S. trade war and border state midterm races dominate the economic landscape, while the Bank of Canada's recent rate hike continues to ripple through variable mortgages."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Ottawa, Ontario",
-    "headline": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
-    "summary": "The Bank of Canada increased its target for the overnight rate by 25 basis points to 2.5%, bringing the Bank Rate to 2.75% and the deposit rate to 2.45%.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, this immediate shift directly impacts your borrowing costs and monthly variable payments following Governor Tiff Macklem's latest Governing Council decisions.",
-    "explainMore": "The 25-basis-point increase to 2.5% marks a notable adjustment in the monetary policy stance, arrived at after deliberations detailed by Governor Tiff Macklem during the Monetary Policy Report press conference. \n\nFor variable-rate mortgage holders, this means an immediate upward adjustment in interest obligations tied to prime rates. Financial planning requires recalibrating cash flows as borrowing conditions tighten across the broader economy.\n\nWith real GDP essentially unchanged in August for a second consecutive month, the central bank's tightening cycle navigates a flat economic growth backdrop while managing policy levers.",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+    "category": "Canada-US Trade",
+    "location": "Ottawa / Washington / U.S. Border States",
+    "headline": "Budget 2026 is about ‘us,’ not the U.S. trade war, finance minister says",
+    "summary": "As U.S. border state midterm races focus heavily on the trade war narrative with Canada, Finance Minister François-Philippe Champagne insists that the upcoming sophomore budget under the Carney government is focused on domestic priorities rather than just the ongoing trade dispute with Trump's administration.",
+    "whyItMatters": "For Canadian manufacturing, trade tensions and U.S. border policies directly impact cross-border supply chains, industrial investment, and market confidence.",
+    "explainMore": "Nowhere has the trade war with Canada occupied the election cycle narrative more than in the seven border states electing new senators. Meanwhile, Finance Minister Champagne is set to unveil the Carney government’s sophomore budget on Thursday.\n\nChampagne acknowledged that barriers to investment, particularly among Canada's small businesses, include the complexity of the tax code, signaling that tax troubles will be a key target of the upcoming federal budget.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/10/4436a221108b0da6f48121a8f1018bc3417e54525db5793b142ded5b2ce46fff_e4b91a.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12129875/budget-2026-about-us-not-trade-war-champagne/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "‘Associate’ EU membership for Canada not a ‘short-term’ project: expert",
-      "summary": "Ottawa and Brussels are working toward the deepest possible partnership short of accession that would see Canada become the EU's first associate member.",
-      "whyItMatters": "Deepening European ties represents a strategic shift in trade policy as global commerce becomes increasingly weaponized, potentially opening new avenues for Canadian industrial sectors.",
-      "explainMore": "Discussions led by officials outline a vision for closer economic alignment in a dangerous and divided world. While not a short-term project, moving toward associate membership status signals a structural evolution in international trade and security cooperation.\n\nFor Canadian manufacturing and technology sectors, closer alignment with European markets could alter supply chain dependencies and open collaborative frameworks in high-tech and industrial innovation.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/EU-summit-2-e1793458357136.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Small Business & Taxes",
+      "headline": "Small business tax troubles a target of federal budget: Champagne",
+      "summary": "Federal officials acknowledge that complex tax codes remain a major barrier to investment for Canadian small businesses, putting tax relief front and center for Budget 2026.",
+      "whyItMatters": "Simplifying tax compliance directly affects operational planning and cash flow reinvestment for industrial suppliers and small commercial enterprises.",
+      "explainMore": "Finance Minister Champagne noted that small business tax troubles are a primary target of the upcoming federal budget. He acknowledged that the complexity of the tax code has acted as a distinct barrier to private sector investment across Canada.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/833181b612d0af4cf650c9fffd282f5057e6ef1849312b632345a7bf4a02e525.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12128698/associate-eu-membership-for-canada/"
+      "sourceUrl": "https://globalnews.ca/news/12130114/budget-2026-small-business-tax-help/"
+    },
+    {
+      "category": "Economy",
+      "headline": "Real GDP essentially unchanged in August for second consecutive month",
+      "summary": "Statistics Canada reports that real gross domestic product remained essentially flat through August, maintaining the economic plateau seen in July.",
+      "whyItMatters": "Stalling GDP growth signals a broader cooling economy, which heavily influences central bank monetary policy adjustments and borrowing costs.",
+      "explainMore": "Economic momentum has slowed significantly, with real GDP showing zero net growth for a second consecutive month in August, according to Statistics Canada's economic accounts data.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1000&q=80",
+      "source": "Statistics Canada - Economic Accounts",
+      "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030a-eng.htm"
     }
   ],
   "markets": {
@@ -46,43 +56,47 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7158",
+        "value": "0.7149",
         "positive": null
       }
     ],
-    "insight": "Domestic and U.S. equities pulled back significantly, with the TSX down 1.39% and the S&P 500 falling 1.77%. Oil ticked up to 168.83, while the Canadian dollar held at 0.7158 against the greenback amid evolving rate environments."
+    "insight": "North American equities faced downward pressure with the TSX slipping 1.39% to 53.78 and the S&P 500 dropping 1.77% to 755.72. Crude oil ticked upward to $168.83, while the Canadian dollar held near 0.7149 against the greenback."
   },
   "yourMoney": {
-    "headline": "Real GDP flat in August as economy digests rate pressures",
-    "summary": "Statistics Canada reported that real gross domestic product was essentially unchanged in August, marking the second consecutive flat month.",
-    "whyItMatters": "A flat GDP reading alongside a higher policy rate indicates an economy stalling out under tightening monetary conditions, reinforcing the need for conservative long-term investment and debt management.",
-    "source": "Statistics Canada - Economic Accounts",
-    "sourceUrl": "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030a-eng.htm"
+    "headline": "Bank of Canada Raises Policy Rate to 2.5%",
+    "summary": "The Bank of Canada increased its target for the overnight rate by 25 basis points to 2.5%, lifting the Bank Rate to 2.75% and the deposit rate to 2.45%.",
+    "whyItMatters": "As a 5-year variable mortgage holder, this 25 basis point hike directly increases your borrowing costs and shifts your payment allocations toward higher interest.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Government of Canada to promote trade and investment with Sweden and northern Europe",
-    "summary": "Ottawa is launching initiatives to highlight Canada's world-class industries and innovation among business leaders across Sweden and northern Europe.",
-    "whyItMatters": "International trade promotion in advanced industrial regions creates direct export and partnership opportunities for Canadian manufacturers, engineering firms, and automation specialists.",
+    "headline": "Government of Canada Promotes Trade and Investment with Sweden and Northern Europe",
+    "summary": "Ottawa has launched a dedicated trade and investment promotion initiative targeting Sweden and northern Europe to highlight Canada's world-class industrial innovations.",
+    "whyItMatters": "Diversifying international trade pathways helps Canadian manufacturers and industrial technology providers navigate ongoing U.S. border trade friction.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-to-promote-trade-and-investment-with-sweden-and-northern-europe.html",
-    "engineeringHeadline": "NATO commander highlights critical need for tech integration like drones and AI",
-    "engineeringSummary": "A NATO commander emphasized that Canada requires a good mix of new technology such as drones and artificial intelligence as the federal budget approaches with details on meeting ambitious defense spending targets by 2035."
+    "engineeringHeadline": "Automation & Industrial Infrastructure Vulnerabilities Highlighted by Global Cyber Incidents",
+    "engineeringSummary": "Recent remote cyberattacks targeting supermarket refrigeration systems across European countries underscore the critical need for robust cybersecurity, network isolation, and secure protocol implementation across automated industrial control systems and connected operational infrastructure."
   },
   "world": {
-    "headline": "Canada and EU lay out vision for closer ties in dangerous and divided world",
-    "summary": "Canada and the European Union have detailed their framework for a unified economic and strategic alliance as global trade faces increasing weaponization.",
-    "whyItMatters": "Geopolitical realignment directly impacts international supply chains, industrial input costs, and export regulations for heavy manufacturing and engineering sectors.",
+    "headline": "Supermarket Freezers in 4 European Countries Hit by Apparent Cyberattack",
+    "summary": "Automated refrigeration systems across multiple European supermarkets experienced remote interference, following previous incidents where attackers remotely spiked internal temperatures.",
+    "whyItMatters": "Industrial automation and remote-monitoring vulnerabilities pose growing operational and security challenges for integrated manufacturing and supply chain infrastructure globally.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12127600/canada-eu-alliance/"
+    "sourceUrl": "https://globalnews.ca/news/12129831/europe-freezer-hack/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Federal budget details expected regarding defense spending targets and advanced technology integration like drones and AI."
+      "label": "Thursday",
+      "text": "Finance Minister François-Philippe Champagne unveils Budget 2026, featuring targeted updates on small business taxes and national fiscal strategy."
     },
     {
-      "label": "December 2026",
-      "text": "By-elections scheduled across six ridings in Ontario, Quebec, and Saskatchewan."
+      "label": "This Week",
+      "text": "Monitor ongoing U.S. border state midterm election outcomes as trade war narratives continue to drive political and economic headlines."
+    },
+    {
+      "label": "December",
+      "text": "Federal by-elections scheduled across six ridings in Ontario, Quebec, and Saskatchewan."
     }
   ]
 }
