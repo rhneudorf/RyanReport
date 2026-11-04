@@ -1,92 +1,88 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "morningSnapshot": {
-    "headline": "Markets Drift Ahead of U.S. Midterms; Bank of Canada Rate Stays at 2.5%",
-    "summary": "Good morning, Ryan. North American markets are drifting in mixed trading as the U.S. approaches its midterm elections, while the Bank of Canada's recent 25 basis point rate hike to 2.5% continues to ripple through variable mortgages. Trade initiatives expand toward northern Europe, and industrial connectivity remains a core focus."
+    "headline": "U.S. Midterms Shift Congress as Markets Rally; Ontario Prepares Trade Push South",
+    "summary": "U.S. voters deliver a sweeping blue wave in the midterms, shifting control of Congress and driving early stock market gains while prompting swift political and trade maneuvers from Canadian leaders."
   },
   "topStory": {
     "category": "Canada",
-    "location": "Ottawa / National",
-    "headline": "Stock markets shaky ahead of U.S. midterm election as Apple faces pressure",
-    "summary": "North American stock markets are drifting in mixed trading on Tuesday morning, with Apple dropping sharply in early trading ahead of the U.S. midterm elections.",
-    "whyItMatters": "Broad market volatility directly impacts long-term investment portfolios and reflects the cross-border economic sensitivities tied to American political shifts.",
-    "explainMore": "North American markets have opened on a cautious note this Tuesday, with early trading characterized by mixed results and downward pressure on major technology names like Apple. Investors are closely monitoring the political landscape south of the border as the U.S. midterm elections approach.\n\nFor long-term investors, periods of pre-election market drift underscore the importance of maintaining a steady, disciplined strategy amidst short-term volatility. Equity indices are reacting to both domestic monetary policy adjustments and the impending electoral outcomes.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177100041-e1793720395907.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12134358/stock-markets-midterm-elections/"
+    "location": "Washington / Ottawa",
+    "headline": "Stock markets rally in early trading after U.S. midterm election",
+    "summary": "Stock markets rallied in both Canada and the U.S. early Wednesday after the U.S. midterm election yielded Democratic majorities in both houses of Congress, marking a clear rejection of President Donald Trump's turbulent second term.",
+    "whyItMatters": "As an Ontario manufacturer and long-term investor, shifts in U.S. political power directly impact cross-border trade tensions, tariff policies, and broader market sentiment affecting your portfolio.",
+    "explainMore": "The world woke up on Wednesday morning to control of the U.S. Congress shifting to Democrats, a development described by Florida Gov. Ron DeSantis as a close to an extinction-level event for Republicans. World leaders who have sparred with the 'America first' U.S. President greeted the rout with a measure of relief.\n\nIn response to the shifting political landscape, Canadian provincial leaders are mobilizing. Ontario Premier Doug Ford remarked that he did 'cartwheels' over the results and is directing his ministers to head down to Washington, D.C., as soon as newly elected officials are sworn in at the end of January. Meanwhile, Quebec Premier Paul St-Pierre Plamondon announced a diplomatic offensive south of the border.\n\nThe election results arrived amid ongoing tariff backlash in states like Maine and Michigan. North American markets responded positively to the political shift, with stock markets rallying in early trading after experiencing shaky conditions earlier in the week.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177099984-e1793798379272.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12136234/stock-markets-react-midterm-elections/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Budget 2026 to include update on immigration levels, sources say",
-      "summary": "The annual immigration levels update will be included in the federal budget being released Thursday, a government source with knowledge of the plan confirmed.",
-      "whyItMatters": "Immigration policy adjustments directly influence national population growth, housing demand, and workforce dynamics across the Canadian economy.",
-      "explainMore": "Federal officials have confirmed that the upcoming annual immigration levels update will be integrated directly into the federal budget set for release on Thursday. This inclusion ties population growth figures directly to broader fiscal planning.\n\nChanges to immigration targets carry significant downstream effects for housing demand, municipal infrastructure requirements, and labor market participation across various industrial sectors in Ontario and nationwide.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177159395-e1793723425177.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12134425/federal-budget-2026-immigration/"
+      "category": "Local",
+      "headline": "Ford government to approve AI data centres ‘sooner rather than later’ amid moratorium calls",
+      "summary": "Economic Development Minister Vic Fedeli announced the Ontario government is receiving numerous proposals for new AI data centres and intends to approve them relatively quickly despite calls for a moratorium.",
+      "whyItMatters": "Accelerated infrastructure and technology investments across Ontario signal robust industrial demand for power, automation, and advanced engineering systems.",
+      "explainMore": "The Ford government is moving ahead with plans to greenlight artificial intelligence data centre proposals across the province sooner rather than later. Economic Development Minister Vic Fedeli acknowledged the heavy influx of project proposals while declining to provide a strict timeline for final approvals.\n\nThe push for data infrastructure parallels similar technological developments emerging in other provinces, such as community discussions surrounding Nova Scotia's first planned AI data centre, highlighting a nationwide race to scale up digital and computational infrastructure.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176369372-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12134754/ford-government-to-approve-ai-data-centres-sooner-rather-than-later-amid-moratorium-calls/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.54%",
-        "positive": true
+        "value": "▼ 1.11%",
+        "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.48%",
-        "positive": false
+        "value": "▲ 0.30%",
+        "positive": true
       },
       {
         "name": "Oil",
-        "value": "▼ 7.08%",
-        "positive": false
+        "value": "▲ 0.83%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7147",
+        "value": "0.7163",
         "positive": null
       }
     ],
-    "insight": "The TSX gained 0.54% to sit at 54.07 while the S&P 500 dipped 0.48%. Oil dropped significantly by over 7% to $156.87, and the Canadian dollar held steady at 0.7147 USD."
+    "insight": "North American equities showed divergent momentum following the U.S. midterms, with the S&P 500 gaining 0.30% while the TSX pulled back 1.11%. Oil ticked higher to $158.17 amid ongoing Middle East supply sensitivities."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Policy Rate Holds at 2.5% Following Recent Increase",
-    "summary": "Following the Bank of Canada's recent increase of its target for the overnight rate by 25 basis points to 2.5% (with the Bank Rate at 2.75%), variable-rate mortgage holders continue to navigate higher borrowing costs.",
-    "whyItMatters": "As a 5-year variable mortgage holder in Beamsville, monitoring the 2.5% policy rate is essential for managing your monthly household cash flow and housing carrying costs.",
+    "headline": "Bank of Canada Policy Rate Holds at 2.5% Following Recent 25 bps Cut",
+    "summary": "As you navigate a 5-year variable mortgage, the Bank of Canada's recent move to lower its overnight rate target to 2.5% provides a baseline for borrowing costs as economic committee discussions continue.",
+    "whyItMatters": "Variable mortgage holders benefit directly when the central bank lowers its target rate, though monitoring broader fiscal policy and parliamentary committee testimony remains vital for long-term planning.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Government of Canada Promotes Trade and Investment with Sweden and Northern Europe",
-    "summary": "Ottawa highlights Canada's world-class industries and innovation among business leaders to expand international trade corridors.",
-    "whyItMatters": "Expanding international trade opportunities for advanced Canadian industrial sectors supports export growth and technological exchange for specialized manufacturing operations.",
+    "headline": "Canada and China Agree to Two-Year Extension of Favourable Market Access Through 2028",
+    "summary": "Minister of International Trade Maninder Sidhu announced a two-year extension of favourable market access under the Preliminary Joint Arrangement for key Canadian exports through the end of 2028.",
+    "whyItMatters": "Stability in international trade agreements and export channels supports broader industrial confidence and supply chain predictability across Canadian manufacturing sectors.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-to-promote-trade-and-investment-with-sweden-and-northern-europe.html",
-    "engineeringHeadline": "High-Speed Fibre Infrastructure Drives Industrial Connectivity",
-    "engineeringSummary": "High-speed internet access and fibre-optic cable are increasingly recognized as the backbone of the Canadian economy, enabling businesses to utilize digital storefronts, streamline remote work, and expand access to online education and technical training."
+    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
+    "engineeringHeadline": "Canadian Space Agency Prepares for Colonel Joshua Kutryk's Second Spacewalk",
+    "engineeringSummary": "The Canadian Space Agency invited media representatives to the John H. Chapman Space Centre to witness the livestream of Colonel Joshua Kutryk conducting his second spacewalk, highlighting advanced Canadian engineering achievements in aerospace."
   },
   "world": {
-    "headline": "Greenland Approves Security Deal with U.S., Denmark Amid Trump Pressure",
-    "summary": "A trilateral security agreement paves the way for expanded U.S. military bases in Greenland, easing diplomatic tensions over prior acquisition demands.",
-    "whyItMatters": "Geopolitical realignment in the Arctic carries strategic implications for North American security, sovereignty, and northern resource access.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12134448/greenland-approves-security-deal-with-u-s-denmark-amid-trump-pressure/"
+    "headline": "U.S. Limited Strike on Strait of Hormuz Stirs Global Energy and Security Concerns",
+    "summary": "A limited U.S. military strike in the Strait of Hormuz has left international observers questioning subsequent developments regarding regional security and oil transit routes.",
+    "whyItMatters": "Geopolitical friction points in critical energy corridors directly influence global crude oil pricing, manufacturing overhead, and broader macroeconomic stability.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12134747/us-strike-strait-of-hormuz/"
   },
   "lookingAhead": [
     {
-      "label": "Thursday",
-      "text": "Federal Budget 2026 release, featuring the annual update on immigration levels."
+      "label": "Today",
+      "text": "Watch the Canadian Space Agency livestream of Colonel Joshua Kutryk's second spacewalk from the John H. Chapman Space Centre."
     },
     {
-      "label": "This Week",
-      "text": "Continued observation of North American equity market movements ahead of U.S. midterm election outcomes."
-    },
-    {
-      "label": "December",
-      "text": "Federal by-elections scheduled across ridings in Ontario, Quebec, and Saskatchewan."
+      "label": "Late January",
+      "text": "Monitor incoming U.S. congressional swearing-ins and subsequent diplomatic delegations from Ontario and Quebec heading to Washington, D.C."
     }
   ]
 }
