@@ -1,88 +1,98 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-06",
   "morningSnapshot": {
-    "headline": "U.S. Midterms Shift Congress as Markets Rally; Ontario Prepares Trade Push South",
-    "summary": "U.S. voters deliver a sweeping blue wave in the midterms, shifting control of Congress and driving early stock market gains while prompting swift political and trade maneuvers from Canadian leaders."
+    "headline": "Global AI Stock Sell-Off Slams Markets as Canadian Unemployment Ticks Up to 6.7%",
+    "summary": "Ryan, global markets are sliding amid a massive tech sell-off, while Statistics Canada reports October's unemployment rate climbing to 6.7% as more job seekers enter the market. Locally in Southern Ontario, federal officials highlight housing investments, and market access agreements offer trade stability."
   },
   "topStory": {
-    "category": "Canada",
-    "location": "Washington / Ottawa",
-    "headline": "Stock markets rally in early trading after U.S. midterm election",
-    "summary": "Stock markets rallied in both Canada and the U.S. early Wednesday after the U.S. midterm election yielded Democratic majorities in both houses of Congress, marking a clear rejection of President Donald Trump's turbulent second term.",
-    "whyItMatters": "As an Ontario manufacturer and long-term investor, shifts in U.S. political power directly impact cross-border trade tensions, tariff policies, and broader market sentiment affecting your portfolio.",
-    "explainMore": "The world woke up on Wednesday morning to control of the U.S. Congress shifting to Democrats, a development described by Florida Gov. Ron DeSantis as a close to an extinction-level event for Republicans. World leaders who have sparred with the 'America first' U.S. President greeted the rout with a measure of relief.\n\nIn response to the shifting political landscape, Canadian provincial leaders are mobilizing. Ontario Premier Doug Ford remarked that he did 'cartwheels' over the results and is directing his ministers to head down to Washington, D.C., as soon as newly elected officials are sworn in at the end of January. Meanwhile, Quebec Premier Paul St-Pierre Plamondon announced a diplomatic offensive south of the border.\n\nThe election results arrived amid ongoing tariff backlash in states like Maine and Michigan. North American markets responded positively to the political shift, with stock markets rallying in early trading after experiencing shaky conditions earlier in the week.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177099984-e1793798379272.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "category": "Your Money",
+    "location": "Global / Canada",
+    "headline": "Investors dive into bonds as global AI tech selloff continues",
+    "summary": "Investors fled to the safety of bonds on Friday as stocks extended their slide in both Europe and Asia after worries around AI wiped trillions of dollars off stock markets.",
+    "whyItMatters": "As a long-term investor with a 5-year variable mortgage, major equity corrections driven by tech and AI infrastructure sell-offs ripple across broader market valuations, potentially shifting monetary policy trajectories and bond yields.",
+    "explainMore": "Another wipeout for stocks tied to the buildout of AI data centers is overwhelming Wall Street and global exchanges, erasing previous market gains. Investors rapidly shifted capital into safe-haven bonds as broader market jitters intensified.\n\nSimultaneously, Statistics Canada reported that the national unemployment rate ticked up 0.2 percentage points to 6.7 per cent in October as more individuals, particularly younger Canadians, actively searched for work. This combination of cooling equity markets and a rising unemployment rate provides key context on broader economic momentum following the Bank of Canada's recent rate adjustments.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177218933-e1793981268321.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12136234/stock-markets-react-midterm-elections/"
+    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Ford government to approve AI data centres ‘sooner rather than later’ amid moratorium calls",
-      "summary": "Economic Development Minister Vic Fedeli announced the Ontario government is receiving numerous proposals for new AI data centres and intends to approve them relatively quickly despite calls for a moratorium.",
-      "whyItMatters": "Accelerated infrastructure and technology investments across Ontario signal robust industrial demand for power, automation, and advanced engineering systems.",
-      "explainMore": "The Ford government is moving ahead with plans to greenlight artificial intelligence data centre proposals across the province sooner rather than later. Economic Development Minister Vic Fedeli acknowledged the heavy influx of project proposals while declining to provide a strict timeline for final approvals.\n\nThe push for data infrastructure parallels similar technological developments emerging in other provinces, such as community discussions surrounding Nova Scotia's first planned AI data centre, highlighting a nationwide race to scale up digital and computational infrastructure.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/CP176369372-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Manufacturing & Trade",
+      "headline": "Chinese state-owned XCMG official facing criminal charges in alleged fraud case",
+      "summary": "Police in Ontario have filed criminal charges against one of XCMG's officials for allegedly tampering with serial number plates on equipment they were selling in Canada.",
+      "whyItMatters": "Highlights domestic regulatory enforcement regarding industrial machinery imports and equipment standards within Ontario's industrial sectors.",
+      "explainMore": "Ontario police action against an official from state-owned XCMG underscores heightened regulatory scrutiny on industrial equipment imports. The charges involve allegations of tampering with serial number plates on heavy machinery marketed in Canada, touching on equipment integrity and trade compliance.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/xmcg-logo-on-equipment.png?w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12134754/ford-government-to-approve-ai-data-centres-sooner-rather-than-later-amid-moratorium-calls/"
+      "sourceUrl": "https://globalnews.ca/news/12139081/chinese-state-owned-xcmg-official-facing-criminal-charges-alleged-fraud-case/"
+    },
+    {
+      "category": "Canada",
+      "headline": "Budget 2026 proposes 1st deposit insurance limit increase in 2 decades",
+      "summary": "The CDIC limit is moving from $100,000 to $250,000 under the federal budget, an increase many have urged for years to protect consumers.",
+      "whyItMatters": "Provides expanded federal deposit protection for personal savings and cash holdings for Canadian homeowners and long-term investors.",
+      "explainMore": "Under the newly proposed federal budget, the Canada Deposit Insurance Corporation (CDIC) protection limit will increase significantly from $100,000 to $250,000. This marks the first deposit insurance limit increase in two decades, offering stronger safeguards for cash deposits and consumer savings.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/budget-2026-cdic.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12138967/budget-2026-deposit-insurance/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 1.11%",
+        "value": "▼ 2.15%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.30%",
-        "positive": true
+        "value": "▼ 4.41%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.83%",
+        "value": "▲ 1.93%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7163",
+        "value": "0.7085",
         "positive": null
       }
     ],
-    "insight": "North American equities showed divergent momentum following the U.S. midterms, with the S&P 500 gaining 0.30% while the TSX pulled back 1.11%. Oil ticked higher to $158.17 amid ongoing Middle East supply sensitivities."
+    "insight": "North American markets faced a severe correction today, led by a 4.41% drop in the S&P 500 and a 2.15% decline in the TSX amid the ongoing global tech sell-off. Meanwhile, oil rose 1.93% to $148.21, and the Canadian dollar held at 0.7085 USD."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Policy Rate Holds at 2.5% Following Recent 25 bps Cut",
-    "summary": "As you navigate a 5-year variable mortgage, the Bank of Canada's recent move to lower its overnight rate target to 2.5% provides a baseline for borrowing costs as economic committee discussions continue.",
-    "whyItMatters": "Variable mortgage holders benefit directly when the central bank lowers its target rate, though monitoring broader fiscal policy and parliamentary committee testimony remains vital for long-term planning.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+    "headline": "CDIC Deposit Insurance Limit Set to Rise to $250,000 in Budget 2026",
+    "summary": "The federal government is moving to increase deposit insurance protection for the first time in 20 years, raising the CDIC limit to $250,000.",
+    "whyItMatters": "As a homeowner and long-term investor managing cash allocations alongside your 5-year variable mortgage, higher deposit insurance limits provide enhanced security for liquid capital held in CDIC-member institutions.",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12138967/budget-2026-deposit-insurance/"
   },
   "manufacturing": {
-    "headline": "Canada and China Agree to Two-Year Extension of Favourable Market Access Through 2028",
-    "summary": "Minister of International Trade Maninder Sidhu announced a two-year extension of favourable market access under the Preliminary Joint Arrangement for key Canadian exports through the end of 2028.",
-    "whyItMatters": "Stability in international trade agreements and export channels supports broader industrial confidence and supply chain predictability across Canadian manufacturing sectors.",
+    "headline": "Minister Sidhu Announces Extension of Favourable Market Access for Key Exports Through 2028",
+    "summary": "Canada and China have agreed to a two-year extension until the end of 2028 for favourable market access under the Preliminary Joint Arrangement for key Canadian commodities.",
+    "whyItMatters": "Maintains predictable international trade conditions and export channels, supporting broader Canadian manufacturing and resource supply chains.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
-    "engineeringHeadline": "Canadian Space Agency Prepares for Colonel Joshua Kutryk's Second Spacewalk",
-    "engineeringSummary": "The Canadian Space Agency invited media representatives to the John H. Chapman Space Centre to witness the livestream of Colonel Joshua Kutryk conducting his second spacewalk, highlighting advanced Canadian engineering achievements in aerospace."
+    "engineeringHeadline": "Canadian Space Agency Astronaut Prepares for Second Spacewalk",
+    "engineeringSummary": "Canadian Space Agency astronaut Colonel Joshua Kutryk prepares to conduct his second spacewalk, with livestreams hosted at the John H. Chapman Space Centre, highlighting advanced aerospace engineering and robotics capabilities."
   },
   "world": {
-    "headline": "U.S. Limited Strike on Strait of Hormuz Stirs Global Energy and Security Concerns",
-    "summary": "A limited U.S. military strike in the Strait of Hormuz has left international observers questioning subsequent developments regarding regional security and oil transit routes.",
-    "whyItMatters": "Geopolitical friction points in critical energy corridors directly influence global crude oil pricing, manufacturing overhead, and broader macroeconomic stability.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12134747/us-strike-strait-of-hormuz/"
+    "headline": "Global Stock Markets Reel as AI Tech Sell-Off Erases Midterm Gains",
+    "summary": "A broad liquidation of artificial intelligence and data center infrastructure stocks swept across Wall Street, European, and Asian markets, overriding recent political and midterm market bounces.",
+    "whyItMatters": "Global equity volatility directly influences macroeconomic stability, capital expenditure cycles in high-tech manufacturing, and investor sentiment across international markets.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12138384/stock-markets-wall-street-midterms-ai/"
   },
   "lookingAhead": [
     {
       "label": "Today",
-      "text": "Watch the Canadian Space Agency livestream of Colonel Joshua Kutryk's second spacewalk from the John H. Chapman Space Centre."
+      "text": "Witness the livestream of Canadian Space Agency astronaut Colonel Joshua Kutryk conducting his second spacewalk."
     },
     {
-      "label": "Late January",
-      "text": "Monitor incoming U.S. congressional swearing-ins and subsequent diplomatic delegations from Ontario and Quebec heading to Washington, D.C."
+      "label": "This Week",
+      "text": "Monitor ongoing bond market inflows and equity reactions following the sharp global AI tech sell-off."
     }
   ]
 }
