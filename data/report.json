@@ -1,98 +1,88 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "morningSnapshot": {
-    "headline": "Global AI Stock Sell-Off Slams Markets as Canadian Unemployment Ticks Up to 6.7%",
-    "summary": "Ryan, global markets are sliding amid a massive tech sell-off, while Statistics Canada reports October's unemployment rate climbing to 6.7% as more job seekers enter the market. Locally in Southern Ontario, federal officials highlight housing investments, and market access agreements offer trade stability."
+    "headline": "Trade Pressures, Interest Rate Realities, and Economic Adjustments Set the Tone for Ontario Industry",
+    "summary": "As Ontario businesses navigate fragile post-midterm trade optimism and federal budget shifts, borrowing costs remain a key factor for homeowners on variable mortgages following October's rate hike."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Global / Canada",
-    "headline": "Investors dive into bonds as global AI tech selloff continues",
-    "summary": "Investors fled to the safety of bonds on Friday as stocks extended their slide in both Europe and Asia after worries around AI wiped trillions of dollars off stock markets.",
-    "whyItMatters": "As a long-term investor with a 5-year variable mortgage, major equity corrections driven by tech and AI infrastructure sell-offs ripple across broader market valuations, potentially shifting monetary policy trajectories and bond yields.",
-    "explainMore": "Another wipeout for stocks tied to the buildout of AI data centers is overwhelming Wall Street and global exchanges, erasing previous market gains. Investors rapidly shifted capital into safe-haven bonds as broader market jitters intensified.\n\nSimultaneously, Statistics Canada reported that the national unemployment rate ticked up 0.2 percentage points to 6.7 per cent in October as more individuals, particularly younger Canadians, actively searched for work. This combination of cooling equity markets and a rising unemployment rate provides key context on broader economic momentum following the Bank of Canada's recent rate adjustments.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177218933-e1793981268321.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
+    "category": "Local",
+    "location": "Hamilton / Ontario",
+    "headline": "Joly seeks Competition Bureau probe of Stelco as more layoffs loom",
+    "summary": "The federal government is asking the competition commissioner to thoroughly examine if Stelco owner Cleveland-Cliffs breached the Competition Act amidst looming layoffs.",
+    "whyItMatters": "As an Ontario manufacturing professional based in the Golden Horseshoe, stability in the domestic steel and industrial supply chain directly impacts regional fabrication, material pricing, and broader sector health.",
+    "explainMore": "The federal push for a formal investigation into Stelco's owner, Cleveland-Cliffs, comes as the region faces looming layoffs and ongoing economic pressure. Federal officials are asking the competition commissioner to evaluate whether recent corporate maneuvers comply with the Competition Act.\n\nThis regulatory scrutiny unfolds alongside broader trade anxieties across Ontario manufacturing, where businesses are balancing fragile optimism following U.S. political shifts against persistent tariff and supply chain headwinds.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Stelco-investigation.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Chinese state-owned XCMG official facing criminal charges in alleged fraud case",
-      "summary": "Police in Ontario have filed criminal charges against one of XCMG's officials for allegedly tampering with serial number plates on equipment they were selling in Canada.",
-      "whyItMatters": "Highlights domestic regulatory enforcement regarding industrial machinery imports and equipment standards within Ontario's industrial sectors.",
-      "explainMore": "Ontario police action against an official from state-owned XCMG underscores heightened regulatory scrutiny on industrial equipment imports. The charges involve allegations of tampering with serial number plates on heavy machinery marketed in Canada, touching on equipment integrity and trade compliance.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/xmcg-logo-on-equipment.png?w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12139081/chinese-state-owned-xcmg-official-facing-criminal-charges-alleged-fraud-case/"
-    },
-    {
       "category": "Canada",
-      "headline": "Budget 2026 proposes 1st deposit insurance limit increase in 2 decades",
-      "summary": "The CDIC limit is moving from $100,000 to $250,000 under the federal budget, an increase many have urged for years to protect consumers.",
-      "whyItMatters": "Provides expanded federal deposit protection for personal savings and cash holdings for Canadian homeowners and long-term investors.",
-      "explainMore": "Under the newly proposed federal budget, the Canada Deposit Insurance Corporation (CDIC) protection limit will increase significantly from $100,000 to $250,000. This marks the first deposit insurance limit increase in two decades, offering stronger safeguards for cash deposits and consumer savings.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/budget-2026-cdic.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Premier Scott Moe calls federal budget ‘best in a decade’",
+      "summary": "Saskatchewan Premier Scott Moe plans to work with the federal government on a cost-sharing model for infrastructure projects missing from the recent federal budget.",
+      "whyItMatters": "Infrastructure funding structures heavily influence capital spending and industrial demand across Canadian industrial sectors.",
+      "explainMore": "While the federal budget tabled by Prime Minister Mark Carney's government drew mixed reactions—including criticism from the aid sector over omitted foreign development spending—it earned praise from Saskatchewan Premier Scott Moe.\n\nMoe highlighted plans to collaborate on infrastructure cost-sharing frameworks to address project gaps, a move that could affect regional public works and heavy equipment demand.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/20261106_201814750_iOS-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12138967/budget-2026-deposit-insurance/"
+      "sourceUrl": "https://globalnews.ca/news/12139915/premier-scott-moe-calls-federal-budget-best-in-a-decade/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 2.15%",
-        "positive": false
+        "value": "▲ 0.45%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▼ 4.41%",
-        "positive": false
+        "value": "▲ 0.31%",
+        "positive": true
       },
       {
         "name": "Oil",
-        "value": "▲ 1.93%",
+        "value": "▲ 0.13%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7085",
+        "value": "0.7079",
         "positive": null
       }
     ],
-    "insight": "North American markets faced a severe correction today, led by a 4.41% drop in the S&P 500 and a 2.15% decline in the TSX amid the ongoing global tech sell-off. Meanwhile, oil rose 1.93% to $148.21, and the Canadian dollar held at 0.7085 USD."
+    "insight": "Markets edge upward despite recent tech-sector volatility, while the Canadian dollar holds near 0.708 USD against a backdrop of shifting interest rates and commodity pricing."
   },
   "yourMoney": {
-    "headline": "CDIC Deposit Insurance Limit Set to Rise to $250,000 in Budget 2026",
-    "summary": "The federal government is moving to increase deposit insurance protection for the first time in 20 years, raising the CDIC limit to $250,000.",
-    "whyItMatters": "As a homeowner and long-term investor managing cash allocations alongside your 5-year variable mortgage, higher deposit insurance limits provide enhanced security for liquid capital held in CDIC-member institutions.",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12138967/budget-2026-deposit-insurance/"
+    "headline": "Bank of Canada Policy Rate Holds at 2.5% Following Recent Hike",
+    "summary": "With the Bank of Canada having raised its target for the overnight rate to 2½% in late October, variable-rate mortgage holders continue to navigate adjusted monthly borrowing costs.",
+    "whyItMatters": "For homeowners with a 5-year variable mortgage, keeping a close eye on the 2.5% policy rate and subsequent parliamentary committee updates is essential for household budgeting and cash flow management.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Minister Sidhu Announces Extension of Favourable Market Access for Key Exports Through 2028",
-    "summary": "Canada and China have agreed to a two-year extension until the end of 2028 for favourable market access under the Preliminary Joint Arrangement for key Canadian commodities.",
-    "whyItMatters": "Maintains predictable international trade conditions and export channels, supporting broader Canadian manufacturing and resource supply chains.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/11/minister-sidhu-announces-extension-of-favourable-market-access-for-canadian-canola-meal-peas-lobsters-and-crab-through-2028.html",
-    "engineeringHeadline": "Canadian Space Agency Astronaut Prepares for Second Spacewalk",
-    "engineeringSummary": "Canadian Space Agency astronaut Colonel Joshua Kutryk prepares to conduct his second spacewalk, with livestreams hosted at the John H. Chapman Space Centre, highlighting advanced aerospace engineering and robotics capabilities."
+    "headline": "Ontario Businesses Navigate Fragile Trade Optimism Amid U.S. Policy Shifts",
+    "summary": "Ontario manufacturers are exercising cautious optimism regarding cross-border trade following recent U.S. political developments, even as regional supply chains face domestic scrutiny.",
+    "whyItMatters": "Trade dynamics and domestic steel sector probes directly impact raw material availability, pricing stability, and operational planning for hydraulic and mechanical engineering firms in Southern Ontario.",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12140218/ontario-businesses-gain-fragile-optimism-on-trade-after-u-s-midterms/",
+    "engineeringHeadline": "Federal Leadership in Innovation and Agency Appointees",
+    "engineeringSummary": "Recent federal announcements, including the appointment of Alexander MacDonald as president of the Canadian Space Agency by Minister Mélanie Joly, highlight ongoing government engagement with high-tech and industrial development sectors."
   },
   "world": {
-    "headline": "Global Stock Markets Reel as AI Tech Sell-Off Erases Midterm Gains",
-    "summary": "A broad liquidation of artificial intelligence and data center infrastructure stocks swept across Wall Street, European, and Asian markets, overriding recent political and midterm market bounces.",
-    "whyItMatters": "Global equity volatility directly influences macroeconomic stability, capital expenditure cycles in high-tech manufacturing, and investor sentiment across international markets.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12138384/stock-markets-wall-street-midterms-ai/"
+    "headline": "Global Stock Markets Reel as AI Tech Selloff Drives Investors Into Bonds",
+    "summary": "Global markets experienced sharp turbulence as an ongoing selloff in artificial intelligence infrastructure stocks erased trillions in value, prompting investors to seek safety in bonds.",
+    "whyItMatters": "Broader macroeconomic volatility and tech-sector corrections can influence global capital flows, commodity demand, and corporate investment appetite across industrial supply chains.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Witness the livestream of Canadian Space Agency astronaut Colonel Joshua Kutryk conducting his second spacewalk."
+      "label": "This Week",
+      "text": "Monitor ongoing federal updates from parliamentary committees regarding financial stability and economic policy."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing bond market inflows and equity reactions following the sharp global AI tech sell-off."
+      "label": "Ongoing",
+      "text": "Track developments surrounding the federal review of the Stelco ownership and its potential ramifications for the Ontario steel market."
     }
   ]
 }
