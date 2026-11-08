@@ -1,30 +1,40 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "morningSnapshot": {
-    "headline": "Trade Pressures, Interest Rate Realities, and Economic Adjustments Set the Tone for Ontario Industry",
-    "summary": "As Ontario businesses navigate fragile post-midterm trade optimism and federal budget shifts, borrowing costs remain a key factor for homeowners on variable mortgages following October's rate hike."
+    "headline": "Markets Shift as AI Tech Selloff Drives Bond Inflows; Federal Budget and Regional Manufacturing Pressures Dominate",
+    "summary": "Global markets are grappling with a major tech and AI stock selloff that has driven investors toward the safety of bonds. Domestically, the federal budget continues to draw sharp reactions, while regional manufacturing faces heightened scrutiny over ownership changes and trade."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Hamilton / Ontario",
-    "headline": "Joly seeks Competition Bureau probe of Stelco as more layoffs loom",
-    "summary": "The federal government is asking the competition commissioner to thoroughly examine if Stelco owner Cleveland-Cliffs breached the Competition Act amidst looming layoffs.",
-    "whyItMatters": "As an Ontario manufacturing professional based in the Golden Horseshoe, stability in the domestic steel and industrial supply chain directly impacts regional fabrication, material pricing, and broader sector health.",
-    "explainMore": "The federal push for a formal investigation into Stelco's owner, Cleveland-Cliffs, comes as the region faces looming layoffs and ongoing economic pressure. Federal officials are asking the competition commissioner to evaluate whether recent corporate maneuvers comply with the Competition Act.\n\nThis regulatory scrutiny unfolds alongside broader trade anxieties across Ontario manufacturing, where businesses are balancing fragile optimism following U.S. political shifts against persistent tariff and supply chain headwinds.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Stelco-investigation.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/"
+    "category": "Your Money",
+    "location": "Global",
+    "headline": "Investors dive into bonds as global AI tech selloff continues",
+    "summary": "Investors fled to the safety of bonds on Friday as stocks extended their slide in both Europe and Asia after worries around AI wiped trillions of dollars off stock markets.",
+    "whyItMatters": "Broad market corrections and capital flight into bonds directly impact long-term investing strategies and broader economic stability.",
+    "explainMore": "The recent market turbulence follows a massive wipeout of stocks tied to the buildout of AI data centers, which overwhelmed Wall Street and erased midterm rally gains.\n\nAs equity values contract under the weight of these tech sector adjustments, fixed-income assets have become the primary destination for risk-averse capital.\n\nFor long-term investors, tracking these systemic rotations provides essential context on how changing asset valuations interact with monetary policy and broader economic indicators.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177218933-e1793981268321.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Premier Scott Moe calls federal budget ‘best in a decade’",
-      "summary": "Saskatchewan Premier Scott Moe plans to work with the federal government on a cost-sharing model for infrastructure projects missing from the recent federal budget.",
-      "whyItMatters": "Infrastructure funding structures heavily influence capital spending and industrial demand across Canadian industrial sectors.",
-      "explainMore": "While the federal budget tabled by Prime Minister Mark Carney's government drew mixed reactions—including criticism from the aid sector over omitted foreign development spending—it earned praise from Saskatchewan Premier Scott Moe.\n\nMoe highlighted plans to collaborate on infrastructure cost-sharing frameworks to address project gaps, a move that could affect regional public works and heavy equipment demand.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/20261106_201814750_iOS-1.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12139915/premier-scott-moe-calls-federal-budget-best-in-a-decade/"
+      "category": "Local",
+      "headline": "Joly seeks Competition Bureau probe of Stelco as more layoffs loom",
+      "summary": "The federal government is asking the competition commissioner to 'thoroughly examine' if Stelco owner Cleveland-Cliffs breached the Competition Act.",
+      "whyItMatters": "Regional industrial stability and steel supply chains are vital to the broader Ontario manufacturing ecosystem.",
+      "explainMore": "Federal ministers are pushing for a detailed regulatory review amid looming layoffs and concerns regarding corporate compliance.\n\nSuch investigations underscore the pressures facing domestic metal producers and the downstream impacts on industrial supply chains across Southern Ontario.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Stelco-investigation.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/"
+    },
+    {
+      "category": "Local",
+      "headline": "Unifor says it believes Stellantis sold its Brampton plant",
+      "summary": "In a statement released Friday, Unifor's bargaining team said it met with Stellantis to discuss reports that the plant had been sold.",
+      "whyItMatters": "Major shifts in automotive manufacturing footprints ripple through Ontario's industrial equipment and supplier networks.",
+      "explainMore": "Union representatives engaged with corporate leadership following reports regarding the facility's operational future.\n\nUncertainty surrounding major automotive plants affects regional capital investment and technical service providers throughout the automotive and manufacturing corridors.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/a0086e45fcdfcd91660ae687deff3ffdc70bdb634b5a0e37867db057d2bdd53b_f5036b.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12141236/unifor-stellantis-brampton-plant/"
     }
   ],
   "markets": {
@@ -50,39 +60,39 @@
         "positive": null
       }
     ],
-    "insight": "Markets edge upward despite recent tech-sector volatility, while the Canadian dollar holds near 0.708 USD against a backdrop of shifting interest rates and commodity pricing."
+    "insight": "Equity benchmarks posted modest gains despite ongoing tech sector volatility, while the Canadian dollar holds near 0.7079 USD and oil remains elevated at $148.41."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Policy Rate Holds at 2.5% Following Recent Hike",
-    "summary": "With the Bank of Canada having raised its target for the overnight rate to 2½% in late October, variable-rate mortgage holders continue to navigate adjusted monthly borrowing costs.",
-    "whyItMatters": "For homeowners with a 5-year variable mortgage, keeping a close eye on the 2.5% policy rate and subsequent parliamentary committee updates is essential for household budgeting and cash flow management.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+    "headline": "Rent Increases Hit Toronto and Vancouver After Nearly Three Years",
+    "summary": "The average asking rent for all residential property types in Canada was $2,036 in October, with Toronto and Vancouver seeing their first rent increases in nearly three years.",
+    "whyItMatters": "Housing cost trends influence overall household inflation metrics and broader consumer purchasing power for homeowners and renters alike.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12138065/toronto-vancouver-rent-increase-2026/"
   },
   "manufacturing": {
-    "headline": "Ontario Businesses Navigate Fragile Trade Optimism Amid U.S. Policy Shifts",
-    "summary": "Ontario manufacturers are exercising cautious optimism regarding cross-border trade following recent U.S. political developments, even as regional supply chains face domestic scrutiny.",
-    "whyItMatters": "Trade dynamics and domestic steel sector probes directly impact raw material availability, pricing stability, and operational planning for hydraulic and mechanical engineering firms in Southern Ontario.",
+    "headline": "Federal Scrutiny and Corporate Realignment Impact Ontario Steel and Automotive Sectors",
+    "summary": "Federal intervention is sought regarding Stelco's ownership practices amid looming layoffs, while union representatives address plant sale reports at Stellantis in Brampton.",
+    "whyItMatters": "Raw material costs and regional plant stability dictate operational planning for engineering and manufacturing firms across Ontario.",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12140218/ontario-businesses-gain-fragile-optimism-on-trade-after-u-s-midterms/",
-    "engineeringHeadline": "Federal Leadership in Innovation and Agency Appointees",
-    "engineeringSummary": "Recent federal announcements, including the appointment of Alexander MacDonald as president of the Canadian Space Agency by Minister Mélanie Joly, highlight ongoing government engagement with high-tech and industrial development sectors."
+    "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/",
+    "engineeringHeadline": "Federal Economic Development Officials Highlight Regional Innovation Support",
+    "engineeringSummary": "Federal economic development initiatives continue to focus on municipal and industrial infrastructure support across Southern Ontario, aligning with broader regional growth targets."
   },
   "world": {
-    "headline": "Global Stock Markets Reel as AI Tech Selloff Drives Investors Into Bonds",
-    "summary": "Global markets experienced sharp turbulence as an ongoing selloff in artificial intelligence infrastructure stocks erased trillions in value, prompting investors to seek safety in bonds.",
-    "whyItMatters": "Broader macroeconomic volatility and tech-sector corrections can influence global capital flows, commodity demand, and corporate investment appetite across industrial supply chains.",
+    "headline": "Israel Taps Opposition Candidate Eisenkot to Form New Government",
+    "summary": "Israel’s president has tapped opposition candidate Eisenkot to form a government, with newly elected Knesset members slated to be sworn in while Netanyahu remains in a caretaker capacity.",
+    "whyItMatters": "Shifts in Middle Eastern political leadership carry significant implications for global energy markets, geopolitical stability, and international supply routes.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
+    "sourceUrl": "https://globalnews.ca/news/12141815/israel-government-whats-next-eisenkot-to-lead/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor ongoing federal updates from parliamentary committees regarding financial stability and economic policy."
+      "label": "Tuesday",
+      "text": "New members of the Israeli Knesset will be sworn in following the recent government transition process."
     },
     {
-      "label": "Ongoing",
-      "text": "Track developments surrounding the federal review of the Stelco ownership and its potential ramifications for the Ontario steel market."
+      "label": "This Week",
+      "text": "Monitor ongoing developments regarding the federal competition probe into Stelco and potential updates on Ontario manufacturing labor discussions."
     }
   ]
 }
