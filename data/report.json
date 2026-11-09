@@ -1,40 +1,30 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "morningSnapshot": {
-    "headline": "Markets Shift as AI Tech Selloff Drives Bond Inflows; Federal Budget and Regional Manufacturing Pressures Dominate",
-    "summary": "Global markets are grappling with a major tech and AI stock selloff that has driven investors toward the safety of bonds. Domestically, the federal budget continues to draw sharp reactions, while regional manufacturing faces heightened scrutiny over ownership changes and trade."
+    "headline": "Real-time payment rails launch in Canada as manufacturing sees targeted retooling investments",
+    "summary": "Good morning, Ryan. Payments Canada launches its Real-Time Rail system today, while Honda Canada announces major plant retooling in Alliston for hybrid production. Meanwhile, the Bank of Canada policy rate remains at 2.5% following recent adjustments."
   },
   "topStory": {
     "category": "Your Money",
-    "location": "Global",
-    "headline": "Investors dive into bonds as global AI tech selloff continues",
-    "summary": "Investors fled to the safety of bonds on Friday as stocks extended their slide in both Europe and Asia after worries around AI wiped trillions of dollars off stock markets.",
-    "whyItMatters": "Broad market corrections and capital flight into bonds directly impact long-term investing strategies and broader economic stability.",
-    "explainMore": "The recent market turbulence follows a massive wipeout of stocks tied to the buildout of AI data centers, which overwhelmed Wall Street and erased midterm rally gains.\n\nAs equity values contract under the weight of these tech sector adjustments, fixed-income assets have become the primary destination for risk-averse capital.\n\nFor long-term investors, tracking these systemic rotations provides essential context on how changing asset valuations interact with monetary policy and broader economic indicators.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP177218933-e1793981268321.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "location": "Beamsville, Ontario",
+    "headline": "Transferring money between accounts is about to get faster in Canada",
+    "summary": "Payments Canada has announced the launch of Canada’s Real-Time Rail (RTR) payment system, allowing consumers and businesses to send and receive payments instantly.",
+    "whyItMatters": "Instantaneous clearing capabilities modernize domestic capital flows and streamline commercial transactions for businesses across Ontario.",
+    "explainMore": "The rollout of the Real-Time Rail system marks a fundamental upgrade to Canada's national clearing and settlement infrastructure. For businesses and individuals alike, moving away from legacy batch-processing delays means liquidity can be managed with near-perfect precision.\n\nFor industrial operations and supply chains dealing with tight vendor schedules and rapid procurement cycles, instantaneous fund transfers remove friction in working capital management. This infrastructure shift aligns with broader efforts to boost national productivity and transaction efficiency.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/RTR-payments-canada.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12139783/stock-markets-ai-tech-selloff-bonds/"
+    "sourceUrl": "https://globalnews.ca/news/12142666/real-time-rail-payments-canada/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Joly seeks Competition Bureau probe of Stelco as more layoffs loom",
-      "summary": "The federal government is asking the competition commissioner to 'thoroughly examine' if Stelco owner Cleveland-Cliffs breached the Competition Act.",
-      "whyItMatters": "Regional industrial stability and steel supply chains are vital to the broader Ontario manufacturing ecosystem.",
-      "explainMore": "Federal ministers are pushing for a detailed regulatory review amid looming layoffs and concerns regarding corporate compliance.\n\nSuch investigations underscore the pressures facing domestic metal producers and the downstream impacts on industrial supply chains across Southern Ontario.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Stelco-investigation.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/"
-    },
-    {
-      "category": "Local",
-      "headline": "Unifor says it believes Stellantis sold its Brampton plant",
-      "summary": "In a statement released Friday, Unifor's bargaining team said it met with Stellantis to discuss reports that the plant had been sold.",
-      "whyItMatters": "Major shifts in automotive manufacturing footprints ripple through Ontario's industrial equipment and supplier networks.",
-      "explainMore": "Union representatives engaged with corporate leadership following reports regarding the facility's operational future.\n\nUncertainty surrounding major automotive plants affects regional capital investment and technical service providers throughout the automotive and manufacturing corridors.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/a0086e45fcdfcd91660ae687deff3ffdc70bdb634b5a0e37867db057d2bdd53b_f5036b.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12141236/unifor-stellantis-brampton-plant/"
+      "category": "Canada",
+      "headline": "Feds wrote off $4.5B in COVID benefit repayments in 2025: auditor general",
+      "summary": "The federal government is trying to recoup payments made to Canadians during the COVID-19 pandemic in cases where it determines someone was overpaid or was ineligible, while noting $4.5 billion was written off in 2025.",
+      "whyItMatters": "Highlights ongoing federal accounting adjustments regarding pandemic-era relief expenditures and taxpayer fund recovery efforts.",
+      "explainMore": "The auditor general's finding sheds light on the complex administrative legacy of emergency COVID-19 financial supports. While Ottawa continues efforts to recoup funds where overpayments or ineligibility are identified, the scale of write-offs underscores the immense challenge of auditing massive emergency benefit distributions after the fact.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/1f60e5c5d17693a485582982b76a9dca41574928d780fb0ec47e77b2a37e7f76.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12143258/covid-benefits-written-off-2025-auditor-general/"
     }
   ],
   "markets": {
@@ -56,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7079",
+        "value": "0.7084",
         "positive": null
       }
     ],
-    "insight": "Equity benchmarks posted modest gains despite ongoing tech sector volatility, while the Canadian dollar holds near 0.7079 USD and oil remains elevated at $148.41."
+    "insight": "Equities and oil trade higher with the TSX up 0.45% to 53.83. The Canadian dollar holds at 0.7084 against the greenback while the Bank of Canada policy rate sits at 2.5%."
   },
   "yourMoney": {
-    "headline": "Rent Increases Hit Toronto and Vancouver After Nearly Three Years",
-    "summary": "The average asking rent for all residential property types in Canada was $2,036 in October, with Toronto and Vancouver seeing their first rent increases in nearly three years.",
-    "whyItMatters": "Housing cost trends influence overall household inflation metrics and broader consumer purchasing power for homeowners and renters alike.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12138065/toronto-vancouver-rent-increase-2026/"
+    "headline": "Bank of Canada policy rate holds at 2½% following recent 25 basis point cut",
+    "summary": "With the Bank of Canada's policy rate established at 2.5%, variable-rate mortgage holders continue to navigate borrowing costs under current monetary settings.",
+    "whyItMatters": "Directly impacts your 5-year variable mortgage financing costs and long-term household budgeting.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
   },
   "manufacturing": {
-    "headline": "Federal Scrutiny and Corporate Realignment Impact Ontario Steel and Automotive Sectors",
-    "summary": "Federal intervention is sought regarding Stelco's ownership practices amid looming layoffs, while union representatives address plant sale reports at Stellantis in Brampton.",
-    "whyItMatters": "Raw material costs and regional plant stability dictate operational planning for engineering and manufacturing firms across Ontario.",
+    "headline": "Honda Canada to retool Alliston plant for expanded hybrid production",
+    "summary": "Honda Canada announces plans to retool its manufacturing facilities in Alliston, Ontario, to expand production of hybrid-electric and gasoline-powered vehicles.",
+    "whyItMatters": "Reinforces Ontario's automotive and advanced manufacturing supply chains as facilities adapt to shifting powertrain demands.",
     "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12140292/joly-stelco-investigation/",
-    "engineeringHeadline": "Federal Economic Development Officials Highlight Regional Innovation Support",
-    "engineeringSummary": "Federal economic development initiatives continue to focus on municipal and industrial infrastructure support across Southern Ontario, aligning with broader regional growth targets."
+    "sourceUrl": "https://globalnews.ca/news/12143021/honda-canada-alliston-retooling/",
+    "engineeringHeadline": "Federal Budget 2026 Focuses on Productivity and Industrial Strengths",
+    "engineeringSummary": "Minister Joly highlighted Budget 2026 investments aimed at building on regional economic strengths, boosting domestic productivity, driving industrial investment, and supporting advanced manufacturing sectors in Southern Ontario."
   },
   "world": {
-    "headline": "Israel Taps Opposition Candidate Eisenkot to Form New Government",
-    "summary": "Israel’s president has tapped opposition candidate Eisenkot to form a government, with newly elected Knesset members slated to be sworn in while Netanyahu remains in a caretaker capacity.",
-    "whyItMatters": "Shifts in Middle Eastern political leadership carry significant implications for global energy markets, geopolitical stability, and international supply routes.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12141815/israel-government-whats-next-eisenkot-to-lead/"
+    "headline": "Nvidia CEO Jensen Huang addresses export export restrictions and governance scrutiny",
+    "summary": "Nvidia CEO Jensen Huang navigates corporate governance attention while maintaining close dialogues regarding export restrictions on high-performance semiconductor chips to China.",
+    "whyItMatters": "Global semiconductor availability heavily influences automation hardware, robotic welding controllers, and industrial computing systems worldwide.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12142612/nvidia-affair-china-espionage-explainer/"
   },
   "lookingAhead": [
     {
       "label": "Tuesday",
-      "text": "New members of the Israeli Knesset will be sworn in following the recent government transition process."
+      "text": "Israel’s new members of Knesset will be sworn in, and Prime Minister Netanyahu's cabinet will operate in a caretaker capacity."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing developments regarding the federal competition probe into Stelco and potential updates on Ontario manufacturing labor discussions."
+      "label": "September 2027",
+      "text": "Art Gallery of Ontario plans to open its expansive 5-floor Dani Reiss Modern and Contemporary Gallery."
     }
   ]
 }
