@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-11",
   "morningSnapshot": {
-    "headline": "Real-time payment rails launch in Canada as manufacturing sees targeted retooling investments",
-    "summary": "Good morning, Ryan. Payments Canada launches its Real-Time Rail system today, while Honda Canada announces major plant retooling in Alliston for hybrid production. Meanwhile, the Bank of Canada policy rate remains at 2.5% following recent adjustments."
+    "headline": "Prime Minister Carney heads to Asia and Ireland summits as markets digest economic data",
+    "summary": "Good morning, Ryan. As you start your day in Beamsville, Prime Minister Mark Carney has departed for key international summits in Ireland and Asia to advance trade and security ties, while Payments Canada launches its new Real-Time Rail payment system. Markets show mild downturns across the TSX and S&P 500."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Beamsville, Ontario",
-    "headline": "Transferring money between accounts is about to get faster in Canada",
-    "summary": "Payments Canada has announced the launch of Canada’s Real-Time Rail (RTR) payment system, allowing consumers and businesses to send and receive payments instantly.",
-    "whyItMatters": "Instantaneous clearing capabilities modernize domestic capital flows and streamline commercial transactions for businesses across Ontario.",
-    "explainMore": "The rollout of the Real-Time Rail system marks a fundamental upgrade to Canada's national clearing and settlement infrastructure. For businesses and individuals alike, moving away from legacy batch-processing delays means liquidity can be managed with near-perfect precision.\n\nFor industrial operations and supply chains dealing with tight vendor schedules and rapid procurement cycles, instantaneous fund transfers remove friction in working capital management. This infrastructure shift aligns with broader efforts to boost national productivity and transaction efficiency.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/RTR-payments-canada.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12142666/real-time-rail-payments-canada/"
+    "category": "Canada",
+    "location": "Ottawa / International",
+    "headline": "Carney heading for summits in Ireland, Asia after Remembrance Day ceremony",
+    "summary": "Prime Minister Mark Carney takes off Wednesday for summits in Asia and Ireland where he'll look to advance trade and security ties, following attendance at the national Remembrance Day ceremony in Ottawa alongside Governor General Louise Arbour.",
+    "whyItMatters": "International trade policy and foreign agreements directly influence supply chains, currency valuations, and broader economic stability for Canadian manufacturers.",
+    "explainMore": "Prime Minister Mark Carney takes off Wednesday for significant summits in Asia and Ireland following his appearance at the national Remembrance Day ceremonies in Ottawa.\n\nDuring these international missions, the Prime Minister's itinerary includes addressing foreign interference concerns directly with Chinese President Xi Jinping during the APEC summit in Shenzhen, China.\n\nThese diplomatic engagements carry direct relevance for bilateral trade channels, economic security, and overall market predictability as Canada navigates its international commercial relationships.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP176463437-e1794403160890.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12146059/carney-summits-asia-ireland/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Feds wrote off $4.5B in COVID benefit repayments in 2025: auditor general",
-      "summary": "The federal government is trying to recoup payments made to Canadians during the COVID-19 pandemic in cases where it determines someone was overpaid or was ineligible, while noting $4.5 billion was written off in 2025.",
-      "whyItMatters": "Highlights ongoing federal accounting adjustments regarding pandemic-era relief expenditures and taxpayer fund recovery efforts.",
-      "explainMore": "The auditor general's finding sheds light on the complex administrative legacy of emergency COVID-19 financial supports. While Ottawa continues efforts to recoup funds where overpayments or ineligibility are identified, the scale of write-offs underscores the immense challenge of auditing massive emergency benefit distributions after the fact.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/1f60e5c5d17693a485582982b76a9dca41574928d780fb0ec47e77b2a37e7f76.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12143258/covid-benefits-written-off-2025-auditor-general/"
+      "category": "Your Money",
+      "headline": "Transferring money between accounts is about to get faster in Canada",
+      "summary": "Payments Canada has announced the official launch of Canada’s Real-Time Rail (RTR) payment system, allowing consumers and businesses to send and receive funds instantly.",
+      "whyItMatters": "Faster transaction clearing streamlines liquidity management for business operations and personal accounts alike.",
+      "explainMore": "Payments Canada announced the official launch of Canada’s Real-Time Rail (RTR) payment system, marking a major upgrade to the country's financial infrastructure.\n\nThe system is designed to allow both consumers and businesses to send and receive payments instantly around the clock, removing traditional processing delays between financial institutions.\n\nFor business owners and financial managers, this immediate settlement capability enhances cash flow visibility and working capital efficiency.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/RTR-payments-canada.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12142666/real-time-rail-payments-canada/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▲ 0.45%",
-        "positive": true
+        "value": "▼ 0.59%",
+        "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 0.31%",
-        "positive": true
+        "value": "▼ 0.37%",
+        "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 0.13%",
-        "positive": true
+        "value": "▼ 0.85%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7084",
+        "value": "0.7018",
         "positive": null
       }
     ],
-    "insight": "Equities and oil trade higher with the TSX up 0.45% to 53.83. The Canadian dollar holds at 0.7084 against the greenback while the Bank of Canada policy rate sits at 2.5%."
+    "insight": "Domestic and North American equity benchmarks experienced minor downward pressure, with the TSX down 0.59% and the S&P 500 easing by 0.37%. Oil prices retreated slightly to $141.45, while the Canadian dollar held at approximately 0.7018 against the U.S. greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada policy rate holds at 2½% following recent 25 basis point cut",
-    "summary": "With the Bank of Canada's policy rate established at 2.5%, variable-rate mortgage holders continue to navigate borrowing costs under current monetary settings.",
-    "whyItMatters": "Directly impacts your 5-year variable mortgage financing costs and long-term household budgeting.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+    "headline": "Deadline to make a claim in a CIBC class action settlement is days away",
+    "summary": "Time is running out for eligible individuals to submit claims for compensation from an $11 million CIBC class-action settlement involving mutual fund commissions.",
+    "whyItMatters": "If you qualify based on past mutual fund holdings, ensuring your claim is submitted before the deadline secures your portion of the settlement funds.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12144735/cibc-mutual-funds-class-action-settlement/"
   },
   "manufacturing": {
-    "headline": "Honda Canada to retool Alliston plant for expanded hybrid production",
-    "summary": "Honda Canada announces plans to retool its manufacturing facilities in Alliston, Ontario, to expand production of hybrid-electric and gasoline-powered vehicles.",
-    "whyItMatters": "Reinforces Ontario's automotive and advanced manufacturing supply chains as facilities adapt to shifting powertrain demands.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12143021/honda-canada-alliston-retooling/",
-    "engineeringHeadline": "Federal Budget 2026 Focuses on Productivity and Industrial Strengths",
-    "engineeringSummary": "Minister Joly highlighted Budget 2026 investments aimed at building on regional economic strengths, boosting domestic productivity, driving industrial investment, and supporting advanced manufacturing sectors in Southern Ontario."
+    "headline": "Stellantis signs deal with Roshel to sell idled Brampton assembly plant",
+    "summary": "Automaker Stellantis has officially signed an agreement with Canadian defence contractor Roshel to sell its idled Brampton, Ontario assembly plant.",
+    "whyItMatters": "Re-tooling or repurposing major Ontario manufacturing facilities impacts regional industrial supply chains and manufacturing capacity.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12143427/stellantis-roshel-brampton-assembly-plant-deal/",
+    "engineeringHeadline": "Federal Budget 2026 economic investments emphasize industrial competitiveness",
+    "engineeringSummary": "Federal officials, including Parliamentary Secretary Rochefort and Minister Solomon, are highlighting Budget 2026 measures aimed at boosting productivity, driving investment, and making life more affordable across industrial and economic sectors."
   },
   "world": {
-    "headline": "Nvidia CEO Jensen Huang addresses export export restrictions and governance scrutiny",
-    "summary": "Nvidia CEO Jensen Huang navigates corporate governance attention while maintaining close dialogues regarding export restrictions on high-performance semiconductor chips to China.",
-    "whyItMatters": "Global semiconductor availability heavily influences automation hardware, robotic welding controllers, and industrial computing systems worldwide.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12142612/nvidia-affair-china-espionage-explainer/"
+    "headline": "Anthropic aims for $1.3 trillion valuation in planned public company debut",
+    "summary": "Artificial intelligence giant Anthropic is seeking an approximately $1.3 trillion valuation in an initial public offering, highlighting continued massive capital demands in the tech sector.",
+    "whyItMatters": "Mega-valuations in AI infrastructure reflect ongoing shifts in enterprise technology investment and automation scaling.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12144268/anthropic-claude-stock-ipo/"
   },
   "lookingAhead": [
     {
-      "label": "Tuesday",
-      "text": "Israel’s new members of Knesset will be sworn in, and Prime Minister Netanyahu's cabinet will operate in a caretaker capacity."
+      "label": "Today",
+      "text": "Prime Minister Mark Carney departs for international trade and security summits in Ireland and Asia."
     },
     {
-      "label": "September 2027",
-      "text": "Art Gallery of Ontario plans to open its expansive 5-floor Dani Reiss Modern and Contemporary Gallery."
+      "label": "This Week",
+      "text": "Eligible participants must review deadlines for the CIBC mutual fund class action settlement claim."
     }
   ]
 }
