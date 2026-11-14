@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "morningSnapshot": {
-    "headline": "Federal Industrial Investments in Ontario, Markets Dip, and Tech Outages Weaken Confidence",
-    "summary": "As Ottawa injects hundreds of millions into Ontario vehicle and industrial manufacturing under Budget 2026, global tech outages weigh on markets and financial participants review recent Bank of Canada deliberations."
+    "headline": "Regional Industrial Shifts and Global Tech Disruptions Shape the Morning",
+    "summary": "Good morning, Ryan. Today's brief covers local industrial restarts in Hamilton, federal trade action plans, and recent Bank of Canada policy communications."
   },
   "topStory": {
     "category": "Manufacturing & Trade",
-    "location": "Alliston, Ontario",
-    "headline": "Canada invests $313 million in Honda North America to advance next-generation vehicle manufacturing in Ontario",
-    "summary": "The Government of Canada and Government of Ontario are investing with Honda in hybrid vehicle production in Alliston, Ontario, as part of broader federal efforts to support domestic industrial capabilities.",
-    "whyItMatters": "For Ontario's manufacturing and automation sectors, large-scale automotive investments signal a sustained push toward advanced production capabilities, supply chain resilience, and modern tooling.",
-    "explainMore": "The federal investment sits alongside broader Budget 2026 rollouts highlighted by officials visiting industrial partners across Ontario, including Martinrea, to reinforce supply chains against geopolitical competition and protectionism.\n\nFor engineers and operators in the provincial industrial base, these capital injections underscore a strategic focus on next-generation vehicle architectures, clean energy integration, and modernized assembly lines.\n\nWhile targeted at automotive OEMs, these programs ripple outward through the regional manufacturing supply chain, influencing demand for precision components, automation, and advanced industrial technology.",
-    "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1000&q=80",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html"
+    "location": "Hamilton, Ontario",
+    "headline": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
+    "summary": "Stelco is recalling 175 temporarily laid-off workers as it prepares to restart its Hamilton finishing operations on December 1.",
+    "whyItMatters": "As an engineer working in Ontario's industrial ecosystem, local steel production restarts signal stabilizing supply chains for regional component manufacturers and downstream heavy industries.",
+    "explainMore": "Stelco's decision to bring back 175 employees marks a positive operational adjustment for the Hamilton manufacturing base.\n\nThe restart of finishing operations on December 1 directly impacts the availability of domestic steel inputs critical for regional fabricators, machinery builders, and hydraulic cylinder producers across Southern Ontario.\n\nThis development aligns with broader federal and provincial initiatives aimed at strengthening Ontario industries and protecting domestic supply chains against external tariff pressures.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/5bb4bc6639140ce91255c7ae296d9ebb3f226d575284b513cf944ca050144825.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12149822/stelco-layoff-recall/"
   },
   "stories": [
     {
-      "category": "Your Money",
-      "headline": "Faster money transfers with RTR will take a while to adopt, says Scotiabank",
-      "summary": "A new report from Scotiabank says Payments Canada's recently announced upgraded digital payments framework could take several months or years to become the norm.",
-      "whyItMatters": "While digital infrastructure upgrades promise efficiency, retail banking and corporate cash flows will rely on legacy mechanisms during the extended transition period.",
-      "explainMore": "Payments Canada's updated digital payments framework aims to streamline financial transactions nationwide, but institutional adoption timelines vary significantly across major chartered banks.\n\nScotiabank's analysis points out that integration friction and legacy system dependencies mean businesses and consumers will experience a gradual rollout rather than an overnight shift.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP168232865-e1794506621798.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Money",
-      "sourceUrl": "https://globalnews.ca/news/12147719/payments-canada-rtr-scotiabank/"
+      "category": "World",
+      "headline": "Microsoft says services fully restored after global disruption",
+      "summary": "Microsoft products are fully operational after a massive outage left some users unable to access digital channels and emails for more than 24 hours.",
+      "whyItMatters": "Highlights digital infrastructure vulnerabilities and operational risks tied to widely used enterprise software platforms.",
+      "explainMore": "The global outage disrupted digital communications and core enterprise operations for numerous businesses, underscoring the operational risks of reliance on major cloud providers.\n\nWhile services have been fully restored, traders and corporate leaders continue to assess the downstream productivity impacts and the broader market implications for tech monopolies.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Microsoft-outage-e1794666213469.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12151032/microsoft-outage-over/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.49%",
-        "positive": false
+        "value": "▲ 0.00%",
+        "positive": true
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.35%",
+        "value": "▼ 0.36%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 3.25%",
-        "positive": true
+        "value": "▼ 0.34%",
+        "positive": false
       },
       {
         "name": "CAD / USD",
-        "value": "0.7014",
+        "value": "0.7009",
         "positive": null
       }
     ],
-    "insight": "Equities faced downward pressure as global tech disruptions weighed on sentiment, while oil climbed over 3% to $146.07 and the Canadian dollar hovered near 0.7014 against the greenback."
+    "insight": "Equities show mild downward pressure with the S&P 500 down 0.36%, while the Canadian dollar trades at 0.7009 against the U.S. greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Deliberations and Market Surveys Provide Economic Backdrop",
-    "summary": "Recent releases from the Bank of Canada, including the summary of Governing Council deliberations from October 28 and the Q3 Market Participants Survey, outline ongoing monetary policy evaluations.",
-    "whyItMatters": "For variable-rate mortgage holders and long-term investors, tracking Governing Council minutes and survey data offers vital insight into where interest rates and inflation expectations are heading.",
+    "headline": "Bank of Canada Deliberations and Market Participant Surveys Released",
+    "summary": "Recent Bank of Canada publications provide insight into Governing Council policy deliberations and third-quarter market participant survey results.",
+    "whyItMatters": "Staying informed on central bank summaries helps contextualize interest rate trajectories relevant to variable-rate mortgages and long-term investment strategies.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/"
   },
   "manufacturing": {
-    "headline": "Minister Joly Highlights Budget 2026 Support at Martinrea",
-    "summary": "Federal officials visited Martinrea to highlight Budget 2026 investments aimed at building a stronger, more independent economy and supporting Ontario industries against protectionism.",
-    "whyItMatters": "Direct federal engagement with major Ontario automotive and industrial suppliers highlights the ongoing policy focus on strengthening domestic manufacturing resilience and supply chain independence.",
+    "headline": "Federal Action Plan Targets Tariffs and Strengthens Ontario Manufacturing",
+    "summary": "Parliamentary Secretary Naqvi highlighted a new joint federal-provincial action plan designed to protect workers from tariffs and reinforce competitive Ontario industries.",
+    "whyItMatters": "Directly impacts regional manufacturing competitiveness, steel inputs, and trade stability for Ontario industrial operations.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-highlight-budget-2026-federal-support-for-industry-in-ontario.html",
-    "engineeringHeadline": "Federal Subsidies and Automation Push Shape Ontario Plant Floors",
-    "engineeringSummary": "With hundreds of millions flowing into Ontario vehicle manufacturing and supply chain infrastructure, engineering teams are tasked with scaling up automated tooling and advanced production lines to meet federal resiliency goals."
+    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/11/parliamentary-secretary-naqvi-highlights-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html",
+    "engineeringHeadline": "Honda Investment Advances Next-Generation Vehicle Manufacturing in Ontario",
+    "engineeringSummary": "The governments of Canada and Ontario are investing $313 million in Honda North America to advance hybrid vehicle production and next-generation manufacturing technology in Alliston, Ontario."
   },
   "world": {
-    "headline": "Russia and Ukraine Exchange Prisoners as Peace Talks Conclude Without Major Breakthrough",
-    "summary": "Moscow and Kyiv completed a prisoner exchange following diplomatic talks, though discussions ended without a significant breakthrough on broader conflict resolution.",
-    "whyItMatters": "Geopolitical friction and ongoing hostilities in Eastern Europe continue to influence global energy markets, defense procurement, and international supply chain stability.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12146830/russia-ukraine-prisoner-exchange-war-talks/"
+    "headline": "Canada and Philippines Conclude Free-Trade Agreement Negotiations",
+    "summary": "Canada has concluded negotiations for a free-trade agreement with the Philippines, with implementation aimed for 2027, alongside broader trade pursuits with the ASEAN bloc.",
+    "whyItMatters": "Expands international market access and trade diversification options for Canadian industrial and commercial sectors.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor ongoing economic commentary from parliamentary secretaries highlighting Budget 2026 measures across Canadian industries."
+      "label": "Dec 1, 2026",
+      "text": "Stelco plans to restart its Hamilton finishing operations and recall 175 temporarily laid-off workers."
     },
     {
-      "label": "Ongoing",
-      "text": "Track global tech infrastructure recovery following the multi-day Microsoft 365 service outages affecting enterprise operations."
+      "label": "This Week",
+      "text": "Monitor ongoing corporate evaluations of enterprise software reliability following recent global IT disruptions."
     }
   ]
 }
