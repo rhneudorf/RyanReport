@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "morningSnapshot": {
-    "headline": "Regional Industrial Shifts and Global Tech Disruptions Shape the Morning",
-    "summary": "Good morning, Ryan. Today's brief covers local industrial restarts in Hamilton, federal trade action plans, and recent Bank of Canada policy communications."
+    "headline": "Trade Conditions and Steel Recalls Shape Regional Industry Outlook",
+    "summary": "Prime Minister Carney sets non-negotiable terms for auto sector viability in U.S. trade talks, while Stelco prepares to recall 175 laid-off workers in Hamilton to restart finishing operations."
   },
   "topStory": {
     "category": "Manufacturing & Trade",
-    "location": "Hamilton, Ontario",
-    "headline": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
-    "summary": "Stelco is recalling 175 temporarily laid-off workers as it prepares to restart its Hamilton finishing operations on December 1.",
-    "whyItMatters": "As an engineer working in Ontario's industrial ecosystem, local steel production restarts signal stabilizing supply chains for regional component manufacturers and downstream heavy industries.",
-    "explainMore": "Stelco's decision to bring back 175 employees marks a positive operational adjustment for the Hamilton manufacturing base.\n\nThe restart of finishing operations on December 1 directly impacts the availability of domestic steel inputs critical for regional fabricators, machinery builders, and hydraulic cylinder producers across Southern Ontario.\n\nThis development aligns with broader federal and provincial initiatives aimed at strengthening Ontario industries and protecting domestic supply chains against external tariff pressures.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/5bb4bc6639140ce91255c7ae296d9ebb3f226d575284b513cf944ca050144825.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12149822/stelco-layoff-recall/"
+    "location": "Ottawa / Hamilton / Toronto",
+    "headline": "Canada-U.S. trade deal must include viable auto sector, Carney says",
+    "summary": "Prime Minister Mark Carney says trade talks with the U.S. are making progress, but Ottawa won't accept a deal that doesn't allow for a viable auto sector, aligning with new regional actions to protect Ontario industries.",
+    "whyItMatters": "As an engineering professional in Ontario's manufacturing sector, your supply chain and regional demand are tightly coupled with the health of the broader automotive and steel ecosystems across Southern Ontario.",
+    "explainMore": "Prime Minister Mark Carney stated that while trade negotiations with the United States are making headway, the federal government maintains a firm stance that any final agreement must secure a viable path forward for the Canadian auto sector.\n\nSimultaneously, federal and provincial partners are rolling out coordinated action plans to protect workers from tariffs and fortify key Ontario industries, emphasizing domestic manufacturing resilience amid evolving geopolitical competition.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12151109/canada-us-trade-deal-conditions/"
   },
   "stories": [
     {
-      "category": "World",
-      "headline": "Microsoft says services fully restored after global disruption",
-      "summary": "Microsoft products are fully operational after a massive outage left some users unable to access digital channels and emails for more than 24 hours.",
-      "whyItMatters": "Highlights digital infrastructure vulnerabilities and operational risks tied to widely used enterprise software platforms.",
-      "explainMore": "The global outage disrupted digital communications and core enterprise operations for numerous businesses, underscoring the operational risks of reliance on major cloud providers.\n\nWhile services have been fully restored, traders and corporate leaders continue to assess the downstream productivity impacts and the broader market implications for tech monopolies.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Microsoft-outage-e1794666213469.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12151032/microsoft-outage-over/"
+      "category": "Local",
+      "headline": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
+      "summary": "Stelco is recalling 175 temporarily laid off workers as it plans to restart its Hamilton finishing operations.",
+      "whyItMatters": "Directly impacts regional steel availability and local industrial activity in the Hamilton-Beamsville corridor.",
+      "explainMore": "Stelco has announced plans to recall 175 temporarily laid-off employees as part of its operational restart for finishing facilities in Hamilton, Ontario. The resumption of these operations points to shifting operational volumes within the local steel sector as year-end approaches.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/5bb4bc6639140ce91255c7ae296d9ebb3f226d575284b513cf944ca050144825.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12149822/stelco-layoff-recall/"
     }
   ],
   "markets": {
@@ -46,43 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7009",
+        "value": "0.7010",
         "positive": null
       }
     ],
-    "insight": "Equities show mild downward pressure with the S&P 500 down 0.36%, while the Canadian dollar trades at 0.7009 against the U.S. greenback."
+    "insight": "TSX holds flat while the S&P 500 and crude oil edge lower. The Canadian dollar remains steady against the greenback at 0.7010."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Deliberations and Market Participant Surveys Released",
-    "summary": "Recent Bank of Canada publications provide insight into Governing Council policy deliberations and third-quarter market participant survey results.",
-    "whyItMatters": "Staying informed on central bank summaries helps contextualize interest rate trajectories relevant to variable-rate mortgages and long-term investment strategies.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/"
+    "headline": "Faster money transfers with RTR will take time to adopt, says Scotiabank",
+    "summary": "Payments Canada's upgraded digital payments framework will take several months or years to become standard practice across major institutions.",
+    "whyItMatters": "As a long-term investor monitoring monetary systems and banking infrastructure, understanding the rollout timeline of the Real-Time Rail helps contextualize fintech modernization and commercial banking updates.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12147719/payments-canada-rtr-scotiabank/"
   },
   "manufacturing": {
-    "headline": "Federal Action Plan Targets Tariffs and Strengthens Ontario Manufacturing",
-    "summary": "Parliamentary Secretary Naqvi highlighted a new joint federal-provincial action plan designed to protect workers from tariffs and reinforce competitive Ontario industries.",
-    "whyItMatters": "Directly impacts regional manufacturing competitiveness, steel inputs, and trade stability for Ontario industrial operations.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/global-affairs/news/2026/11/parliamentary-secretary-naqvi-highlights-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html",
-    "engineeringHeadline": "Honda Investment Advances Next-Generation Vehicle Manufacturing in Ontario",
-    "engineeringSummary": "The governments of Canada and Ontario are investing $313 million in Honda North America to advance hybrid vehicle production and next-generation manufacturing technology in Alliston, Ontario."
+    "headline": "Canada invests $313 million in Honda North America for Ontario EV manufacturing",
+    "summary": "The federal and Ontario governments are partnering with Honda to advance next-generation hybrid and vehicle manufacturing operations in Alliston.",
+    "whyItMatters": "Reinforces the regional manufacturing base and technology adoption curves across Ontario industrial supply chains.",
+    "source": "Canada.ca - ISED",
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html",
+    "engineeringHeadline": "Microsoft global tech outage highlights enterprise digital dependency risks",
+    "engineeringSummary": "A widespread Microsoft service outage disrupted digital channels and business communications globally, underscoring infrastructure vulnerabilities in automated and interconnected industrial environments."
   },
   "world": {
-    "headline": "Canada and Philippines Conclude Free-Trade Agreement Negotiations",
-    "summary": "Canada has concluded negotiations for a free-trade agreement with the Philippines, with implementation aimed for 2027, alongside broader trade pursuits with the ASEAN bloc.",
-    "whyItMatters": "Expands international market access and trade diversification options for Canadian industrial and commercial sectors.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/"
+    "headline": "Global tech markets weigh impact of widespread Microsoft service outages",
+    "summary": "Traders and enterprises evaluated supply chain and communications disruptions following a global outage affecting Microsoft web services and enterprise applications.",
+    "whyItMatters": "Demonstrates the acute operational vulnerabilities modern industrial and digital enterprises face when core software monopolies experience widespread systemic failures.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12149358/microsoft-outage-stock-markets/"
   },
   "lookingAhead": [
     {
-      "label": "Dec 1, 2026",
-      "text": "Stelco plans to restart its Hamilton finishing operations and recall 175 temporarily laid-off workers."
+      "label": "December 1, 2026",
+      "text": "Stelco plans to restart its Hamilton finishing operations and recall 175 laid-off workers."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing corporate evaluations of enterprise software reliability following recent global IT disruptions."
+      "label": "This Weekend",
+      "text": "U.S. air travel schedules expected to recover progressively following FAA ground stop orders."
     }
   ]
 }
