@@ -1,30 +1,40 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "morningSnapshot": {
-    "headline": "Trade Conditions and Steel Recalls Shape Regional Industry Outlook",
-    "summary": "Prime Minister Carney sets non-negotiable terms for auto sector viability in U.S. trade talks, while Stelco prepares to recall 175 laid-off workers in Hamilton to restart finishing operations."
+    "headline": "Bank of Canada Leadership Transition Set as Manufacturing Sector Weighs Strategic Trade Options",
+    "summary": "Governor Tiff Macklem announces plans to step down in 2027 while Ottawa looks toward European and Asian trade alternatives. Meanwhile, consumer insolvencies remain elevated and regional infrastructure updates highlight industrial momentum."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Ottawa / Hamilton / Toronto",
-    "headline": "Canada-U.S. trade deal must include viable auto sector, Carney says",
-    "summary": "Prime Minister Mark Carney says trade talks with the U.S. are making progress, but Ottawa won't accept a deal that doesn't allow for a viable auto sector, aligning with new regional actions to protect Ontario industries.",
-    "whyItMatters": "As an engineering professional in Ontario's manufacturing sector, your supply chain and regional demand are tightly coupled with the health of the broader automotive and steel ecosystems across Southern Ontario.",
-    "explainMore": "Prime Minister Mark Carney stated that while trade negotiations with the United States are making headway, the federal government maintains a firm stance that any final agreement must secure a viable path forward for the Canadian auto sector.\n\nSimultaneously, federal and provincial partners are rolling out coordinated action plans to protect workers from tariffs and fortify key Ontario industries, emphasizing domestic manufacturing resilience amid evolving geopolitical competition.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12151109/canada-us-trade-deal-conditions/"
+    "category": "Your Money",
+    "location": "Ottawa, Ontario",
+    "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "summary": "The Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his seven-year term expires on June 2, 2027.",
+    "whyItMatters": "As a variable-rate mortgage holder, leadership changes and upcoming monetary policy trajectories at the central bank heavily dictate your financing costs and interest rate outlook over the medium term.",
+    "explainMore": "The Board of Directors of the Bank of Canada formally announced that Governor Tiff Macklem informed them of his decision not to seek a second term.\n\nHis departure in mid-2027 initiates a multi-quarter runway for succession planning at the central bank, arriving as markets continue to analyze past governing council deliberations and broader inflation indicators.\n\nFor homeowners managing variable rate financing, keeping a close eye on these leadership shifts provides crucial context on how future monetary policy and interest rate paths will be charted.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Stelco to recall 175 laid-off workers in Hamilton, Ont. on Dec. 1",
-      "summary": "Stelco is recalling 175 temporarily laid off workers as it plans to restart its Hamilton finishing operations.",
-      "whyItMatters": "Directly impacts regional steel availability and local industrial activity in the Hamilton-Beamsville corridor.",
-      "explainMore": "Stelco has announced plans to recall 175 temporarily laid-off employees as part of its operational restart for finishing facilities in Hamilton, Ontario. The resumption of these operations points to shifting operational volumes within the local steel sector as year-end approaches.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/5bb4bc6639140ce91255c7ae296d9ebb3f226d575284b513cf944ca050144825.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12149822/stelco-layoff-recall/"
+      "category": "Your Money",
+      "headline": "Canada recorded 36K consumer insolvencies for 3rd straight quarter",
+      "summary": "During July, August and September, 36,797 Canadians filed for insolvencies, according to the Canadian Association of Insolvency and Restructuring Professionals.",
+      "whyItMatters": "Persistent consumer stress and high insolvency volumes signal broader economic headwinds affecting domestic demand and financial stability.",
+      "explainMore": "Data released by the Canadian Association of Insolvency and Restructuring Professionals shows that 36,797 Canadians filed for insolvencies in the third quarter.\n\nThis marks the third consecutive quarter that consumer insolvencies have hovered around the 36,000 mark, highlighting ongoing financial strain among households dealing with cumulative economic pressures.\n\nMonitoring these trends helps gauge the broader health of domestic consumer markets and overall economic resilience.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Consumer-insolvencies-q3-2026.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12152676/canada-consumer-insolvencies-q3-2026/"
+    },
+    {
+      "category": "Your Money",
+      "headline": "Canada exploring ‘other options’ with Europe, Asia to grow auto sector: Carney",
+      "summary": "Prime Minister Mark Carney states that while the auto sector remains part of U.S. trade talks, Canada is exploring alternative pathways in Europe and Asia.",
+      "whyItMatters": "Diversifying trade and manufacturing partnerships directly impacts the industrial supply chains, steel and aluminum demand, and component suppliers across Ontario.",
+      "explainMore": "Prime Minister Mark Carney noted that Canada is actively examining alternative avenues with international partners across Europe and Asia to support domestic manufacturing.\n\nWhile automotive supply chains remain central to ongoing discussions with the United States, expanding trade horizons is viewed as a key strategy to fortify industrial resilience.\n\nFor professionals embedded in Ontario's manufacturing and component supply networks, tracking these trade developments offers essential insight into future demand drivers.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/ed22bed95ddd9fc2212f1e47ac7036cb258093874c99c1614a1fb2c0392d1226.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12152341/canada-auto-sector-europe-asia/"
     }
   ],
   "markets": {
@@ -46,43 +56,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7010",
+        "value": "0.6995",
         "positive": null
       }
     ],
-    "insight": "TSX holds flat while the S&P 500 and crude oil edge lower. The Canadian dollar remains steady against the greenback at 0.7010."
+    "insight": "Equities showed modest movement with the S&P 500 easing slightly down 0.36% to 754.37 and Oil ticking down 0.34% to $145.58. The Canadian dollar holds near 0.6995 against the greenback, keeping currency dynamics steady for cross-border industrial trade."
   },
   "yourMoney": {
-    "headline": "Faster money transfers with RTR will take time to adopt, says Scotiabank",
-    "summary": "Payments Canada's upgraded digital payments framework will take several months or years to become standard practice across major institutions.",
-    "whyItMatters": "As a long-term investor monitoring monetary systems and banking infrastructure, understanding the rollout timeline of the Real-Time Rail helps contextualize fintech modernization and commercial banking updates.",
+    "headline": "AI making it harder to spot fake retailers ahead of holidays, RBC poll says",
+    "summary": "A new RBC poll reveals that 84 per cent of Canadians find AI has made fake online holiday ads significantly harder to spot.",
+    "whyItMatters": "As online scams become increasingly sophisticated through artificial intelligence, long-term investors and online banking consumers must maintain heightened vigilance against digital fraud.",
     "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12147719/payments-canada-rtr-scotiabank/"
+    "sourceUrl": "https://globalnews.ca/news/12152805/ai-making-it-harder-to-spot-fake-retailers-ahead-of-holidays-rbc-poll-says/"
   },
   "manufacturing": {
-    "headline": "Canada invests $313 million in Honda North America for Ontario EV manufacturing",
-    "summary": "The federal and Ontario governments are partnering with Honda to advance next-generation hybrid and vehicle manufacturing operations in Alliston.",
-    "whyItMatters": "Reinforces the regional manufacturing base and technology adoption curves across Ontario industrial supply chains.",
-    "source": "Canada.ca - ISED",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html",
-    "engineeringHeadline": "Microsoft global tech outage highlights enterprise digital dependency risks",
-    "engineeringSummary": "A widespread Microsoft service outage disrupted digital channels and business communications globally, underscoring infrastructure vulnerabilities in automated and interconnected industrial environments."
+    "headline": "Federal Officials Highlight Budget 2026 Investments in Industrial Competitiveness",
+    "summary": "Government officials emphasize Canada's natural resources, reliable clean energy, and technical talent as key competitive advantages amid global protectionism.",
+    "whyItMatters": "Budget 2026 focuses on positioning Canada to navigate shifting geopolitical competition and protectionist pressures, reinforcing the broader industrial base that supports domestic manufacturing and engineering sectors.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/agriculture-agri-food/news/2026/11/minister-macdonald-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
+    "engineeringHeadline": "Mississauga Data Centre Moratorium Faces Legal Challenge from U.S. Logistics Firm",
+    "engineeringSummary": "An American-based logistics company is challenging Mississauga's one-year municipal moratorium on artificial intelligence data centres, highlighting ongoing regulatory friction surrounding high-density tech infrastructure buildouts in Ontario."
   },
   "world": {
-    "headline": "Global tech markets weigh impact of widespread Microsoft service outages",
-    "summary": "Traders and enterprises evaluated supply chain and communications disruptions following a global outage affecting Microsoft web services and enterprise applications.",
-    "whyItMatters": "Demonstrates the acute operational vulnerabilities modern industrial and digital enterprises face when core software monopolies experience widespread systemic failures.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12149358/microsoft-outage-stock-markets/"
+    "headline": "Ukraine Strikes Bridge Connecting Russia to Crimea, Causing Minor Damage",
+    "summary": "Ukrainian forces launched a strike against the Kerch Strait bridge connecting Russia to Crimea, resulting in what officials described as minor damage.",
+    "whyItMatters": "Ongoing infrastructure strikes in the Black Sea region continue to test geopolitical stability and maintain subtle pressure on global energy and commodity markets.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12153046/ukraine-strikes-bridge-crimea-russia-kerch-strait/"
   },
   "lookingAhead": [
     {
-      "label": "December 1, 2026",
-      "text": "Stelco plans to restart its Hamilton finishing operations and recall 175 laid-off workers."
+      "label": "Wednesday",
+      "text": "Canada’s Alert Ready emergency system will test nationwide notifications."
     },
     {
-      "label": "This Weekend",
-      "text": "U.S. air travel schedules expected to recover progressively following FAA ground stop orders."
+      "label": "This Week",
+      "text": "Monitor ongoing corporate disclosures and trade updates concerning Canadian manufacturing diversification efforts into Europe and Asia."
     }
   ]
 }
