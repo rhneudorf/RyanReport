@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-20",
   "morningSnapshot": {
-    "headline": "Bank of Canada Leadership Shift and Global Tech Earnings Loom Over Markets",
-    "summary": "Good morning, Ryan. Tiff Macklem will step down from the Bank of Canada in June 2027, while global markets digest NVIDIA earnings, AI security concerns, and regional trade positioning."
+    "headline": "Ottawa and Ontario commit $760M to Ford's Oakville complex as markets face downward pressure",
+    "summary": "Major automotive investments anchor Ontario's manufacturing sector amid a trade war, while global equity markets wobble and the Bank of Canada navigates leadership transition."
   },
   "topStory": {
-    "category": "Your Money",
-    "location": "Ottawa",
-    "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "summary": "The Board of Directors of the Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his seven-year term expires on June 2, 2027.",
-    "whyItMatters": "Leadership transitions at the central bank set the long-term tone for monetary policy, influencing interest rate paths that directly impact your 5-year variable mortgage and broader economic borrowing costs.",
-    "explainMore": "Governor Macklem's upcoming departure marks the approaching end of a tenure defined by unprecedented inflation shocks, aggressive rate-hiking cycles, and subsequent easing phases.\n\nFinancial market participants and long-term investors will closely monitor the search for his successor as a key signal of future central bank independence and policy trajectory.\n\nFor homeowners managing variable rate debt, tracking these structural central bank shifts provides essential horizon visibility well ahead of renewal cycles.",
-    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1000&q=80",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
+    "category": "Manufacturing & Trade",
+    "location": "Oakville, Ontario",
+    "headline": "As trade war hits auto sector, Ford gets $760M from taxpayers for Ontario plant",
+    "summary": "The federal and provincial governments are injecting $760 million into the Ford Motor Company of Canada to retool its Oakville Assembly Complex, bolstering Ontario's auto manufacturing footprint.",
+    "whyItMatters": "As an Ontario manufacturing professional working in the industrial sector, large-scale automotive retooling ripples directly through the provincial supply chain, driving local demand for automation, welding, and mechanical components.",
+    "explainMore": "The significant capital infusion aims to modernize the Oakville facility and strengthen domestic vehicle production infrastructure. Ontario Premier Doug Ford noted that once the retooling and expansion are complete, Canada will give Kentucky a run for their money.\n\nIndustry Minister Mélanie Joly spearheaded the funding announcement alongside provincial partners. This initiative highlights government efforts to insulate Canada's industrial base against intensifying trade headwinds and cross-border pressures.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Ontario secondary teachers vote 96% in favour of strike mandate",
-      "summary": "The OSSTF says teachers have been pushed to the brink in their profession as a result of Ford government under-funding education.",
-      "whyItMatters": "Labor disruptions across Ontario schools create secondary scheduling and community impacts throughout the Greater Toronto and Niagara regions.",
-      "explainMore": "The overwhelming 96 per cent strike vote signals deep friction between the province and educators over funding levels and working conditions.\n\nAs negotiations continue, parents and local communities across Southern Ontario must prepare for potential classroom disruptions in the coming weeks.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/ec648af107acdad64d21fa1daffadf87d1f8fa90799c7b367d7c96556d47ae04.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
+      "summary": "Governments are committing $250 million to help build a new port on the north shore of the Saint Marys River.",
+      "whyItMatters": "Expands regional marine logistics and industrial shipping capacity within Ontario, supporting heavy goods movement.",
+      "explainMore": "The $250 million joint investment by Ontario and Ottawa targets infrastructure development in Sault Ste. Marie. The project focuses on establishing a new port facility along the Saint Marys River to enhance commercial shipping corridors and regional industrial connectivity.\n\nThis development forms part of broader governmental pushes to fund infrastructure construction and capital projects across the province.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12154581/ontario-secondary-school-teachers-federation-strike-vote/"
+      "sourceUrl": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 1.01%",
+        "value": "▼ 1.49%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 1.91%",
+        "value": "▼ 1.96%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▼ 3.81%",
-        "positive": false
+        "value": "▲ 1.45%",
+        "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.6998",
+        "value": "0.6977",
         "positive": null
       }
     ],
-    "insight": "North American equities retreated alongside a sharp drop in oil prices, while the Canadian dollar traded near 0.70 USD amid broad macroeconomic caution."
+    "insight": "North American equities pulled back with the TSX dropping 1.49% to 51.45 and the S&P 500 sliding 1.96% to 715.87 amid tech and AI valuation jitters. Crude oil climbed 1.45% to $138.09, while the Canadian dollar held at 0.6977 against the U.S. dollar."
   },
   "yourMoney": {
-    "headline": "Canada recorded 36K consumer insolvencies for 3rd straight quarter",
-    "summary": "In July, August and September, 36,797 Canadians filed for insolvencies, according to the Canadian Association of Insolvency and Restructuring Professionals.",
-    "whyItMatters": "Sustained high volumes of consumer insolvencies underscore lingering financial stress among households navigating elevated borrowing costs.",
-    "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12152676/canada-consumer-insolvencies-q3-2026/"
+    "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+    "summary": "The Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his seven-year term concludes on June 2, 2027.",
+    "whyItMatters": "Leadership transitions at the central bank heavily influence long-term monetary policy trajectory, interest rate paths, and variable mortgage conditions.",
+    "source": "Bank of Canada",
+    "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
   },
   "manufacturing": {
-    "headline": "Ford holds off on new cash for Stellantis plant, contradicting minister",
-    "summary": "Doug Ford's minister responsible for the tariffs response stated the province is willing to offer Stellantis additional financial support to stay in Brampton, though the Premier has held off.",
-    "whyItMatters": "Provincial support and tariff responses directly affect capital investment decisions and supply chain stability across Ontario's industrial and automotive sectors.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12153708/ford-holds-off-on-new-cash-for-stellantis-plant-contradicting-minister/",
-    "engineeringHeadline": "Carney highlights trade diversification toward Europe and Asia for auto and industrial sectors",
-    "engineeringSummary": "Prime Minister Mark Carney noted that while the auto sector remains part of U.S. trade talks, Canada is actively exploring alternative options in Europe and Asia to grow domestic manufacturing and supply chains."
+    "headline": "Government of Canada supports SOJA&CO. in automation of its Brossard production lines",
+    "summary": "CED has provided $250,000 in funding to support production line automation for a Brossard manufacturing business.",
+    "whyItMatters": "Highlights ongoing federal backing for plant-level automation and advanced manufacturing technologies that improve production efficiency.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/11/government-of-canada-supports-sojaco-in-automation-of-its-brossard-production-lines.html",
+    "engineeringHeadline": "Federal and provincial investments target skilled trades and manufacturing expansion",
+    "engineeringSummary": "Governments continue to direct capital toward industrial retooling, port infrastructure, and programs encouraging participation in skilled trades and manufacturing careers."
   },
   "world": {
-    "headline": "All eyes on AI amid fears global economy could be ‘standing on one leg’",
-    "summary": "Nvidia is set to report quarterly earnings and Anthropic is expected to go public this week as the International Monetary Fund gave a stern warning to investors.",
-    "whyItMatters": "Intense market concentration in artificial intelligence infrastructure creates systemic volatility risks that ripple across global technology and industrial automation investments.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12154238/ai-nvidia-anthropic-imf/"
+    "headline": "Wall Street wobbles as Nvidia earnings send ripple through stock markets",
+    "summary": "Global markets reacted to Nvidia's latest quarterly earnings report and announcements regarding corporate leadership amidst ongoing uncertainty surrounding the artificial intelligence boom.",
+    "whyItMatters": "Technology sector volatility and artificial intelligence valuation swings directly impact broader equity market stability and investor sentiment.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12156231/wall-street-nvidia-earnings/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Nvidia quarterly earnings report scheduled as global markets monitor artificial intelligence sector valuations."
+      "label": "June 2027",
+      "text": "Bank of Canada Governor Tiff Macklem's current seven-year term concludes."
     },
     {
       "label": "This Week",
-      "text": "Anthropic expected initial public offering watched closely by technology and market analysts."
+      "text": "Monitor ongoing developments in automotive sector retooling and provincial fiscal updates."
     }
   ]
 }
