@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "morningSnapshot": {
-    "headline": "Ottawa and Ontario commit $760M to Ford's Oakville complex as markets face downward pressure",
-    "summary": "Major automotive investments anchor Ontario's manufacturing sector amid a trade war, while global equity markets wobble and the Bank of Canada navigates leadership transition."
+    "headline": "Wall Street Hits Correction Territory Amid AI Pullback as Bank of Canada Prepares for Leadership Transition",
+    "summary": "Good morning, Ryan. Markets face severe downward pressure with U.S. benchmarks entering correction territory following an Anthropic-led tech retreat. Locally, Bank of Canada Governor Tiff Macklem announced he will step down in June 2027, while major automotive and regional funding investments shape Ontario's manufacturing sector."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Oakville, Ontario",
-    "headline": "As trade war hits auto sector, Ford gets $760M from taxpayers for Ontario plant",
-    "summary": "The federal and provincial governments are injecting $760 million into the Ford Motor Company of Canada to retool its Oakville Assembly Complex, bolstering Ontario's auto manufacturing footprint.",
-    "whyItMatters": "As an Ontario manufacturing professional working in the industrial sector, large-scale automotive retooling ripples directly through the provincial supply chain, driving local demand for automation, welding, and mechanical components.",
-    "explainMore": "The significant capital infusion aims to modernize the Oakville facility and strengthen domestic vehicle production infrastructure. Ontario Premier Doug Ford noted that once the retooling and expansion are complete, Canada will give Kentucky a run for their money.\n\nIndustry Minister Mélanie Joly spearheaded the funding announcement alongside provincial partners. This initiative highlights government efforts to insulate Canada's industrial base against intensifying trade headwinds and cross-border pressures.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/"
+    "category": "World",
+    "location": "New York / Global",
+    "headline": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
+    "summary": "Both benchmark indices were down 10 per cent from their record closing highs, crossing the official threshold for a market correction as artificial intelligence stocks face heavy selling pressure following Anthropic's record-setting public debut.",
+    "whyItMatters": "As a long-term investor navigating broader market volatility, sweeping tech corrections and massive capital shifts in artificial intelligence ripple directly across global equity indexes and Canadian market sentiment.",
+    "explainMore": "The artificial intelligence giant Anthropic recently opened for trading in the biggest public stock offering ever, topping $2 trillion on Wall Street. However, investor fears of an unfolding AI bubble and a subsequent retreat have weighed heavily on major benchmarks.\n\nAn index falling 10 per cent or more below its record high on a close-to-close basis officially enters a correction. This abrupt shift highlights the inherent volatility in high-growth tech sectors and prompts portfolio re-evaluations across global markets.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/stock-market-e1795201628448.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12159879/anthropic-stock-correction/"
   },
   "stories": [
     {
       "category": "Local",
-      "headline": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
-      "summary": "Governments are committing $250 million to help build a new port on the north shore of the Saint Marys River.",
-      "whyItMatters": "Expands regional marine logistics and industrial shipping capacity within Ontario, supporting heavy goods movement.",
-      "explainMore": "The $250 million joint investment by Ontario and Ottawa targets infrastructure development in Sault Ste. Marie. The project focuses on establishing a new port facility along the Saint Marys River to enhance commercial shipping corridors and regional industrial connectivity.\n\nThis development forms part of broader governmental pushes to fund infrastructure construction and capital projects across the province.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "headline": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
+      "summary": "Ontario Premier Doug Ford calls discussions with Stellantis challenging yet productive as federal industry pressure mounts over the Brampton plant.",
+      "whyItMatters": "Automotive investments and regional supply chains deeply influence Ontario's broader industrial manufacturing ecosystem, including component suppliers and engineering demand.",
+      "explainMore": "The high-stakes meeting unfolded as Industry Minister Mélanie Joly stated that automaker Stellantis must either keep its Brampton plant operational or face a multimillion-dollar lawsuit from the federal government.\n\nPremier Ford's discussions reflect ongoing negotiations to secure domestic manufacturing capacity and protect industrial employment across the province.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/"
+      "sourceUrl": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 1.49%",
+        "value": "▼ 2.20%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 1.96%",
+        "value": "▼ 3.64%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.45%",
+        "value": "▲ 1.12%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.6977",
+        "value": "0.6975",
         "positive": null
       }
     ],
-    "insight": "North American equities pulled back with the TSX dropping 1.49% to 51.45 and the S&P 500 sliding 1.96% to 715.87 amid tech and AI valuation jitters. Crude oil climbed 1.45% to $138.09, while the Canadian dollar held at 0.6977 against the U.S. dollar."
+    "insight": "North American equities are experiencing sharp downward corrections, with the S&P 500 down over 3.6% and the TSX pulling back 2.2%. Meanwhile, crude oil remains elevated at $139.63, and the Canadian dollar holds at 0.6975 against the greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-    "summary": "The Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his seven-year term concludes on June 2, 2027.",
-    "whyItMatters": "Leadership transitions at the central bank heavily influence long-term monetary policy trajectory, interest rate paths, and variable mortgage conditions.",
+    "headline": "Bank of Canada Governor Tiff Macklem to Step Down in June 2027",
+    "summary": "The Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his current seven-year term expires on June 2, 2027.",
+    "whyItMatters": "As a homeowner with a 5-year variable mortgage, leadership transitions at the central bank signal upcoming shifts in monetary policy governance, interest rate trajectories, and long-term borrowing costs.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
   },
   "manufacturing": {
-    "headline": "Government of Canada supports SOJA&CO. in automation of its Brossard production lines",
-    "summary": "CED has provided $250,000 in funding to support production line automation for a Brossard manufacturing business.",
-    "whyItMatters": "Highlights ongoing federal backing for plant-level automation and advanced manufacturing technologies that improve production efficiency.",
+    "headline": "Government of Canada Announces Major Investment in Ford Motor Company of Canada",
+    "summary": "Ottawa has announced a major funding investment to support the Ford Motor Company of Canada in retooling its Oakville Assembly Complex to strengthen auto manufacturing.",
+    "whyItMatters": "Heavy investments in automotive assembly lines and plant retooling drive high-precision engineering, tooling, and industrial automation demand across Ontario's supply chain.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-quebec-regions/news/2026/11/government-of-canada-supports-sojaco-in-automation-of-its-brossard-production-lines.html",
-    "engineeringHeadline": "Federal and provincial investments target skilled trades and manufacturing expansion",
-    "engineeringSummary": "Governments continue to direct capital toward industrial retooling, port infrastructure, and programs encouraging participation in skilled trades and manufacturing careers."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
+    "engineeringHeadline": "Federal Funding Backs Production Line Automation in Brossard SME",
+    "engineeringSummary": "The Government of Canada has provided $250,000 through Canada Economic Development for Quebec Regions to support SOJA&CO. in automating its production lines, highlighting ongoing investments in advanced manufacturing efficiency and automated workflows."
   },
   "world": {
-    "headline": "Wall Street wobbles as Nvidia earnings send ripple through stock markets",
-    "summary": "Global markets reacted to Nvidia's latest quarterly earnings report and announcements regarding corporate leadership amidst ongoing uncertainty surrounding the artificial intelligence boom.",
-    "whyItMatters": "Technology sector volatility and artificial intelligence valuation swings directly impact broader equity market stability and investor sentiment.",
+    "headline": "EU Targeted by AI Cyberattack in October, Official Says",
+    "summary": "European Union officials revealed that the 27-member bloc was targeted by an AI-driven cyberattack in October, leaving some digital tools offline in an unprecedented state-backed digital breach.",
+    "whyItMatters": "The incident marks the first time the EU has formally reported a cyberattack leveraging artificial intelligence tools, signaling critical infrastructure and industrial automation vulnerabilities.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12156231/wall-street-nvidia-earnings/"
+    "sourceUrl": "https://globalnews.ca/news/12157729/eu-ai-cyberattack/"
   },
   "lookingAhead": [
     {
-      "label": "June 2027",
-      "text": "Bank of Canada Governor Tiff Macklem's current seven-year term concludes."
+      "label": "Today",
+      "text": "Ontario's Liberal Party wraps up its long leadership race to select its third new leader since 2018."
     },
     {
-      "label": "This Week",
-      "text": "Monitor ongoing developments in automotive sector retooling and provincial fiscal updates."
+      "label": "June 2027",
+      "text": "Bank of Canada Governor Tiff Macklem's term concludes, initiating a leadership transition for the central bank."
     }
   ]
 }
