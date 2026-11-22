@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "morningSnapshot": {
-    "headline": "Wall Street Hits Correction Territory Amid AI Pullback as Bank of Canada Prepares for Leadership Transition",
-    "summary": "Good morning, Ryan. Markets face severe downward pressure with U.S. benchmarks entering correction territory following an Anthropic-led tech retreat. Locally, Bank of Canada Governor Tiff Macklem announced he will step down in June 2027, while major automotive and regional funding investments shape Ontario's manufacturing sector."
+    "headline": "Markets Face Corrections Amid Tech and AI Pullbacks; Key Automotive and Industrial Investments Move Forward in Ontario",
+    "summary": "Global equity markets face downward corrections driven by tech sector pullbacks, while federal and provincial officials push forward with major automotive and industrial investments in Ontario."
   },
   "topStory": {
-    "category": "World",
-    "location": "New York / Global",
+    "category": "World / Markets",
+    "location": "Global / North America",
     "headline": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
-    "summary": "Both benchmark indices were down 10 per cent from their record closing highs, crossing the official threshold for a market correction as artificial intelligence stocks face heavy selling pressure following Anthropic's record-setting public debut.",
-    "whyItMatters": "As a long-term investor navigating broader market volatility, sweeping tech corrections and massive capital shifts in artificial intelligence ripple directly across global equity indexes and Canadian market sentiment.",
-    "explainMore": "The artificial intelligence giant Anthropic recently opened for trading in the biggest public stock offering ever, topping $2 trillion on Wall Street. However, investor fears of an unfolding AI bubble and a subsequent retreat have weighed heavily on major benchmarks.\n\nAn index falling 10 per cent or more below its record high on a close-to-close basis officially enters a correction. This abrupt shift highlights the inherent volatility in high-growth tech sectors and prompts portfolio re-evaluations across global markets.",
+    "summary": "Both the S&P 500 and Dow benchmarks are down 10 per cent from their record closing highs following an Anthropic retreat that weighed heavily on artificial intelligence stocks.",
+    "whyItMatters": "Broad market corrections directly impact long-term investment portfolios, retirement planning, and broader investor sentiment across North America.",
+    "explainMore": "An index falling 10 per cent or more below its record high on a close-to-close basis is classified as a market correction. Recent market movements have been heavily influenced by high-profile tech developments, including investor interest surrounding the Anthropic IPO and the mechanics of the 'god share'.\n\nFor long-term investors maintaining a disciplined strategy, these pullbacks highlight the inherent volatility in high-growth technology sectors. Monitoring broader index adjustments provides necessary context for evaluating portfolio risk and capital allocation during periods of heightened market turbulence.",
     "image": "https://globalnews.ca/wp-content/uploads/2026/11/stock-market-e1795201628448.jpg?quality=65&strip=all&w=720&h=480&crop=1",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12159879/anthropic-stock-correction/"
   },
   "stories": [
     {
-      "category": "Local",
+      "category": "Manufacturing & Trade",
       "headline": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
-      "summary": "Ontario Premier Doug Ford calls discussions with Stellantis challenging yet productive as federal industry pressure mounts over the Brampton plant.",
-      "whyItMatters": "Automotive investments and regional supply chains deeply influence Ontario's broader industrial manufacturing ecosystem, including component suppliers and engineering demand.",
-      "explainMore": "The high-stakes meeting unfolded as Industry Minister Mélanie Joly stated that automaker Stellantis must either keep its Brampton plant operational or face a multimillion-dollar lawsuit from the federal government.\n\nPremier Ford's discussions reflect ongoing negotiations to secure domestic manufacturing capacity and protect industrial employment across the province.",
+      "summary": "Ontario Premier Doug Ford calls a meeting with Stellantis 'challenging' as the automaker faces pressure over its Brampton plant.",
+      "whyItMatters": "Automotive manufacturing health in Ontario has direct ripple effects across the provincial industrial supply chain, component fabrication, and engineering sectors.",
+      "explainMore": "The high-stakes discussions followed warnings from federal Industry Minister Mélanie Joly that the automaker must keep its Brampton plant operational or face a multimillion-dollar lawsuit from the federal government.\n\nFor professionals embedded in Ontario's manufacturing ecosystem, maintaining regional vehicle assembly footprints is critical for sustaining localized demand for tooling, sub-assemblies, and industrial engineering services.",
       "image": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
       "sourceUrl": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/"
@@ -50,39 +50,35 @@
         "positive": null
       }
     ],
-    "insight": "North American equities are experiencing sharp downward corrections, with the S&P 500 down over 3.6% and the TSX pulling back 2.2%. Meanwhile, crude oil remains elevated at $139.63, and the Canadian dollar holds at 0.6975 against the greenback."
+    "insight": "North American equities are experiencing a notable correction phase led by technology and AI valuation pullbacks, while crude oil trades higher at $139.63 and the Canadian dollar sits near 0.6975 against the greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Governor Tiff Macklem to Step Down in June 2027",
-    "summary": "The Bank of Canada announced that Governor Tiff Macklem will not seek a second term when his current seven-year term expires on June 2, 2027.",
-    "whyItMatters": "As a homeowner with a 5-year variable mortgage, leadership transitions at the central bank signal upcoming shifts in monetary policy governance, interest rate trajectories, and long-term borrowing costs.",
+    "headline": "Bank of Canada Leadership Transition on the Horizon as Tiff Macklem Announces Departure",
+    "summary": "Bank of Canada Governor Tiff Macklem has informed the Board of Directors that he will not seek a second term when his seven-year term concludes in June 2027.",
+    "whyItMatters": "Leadership changes at the central bank influence long-term monetary policy trajectory, interest rate outlooks, and variable mortgage rate dynamics for Canadian homeowners.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
   },
   "manufacturing": {
-    "headline": "Government of Canada Announces Major Investment in Ford Motor Company of Canada",
-    "summary": "Ottawa has announced a major funding investment to support the Ford Motor Company of Canada in retooling its Oakville Assembly Complex to strengthen auto manufacturing.",
-    "whyItMatters": "Heavy investments in automotive assembly lines and plant retooling drive high-precision engineering, tooling, and industrial automation demand across Ontario's supply chain.",
-    "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
-    "engineeringHeadline": "Federal Funding Backs Production Line Automation in Brossard SME",
-    "engineeringSummary": "The Government of Canada has provided $250,000 through Canada Economic Development for Quebec Regions to support SOJA&CO. in automating its production lines, highlighting ongoing investments in advanced manufacturing efficiency and automated workflows."
+    "headline": "Federal and Provincial Governments Commit $250M to Sault Ste. Marie Port Facility",
+    "summary": "Ontario and Ottawa have committed $250 million to help fund the construction of a new port on the north shore of the Saint Marys River.",
+    "whyItMatters": "Enhanced regional shipping and transport infrastructure directly supports northern supply chains, bulk material movement, and heavy industrial competitiveness across Ontario.",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
+    "engineeringHeadline": "Federal Investment Backs Production Line Automation and Robotics in Canadian Manufacturing",
+    "engineeringSummary": "Federal funding initiatives continue to target advanced manufacturing efficiency, highlighted by recent automation investments supporting production line upgrades in Quebec facilities like SOJA&CO."
   },
   "world": {
-    "headline": "EU Targeted by AI Cyberattack in October, Official Says",
-    "summary": "European Union officials revealed that the 27-member bloc was targeted by an AI-driven cyberattack in October, leaving some digital tools offline in an unprecedented state-backed digital breach.",
-    "whyItMatters": "The incident marks the first time the EU has formally reported a cyberattack leveraging artificial intelligence tools, signaling critical infrastructure and industrial automation vulnerabilities.",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12157729/eu-ai-cyberattack/"
+    "headline": "UN Climate Talks Break Down at COP31 Over Fossil Fuel Disagreements",
+    "summary": "COP31 climate talks concluded without a broad overarching agreement after multiple nations and the European Union rejected a proposal omitting explicit references to fossil fuels.",
+    "whyItMatters": "Global energy policy stalemates impact long-term industrial transition timelines, carbon pricing expectations, and international capital expenditures in the energy and manufacturing sectors.",
+    "source": "Global News - National",
+    "sourceUrl": "https://globalnews.ca/news/12161490/cop31-climate-talks-fail/"
   },
   "lookingAhead": [
     {
-      "label": "Today",
-      "text": "Ontario's Liberal Party wraps up its long leadership race to select its third new leader since 2018."
-    },
-    {
       "label": "June 2027",
-      "text": "Bank of Canada Governor Tiff Macklem's term concludes, initiating a leadership transition for the central bank."
+      "text": "Bank of Canada Governor Tiff Macklem's current seven-year term concludes, setting the stage for a central bank leadership transition."
     }
   ]
 }
