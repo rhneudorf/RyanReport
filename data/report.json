@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "morningSnapshot": {
-    "headline": "Markets Face Corrections Amid Tech and AI Pullbacks; Key Automotive and Industrial Investments Move Forward in Ontario",
-    "summary": "Global equity markets face downward corrections driven by tech sector pullbacks, while federal and provincial officials push forward with major automotive and industrial investments in Ontario."
+    "headline": "Ford Demands Auto and Steel Protections in Trade Talks; Bank of Canada Leadership Shift Underway",
+    "summary": "Good morning, Ryan. Premier Doug Ford insists Ontario will not back a trade deal without explicit approval from the auto, steel, and manufacturing sectors. Meanwhile, markets react to a mixed session with the S&P 500 up 4.74% while the TSX pulls back 2.20%, and Governor Tiff Macklem prepares to step down in June 2027."
   },
   "topStory": {
-    "category": "World / Markets",
-    "location": "Global / North America",
-    "headline": "S&P 500, Dow on track for correction as Anthropic retreat weighs on AI stocks",
-    "summary": "Both the S&P 500 and Dow benchmarks are down 10 per cent from their record closing highs following an Anthropic retreat that weighed heavily on artificial intelligence stocks.",
-    "whyItMatters": "Broad market corrections directly impact long-term investment portfolios, retirement planning, and broader investor sentiment across North America.",
-    "explainMore": "An index falling 10 per cent or more below its record high on a close-to-close basis is classified as a market correction. Recent market movements have been heavily influenced by high-profile tech developments, including investor interest surrounding the Anthropic IPO and the mechanics of the 'god share'.\n\nFor long-term investors maintaining a disciplined strategy, these pullbacks highlight the inherent volatility in high-growth technology sectors. Monitoring broader index adjustments provides necessary context for evaluating portfolio risk and capital allocation during periods of heightened market turbulence.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/stock-market-e1795201628448.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12159879/anthropic-stock-correction/"
+    "category": "Manufacturing & Trade",
+    "location": "Hamilton / Ontario",
+    "headline": "Premier Ford won’t agree to trade deal without auto, steel and manufacturing approval",
+    "summary": "Premier Doug Ford stated that Ontario will not sign onto a trade deal unless the auto, steel, and manufacturing sectors give their approval, while Ottawa pursues an interim deal for tariff relief.",
+    "whyItMatters": "As an engineer in Ontario's hydraulic cylinder manufacturing sector, your supply chain and operational planning depend heavily on cross-border tariff stability and robust protection of regional heavy industry.",
+    "explainMore": "Premier Ford's firm stance comes as Ottawa actively seeks an interim agreement aimed at providing immediate tariff relief for Canadian businesses and resolving core trade irritants with the United States. However, Ontario's insistence that domestic manufacturing, steel, and auto sectors sign off first underscores the high stakes for provincial industrial policy.\n\nSeparately, discussions between premiers like Ford and Danielle Smith highlight that interprovincial trade within Canada remains complex, with Ford noting that while Ontario has eliminated trade exemptions, internal free trade implementation continues to face hurdles.\n\nFor regional manufacturers, these trade dynamics directly influence material costs, component sourcing, and long-term capital investments across the industrial heartland from Hamilton to the Niagara Region.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12162655/premier-ford-wont-agree-to-trade-deal-without-auto-steel-and-manufacturing-approval/"
   },
   "stories": [
     {
-      "category": "Manufacturing & Trade",
-      "headline": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
-      "summary": "Ontario Premier Doug Ford calls a meeting with Stellantis 'challenging' as the automaker faces pressure over its Brampton plant.",
-      "whyItMatters": "Automotive manufacturing health in Ontario has direct ripple effects across the provincial industrial supply chain, component fabrication, and engineering sectors.",
-      "explainMore": "The high-stakes discussions followed warnings from federal Industry Minister Mélanie Joly that the automaker must keep its Brampton plant operational or face a multimillion-dollar lawsuit from the federal government.\n\nFor professionals embedded in Ontario's manufacturing ecosystem, maintaining regional vehicle assembly footprints is critical for sustaining localized demand for tooling, sub-assemblies, and industrial engineering services.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/"
+      "category": "Canada",
+      "headline": "Canadians should be warned when targeted by surveillance pricing: commissioner",
+      "summary": "Privacy Commissioner Philippe Dufresne announced plans to develop formal guidance regarding how Canada's current privacy law applies to algorithmic and surveillance pricing.",
+      "whyItMatters": "Highlights growing regulatory scrutiny on artificial intelligence and automated pricing models used across commercial sectors.",
+      "explainMore": "Appearing before a parliamentary committee, Privacy Commissioner Philippe Dufresne detailed plans to establish formal guidelines addressing the rise of surveillance pricing. This regulatory push parallels ongoing inquiries by the Competition Bureau into the use of artificial intelligence in algorithmic pricing.\n\nAs businesses increasingly adopt advanced digital pricing architectures, federal watchdogs are ramping up oversight to protect consumer transparency and privacy rights against opaque automated profiling.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/bfd3cb369f6ef6f505bb0d39d138b869e9bd500eb36b50148a44c4010169a30b_06c0e3.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Canada",
+      "sourceUrl": "https://globalnews.ca/news/12163118/surveillance-pricing-awareness-privacy-commissioner/"
     }
   ],
   "markets": {
@@ -36,49 +36,53 @@
       },
       {
         "name": "S&P 500",
-        "value": "▼ 3.64%",
-        "positive": false
-      },
-      {
-        "name": "Oil",
-        "value": "▲ 1.12%",
+        "value": "▲ 4.74%",
         "positive": true
       },
       {
+        "name": "Oil",
+        "value": "▼ 4.50%",
+        "positive": false
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.6975",
+        "value": "0.6964",
         "positive": null
       }
     ],
-    "insight": "North American equities are experiencing a notable correction phase led by technology and AI valuation pullbacks, while crude oil trades higher at $139.63 and the Canadian dollar sits near 0.6975 against the greenback."
+    "insight": "The TSX pulled back 2.20% to 50.32 while the S&P 500 gained 4.74% to 722.51. Oil prices dropped 4.50% to $133.35, and the Canadian dollar is trading at 0.6964 against the US greenback."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Leadership Transition on the Horizon as Tiff Macklem Announces Departure",
-    "summary": "Bank of Canada Governor Tiff Macklem has informed the Board of Directors that he will not seek a second term when his seven-year term concludes in June 2027.",
-    "whyItMatters": "Leadership changes at the central bank influence long-term monetary policy trajectory, interest rate outlooks, and variable mortgage rate dynamics for Canadian homeowners.",
+    "headline": "Bank of Canada Governor Tiff Macklem to Step Down in June 2027",
+    "summary": "Bank of Canada Governor Tiff Macklem has informed the Board of Directors that he will not seek a second term when his seven-year term expires on June 2, 2027.",
+    "whyItMatters": "Leadership transitions at the central bank set the long-term trajectory for monetary policy, interest rate direction, and borrowing costs relevant to your 5-year variable mortgage and long-term investments.",
     "source": "Bank of Canada",
     "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
   },
   "manufacturing": {
-    "headline": "Federal and Provincial Governments Commit $250M to Sault Ste. Marie Port Facility",
-    "summary": "Ontario and Ottawa have committed $250 million to help fund the construction of a new port on the north shore of the Saint Marys River.",
-    "whyItMatters": "Enhanced regional shipping and transport infrastructure directly supports northern supply chains, bulk material movement, and heavy industrial competitiveness across Ontario.",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
-    "engineeringHeadline": "Federal Investment Backs Production Line Automation and Robotics in Canadian Manufacturing",
-    "engineeringSummary": "Federal funding initiatives continue to target advanced manufacturing efficiency, highlighted by recent automation investments supporting production line upgrades in Quebec facilities like SOJA&CO."
+    "headline": "FedDev Ontario Invests in New Domestic Trade Programs to Support Regional Growth",
+    "summary": "Acting Deputy Commissioner Mike Hollingworth delivered remarks to the House of Commons committee studying the application of artificial intelligence in algorithmic pricing under the Competition Act.",
+    "whyItMatters": "Directly supports domestic market expansion and supply chain resilience for Ontario industrial enterprises navigating trade hurdles.",
+    "source": "Canada.ca - Business & Industry",
+    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/11/government-of-canada-investment-supports-ontario-businesses-through-new-domestic-trade-programs.html",
+    "engineeringHeadline": "Competition Bureau and Privacy Watchdogs Target Algorithmic Pricing Systems",
+    "engineeringSummary": "As industrial automation and AI tools expand across manufacturing and commercial sectors, regulatory bodies are tightening scrutiny on automated software systems and pricing algorithms."
   },
   "world": {
-    "headline": "UN Climate Talks Break Down at COP31 Over Fossil Fuel Disagreements",
-    "summary": "COP31 climate talks concluded without a broad overarching agreement after multiple nations and the European Union rejected a proposal omitting explicit references to fossil fuels.",
-    "whyItMatters": "Global energy policy stalemates impact long-term industrial transition timelines, carbon pricing expectations, and international capital expenditures in the energy and manufacturing sectors.",
-    "source": "Global News - National",
-    "sourceUrl": "https://globalnews.ca/news/12161490/cop31-climate-talks-fail/"
+    "headline": "Ukrainian Drones Strike Russian Warship in Mediterranean Port, Says Zelenskyy",
+    "summary": "President Volodymyr Zelenskyy reported that Ukrainian forces deployed seven domestically manufactured sea drones to strike a Russian navy corvette stationed at a Libyan port.",
+    "whyItMatters": "Demonstrates the expanding asymmetric operational range of autonomous marine drone technology in geopolitical conflict zones, with broader implications for naval defense engineering.",
+    "source": "Global News - World",
+    "sourceUrl": "https://globalnews.ca/news/12162155/ukraine-drone-russian-warship-libya/"
   },
   "lookingAhead": [
     {
-      "label": "June 2027",
-      "text": "Bank of Canada Governor Tiff Macklem's current seven-year term concludes, setting the stage for a central bank leadership transition."
+      "label": "This Week",
+      "text": "Monitor ongoing parliamentary committee studies regarding artificial intelligence, algorithmic pricing, and privacy commissioner guidelines."
+    },
+    {
+      "label": "Upcoming",
+      "text": "Track federal and provincial developments on cross-border trade negotiations involving Ontario's auto, steel, and manufacturing sectors."
     }
   ]
 }
