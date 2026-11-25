@@ -1,88 +1,88 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-25",
   "morningSnapshot": {
-    "headline": "Ford Demands Auto and Steel Protections in Trade Talks; Bank of Canada Leadership Shift Underway",
-    "summary": "Good morning, Ryan. Premier Doug Ford insists Ontario will not back a trade deal without explicit approval from the auto, steel, and manufacturing sectors. Meanwhile, markets react to a mixed session with the S&P 500 up 4.74% while the TSX pulls back 2.20%, and Governor Tiff Macklem prepares to step down in June 2027."
+    "headline": "Trade negotiations shift on U.S. sectoral tariffs as mortgage delinquencies climb",
+    "summary": "Good morning, Ryan. U.S. officials signal openness to accommodating Canada on sectoral tariffs for steel, aluminum, autos, and lumber. Meanwhile, Equifax data shows national mortgage delinquencies hitting a 13-year high as variable and fixed-rate holders feel the pressure."
   },
   "topStory": {
-    "category": "Manufacturing & Trade",
-    "location": "Hamilton / Ontario",
-    "headline": "Premier Ford won’t agree to trade deal without auto, steel and manufacturing approval",
-    "summary": "Premier Doug Ford stated that Ontario will not sign onto a trade deal unless the auto, steel, and manufacturing sectors give their approval, while Ottawa pursues an interim deal for tariff relief.",
-    "whyItMatters": "As an engineer in Ontario's hydraulic cylinder manufacturing sector, your supply chain and operational planning depend heavily on cross-border tariff stability and robust protection of regional heavy industry.",
-    "explainMore": "Premier Ford's firm stance comes as Ottawa actively seeks an interim agreement aimed at providing immediate tariff relief for Canadian businesses and resolving core trade irritants with the United States. However, Ontario's insistence that domestic manufacturing, steel, and auto sectors sign off first underscores the high stakes for provincial industrial policy.\n\nSeparately, discussions between premiers like Ford and Danielle Smith highlight that interprovincial trade within Canada remains complex, with Ford noting that while Ontario has eliminated trade exemptions, internal free trade implementation continues to face hurdles.\n\nFor regional manufacturers, these trade dynamics directly influence material costs, component sourcing, and long-term capital investments across the industrial heartland from Hamilton to the Niagara Region.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12162655/premier-ford-wont-agree-to-trade-deal-without-auto-steel-and-manufacturing-approval/"
+    "category": "Canada-U.S. Trade",
+    "location": "Washington / Ottawa",
+    "headline": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
+    "summary": "Steel, aluminum, automobiles and lumber are currently subject to steep 25 per cent tariffs imposed under Section 232 of the U.S. Trade Expansion Act. However, U.S. trade officials indicate willingness to work toward sectoral accommodations.",
+    "whyItMatters": "As an engineer working in Ontario hydraulic cylinder manufacturing, any movement on steel and aluminum tariffs directly impacts material costs, supply chain stability, and capital equipment demand across your sector.",
+    "explainMore": "The ongoing discussions surrounding Section 232 tariffs remain a critical baseline for Canadian industrial competitiveness. With steel and aluminum serving as foundational inputs for heavy machinery, fluid power systems, and structural components, tariff exemptions or adjustments dictate profit margins and pricing stability for regional manufacturers.\n\nWhile Washington's trade czar points to a desire to accommodate northern partners, domestic suppliers must carefully navigate these shifting cross-border parameters. For manufacturers in Ontario's industrial corridor, monitoring these trade talks provides essential visibility into input costs and downstream customer demand.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-sectoral-tariffs.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/"
   },
   "stories": [
     {
-      "category": "Canada",
-      "headline": "Canadians should be warned when targeted by surveillance pricing: commissioner",
-      "summary": "Privacy Commissioner Philippe Dufresne announced plans to develop formal guidance regarding how Canada's current privacy law applies to algorithmic and surveillance pricing.",
-      "whyItMatters": "Highlights growing regulatory scrutiny on artificial intelligence and automated pricing models used across commercial sectors.",
-      "explainMore": "Appearing before a parliamentary committee, Privacy Commissioner Philippe Dufresne detailed plans to establish formal guidelines addressing the rise of surveillance pricing. This regulatory push parallels ongoing inquiries by the Competition Bureau into the use of artificial intelligence in algorithmic pricing.\n\nAs businesses increasingly adopt advanced digital pricing architectures, federal watchdogs are ramping up oversight to protect consumer transparency and privacy rights against opaque automated profiling.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/bfd3cb369f6ef6f505bb0d39d138b869e9bd500eb36b50148a44c4010169a30b_06c0e3.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Canada",
-      "sourceUrl": "https://globalnews.ca/news/12163118/surveillance-pricing-awareness-privacy-commissioner/"
+      "category": "Manufacturing",
+      "headline": "Stellantis talks in ‘solution mode’ following Brampton plant transition",
+      "summary": "Federal Minister Mélanie Joly reports constructive discussions with Stellantis envoys regarding the automaker's recent deal to sell its idled Brampton assembly plant to defence manufacturer Roshel.",
+      "whyItMatters": "Shifting automotive and heavy industrial footprints across Ontario reshape regional manufacturing supply chains, tooling requirements, and local engineering talent pools.",
+      "explainMore": "The transition of the Brampton facility from vehicle manufacturing to defence production through Roshel highlights a major pivot in Ontario's industrial landscape. Such retooling efforts demand specialized engineering expertise, advanced automation, and robust local supply chains for components.\n\nFor professionals embedded in Ontario's manufacturing ecosystem, tracking these large-scale facility transformations offers early signals regarding regional demand for precision machining, hydraulic systems, and automated welding technologies.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Stellantis-brampton-special-envoy-e1795622158519.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Hamilton",
+      "sourceUrl": "https://globalnews.ca/news/12165605/stellantis-brampton-special-envoy/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 2.20%",
+        "value": "▼ 0.31%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▲ 4.74%",
-        "positive": true
-      },
-      {
-        "name": "Oil",
-        "value": "▼ 4.50%",
+        "value": "▼ 0.49%",
         "positive": false
       },
       {
+        "name": "Oil",
+        "value": "▲ 1.55%",
+        "positive": true
+      },
+      {
         "name": "CAD / USD",
-        "value": "0.6964",
+        "value": "0.7042",
         "positive": null
       }
     ],
-    "insight": "The TSX pulled back 2.20% to 50.32 while the S&P 500 gained 4.74% to 722.51. Oil prices dropped 4.50% to $133.35, and the Canadian dollar is trading at 0.6964 against the US greenback."
+    "insight": "Equities edged lower with the TSX at 51.44 (-0.31%) and the S&P 500 at 718.78 (-0.49%). Crude oil pushed higher to $135.43 per barrel (+1.55%), while the Canadian dollar held near 0.7042 against the U.S. dollar."
   },
   "yourMoney": {
-    "headline": "Bank of Canada Governor Tiff Macklem to Step Down in June 2027",
-    "summary": "Bank of Canada Governor Tiff Macklem has informed the Board of Directors that he will not seek a second term when his seven-year term expires on June 2, 2027.",
-    "whyItMatters": "Leadership transitions at the central bank set the long-term trajectory for monetary policy, interest rate direction, and borrowing costs relevant to your 5-year variable mortgage and long-term investments.",
-    "source": "Bank of Canada",
-    "sourceUrl": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/"
+    "headline": "Mortgage delinquencies hit 13-year high as Equifax flags payment stress",
+    "summary": "Equifax Canada reports that the proportion of mortgage balances overdue for more than 90 days rose to 0.32 per cent in the third quarter, marking a 13-year high.",
+    "whyItMatters": "As a homeowner carrying a 5-year variable mortgage, monitoring broader credit and delinquency trends provides essential context on how high interest rates continue to ripple through household balance sheets and consumer spending.",
+    "source": "Global News - Money",
+    "sourceUrl": "https://globalnews.ca/news/12164175/mortgage-delinquencies-2026/"
   },
   "manufacturing": {
-    "headline": "FedDev Ontario Invests in New Domestic Trade Programs to Support Regional Growth",
-    "summary": "Acting Deputy Commissioner Mike Hollingworth delivered remarks to the House of Commons committee studying the application of artificial intelligence in algorithmic pricing under the Competition Act.",
-    "whyItMatters": "Directly supports domestic market expansion and supply chain resilience for Ontario industrial enterprises navigating trade hurdles.",
+    "headline": "Government of Canada announces upcoming AI compute initiative for domestic industry",
+    "summary": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon prepares to announce new federal support aimed at helping Canadian companies build and scale artificial intelligence capabilities domestically.",
+    "whyItMatters": "Expanding domestic AI compute infrastructure directly supports advanced engineering applications, industrial automation, and robotic welding optimization within Ontario manufacturing facilities.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/economic-development-southern-ontario/news/2026/11/government-of-canada-investment-supports-ontario-businesses-through-new-domestic-trade-programs.html",
-    "engineeringHeadline": "Competition Bureau and Privacy Watchdogs Target Algorithmic Pricing Systems",
-    "engineeringSummary": "As industrial automation and AI tools expand across manufacturing and commercial sectors, regulatory bodies are tightening scrutiny on automated software systems and pricing algorithms."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-to-make-announcement-on-ai-compute.html",
+    "engineeringHeadline": "Competition Bureau examines algorithmic pricing implications",
+    "engineeringSummary": "The Competition Bureau has detailed its ongoing study into the use of artificial intelligence in algorithmic pricing, highlighting regulatory scrutiny facing automated pricing and industrial software tools."
   },
   "world": {
-    "headline": "Ukrainian Drones Strike Russian Warship in Mediterranean Port, Says Zelenskyy",
-    "summary": "President Volodymyr Zelenskyy reported that Ukrainian forces deployed seven domestically manufactured sea drones to strike a Russian navy corvette stationed at a Libyan port.",
-    "whyItMatters": "Demonstrates the expanding asymmetric operational range of autonomous marine drone technology in geopolitical conflict zones, with broader implications for naval defense engineering.",
+    "headline": "Microsoft declares ‘Code Red’ following widespread cloud service outages",
+    "summary": "Microsoft implemented internal emergency protocols following a 24-hour outage that disrupted Exchange Online, Outlook, Teams, and Copilot AI services.",
+    "whyItMatters": "Global IT infrastructure disruptions underscore the operational vulnerabilities inherent in heavily digitalized engineering environments, cloud-based CAD/CAM workflows, and automated plant communications.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12162155/ukraine-drone-russian-warship-libya/"
+    "sourceUrl": "https://globalnews.ca/news/12165881/microsoft-code-red/"
   },
   "lookingAhead": [
     {
       "label": "This Week",
-      "text": "Monitor ongoing parliamentary committee studies regarding artificial intelligence, algorithmic pricing, and privacy commissioner guidelines."
+      "text": "Monitor federal announcements regarding AI compute infrastructure scaling for Canadian industrial businesses."
     },
     {
-      "label": "Upcoming",
-      "text": "Track federal and provincial developments on cross-border trade negotiations involving Ontario's auto, steel, and manufacturing sectors."
+      "label": "Ongoing",
+      "text": "Track bilateral U.S.-Canada discussions concerning Section 232 sectoral tariff accommodations for steel and aluminum."
     }
   ]
 }
