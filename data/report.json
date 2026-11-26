@@ -1,88 +1,92 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "morningSnapshot": {
-    "headline": "Trade negotiations shift on U.S. sectoral tariffs as mortgage delinquencies climb",
-    "summary": "Good morning, Ryan. U.S. officials signal openness to accommodating Canada on sectoral tariffs for steel, aluminum, autos, and lumber. Meanwhile, Equifax data shows national mortgage delinquencies hitting a 13-year high as variable and fixed-rate holders feel the pressure."
+    "headline": "Freezing Rain Advisory Issued for Ontario; Ottawa Expands AI Compute Fund While Mortgage Delinquencies Hit 13-Year High",
+    "summary": "Environment Canada has issued freezing rain advisories across Ontario as a low-pressure system moves in. Financially, Canadian mortgage delinquencies have risen to a 13-year high at 0.32 per cent, while Ottawa rolls out a $700-million expansion of the AI Compute Access Fund for SMEs."
   },
   "topStory": {
-    "category": "Canada-U.S. Trade",
-    "location": "Washington / Ottawa",
-    "headline": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
-    "summary": "Steel, aluminum, automobiles and lumber are currently subject to steep 25 per cent tariffs imposed under Section 232 of the U.S. Trade Expansion Act. However, U.S. trade officials indicate willingness to work toward sectoral accommodations.",
-    "whyItMatters": "As an engineer working in Ontario hydraulic cylinder manufacturing, any movement on steel and aluminum tariffs directly impacts material costs, supply chain stability, and capital equipment demand across your sector.",
-    "explainMore": "The ongoing discussions surrounding Section 232 tariffs remain a critical baseline for Canadian industrial competitiveness. With steel and aluminum serving as foundational inputs for heavy machinery, fluid power systems, and structural components, tariff exemptions or adjustments dictate profit margins and pricing stability for regional manufacturers.\n\nWhile Washington's trade czar points to a desire to accommodate northern partners, domestic suppliers must carefully navigate these shifting cross-border parameters. For manufacturers in Ontario's industrial corridor, monitoring these trade talks provides essential visibility into input costs and downstream customer demand.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-sectoral-tariffs.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Canada",
-    "sourceUrl": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/"
+    "category": "Local",
+    "location": "Beamsville, Ontario",
+    "headline": "Parts of Ontario under freezing rain special advisory",
+    "summary": "Environment Canada issued several freezing rain advisories across Ontario early Thursday morning, warning that a low-pressure system will move into the region around midnight.",
+    "whyItMatters": "As a resident of Beamsville commuting or working across the Niagara-Hamilton corridor, freezing rain introduces immediate safety hazards and potential travel disruptions across local roadways.",
+    "explainMore": "Environment Canada meteorologists tracked the incoming low-pressure system, prompting early morning advisories throughout the province. Commuters and local residents across the Golden Horseshoe and surrounding areas should prepare for deteriorating road conditions as temperatures shift and precipitation begins around midnight.\n\nLocal infrastructure and transportation networks typically experience delays during sudden freezing rain events. Drivers across the regional municipal areas are advised to monitor local weather updates closely and exercise caution during early morning travel.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/774bcbae3a1fcbd420c115e36fcd4c40adb83d3bb266b3c0dada6d2c1d1aee95.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Hamilton",
+    "sourceUrl": "https://globalnews.ca/news/12167424/ontario-freezing-rain-advisory/"
   },
   "stories": [
     {
-      "category": "Manufacturing",
-      "headline": "Stellantis talks in ‘solution mode’ following Brampton plant transition",
-      "summary": "Federal Minister Mélanie Joly reports constructive discussions with Stellantis envoys regarding the automaker's recent deal to sell its idled Brampton assembly plant to defence manufacturer Roshel.",
-      "whyItMatters": "Shifting automotive and heavy industrial footprints across Ontario reshape regional manufacturing supply chains, tooling requirements, and local engineering talent pools.",
-      "explainMore": "The transition of the Brampton facility from vehicle manufacturing to defence production through Roshel highlights a major pivot in Ontario's industrial landscape. Such retooling efforts demand specialized engineering expertise, advanced automation, and robust local supply chains for components.\n\nFor professionals embedded in Ontario's manufacturing ecosystem, tracking these large-scale facility transformations offers early signals regarding regional demand for precision machining, hydraulic systems, and automated welding technologies.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/Stellantis-brampton-special-envoy-e1795622158519.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "category": "Local",
+      "headline": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties",
+      "summary": "Ontario Premier Doug Ford and Unifor National President Lana Payne argued that greenhouse gas emissions regulations pose significant financial costs for the Canadian auto sector.",
+      "whyItMatters": "Regulatory pressures on the domestic automotive industry ripple directly through Ontario's broader manufacturing supply chain, affecting industrial suppliers and component producers.",
+      "explainMore": "Premier Doug Ford and Unifor leader Lana Payne jointly highlighted the heavy financial burdens placed on domestic vehicle manufacturers by existing federal green regulations. They argue that these mandates threaten competitiveness and impose unsustainable costs on the sector.\n\nFor Ontario's manufacturing ecosystem, the health of the automotive assembly sector heavily influences demand for regional industrial components, tooling, and fabrication. Relief from these penalties is being pushed to safeguard domestic production capacity.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/5ac52f9ae8ba5c18d6086158f3b8471edd2c6e540aaef280d713c3b9e55d933b.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12165605/stellantis-brampton-special-envoy/"
+      "sourceUrl": "https://globalnews.ca/news/12167337/calls-to-scrap-federal-ghg-rules-automakers/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.31%",
+        "value": "▼ 0.27%",
         "positive": false
       },
       {
         "name": "S&P 500",
-        "value": "▼ 0.49%",
+        "value": "▼ 0.29%",
         "positive": false
       },
       {
         "name": "Oil",
-        "value": "▲ 1.55%",
+        "value": "▲ 3.29%",
         "positive": true
       },
       {
         "name": "CAD / USD",
-        "value": "0.7042",
+        "value": "0.7020",
         "positive": null
       }
     ],
-    "insight": "Equities edged lower with the TSX at 51.44 (-0.31%) and the S&P 500 at 718.78 (-0.49%). Crude oil pushed higher to $135.43 per barrel (+1.55%), while the Canadian dollar held near 0.7042 against the U.S. dollar."
+    "insight": "Equities saw slight downward movement with the TSX down 0.27% to 51.3 and the S&P 500 slipping 0.29% to 716.7. Meanwhile, oil prices climbed 3.29% to $139.89, and the Canadian dollar held at 0.7020 against the greenback."
   },
   "yourMoney": {
-    "headline": "Mortgage delinquencies hit 13-year high as Equifax flags payment stress",
-    "summary": "Equifax Canada reports that the proportion of mortgage balances overdue for more than 90 days rose to 0.32 per cent in the third quarter, marking a 13-year high.",
-    "whyItMatters": "As a homeowner carrying a 5-year variable mortgage, monitoring broader credit and delinquency trends provides essential context on how high interest rates continue to ripple through household balance sheets and consumer spending.",
+    "headline": "Mortgage delinquencies hit 13-year high as Equifax reports mounting arrears",
+    "summary": "Equifax Canada data reveals that the proportion of mortgage balances overdue for more than 90 days rose to 0.32 per cent in the third quarter.",
+    "whyItMatters": "For homeowners managing a 5-year variable mortgage amid cost-of-living pressures, rising national delinquency rates underline the ongoing strain of elevated borrowing costs.",
     "source": "Global News - Money",
     "sourceUrl": "https://globalnews.ca/news/12164175/mortgage-delinquencies-2026/"
   },
   "manufacturing": {
-    "headline": "Government of Canada announces upcoming AI compute initiative for domestic industry",
-    "summary": "Minister of Artificial Intelligence and Digital Innovation Evan Solomon prepares to announce new federal support aimed at helping Canadian companies build and scale artificial intelligence capabilities domestically.",
-    "whyItMatters": "Expanding domestic AI compute infrastructure directly supports advanced engineering applications, industrial automation, and robotic welding optimization within Ontario manufacturing facilities.",
+    "headline": "Ottawa Expands AI Compute Access Fund by $700 Million for Canadian SMEs",
+    "summary": "The federal government announced a $700-million expansion of the AI Compute Access Fund, opening new proposals and backing 45 additional Canadian companies to transform industries.",
+    "whyItMatters": "Federal pushes into artificial intelligence and compute infrastructure provide vital scaling opportunities for industrial technology, automation, and advanced manufacturing software integration.",
     "source": "Canada.ca - Business & Industry",
-    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-to-make-announcement-on-ai-compute.html",
-    "engineeringHeadline": "Competition Bureau examines algorithmic pricing implications",
-    "engineeringSummary": "The Competition Bureau has detailed its ongoing study into the use of artificial intelligence in algorithmic pricing, highlighting regulatory scrutiny facing automated pricing and industrial software tools."
+    "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+    "engineeringHeadline": "Federal Investment Targets Industrial AI Adoption and Domestic Technology Scaling",
+    "engineeringSummary": "With the expansion of the AI Compute Access Fund announced by Minister Evan Solomon, Canadian small and medium-sized enterprises gain enhanced backing to build and scale advanced digital technologies domestically."
   },
   "world": {
-    "headline": "Microsoft declares ‘Code Red’ following widespread cloud service outages",
-    "summary": "Microsoft implemented internal emergency protocols following a 24-hour outage that disrupted Exchange Online, Outlook, Teams, and Copilot AI services.",
-    "whyItMatters": "Global IT infrastructure disruptions underscore the operational vulnerabilities inherent in heavily digitalized engineering environments, cloud-based CAD/CAM workflows, and automated plant communications.",
+    "headline": "U.S. Jury Convicts China's Huawei of Trade Secret Conspiracy",
+    "summary": "A U.S. jury found Huawei guilty of conspiracy to steal trade secrets following a lengthy federal criminal trial that began in September.",
+    "whyItMatters": "Major intellectual property and trade enforcement actions against global telecommunications giants highlight ongoing geopolitical tech fragmentation affecting international industrial supply chains.",
     "source": "Global News - World",
-    "sourceUrl": "https://globalnews.ca/news/12165881/microsoft-code-red/"
+    "sourceUrl": "https://globalnews.ca/news/12164733/huawei-guilty-steal-trade-secrets-conspiracy-us-jury/"
   },
   "lookingAhead": [
     {
-      "label": "This Week",
-      "text": "Monitor federal announcements regarding AI compute infrastructure scaling for Canadian industrial businesses."
+      "label": "Midnight Tonight",
+      "text": "Freezing rain low-pressure system scheduled to move into parts of Ontario."
     },
     {
-      "label": "Ongoing",
-      "text": "Track bilateral U.S.-Canada discussions concerning Section 232 sectoral tariff accommodations for steel and aluminum."
+      "label": "This Week",
+      "text": "Monitor consumer credit trends as Black Friday shopping data indicates 6 in 10 Canadians plan to use credit cards."
+    },
+    {
+      "label": "June 2027",
+      "text": "Bank of Canada Governor Tiff Macklem prepares to step down at the end of his seven-year term."
     }
   ]
 }
