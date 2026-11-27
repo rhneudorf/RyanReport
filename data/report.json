@@ -1,38 +1,38 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "morningSnapshot": {
-    "headline": "Freezing Rain Advisory Issued for Ontario; Ottawa Expands AI Compute Fund While Mortgage Delinquencies Hit 13-Year High",
-    "summary": "Environment Canada has issued freezing rain advisories across Ontario as a low-pressure system moves in. Financially, Canadian mortgage delinquencies have risen to a 13-year high at 0.32 per cent, while Ottawa rolls out a $700-million expansion of the AI Compute Access Fund for SMEs."
+    "headline": "Trans Mountain Flows Expand, Markets Post Strong Week, and Debt Rises Ahead of Mortgage Renewals",
+    "summary": "Good morning, Ryan. Pipeline capacity increases are underway, global markets are coming off a strong week, and new data highlights growing debt loads as Canadian homeowners look toward upcoming mortgage renewals."
   },
   "topStory": {
-    "category": "Local",
-    "location": "Beamsville, Ontario",
-    "headline": "Parts of Ontario under freezing rain special advisory",
-    "summary": "Environment Canada issued several freezing rain advisories across Ontario early Thursday morning, warning that a low-pressure system will move into the region around midnight.",
-    "whyItMatters": "As a resident of Beamsville commuting or working across the Niagara-Hamilton corridor, freezing rain introduces immediate safety hazards and potential travel disruptions across local roadways.",
-    "explainMore": "Environment Canada meteorologists tracked the incoming low-pressure system, prompting early morning advisories throughout the province. Commuters and local residents across the Golden Horseshoe and surrounding areas should prepare for deteriorating road conditions as temperatures shift and precipitation begins around midnight.\n\nLocal infrastructure and transportation networks typically experience delays during sudden freezing rain events. Drivers across the regional municipal areas are advised to monitor local weather updates closely and exercise caution during early morning travel.",
-    "image": "https://globalnews.ca/wp-content/uploads/2026/11/774bcbae3a1fcbd420c115e36fcd4c40adb83d3bb266b3c0dada6d2c1d1aee95.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "source": "Global News - Hamilton",
-    "sourceUrl": "https://globalnews.ca/news/12167424/ontario-freezing-rain-advisory/"
+    "category": "Canada",
+    "location": "Canada",
+    "headline": "Project to increase Trans Mountain pipeline flows starts up ahead of schedule",
+    "summary": "A further expansion of 210,000 barrels per day is expected to come into service by the end of 2028, bringing the system's total capacity to 1.19 billion barrels a day.",
+    "whyItMatters": "Energy infrastructure expansions drive regional economic activity and industrial demand across Canada's manufacturing and supply chains.",
+    "explainMore": "The Trans Mountain pipeline project has achieved an early start on operational enhancements aimed at boosting crude throughput. This initial progress sets the stage for a subsequent expansion phase designed to add another 210,000 barrels per day by late 2028.\n\nOnce fully realized, these cumulative updates will elevate the system's total capacity to 1.19 billion barrels per day. For industrial sectors tied to heavy equipment and fabrication, large-scale energy logistics projects underpin steady capital expenditure and long-term economic stability.",
+    "image": "https://globalnews.ca/wp-content/uploads/2026/11/d61868a545a08ffbed1ae967866026913cec367f0ff3c565fb4127258e8f5038.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "source": "Global News - Canada",
+    "sourceUrl": "https://globalnews.ca/news/12169033/trans-mountain-pipeline-flow-increase/"
   },
   "stories": [
     {
-      "category": "Local",
-      "headline": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties",
-      "summary": "Ontario Premier Doug Ford and Unifor National President Lana Payne argued that greenhouse gas emissions regulations pose significant financial costs for the Canadian auto sector.",
-      "whyItMatters": "Regulatory pressures on the domestic automotive industry ripple directly through Ontario's broader manufacturing supply chain, affecting industrial suppliers and component producers.",
-      "explainMore": "Premier Doug Ford and Unifor leader Lana Payne jointly highlighted the heavy financial burdens placed on domestic vehicle manufacturers by existing federal green regulations. They argue that these mandates threaten competitiveness and impose unsustainable costs on the sector.\n\nFor Ontario's manufacturing ecosystem, the health of the automotive assembly sector heavily influences demand for regional industrial components, tooling, and fabrication. Relief from these penalties is being pushed to safeguard domestic production capacity.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/11/5ac52f9ae8ba5c18d6086158f3b8471edd2c6e540aaef280d713c3b9e55d933b.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "source": "Global News - Hamilton",
-      "sourceUrl": "https://globalnews.ca/news/12167337/calls-to-scrap-federal-ghg-rules-automakers/"
+      "category": "Your Money",
+      "headline": "Canadians’ debt rising ahead of 2027 mortgage renewal wave, says TransUnion",
+      "summary": "With a wave of mortgage renewals expected in 2027, a new report shows Canadians are carrying more debt than ever — and non-mortgage debt is accelerating fast.",
+      "whyItMatters": "As a homeowner with a 5-year variable mortgage preparing for the 2027 renewal window, tracking broader consumer debt trends provides crucial visibility into household financial pressures and economic direction.",
+      "explainMore": "TransUnion's latest findings indicate that consumer debt levels are climbing rapidly as households navigate persistent economic headwinds. Non-mortgage debt is accelerating at a notable pace, compounding financial strain ahead of the substantial 2027 mortgage renewal wave.\n\nThese dynamics reflect how higher borrowing costs and cost-of-living pressures are impacting balance sheets nationwide. Monitoring these shifts helps contextualize broader monetary policy adjustments as the Bank of Canada prepares for future framework updates and leadership transitions.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/11/CP173781289-e1795724464749.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "source": "Global News - Money",
+      "sourceUrl": "https://globalnews.ca/news/12167225/canadian-debt-mortgages-transunion/"
     }
   ],
   "markets": {
     "items": [
       {
         "name": "TSX",
-        "value": "▼ 0.27%",
-        "positive": false
+        "value": "▲ 0.77%",
+        "positive": true
       },
       {
         "name": "S&P 500",
@@ -46,47 +46,43 @@
       },
       {
         "name": "CAD / USD",
-        "value": "0.7020",
+        "value": "0.7019",
         "positive": null
       }
     ],
-    "insight": "Equities saw slight downward movement with the TSX down 0.27% to 51.3 and the S&P 500 slipping 0.29% to 716.7. Meanwhile, oil prices climbed 3.29% to $139.89, and the Canadian dollar held at 0.7020 against the greenback."
+    "insight": "The TSX advanced 0.77% to 51.7, while oil jumped 3.29% to $139.89. Wall Street wrapped up a rollercoaster week with strong gains, and the Canadian dollar is holding at 0.7019 against the greenback."
   },
   "yourMoney": {
-    "headline": "Mortgage delinquencies hit 13-year high as Equifax reports mounting arrears",
-    "summary": "Equifax Canada data reveals that the proportion of mortgage balances overdue for more than 90 days rose to 0.32 per cent in the third quarter.",
-    "whyItMatters": "For homeowners managing a 5-year variable mortgage amid cost-of-living pressures, rising national delinquency rates underline the ongoing strain of elevated borrowing costs.",
+    "headline": "TransUnion Highlights Accelerating Consumer Debt Ahead of 2027 Mortgage Renewals",
+    "summary": "New data reveals rising non-mortgage debt burdens for Canadian households as the 2027 mortgage renewal horizon approaches.",
+    "whyItMatters": "Directly impacts household budgeting and financial planning for variable-rate mortgage holders navigating upcoming renewal timelines.",
     "source": "Global News - Money",
-    "sourceUrl": "https://globalnews.ca/news/12164175/mortgage-delinquencies-2026/"
+    "sourceUrl": "https://globalnews.ca/news/12167225/canadian-debt-mortgages-transunion/"
   },
   "manufacturing": {
-    "headline": "Ottawa Expands AI Compute Access Fund by $700 Million for Canadian SMEs",
-    "summary": "The federal government announced a $700-million expansion of the AI Compute Access Fund, opening new proposals and backing 45 additional Canadian companies to transform industries.",
-    "whyItMatters": "Federal pushes into artificial intelligence and compute infrastructure provide vital scaling opportunities for industrial technology, automation, and advanced manufacturing software integration.",
+    "headline": "Ottawa Expands AI Compute Access Fund with $700 Million Boost for Canadian SMEs",
+    "summary": "The Government of Canada has expanded the AI Compute Access Fund by $700 million, opening new proposals and supporting dozens of domestic companies looking to transform industrial operations.",
+    "whyItMatters": "Directly relevant to advanced manufacturing, automation, and technological integration across Ontario industrial sectors.",
     "source": "Canada.ca - Business & Industry",
     "sourceUrl": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
-    "engineeringHeadline": "Federal Investment Targets Industrial AI Adoption and Domestic Technology Scaling",
-    "engineeringSummary": "With the expansion of the AI Compute Access Fund announced by Minister Evan Solomon, Canadian small and medium-sized enterprises gain enhanced backing to build and scale advanced digital technologies domestically."
+    "engineeringHeadline": "Federal Investments Target Advanced Tech and Automation Capabilities",
+    "engineeringSummary": "Federal initiatives led by agencies like FedDev Ontario continue to emphasize digital innovation, artificial intelligence, and engineering support to strengthen industrial competitiveness across southern Ontario."
   },
   "world": {
-    "headline": "U.S. Jury Convicts China's Huawei of Trade Secret Conspiracy",
-    "summary": "A U.S. jury found Huawei guilty of conspiracy to steal trade secrets following a lengthy federal criminal trial that began in September.",
-    "whyItMatters": "Major intellectual property and trade enforcement actions against global telecommunications giants highlight ongoing geopolitical tech fragmentation affecting international industrial supply chains.",
+    "headline": "U.S. Jury Finds Huawei Guilty of Conspiracy to Steal Trade Secrets",
+    "summary": "A U.S. jury has convicted China’s Huawei on charges of conspiracy to steal trade secrets following a lengthy trial that began in September.",
+    "whyItMatters": "Highlights critical global intellectual property enforcement and international corporate security standards affecting industrial technology development.",
     "source": "Global News - World",
     "sourceUrl": "https://globalnews.ca/news/12164733/huawei-guilty-steal-trade-secrets-conspiracy-us-jury/"
   },
   "lookingAhead": [
     {
-      "label": "Midnight Tonight",
-      "text": "Freezing rain low-pressure system scheduled to move into parts of Ontario."
-    },
-    {
       "label": "This Week",
-      "text": "Monitor consumer credit trends as Black Friday shopping data indicates 6 in 10 Canadians plan to use credit cards."
+      "text": "Monitor ongoing developments regarding Bank of Canada monetary policy framework updates and 2027 transition timelines."
     },
     {
-      "label": "June 2027",
-      "text": "Bank of Canada Governor Tiff Macklem prepares to step down at the end of his seven-year term."
+      "label": "Ongoing",
+      "text": "Keep track of federal funding announcements from FedDev Ontario directed at regional innovation and manufacturing support."
     }
   ]
 }
